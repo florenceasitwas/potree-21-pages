@@ -6,7 +6,8 @@
 	<meta name="author" content="">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
 	<title>Orsanmichele pointcloud</title>
-
+	<!-- These style sheets control the look and feel of the potree web interface. 
+	These can be edited to customize the look -->
 	<link rel="stylesheet" type="text/css" href="../build/potree/potree.css">
 	<link rel="stylesheet" type="text/css" href="../libs/jquery-ui/jquery-ui.min.css">
 	<link rel="stylesheet" type="text/css" href="../libs/openlayers3/ol.css">
@@ -15,6 +16,8 @@
 </head>
 
 <body>
+	<!-- INCLUDE DEPENDENCIES HERE. these are all publicly available open-source libraries. 
+	These are all included in the standard Potree install -->
 	<script src="../libs/jquery/jquery-3.1.1.min.js"></script>
 	<script src="../libs/spectrum/spectrum.js"></script>
 	<script src="../libs/jquery-ui/jquery-ui.min.js"></script>
@@ -44,7 +47,7 @@
 	
 		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
 		
-		//set default quality setting here
+		//set default quality setting here. these parameters can be adjusted by the user but default values are set here.
         viewer.useHQ = true;
 		viewer.setEDLEnabled(true);
 		viewer.setFOV(60);
@@ -61,6 +64,7 @@
 		});
 		
 		// Load the point cloud here: 
+		// The "loadPointCloud" method points to the file created by the Potree Converter application.
         Potree.loadPointCloud("../pointclouds/orsanmichele/metadata.json", "Orsanmichele", function(e){
 			let scene = viewer.scene;
 			scene.addPointCloud(e.pointcloud);
@@ -88,20 +92,23 @@
                 }
             };
             let onError = function (xhr) { };
-
+			//TextureLoader points to the texture created in the photogrammetry workflow
             const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/pacino_v1.jpg`);
 
             texture.wrapS = THREE.RepeatWrapping;
             texture.wrapT = THREE.RepeatWrapping;
 
             let loader = new OBJLoader(manager);
+			//OBJLoader loads the polygon model created in the photogrammetry workflow
             loader.load(`${Potree.resourcePath}/models/pacino_v1.obj`, function (object) {
                 object.traverse(function (child) {
                     if (child instanceof THREE.Mesh) {
                         child.material.map = texture;
                     }
                 });
-                object.position.set(-3.066, 20.042, 2.546);
+                // The code below positions the polygon model in reference to the 
+				// point cloud coordinate system. In this case the units are in meters and radians.
+				object.position.set(-3.066, 20.042, 2.546);
                 object.scale.multiplyScalar(0.0106);
                 object.rotation.set(Math.PI - 1.58, Math.PI + 2.1, 0);
 
@@ -128,7 +135,7 @@
         }
 		//Obj Mesh object ends HERE
 
-		{ // LIGHTS
+		{ // LIGHTS. Lights can be added and adjusted to change the appearance of the polygon models.
 			const directional = new THREE.DirectionalLight( 0xffffff, 1.0);
 			directional.position.set( 10, 10, 10 );
 			directional.lookAt(0, 0, 0);
@@ -138,24 +145,45 @@
 			viewer.scene.scene.add(directional);
 			viewer.scene.scene.add(ambient);
 		}
-        let PacinoTitle = $(`<span>Saints Cosmas and Damian</span>`);
+        // ANNOTATION. The code below adds an annotation in the point cloud
+		let PacinoTitle = $(`<span>Saints Cosmas and Damian</span>`);
         
         PacinoTitle.toString = () => "Saints Cosmas and Damian";
 
         let aAbout1 = new Potree.Annotation({
-            position: [-3.068, 20.042, 2.154],
+            // These lines define where the annotation will appear and where the user's view will be 
+			// directed when the annotation is clicked.
+			position: [-3.068, 20.042, 2.154],
             title: PacinoTitle,
             cameraPosition: [1.279, 23.237, 2.534],
             cameraTarget: [-6.164, 18.287, 1.942],
-            description: `The painting of Sts. Cosmas and Damian, currently in the North Carolina Museum of Art in Raleigh, NC, features the standing figures of the two Physician saints revered by the Florentine Arte dei Medici e Speziali (the Guild of Doctors and Apothecaries). Dressed in contemporary garments worn at the time by its members (accentuated by white elements of Ermine fur at the hem and collar), Cosmas and Damian hold holy manuscripts as they receive a blessing from Christ above. The two predella scenes at the dossal�s base recount their miraculous transplant of a wounded leg (whereby the limb of a Caucasian patient was replaced with that of a recently deceased African) and the decapitation of both saints. 
-<br/><br/>
-The painting has been attributed to Matteo di Pacino, a Florentine painter of note who worked between ca. 1360 and 1375 and participated in important projects in the city: he was named in 1371 as a participant in the production of the Coronation of the Virgin for the nunnery of S. Pier Maggiore (now in London), probably painted frescoes a few years later in the Rinuccini Chapel of S. Croce�s Sacristy, and most likely produced miniatures in at least two choral books used by the Franciscans there. 
-<br/><br/>
-No archival references address the dossal painting of Sts. Cosmas and Damian. Based on its stylistic features, the panel should probably be dated to the early years of the 1370s, while its subject matter, dimensions, and format suggest that it was originally placed on one of the piers in the guild church of Orsanmichele. There it would have been seen alongside other similarly shaped representations of guild patron saints, like the St. Matthew Triptych by Andrea and Jacopo di Cione from 1369 (Florence, Uffizi), St. John the Evangelist by Giovanni del Biondo (Florence, Accademia), and St. Bartholomew by Jacopo del Casentino (Florence, Accademia). These, in turn, surrounded Andrea di CIone�s massive tabernacle containing Bernardo Daddi�s miracle working cult image of 1347 called the Madonna of Orsanmichele. 
+            description: `The painting of Sts. Cosmas and Damian, currently in the North Carolina Museum of 
+			Art in Raleigh, NC, features the standing figures of the two Physician saints revered by the Florentine 
+			Arte dei Medici e Speziali (the Guild of Doctors and Apothecaries). Dressed in contemporary garments 
+			worn at the time by its members (accentuated by white elements of Ermine fur at the hem and collar), 
+			Cosmas and Damian hold holy manuscripts as they receive a blessing from Christ above. The two predella
+			scenes at the dossal�s base recount their miraculous transplant of a wounded leg (whereby the limb of a 
+			Caucasian patient was replaced with that of a recently deceased African) and the decapitation of both saints. 
+			<br/><br/>
+			The painting has been attributed to Matteo di Pacino, a Florentine painter of note who worked between ca. 
+			1360 and 1375 and participated in important projects in the city: he was named in 1371 as a participant in
+			the production of the Coronation of the Virgin for the nunnery of S. Pier Maggiore (now in London), probably 
+			painted frescoes a few years later in the Rinuccini Chapel of S. Croce�s Sacristy, and most likely produced
+			miniatures in at least two choral books used by the Franciscans there. 
+			<br/><br/>
+			No archival references address the dossal painting of Sts. Cosmas and Damian. Based on its stylistic features, 
+			the panel should probably be dated to the early years of the 1370s, while its subject matter, dimensions, and 
+			format suggest that it was originally placed on one of the piers in the guild church of Orsanmichele. There it 
+			would have been seen alongside other similarly shaped representations of guild patron saints, like the St. Matthew 
+			Triptych by Andrea and Jacopo di Cione from 1369 (Florence, Uffizi), St. John the Evangelist by Giovanni del Biondo 
+			(Florence, Accademia), and St. Bartholomew by Jacopo del Casentino (Florence, Accademia). These, in turn, 
+			surrounded Andrea di CIone�s massive tabernacle containing Bernardo Daddi�s miracle working cult image of 1347 
+			called the Madonna of Orsanmichele. 
 `
         });
 
         viewer.scene.annotations.add(aAbout1);
+		//end annnotation
 	</script>
 	
 	
