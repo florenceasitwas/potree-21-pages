@@ -1,0 +1,69 @@
+
+
+Keys- A line break should be added as <br><br>
+	  To make a word Italisized <i>What you want Italisized here</i>
+	  To make a word Bold <b>What ever you want bold here</b>
+	  If you want a scroll wheel then add <div style="overflow:scroll ; height:650px"> before the text
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/PalazzoMedici/PalazzoMedici.html    
+
+Location of Annotation: -21.35, 6.01, 2.17    
+Camera Location: -29.219, 10.202, 0.291   
+Camera Looks Towards: -20.300, 9.352, 2.469    
+
+Annotation block name:  Design of the Façade Palazzo Medici    
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> In 1444 Michelozzo received the commission from Cosimo de’ Medici to design and build a palace located in the heart of Florence, only one block from the Piazza del Duomo and across the way from the large church of S. Lorenzo that was then under construction. This undertaking required Michelozzo to adhere to the requirements and restraints dictated by his patron, as well as dictates from the city of Florence. The result was a near-perfect execution of a civic residence that served multiple purposes for its owner, including the elevation of Cosimo’s status without any undue ostentation that might cause rumblings among the public.   
+
+Private palaces were produced for <i>onore e utile</i>, for the honor of the family name and for their utility to conduct business matters. The resulting template that combined a residential space with a commercial one naturally featured enormous structures that had the potential to present an environment of luxury and extravagance. As a result, these complexes were subject to sumptuary laws that limited gaudy design features or any extravagant flourishes. With this in mind, Michelozzo and Cosimo worked to find a balance between magnificence and modesty in the design of the façade so as to limit the ostentatiousness of the design while projecting an image of virtuous power.   
+
+Striking the right balance between prestige and humility was of great importance to the patron. The Republic of Florence had, by 1445, engendered a kind of civic pride among its citizens that rivaled its dedication to Christian beliefs. Conforming to platitudes manufactured by a series of urban promoters for nearly one hundred years, city residents appear to have believed that, despite evidence that could have been used to the contrary, their system of government gave them greater freedoms than those who lived under the thumb of an autocratic ruler. This view was particularly attractive to a class of wealthy, educated elites who worked to enhance the perception of the city’s power, and, by extension, their own. In acts of self-promotions that could be cloaked as financial gifts (or even sacrifices) to the state, Florentine patricians began to demolish the old, misshapen, and drafty structures in which they lived and replace them with newer, larger, and more accommodating urban palaces. By 1500 a new typology had been invented and crystalized by elite families and their favored architects in the city.  
+
+The rectilinear three-story structure into which Cosimo and his family moved in 1459 would not have been wholly unfamiliar to quattrocento Florentines, who would have been familiar with this type of residence hall thanks to an array of palaces that had arisen there between 1350 and 1450. Still, Michelozzo’s design decisions differed dramatically from those precedents. Unlike them, the Palazzo Medici combines Trecento Florentine architectural formats with ancient Roman designs while alluding to the cultural connections between the two. Decorative aspects such as the courtyard’s rounded arches and classicizing capitals recall ancient forms, while the different levels of rustication on the façade refer to Etruscan and Roman precedents. But the physical structure derives from Italian designs of the fourteenth century, as seen in the medieval biforate arches and heavy-set walls on the ground floor. The combination of these elements made the building appear very modern in the quattrocento.  
+
+Its sandy, stone exterior emits an image of subdued power. Michelozzo utilized forms of rustication on the first level, ashlar on the second level, and a finer ashlar on the third level. The rocky texture of the rustication is divided from the ashlar by a thin strip of decorative etchings on a ledge. The effect of the levels that gradually progress from the chunky rustication on the ground floor up to the fine ashlar on the top creates a visual illusion that makes the building appear larger and lighter than it really is. Eighteen windows – nine on each floor – cover the building’s sides. Divided into four equal squares, the sets are crowned with a half-moon piece of glass. Stamped in the stone between the pair of windows lies the Medicean family emblem of seven balls in a circle.   
+
+Importantly, the current appearance of the palace’s ground floor obscures its original design and function. Michelozzo’s palace featured an open loggia at the southeast corner, closest to the Duomo, and along the east side of the building facing the Via Larga that runs north-south through that quarter of the city. The perfectly symmetrical courtyard inside the building’s core would have been visible to anyone curious about its appearance. The benches that survive in between these open arches would have accommodated Medici clients who sat there, waiting their turn to visit with Cosimo should he deign to receive them. On any given day, passersby would have seen from the street both the architectural features that made the palace utterly unique and a line of supplicants hoping to show social piety to a patron from whom they were soon to make requests.  
+
+Cosimo de’Medici wanted to ensure that his image as a benevolent benefactor of the city would not be harmed by living in an overtly opulent palazzo. Rather, he wanted his home to represent him as both a co-equal among his fellow Florentines, but also as a leader among them. The palazzo embodied his desire to present to the public his political, financial, and even spiritual virtuosity as being grounded in a life rooted in religious piety and dedicated to the political health of the city.   
+
+By William Roff 
+
+Works Cited  
+
+Kent, Dale V. <i>Cosimo De’Medici and the Florentine Renaissance: The Patrons Oeuvre</i>. New Haven: Yale University Press, 2000, 176-178, 218-224, 243-6.  
+Heydenreich, Ludwig H., and Wolfgang Lotz. <i>Architecture in Italy, 1400 to 1600</i>. Baltimore: Penguin Books, 1974, 21-23.  
+Hyman, Isabelle “Notes and Speculations on S. Lorenzo, Palazzo Medici, and an Urban Project by Brunelleschi,” <i>Journal of the Society of Architectural Historians</i>, Vol. 34, No. 2 (May, 1975) 98-120.   
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/PalazzoMedici/PalazzoMedici.html    
+
+Location of Annotation: -4.62, 10.08, 1.87    
+Camera Location: -9.114, 8.513, -0.169  
+Camera Looks Towards: -0.022, 7.007, 0.135   
+
+Annotation block name:  The Courtyard in the Palazzo Medici 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The most important space for Medicean business dealings revolved around the interior courtyard of the Palazzo Medici. Cosimo and Michelozzo worked together to make a magnificent space that served a purpose beyond its aesthetics. Through its intricate decorations and themes of power, the courtyard projected a message of supremacy to those waiting to speak with their patron.   
+
+Michelozzo’s courtyard in the Palazzo Medici has been considered a masterpiece of early Renaissance architectural design. The loggia features four sides of equal length punctuated by piers, repeating rounded fluted arches, and columns that feature Composite capitals based on Roman models. Above the columns appears a repeating sgraffito decoration of swags that connect to twelve roundels, each of which had its own meaning. The central roundel of each side features a shield ornamented with six <i>palle</i> (balls), the coat-of-arms of the Medici family. The eight remaining roundels illustrate various scenes from Greek mythology with no clear continuities or narrative. These roundels surely alluded to Cosimo’s interest in Greco-Roman antiquity and emphasized his interest in broader knowledge. Other items, including wall decorations and sculptures that originally decorated the courtyard, had similar themes tied to mainstream Christianity and Greek Mythology – reminders to all that the Medici were both pious and learned. The symmetrical, carefully decorated inner sanctum surely emphasized Cosimo’s cultural acknowledgement of the ancient past. But it also demonstrates Michelozzo’s sensitivity to the practical needs of his modern patron.  
+
+In keeping with socio-political traditions that dated back to antiquity, those who were fortunate enough to live in the <i>gonfalone</i> (or neighborhood) of a particularly powerful person often schemed to acquaint themselves with that patrician in the hopes of utilizing his network of patronage to satisfy specific ambitions. The patron, in turn, profited from this arrangement, as the power of any patrician correlated directly with the number of visitors he received on a given day. Michelozzo’s design for the exterior of the palace accommodated this process. Citizens of all classes could seat on benches that had been built into the walls of the façade or enter into the palazzo and wait for a chance to speak with Cosimo, his sons, or their representatives in chambers on the ground floor. When Cosimo was at his most powerful, visitors filled the palace waiting to bring gifts, notes, or simply visit with the patrician. But his more intimate visitors –scholars, artists, secretaries, bank managers, or other important clients – could mount the stairs to enter an office on the <i>piano nobile</i>. The status of any visitor could be measured by the depths into which he was permitted to venture inside the Palazzo Medici.   
+
+Anyone wanting to talk to Cosimo started by entering the palazzo from the east side on the Via Larga. After passing the medieval-inspired double-gate design, visitors found themselves in the courtyard formed by an open loggia that permitted an abundance of light. The windows on the <i>piano nobile</i> above the courtyard allowed its inhabitants to peer down, and visitors below knew they were always being watched. While waiting in the courtyard, visitors naturally noticed the decorations and design of the space, defined by columns crowned with ornate composite capitals that catch the arches as they leap from one column to the next. This design was based on the prevailing style formulated by Brunelleschi – and celebrated by Alberti – that had been advanced as early as 1419 with the initiation of the construction of the loggia at the Ospedale degli Innocenti. Michelozzo’s overall design and attention to ornamental details borrowed from those great forefathers of early modern architecture but also added something tangible to the concepts Alberti and Brunelleschi presented in their writings and their buildings.  
+
+By William Roff 
+
+Works Cited  
+
+Dale Kent, <i>Cosimo De’Medici and the Florentine Renaissance: The Patrons Oeuvre</i>. New Haven: Yale University Press, 2000, 231-234.  
+F. W. Kent, “Palaces, Politics and Society in Fifteenth-Century Florence,” <i>I Tatti Studies in the Italian Renaissance</i> 2, 1987, 41-70.  
+Frances Ames-Lewis, “Donatello’s Bronze David and the Palazzo Medici Courtyard,” <i>Renaissance Studies</i> (1989), 240-248.  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+ 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+ 

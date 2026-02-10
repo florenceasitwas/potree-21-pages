@@ -1,0 +1,13 @@
+
+
+Keys- A line break should be added as <br><br>
+	  To make a word Italisized <i>What you want Italisized here</i>
+	  To make a word Bold <b>What ever you want bold here</b>
+	  If you want a scroll wheel then add <div style="overflow:scroll ; height:650px"> before the text
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+
+

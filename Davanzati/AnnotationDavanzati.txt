@@ -1,0 +1,114 @@
+
+
+Keys- A line break should be added as <br><br>
+	  To make a word Italisized <i>What you want Italisized here</i>
+	  To make a word Bold <b>What ever you want bold here</b>
+	  If you want a scroll wheel then add <div style="overflow:scroll ; height:650px"> before the text
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/Davanzati/davanzati.html
+
+Location of Annotation: -13.01, -15.78, -4.36 
+Camera Location: -10.025, -8.917, -5.182 
+Camera Looks Towards: -10.444, -43.400, -5.873 
+Annotation block name: <i>The Chatelaine of Vergy</i> 
+
+Annotation Details: <div style="overflow:scroll ; height:350px"> The fresco cycle in the bedroom on the 2nd floor of the Palazzo Davanzati depicts twenty-four scenes from the story <i>The Chatelaine of Vergy.</i> The tale was written in the 12th century and tells the story of the love affair between a knight named William and the titular Chatelaine of Vergy. The two lovers meet frequently in a garden but keep their relationship a secret. One day, the Duchess of Burgundy invites William to the castle while her husband, the Duke, is hunting. She confesses her love to the knight there, but he refuses her. In her anger, the duchess makes false accusations against the knight to her husband when he returns. The Duke calls William before him, and the knight rejects her claim. However, to convince the Duke of his disinterest in the Duchess, William must confess his secret love affair with the Chatelaine, which the Duke witnesses as proof. The Chatelaine learns of William’s betrayal and dies of heartbreak. William comes across her body and kills himself in despair. Finally, the Duke finds both bodies and kills the duchess out of anger for what she did.  
+
+The fresco cycle circles the upper half of the wall of the entire bedroom. The paintings set the story's events in an imaginary garden underneath an arched structure. The characters appear many times in a continuous narrative sequence. Columns of the architectural setting obstruct from view the bodies of the characters, which in turn provides a rudimentary sense of depth to the scenes. Smaller architectural forms provide simplistic scene changes. The fresco cycle is one of the few in situ secular fresco cycles left in Florence from this period. However, it also appears that the original fresco has since then been painted over.   
+
+The paintings were created by an unknown artist sometime in the latter half of the 14th century, commissioned as a marriage piece for the union between Paolo di Gherardo Davizzi and Lisa di Albertozzo in 1359. Nobility often commissioned marriage paintings to celebrate their union. The choice to use the <i>Chatelaine of Vergy</i> as a marriage subject may seem odd to modern viewers, but contemporary Florentines would have understood the story to be a reminder to both the bride and groom about the importance of faithfulness and honesty in marriage. 
+
+By Grace McCurdy  
+
+Bibliography: 
+Dunlop, Anne. <i>Painted Palaces : The Rise of Secular Art in Early Renaissance Italy.</i> University Park: Pennsylvania State University Press, 2009. 
+Leushuis, Reinier. “La ‘Châtelaine de Vergy’ Comme Histoire Tragique Matrimoniale de Marguerite de Navarre (1558) à Bandello (1573) et "Le Sixiesme Tome Des Histoires Tragiques (1582).” <i>Renaissance and Reformation</i> 32, no. 2 (2009): 5–31.  
+Musacchio, Jacqueline. <i>Art, Marriage, and Family in the Florentine Renaissance Palace.</i> New Haven: Yale University Press, 2008. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/Davanzati/davanzati.html
+
+Location of Annotation: 1.914, 11.549, -12.380
+Camera Location: 2.683, 8.200, -11.472 
+Camera Looks Towards: -3.051, 18.227, -10.838
+Annotation block name: Private Devotional Images  
+
+Annotation Details: <div style="overflow:scroll ; height:200px"> Private devotional images played an important role in the private lives of Florentine citizens. These small folding triptychs or single panels became common during the early 14th century, although evidence of private images goes back to the 13th century.  These small images were familiar as records show that many Florentine households contained at least one. Popular arrangements had the Madonna and Child in the center panel, the Nativity on the left wing, and the Crucifixion on the right. Examples show that this arrangement could be changed to fit the patron’s desires, such as including certain saints to fit the donor. The prominence of the Virgin Mary as the central figure suggests that women primarily used these devotional images.  These images were most often placed in the bedroom of the male head of the house, as their bedrooms often contained the family’s valuable possessions.  It is important to note that private devotional images did not function as altarpieces.   
+
+Florentines used devotional images for various reasons. These images were believed to protect the home and the household members, such as protecting women during childbirth and comfort during death. The church also promoted private prayer in front of images of the Crucifix. Church officials encouraged interaction with these images as a part of personal worship.  This may explain why so many devotional images contained a crucifixion scene. Images also promoted certain behaviors, as Florentines believed images had the power to see. Men bought devotional images as gifts to their wives for the wedding to encourage piety and marital duties. Other writings suggest that devotional images encouraged children as well. It could be a tool for teaching children religious practices and model traits children should aspire to have. Devotional images acted as an important tool in the private lives of Florentines.   
+
+By Grace McCurdy 
+
+Bibliography:  
+Corry, Maya. <i>Domestic Devotions in Early Modern Italy.</i> Edited by Maya Corry. 1st ed. Leiden; Boston: Brill, 2018. 
+Mussachio, Jacqueline. <i>Art, Marriage, and Family in the Florentine Renaissance Palace.</i> New Haven: Yale University Press, 2008. 
+Wilkins, David G. “Opening the Doors to Devotion: Trecento Triptychs and Suggestions Concerning Images and Domestic Practice in Florence.” <i>Studies in the History of Art</i> 61 (2002): 370–93. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/Davanzati/davanzati.html
+
+Location of Annotation: 6.05, 7.79, -21.15 
+Camera Location: 13.443, 9.150, -20.506 
+Camera Looks Towards: -16.565, -5.488, -11.846  
+Annotation block name: Domestic Architecture of the Palazzo Davanzati  
+
+Annotation Details: <div style="overflow:scroll ; height:150px"> Domestic architecture began to evolve during the late Medieval period. The once prevalent tower houses were transformed into larger palaces. It was common for structures to be created by joining several independent buildings together. These palaces were owned by the Florentine elite and shared many architectural similarities.   
+
+Palaces were multistoried residences planned around a central courtyard. The ground floor had an open loggia that had a variety of purposes. The loggia at the Palazzo Davanzati was used as a storefront for the family. Located beyond the loggia was the interior ground floor. Some palaces’ ground floors contained rooms used by the family members. Ground floor rooms could be storage rooms or summer bedrooms. The Palazzo Davanzati has ground-level storage rooms, which would go out of style in later palace constructions. Larger palaces sometimes had a garden or fountain on the ground floor. Below the ground was the cellar where they stored food items.  
+
+A central staircase leads to the first floor, where bedrooms and meeting halls are located. Servants used a separate staircase to remain hidden. Meeting halls took up large amounts of space and had a variety of purposes. The meeting halls in the Palazzo Davanzati take up a whole side of the building. Visitors conducted business in both halls and within bedrooms, which explains their proximity. The bedroom was not considered a completely private space during the period. Palaces were designed with the flow of visitors in mind. The design of the palaces shows an intention to create an easy flow of guests. The Palazzo Davanzati’s outside walkway allowed for easy access to rooms. The placement of the meeting halls as the first room at the top of the stairs also attests to this design.  All the rooms in the palace are connected by interior entryways as well.   
+
+The second and third floors of the Palazzo Davanzati have the same layout as the first floor. Other palaces employed this architectural design as well. The fourth floor of the Palazzo Davanzati now contains a covered patio where servants would have worked on different chores. The patio was a later addition, as the palace had battlements on the top floor during the 14th century. The Palazzo Davanzati also has bathrooms on every floor, almost unheard of during this period. The layout of the Florentine palaces considered multiple aspects of their design, as palaces served not just as homes but as places of commerce and social gatherings. 
+
+By Grace McCurdy 
+
+Bibliography: 
+Mussachio, Jacqueline. <i>Art, Marriage, and Family in the Florentine Renaissance Palace.</i> New Haven: Yale University Press, 2008. 
+Preyer, Brenda. “Planning for Visitors at Florentine Palaces.” <i>Renaissance Studies</i> 12, no. 3 (1998) 
+L. Vigotti, “Towards the Renaissance palace typology: Palazzo da Uzzano’s architectural innovations, 1408-17,” <i>Annali di Architettura,</i> 34 (2022) 
+Brucker, Gene. <i>Florence: The Golden Age.</i> New York: Abbeville Press, 1984 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/Davanzati/davanzati.html
+
+Location of Annotation: -6.69, -15.78, -4.36 
+Camera Location: -10.025, -8.917, -5.182 
+Camera Looks Towards: -10.444, -43.400, -5.873 
+Annotation block name: Florentine Marriage and Marriage Frescos 
+
+Annotation Details: <div style="overflow:scroll ; height:350px"> Marriage in medieval Florence dramatically differs from what marriages look like today. The bride and groom’s families arranged the marriage to create an alliance between the two houses. Families wanted to align with households that had significant wealth or political power. It was common for the bride and groom not to know each other before their wedding day. Both had little say in who they would marry, as marriage was more about practicality than compatibility. Part of the arrangement was the dowry the bride’s family paid the groom. Dowries were not just money but expensive objects as well. Families typically began investing in their daughter’s dowry when she was young. Higher dowries made them more attractive to potential suitors. A government dowry fund in Florence called the <i>Monte delle doti</i> lets fathers deposit money for the future dowry. The amount deposited grew with interest so they would have a better dowry at marriage. The money invested needed to be spent in a certain amount of time, or they lost the deposit. Families that could not afford a good dowry sent their daughters to convents.  
+
+The wedding itself was a public affair. The legal side of marriage was the most simple part. The bride and groom had to appear before a notary and witnesses and show their desire to be wed by clasping hands. Florentines believed that if many people witnessed the union, the marriage would be more likely to be successful. The groom then gave his new wife a ring to show loyalty. The rings often contained expensive gemstones or inscriptions. The new bride left her family’s home and walked to her new one. This procession often became a spectacle. Family and friends accompanied the new bride, carrying her things with her. Processions publicly announced the new alliance between the two families. Couples celebrated their marriage with a banquet. Banquets varied in extravagance depending on the wealth of the family. It was common practice for the new bride to give her new family members small tokens such as gloves. Finally, marriages became official after consummation.  
+
+It was the job of the groom to furnish their new living space. The decorations ranged from painted frescoes to furniture. The Davanzati palace contains examples of marriage frescoes. The second-floor bedroom contains a fresco cycle showing <i>The Chatelaine of Vergy</i>, a French poem about courtly love. The story does not have a happy ending, but the fresco could remind the bride to stay virtuous. On the first floor of the “Chamber of Peacocks,” the heraldry of different Florentine houses was painted on the wall. Most of the heraldry belongs to the Alberti family, so this fresco is believed to represent a marriage between the Alberti and the Davizzi family.   
+
+By Grace McCurdy  
+
+Bibliography:  
+Brucker, Gene. <i>Florence: The Golden Age 1138-1737.</i> New York: Abbeville Press, 1984. 
+Musacchio, Jacqueline. <i>Art, Marriage, and Family in the Florentine Renaissance Palace.</i> New Haven: Yale University Press, 2008. 
+Molho, Anthony. <i>Marriage Alliance in Late Medieval Florence.</i> Cambridge: Harvard University Press, 1994. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/Davanzati/davanzati.html
+
+Location of Annotation: -1.62, 3.97, -0.73 
+Camera Location: 0.196, 1.555, -0.522 
+Camera Looks Towards: -10.311, 21.631, -0.807 
+Annotation block name: Florentine Kitchens  
+  
+Annotation Details: <div style="overflow:scroll ; height:300px"> An important part of daily life in Florence was cooking. Kitchens only existed as separate rooms in wealthy households where they were placed on the palace's upper floor. Most people had a combined kitchen and living space. A fire pit would be in the middle of the room, or a fireplace would be against a wall. The cauldron was the most common cooking equipment found in every household. Cooks placed larger cauldrons directly over the fire or hung smaller cauldrons above it. Wealthier households could afford more cookware, such as pans and specialty utensils. More cookware meant a more diverse way to prepare food. It was common to fry vegetables or create baked goods in a true oven that lower-class homes lacked. Cooks were typically women, whether they cooked for their family or for a wealthy household that hired them. A team of kitchen workers assisted the main cooks in preparing the dishes and stocking the supplies.   
+
+Wealthy households had storage rooms to keep their produce. These rooms were typically in the cellar, where the temperature was cool. Salt was an extremely important preservative for meats and vegetables. Salt was used to cure meats so they could dry and be smoked. Certain vegetables could also be kept with salt. Both the lower and upper classes used salt.   
+
+Diets differed depending on class. Upper-class individuals could afford a broader range of food options. Both classes had a mostly vegetarian diet, as meats were expensive. The Church also called for certain “meatless” days, such as before Feast days.  Lower-class citizens usually ate some variation of porridge or stew as their daily meals. Stews contained a mix of vegetables and grains. Common vegetables included legumes, onions, cabbage, and beets.  Bread was another staple that was typically made out of wheat or barley. Wealthier individuals enjoyed a variety of dishes. Omelets and pasta were commonly served throughout Italy. The consumption of pasta leads some historians to believe that this caused the fork to become widespread in Italy around the 14th century. Rice was another common base for recipes like <i>risotto.</i> Meals were seasoned with herbs from a kitchen garden, like parsley, though Arab influence introduced spices like cumin and saffron. Fruits were consumed as both an appetizer and dessert. Meats were the main dish at banquets and feast day celebrations. Game meat like rabbit or deer was widely popular. Pork, chicken, and beef were another common meat dish served. A variety of fish also populated the Italian diet. 
+
+By Grace McCurdy  
+
+Bibliography: 
+Adamson, Melitta Weiss. <i>Food in Medieval Times.</i> Westport: Greenwood Press, 2004. 
+Redon, Odile, Françoise Sabban, and Silvano Serventi. <i>The Medieval Kitchen: Recipes from France and Italy.</i> Chicago: University of Chicago Press, 1998. 
+Brucker, Gene, <i>Florence: The Golden Age.</i> New York: Abbeville Press, 1984.  
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  

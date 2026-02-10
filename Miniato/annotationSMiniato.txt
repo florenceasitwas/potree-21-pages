@@ -1,0 +1,115 @@
+
+
+Keys- A line break should be added as <br><br>
+	  To make a word Italisized <i>What you want Italisized here</i>
+	  To make a word Bold <b>What ever you want bold here</b>
+	  If you want a scroll wheel then add <div style="overflow:scroll ; height:650px"> before the text
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Miniato/SMiniato.html     
+
+Location of Annotation: 24.27, 32.87, 5.75     
+Camera Location:   41.568, 45.469, -1.523 
+Camera Looks Towards: 21.522, 20.111, 10.513 
+
+Annotation block name: The San Miniato Sacristy Construction and Patronage   
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> San Miniato al Monte, the oldest church in Florence, sits on the top of the hill: the burial site of the martyr, Saint Miniato. Construction on the church of San Miniato began in 1018 and reached completion around 1207. Though the church’s body reflects a Romanesque design, the sacristy adopts a Gothic style. The discrepancy in style lies in the fact that the sacristy was built much later after the completion of the church, being completed sometime after 1373-74, when the Olivetans, a branch of the Benedictine order, took over the church. Before the Olivetans, the Wool Merchants Guild held responsibility over the decoration and maintenance of the church from the time of its construction. In 1373, Pope Gregory XI transferred ownership of San Miniato to the Olivetans, a relatively new order at the time, and they eagerly made their mark on the artistic layout of the church, acting under the Pope’s charge to reform the site.   
+
+The greatest addition to San Miniato al Monte came with the sacristy, but more importantly, the frescos held within the sacristy. Benedetto di Nerozzo, the patriarch of one of the leading Florentine families of the fourteenth century, the Alberti, commissioned the fresco cycle painted within the sacristy: <i>Scenes from the Life of Saint Benedict</i>. Benedetto, however, did not reside in Florence at the time of the fresco commission. In May 1387, a year earlier, authorities banished him for supporting an insurrection against the Florentine government, which ultimately failed. He provided these funds shortly before his death while in exile on the island of Rhodes. Despite his expulsion, his family maintained their status and his sons inherited his wealth and property.   
+
+By Annabel Symington  
+
+Bibliography  
+Kuehn, Thomas. “Family Solidarity in Exile and in Law: Alberti Lawsuits of the Early   
+Quattrocento.” <i>Speculum</i> 78, no. 2 (2003): http://www.jstor.org/stable/20060639. pp. 438-39.  
+Loughman, T. J. (2003). <i>Spinello Aretino, Benedetto Alberti, and the Olivetans: Late   
+Trecento Patronage at San Miniato al Monte</i> (Order No. 3077110). Available from   
+ProQuest Dissertations & Theses Global. (305311423). Retrieved from https://www.proquest.com/dissertations-theses/spinello-aretino-benedetto-alberti-olivetans late/docview/305311423/se-2. pp. 109, 119, 128.  
+Poeschke, Joachim. <i>Italian Frescoes: The Age of Giotto, 1280-1400.</i> Abbeville Press Publishers, 2005, pp. 392-93.     
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Miniato/SMiniato.html     
+
+Location of Annotation: -4.90, 3.12, 2.74    
+Camera Location: -2.914, 0.095, 1.937     
+Camera Looks Towards: -32.881, 24.033, 3.258     
+
+Annotation block name: The Olivetan Order   
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Founded in 1313 and confirmed in 1344, the Olivetan Order served as an upstart Benedictine reform order which spread quickly throughout central Italy in the later half of the 14th century. The Olivetan Order believed the world had grown corrupt and focused on a return to stricter monastic life. In the 1340s, the Order faced the same struggles as the rest of Tuscany: massive economic downturn due to the collapse of the Florentine banking system in 1344, as well as the loss of human life from the plague outbreak in 1348. However, by the early 1350s, the Order found its footing and grew at a rapid and sustained rate. The Order created rural hermitages throughout central Italy, as well as houses in important cities such as Padua, Milan, and Florence.   
+
+In 1373, Pope Gregory XI gifted the church of San Miniato al Monte to the Olivetan Order. Artistic activity declined during the 1350’s due to the Black Plague and economic turmoil in Florence. Although private patronages revived in the 1360s, the church fell into disrepair by the 1370s. Economic pressures likely motivated the Pope’s decision to transfer ownership. He tasked the Olivetans with restoring the church and monastery, expelling the Benedictine regulars and resettling them in local monasteries. The transition spurred contentions as seen in pointed exchanges between the Pope and the Bishop, Angelo Ricasoli. Under their direction, Spinello Aretino painted the <i>Scenes from the Life of Saint Benedict</i> in honor of the Order’s patron saint, displaying their eagerness to make their mark on the artistic layout of the church.   
+
+By Annabel Symington  
+
+Bibliography  
+Loughman, T. J. (2003). <i>Spinello Aretino, Benedetto Alberti, and the Olivetans: Late   
+Trecento Patronage at San Miniato al Monte</i> (Order No. 3077110). Available from   
+ProQuest Dissertations & Theses Global. (305311423). Retrieved from https://www.proquest.com/dissertations-theses/spinello-aretino-benedetto-alberti-olivetans-late/docview/305311423/se-2. pp. 68, 72, 87, 124-30.  
+Poeschke, Joachim. <i>Italian Frescoes: The Age of Giotto, 1280-1400.</i> Abbeville Press Publishers, 2005, pp. 392-93. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Miniato/SMiniato.html     
+
+Location of Annotation: -16.17, 5.34, 4.51
+Camera Location: -7.730, 2.639, 2.672    
+Camera Looks Towards: -16.034, 9.140, 6.320   
+
+Annotation block name: <i>Scenes from the Life of Saint Benedict</i>, Ceiling and Scenes 1-8    
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Inside the sacristy of San Miniato al Monte resides a fresco cycle depicting scenes from the life of Saint Benedict. Painted in 1388 by Spinello Aretino, the fresco cycle covers all four walls, including the ceiling. The wall shows a series of sixteen scenes from the life of Saint Benedict while the ceiling depicts the four evangelists with their symbols. To the north stands Saint Mark, followed by Saint Luke to the east, Saint John to the south, and finally Saint Matthew to the west.   
+
+Separated by a border depicting various saints and prophets, each wall contains four individual scenes from the life of Saint Benedict. The first eight scenes of the cycle appear in the upper register, beginning at the south wall, where the scenes read from left to right. The first scene shows Saint Benedict saying goodbye to his teachers and leaving Rome, departing from formal education funded by his parents to dedicate himself to God. The next scene depicts Saint Benedict’s first miracle: the miracle of the sieve. Through this miracle, he repairs a broken grain sieve damaged by his nurse. By the third scene, Saint Benedict lives in solitude near the town of Subiaco where a monk named Romanus provided the saint with clothes and regularly brought him bread in a basket by lowering it down to his cave with a rope. The scene shows a day when the devil threw a stone to damage the bell on the basket, which silenced the announcement of the arrival of food. In the fourth scene, a presbyter makes a meal for Easter and feels compelled by God to share it with Saint Benedict. After much searching, he finds Saint Benedict, and they have Easter dinner together while talking about their spiritual lives.   
+
+The fifth scene shows the temptation of Saint Benedict. Here, the devil tempts Saint Benedict with a picture of a beautiful woman to lure him from his hermit life, and to resist, Benedict throws himself naked into a group of nettle bushes. By the sixth scene, Saint Benedict’s growing fame leads a nearby monastery to invite him to serve as their leader, but they quickly resent his strict rule and plot to murder him with a cup of poisoned wine. This scene shows Saint Benedict shattering the cup of poison by making the sign of the cross above it. In the seventh scene, Saint Benedict leaves the monastery, finding the monks’ way of life incompatible with his spiritual ideals. Finally, the last scene of the upper register portrays Saint Benedict accepting two men from prominent Roman families, Maurus and Placidus, as disciples.   
+
+By Annabel Symington  
+
+Bibliography  
+Poeschke, Joachim. <i>Italian Frescoes: The Age of Giotto, 1280-1400.</i> Abbeville Press Publishers, 2005, pp. 392-96. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Miniato/SMiniato.html      
+
+Location of Annotation: -12.36, 10.95, 4.44      
+Camera Location: -8.850, 3.511, 3.264      
+Camera Looks Towards: -22.213, 13.348, 11.110      
+
+Annotation block name: <i>Scenes from the Life of Saint Benedict</i>, Scenes 9-16       
+
+Annotation Details: <div style="overflow:scroll ; height:250px">  The stories of the life of Saint Benedict come from the second book of Gregory the Great’s <i>Dialogi</i>. However, the scenes in the lower register of <i>Scenes from the Life of Saint Benedict</i> deviate from the storyline of the text.   
+
+For clarity, this discussion follows the fresco sequence from left to right while noting their chronological order. The first scene of the lower register and directly below the first scene of the upper register portrays Totila, king of the Goths, traveling to Benedict where the saint reprimands the king for his evil deeds. Saint Benedict prophecies that the king will conquer Rome and reach Sicily but pass away in the tenth year of his reign. This scene comes in as fifteenth in the cycle’s chronological order. Scene sixteen depicts the funeral of Saint Benedict where two brothers of the order witness the saint ascending to heaven. The scene following the death of Saint Benedict is thirteenth in the chronological order. This fresco shows Saint Benedict reviving a monk killed when the devil caused a wall to collapse during the building of the church at Montecassino. The next scene, ninth in the chronological order, depicts Saint Benedict flagellating a monk who was tempted away from mass by the devil disguised as an ape.   
+
+Scene ten shows the miraculous retrieval of the blade of the sickle. A Goth, who wished acceptance into the monastery, carries out the task to remove bushes from the side of a lake with a sickle. The blade of the sickle falls into the water as he works, but Saint Benedict repairs the sickle by sticking the handle into the water and allowing the blade to reattach itself. Next, scene eleven shows the miraculous rescue of Placidus from drowning. Saint Benedict sees Placidus drowning and grants Maurus great strength, conceding Maurus the power to save Placidus. Scene twelve illustrates monks struggling to lift a stone during the construction of a monastery, hindered by the devil’s weight—until Saint Benedict’s prayer drives him away. Finally, scene fourteen shows Saint Benedict recognizing the disguised sword bearer Riggo as King Totila, a test of the saint’s prophetic gift orchestrated by the king himself.   
+
+The painted <i>Scenes from the Life of Saint Benedict</i> closely follow the events reported in <i>Dialogi</i> with some minor differences. For example, Spinello Aretino conflated Saint Benedict’s funeral scene with the brothers witnessing the saint’s ascension into heaven. He also embellished a few of the stories, like the addition of fishermen and loggers in the image of the <i>Miracle of the Sickle</i>.  
+
+By Annabel Symington  
+
+Bibliography  
+Poeschke, Joachim. <i>Italian Frescoes: The Age of Giotto, 1280-1400.</i> Abbeville Press Publishers, 2005, pp. 392-96.    
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Miniato/SMiniato.html      
+
+Location of Annotation: -7.27, 7.21, 3.59      
+Camera Location: -11.063, 4.183, 2.661      
+Camera Looks Towards: -8.661, 7.132, 4.510     
+
+Annotation block name:  The Career of Spinello Aretino   
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Born to a goldsmith sometime around 1346, Spinello Aretino became arguably the greatest fresco painter of his generation. As his name suggests, he hailed from the town of Arezzo, about 50 miles southeast of Florence. Despite ranking among the most employed painters of the late fourteenth century in Tuscany, he remained a permanent resident of Arezzo before dying in 1410. His work took him all across Tuscany, to the cities of Florence, Lucca, Pisa, and Siena. In Florence he found the bulk of his commissions and patrons, including the fresco cycle of the <i>Scenes from the Life of Saint Benedict</i> in the church of San Miniato. This fresco cycle represents the artistic peak of Spinello Aretino’s career and marks his third major commission for the Olivetan Order.   
+
+Much like the timing of Aretino’s birth, his early years of apprenticeship are similarly shrouded in mystery. His father likely taught him the basics of drawing, but where he may have learned more specialized skills is unknown. Although some suggest Spinello learned to paint in Florence, analysis of his early work reveals a strong resemblance to contemporary Aretine painting. Continuing a long tradition of Aretine artists, Spinello likely trained under Andrea di Nerio, a flourishing artist in 1360’s Arezzo. Only after establishing his own style did Aretino begin taking commissions in other cities, starting with Lucca. Following his time in Lucca, the artist relocated to Florence where he focused most of his work, accepting occasional commissions in Siena.   
+
+For years, many viewed Spinello as a conservative follower of Andrea di Cione (Orcagna), but that view shifted. Scholars now credit him with driving the reform that ushered in the International Gothic Style in Tuscany.  
+
+By Annabel Symington  
+
+Bibliography  
+Fahy, Everett. “A Madonna by Spinello Aretino.” <i>The Bulletin of the Cleveland Museum of   
+Art</i> 65, no. 8 (1978): 261–67. http://www.jstor.org/stable/25159597. pp. 261.  
+Loughman, T. J. (2003). <i>Spinello Aretino, Benedetto Alberti, and the Olivetans: Late   
+Trecento Patronage at San Miniato al Monte</i> (Order No. 3077110). Available from   
+ProQuest Dissertations & Theses Global. (305311423). Retrieved from https://www.proquest.com/dissertations-theses/spinello-aretino-benedetto-alberti-olivetans-late/docview/305311423/se-2. pp. 17-22.  
+Poeschke, Joachim. <i>Italian Frescoes: The Age of Giotto, 1280-1400.</i> Abbeville Press Publishers, 2005, pp. 392-93.    
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 

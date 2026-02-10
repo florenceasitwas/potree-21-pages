@@ -37,45 +37,52 @@
 	</div>
 	
 	<script type="module">
-		//these are loaders for mesh object. Usually we will be using .obj files
 		import * as THREE from "../libs/three.js/build/three.module.js";
 		import {PLYLoader} from "../libs/three.js/loaders/PLYLoader.js";
 		import {OBJLoader} from "../libs/three.js/loaders/OBJLoader.js";
-	
+
 		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
-		
-		//set default quality setting here
+
+		viewer.useHQ = true; 
 		viewer.setEDLEnabled(false);
 		viewer.setFOV(60);
-		viewer.setPointBudget(6_000_000);
+		viewer.setPointBudget(6 * 1000 * 1000);
+        viewer.loadSettingsFromURL();
+        viewer.scene.view.position.set(13.286, 104.524, 0.943);
+        viewer.scene.view.lookAt(13.162, 111.831, 0.784);
+
+		//<!-- INCLUDE SETTINGS HERE -->
 		viewer.loadSettingsFromURL();
 		
+		viewer.setDescription("");
+		viewer.scene.camera;
 		viewer.setDescription("Point cloud by <a target='_blank' href='https://florenceasitwas.wlu.edu/'>Florence As It Was</a>");
-		
 		viewer.loadGUI(() => {
 			viewer.setLanguage('en');
+			$("#menu_appearance").next().show();
 			$("#menu_tools").next().show();
-			$("#menu_scene").next().show();
-			//viewer.toggleSidebar();
+			$("#menu_clipping").next().show();
+			viewer.toggleSidebar();
 		});
 		
-		// Load the point cloud here: 
-		Potree.loadPointCloud("../pointclouds/SCroce/metadata.json", "scroce", function(e){
+		
+
+		Potree.loadPointCloud("../pointclouds/peruzzi/metadata.json", "SMN", e => {
 			let scene = viewer.scene;
-			scene.addPointCloud(e.pointcloud);
-			
-			let material = e.pointcloud.material;
+			let pointcloud = e.pointcloud;
+
+            scene.addPointCloud(pointcloud);
+			let material = pointcloud.material;
 			material.size = 1;
 			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+			material.shape = Potree.PointShape.SQUARE;
+			material.activeAttributeName = "rgba";
+           
+            
 
-			viewer.scene.view.position.set(585.767, 346.903, 34.255);
-			viewer.scene.view.lookAt(479.159, 303.584, 7.506);
-			//scene.view.position.set(589974.341, 231698.397, 986.146);
-			//scene.view.lookAt(new THREE.Vector3(589851.587, 231428.213, 715.634));
-			// viewer.fitToScreen();
+			//viewer.fitToScreen();
 		});
-		
-		//OBJ Mesh Object Starts Here
+		//load altarpiece models
 		{
 			let manager = new THREE.LoadingManager();
 			manager.onProgress = function ( item, loaded, total ) {
@@ -90,22 +97,24 @@
 			};
 			let onError = function ( xhr ) {};
 
-			const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/tedaldi_v2.jpg`);
+			const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/peruzzi_dm_v2_low_edit.jpg`);
 
 			texture.wrapS = THREE.RepeatWrapping;
 			texture.wrapT = THREE.RepeatWrapping;
 
 			let loader = new OBJLoader( manager );
-			loader.load(`${Potree.resourcePath}/models/tedaldi_v2.obj`, function ( object ) {
+			loader.load(`${Potree.resourcePath}/models/peruzzi_dm_v2_trim_flipflip.obj`, function ( object ) {
 				object.traverse( function ( child ) {
-					if ( child instanceof THREE.Mesh ) {
-						child.material.map = texture;
+
+					if ( child instanceof THREE.Mesh ) {						child.material.map = texture;
 					}
 				} );
-                object.position.set(468.7, 295.5, -1);
-				object.scale.multiplyScalar(.12);
-				object.rotation.set(0,0, -Math.PI/2);
-				
+                object.position.set(13, 108.793, 0.971);
+				object.scale.multiplyScalar(.0001);
+				object.rotation.set(Math.PI / 2,.01-Math.PI, -.01);
+				//object.position.set(589871.587, 231528.213, 725.634);
+				//object.scale.multiplyScalar(500);
+				//object.rotation.set(Math.PI / 2, Math.PI, 0)
 
 				viewer.scene.scene.add( object );
 
@@ -114,54 +123,38 @@
 					let tree = $(`#jstree_scene`);
 					let parentNode = "other";
 
-					let meshID = tree.jstree('create_node', parentNode, { 
-							text: "tedaldi tomb", 
+					let bunnyID = tree.jstree('create_node', parentNode, { 
+							text: "Peruzzi altar", 
 							icon: `${Potree.resourcePath}/icons/triangle.svg`,
 							data: object
 						}, 
 						"last", false, false);
-					tree.jstree(object.visible ? "check_node" : "uncheck_node", meshID);
+					tree.jstree(object.visible ? "check_node" : "uncheck_node", bunnyID);
 
 					//tree.jstree("open_node", parentNode);
 				});
 
 			}, onProgress, onError );
 		}
-		//Obj Mesh object ends HERE
-
 		{ // LIGHTS
 			const directional = new THREE.DirectionalLight( 0xffffff, 1.0);
-			directional.position.set( 10, 10, 10 );
-			directional.lookAt(0, 0, 0);
+			directional.position.set( 13.603, 102.380, 4.368 );
+			directional.lookAt(13.807, 110.974, 1.062);
 
-			const ambient = new THREE.AmbientLight(0x555555);
+			const ambient = new THREE.AmbientLight(0xffffff,1.2);
 
 			viewer.scene.scene.add(directional);
 			viewer.scene.scene.add(ambient);
 		}
-		{ // ANNOTATIONS
-			let scene = viewer.scene;
-			
-			scene.annotations.add(new Potree.Annotation({
-				position: [466.737, 295.596, -1.956],
-				title: "Tedaldi Tomb",
-				cameraPosition: [465.244, 294.901, -0.211],
-				cameraTarget: [468.428, 295.041, -2.724],
-				description: `
-				Suitable annotation positions and views can be obtained by 
-				looking up the current camera position and target in the "Scene" panel, 
-				or by evaluating following lines in your browser's developer console:<br><br>
-				<code>viewer.scene.view.position</code><br>
-				<code>viewer.scene.view.getPivot()</code><br>
-				`
-			}));
-		}
-
-
-
-
-
-
+		
+		
+		viewer.scene.addAnnotation([12.469, 108.683, 0.880], {
+						    "cameraPosition": [12.983, 107.100, 1.418],
+						    "cameraTarget": [12.727, 111.831, 1.112],
+						    "title": "Giotto Altarpiece",
+                            "description":"Scanned from NCMA",
+				});
+		
 	</script>
 	
 	

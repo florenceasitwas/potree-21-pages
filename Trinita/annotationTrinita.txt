@@ -1,0 +1,44 @@
+
+
+Keys- A line break should be added as <br><br>
+	  To make a word Italisized <i>What you want Italisized here</i>
+	  To make a word Bold <b>What ever you want bold here</b>
+	  If you want a scroll wheel then add <div style="overflow:scroll ; height:650px"> before the text
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+
+Page: https://3d.wlu.edu/v21/pages/Trinita/trinita.html 
+
+Location of Annotation: -38.90, 23.50, 5.80 
+
+Camera Location: -33.509, 18.813, 5.704 
+
+Camera Looks Towards: -38.591, 25.898, 4.752 
+
+Annotation block name: The Sassetti Chapel 
+
+Annotation Details:   <div style="overflow:scroll ; height:250px"> Domenico Ghirlandaio began his plans for a fresco cycle in Francesco Sassetti’s burial chapel in Santa Trinita, a monastery of the Vallombrosan Order, sometime around 1478. A wealthy Florentine banker with connections to the Medici, Sassetti had recently obtained rights to this burial chapel in the north end of the church’s transept. Ghirlandaio’s fresco cycle spans the three walls of the chapel and includes scenes from the life of St. Francis, Francesco Sassetti’s patron saint.  
+
+The left wall contains two scenes: </i>The Renunciation of Worldly Goods</i> in the lunette at the top and the </i>Stigmatization of St. Francis below</i>. </i>The Renunciation of Worldly Goods</i> illustrates the moment in which Francis gives up his clothing to his father, indicating his ultimate humility and his voluntary separation from the comforts of earthly possessions. Below, the </i>Stigmatization</i> depicts St. Francis’ vision of the crucified Christ while praying at his mountain retreat of La Verna, resulting in his receipt of the wounds of Christ or “stigmata,” solidifying his status as the “Second Christ,” or </i>Alter Christus</i>.  
+
+On the right wall, the viewer encounters the </i>Trial Before the Sultan</i> in the lunette above, as well as the </i>Funeral of St. Francis</i> and </i>Verification of the Stigmata</i> below. In the </i>Trial Before the Sultan</i>, Ghirlandaio illustrates a story from Francis’ missionary journey to the East, at which time he engaged in a challenge with priests of the Sultan to determine who displayed greater faith. In the funeral image, Francis’ status as the </i>Alter Christus</i> is confirmed when Pope Alexander IV verifies his wounds after his death. Importantly, Francesco Sassetti’s tomb was embedded into the wall below this image of his patron saint, underscoring Francesco’s wish for St. Francis to intercede on his behalf when the Judgment Day arrives.  
+
+The center wall contains two frescoes, one atop the other, with Ghirlandaio’s altarpiece of the </i>Nativity</i> beneath them. In the uppermost fresco of the </i>Confirmation of the Rule</i>, Francis and his followers receive the official blessing of the pope, Innocent III, during their trip to Rome in 1209. In a blatant act of supplication, Ghirlandaio set the scene in the Piazza della Signoria in Florence instead of Rome, painted a portrait of the sitting pope (Sixtus IV) instead of Innocent, and included the likenesses of Lorenzo de’ Medici and Francesco Sassetti as anachronistic witnesses to the event. Moreover, Lorenzo’s sons and servants climb a set of stairs toward Lorenzo and Francesco. Beneath this image, the uncommon scene of the </i>Resuscitation of the Roman Notary’s Son</i> has also been placed in a Florentine setting with a distinctive reference to the patron’s family. In the Piazza Santa Trinita, Francis miraculously resurrects a child who has fallen from a tree, surely referring to Francesco Sassetti’s own son, who had died as an infant, likely inspiring the inclusion of this rare scene in the cycle. Francesco wanted his son to obtain the blessing of eternal life like the boy in the scene.  
+
+Representations of Francesco and his wife kneel on either side of the </i>Nativity</i> altarpiece. In the </i>Nativity</i> scene, the Christ child lies next to a Roman-style sarcophagus, foreshadowing the story of Christ’s crucifixion and resurrection. The juxtaposition of Christ with an antique sarcophagus emphasizes the triumph of Christianity over paganism, reflecting the patron’s hope for eternal life.  
+
+By Madeleine Lee
+
+Bibliography: 
+
+Borsook, Eve and Offerhaus, Johannes. </i>Sassetti and Ghirlandaio at Santa Trinita, Florence: History and Legend in a Renaissance Chapel</i>. Holland: Davaco Publishers, 1981. Pp. 15-18. 
+
+ 
+
+Gombrich, E.H. “The Sassetti Chapel Revisited: Santa Trinita and Lorenzo de’ Medici.” </i>I Tatti Studies in the Italian Renaissance</i> 7 (1997): 11-35. https://www.jstor.org/stable/4603700. Pp. 11-13. 
+
+ 
+
+Reddaway, Chloe. “Covenants and Connections: The Sassetti Chapel, Santa Trinita: Scenes from the Life of St. Francis, Ghirlandaio, 1479-85.” In </i>The Edinburgh Companion to the Bible and the Arts</i>, edited by Stephen Prickett, 219-235. https://www.jstor.org/stable/10.3366/j.ctvxcrtj9.24. Pp. 219-224.  

@@ -1,0 +1,1143 @@
+
+
+Keys- A line break should be added as <br><br>
+	  To make a word Italisized <i>What you want Italisized here</i>
+	  To make a word Bold <b>What ever you want bold here</b>
+	  If you want a scroll wheel then add <div style="overflow:scroll ; height:650px"> before the text
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation: -57.13, 154.23, -7.83   
+Camera Location: -57.048, 161.427, -10.049
+Camera Looks Towards: -52.332, 149.530, -3.178  
+
+Annotation block name: The Labor of Adam and Eve to the Murder of Abel        
+
+Annotation Details: <div style="overflow:scroll ; height:250px">Banished from Eden, the Lord commanded Adam and Eve to toil upon the earth, a sharp contrast from the easy stewardship of the garden. They wore clothes made by the Lord and spent the rest of their lives laboring in the fields, as would all their descendants.  
+
+In <i>The Labor of Adam and Eve</i>, the Lord looks down upon them from Heaven, represented by an orb. This orb is reminiscent of the globe upon which God sits in Eden, drawing parallels between the two scenes. However, the terrain is now rocky rather than lush. This landscape highlights the toil of labor, as Adam ploughs and Eve spins. Eve’s spinning is a key reference to the patrons of this Baptistery, the <i>Arte della Calimala</i>, the international cloth merchants’ guild. The designs of the celiling cleverly linked the Creation episodes with other scenes from both the Old and New Testament to create an episodic cycle of world history in the ceiling of the Baptistery.     
+
+Cain was the firstborn son of Adam and Eve, who then gave birth to his younger brother Abel. Cain grew to be a farmer, and Abel a shepherd. So when it came time to offer a sacrifice to God, Abel surrendered the best of his flock while Cain a portion of his harvest. God favored Abel’s sacrifice, for Cain’s sacrifice was not the best of his crop. The Lord’s rebuke angered Cain.   
+
+In a state of rage, Cain killed Abel in the field. God confronted Cain, asking about the location of Abel. Cain replied that he was not his brother’s keeper denying his role in the murder. But God knew what Cain had done, for Abel’s blood called out to him from under the ground, and so he cursed Cain to wander and till the land without a fruitful harvest. God also marked Cain so that no one would kill him, thus forcing Cain to endure his solitude in exile for the rest of his life: a fate considered worse than death.  
+
+In both the <i>Sacrifice of Cain and Abel</i> and the <i>Murder of Abel</i>, the Lord is present in this orb, which he uses in the Labor of Adam and Eve. The composition of the Labor of Adam and Eve and the Murder of Abel is remarkably similar. Both use the same tree, the exact position of the Lord in an orb, and a rocky terrain, which bookend the Sacrifice of Cain and Abel.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Collins, Patrick J. “Narrative Biblical Cycles in Medieval Art and Drama.” <i>Comparative Drama</i> Vol 9 No 2 (1975) 125–146. 
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000.  
+
+Genesis 3:17-20 and Genesis 4.  
+
+Zuffi, Stefano. <i>Old Testament Figures In Art.</i> Translated by Thomas Michael Hartmann. Los Angelos: Getty Publishing, 2003. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation: -56.948, 172.162, -5.656    
+Camera Location: -57.357, 161.947, -6.008    
+Camera Looks Towards:-58.745, 167.724, -5.168   
+
+Annotation block name: Hierarchy of Angels       
+
+Annotation Details: <div style="overflow:scroll ; height:250px">Socrates, in fifth century BC, was one of the first writers to comment on the idea of a <i>daemon</i>, a spirit that mediates between the Creator and humans. Then, Apuleius, in the second century AD, posited that <i>daemons</i> inhabited the air. They cannot be seen, but they can be heard and influence Earth in that way. Finally, writers such as Thomas Aquinas and Saint Augustine distinguished between angels and demons. For Thomas Aquinas in the thirteenth century, both have pure spirits, making them counterparts for each other. One as good, the other as evil. These demons are fallen angels, a theme that Saint Augustine’s had explored in the <i>City of God</i>, a fifth century text.  
+
+However, the Christian hierarchy of Angels is based on the writings of Pseudo-Dionysius the Areopagite in his fifth- or sixth-century book <i>De Coelesti Hierarchia</i> (On the Celestial Hierarchy). His hierarchy of angels encompasses those mentioned in the Old and New Testaments, as well as those derived from rabbinical tradition and legend. The hierarchy is divided into three main categories: the first level, which includes the angels closest to God; the second level, which encompasses the angels that govern the universe; and the third level, which comprises the angels closest to humanity. The first level of the hierarchy includes the Seraphim, which originated in the Old Testament Book of Enoch; the Cherubim, mentioned in both the Old and New Testaments; and the Thrones, which appear only in rabbinical legend. The second level of the hierarchy includes Dominions, Virtues, and Powers, while the third level includes Principalities, Archangels, and Angels. 
+
+<b>Hierarchy of Angels</b>  
+
+1.Seraphim 
+
+2.Cherubim  
+
+3.Thrones  
+
+4.Dominions 
+
+5.Virtues  
+
+6.Powers 
+
+7.Principalities  
+
+8.Archangels 
+
+9.Angels  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Becker, Udo. <i>The Continuum Encyclopedia of Symbols.</i> United Kingdom: Continuum, 2000.  
+
+Bent, George. <i>Public Painting and Visual Culture in Early Republican Florence.</i> Cambridge: Cambridge University Press, 2016.  
+
+Bloom, Harold. <i>Omens of Millennium: The Gnosis of Angels, Dreams, and Resurrection.</i> New York: Riverhead Books, 1996. 
+
+Ferguson, George. <i>Signs & Symbols in Christian Art.</i> Oxford: Oxford University Press, 1961.  
+
+Giorgi, Rosa. <i>Saints in Art.</i> Edited by Stefano Zuffi. Translated by Thomas Michael Hartmann. Los Angelos: Getty Publications (2003). 
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Langmuir, Erika. <i>Pocket Guides: Angels.</i> London: National Gallery Publications, 1999. 
+
+Eichler, Raanan. “Cherub: A History of Interpretation.”</i> In <i>Biblica</i> Vol 96. No. 1. (2015) 26-38. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation: -54.746, 174.274, -9.166
+Camera Location: -57.768, 165.953, -14.295    
+Camera Looks Towards: -61.996, 178.366, -8.050    
+
+Annotation block name: The Last Judgement Cycle        
+
+Annotation Details: <div style="overflow:scroll ; height:250px">The crowning jewel of the mosaics of the Baptistery of San Giovanni is the unique <i>Last Judgement</i> cycle. Located directly over the altar, its components come together to create a sequence that inspired both Dante and Giotto.  
+
+The <i>Angels of the Passion</i> flank <i>Christ as Judge</i>. An angel in white with a trumpet leads these angelic figures towards Christ, reminiscent of the resurrection of the dead with the seventh trumpeting in the book of Revelation. They lead other angels in blue and bronze who carry the instruments of the passion, including: the Holy Lance, the Holy Sponge, the reed scepter, the Holy Grail, the True Cross, the Crown of Thorns, and the nails used to affix Christ to the cross. Columns used for the flagellation of Christ prior to his crucifixion frame the scene. The angels process, their feet firmly affixed to the ground. Their hunched shoulders carry the instruments of the passion, as if weighing them down.  
+
+Below the <i>Angels of the Passion</i>, <i>The Seated Angels and Apostles</i> also flank <i>Christ as Judge</i>. The apostles sit on an extended bench, with angels behind them. While the seated angels only display their heads, the apostles depict their entire bodies, with their glittering robes against the ornate bench. In their hands, they hold different books with varying scripts. Their colorful robes reflect the jewels associated with the apostles in the book of Revelation. While one can easily identify Mary and John the Baptist, as Mary sits to the right of Christ and John the Baptist to his left, it is more challenging to identify the other apostles. While each looks different with varying ages and hair colors, they do not bear their attributes, which makes identification difficult. Each apostle sits differently, distributing their weight and positioning their arms in a unique pattern, infusing personality into the figures.  
+
+<i>The Elect</i> portion of the mosaic occupies the space below <i>The Seated Angels and Apostles</i>. Beneath <i>Christ as Judge</i> tombs open, from which souls, in their natural state, climb out of the tomb. Richly dressed angels, their wings aloft, welcome those to the right of Christ, as the angels gesture towards a crowd of souls being led by another angel towards the gate to heaven. This guiding angel has a scroll unfurled behind him, which reads <i>“Venite benedicti Patris mei, possidete paratum”</i>. This comes from the Vulgate book of Matthew, and the entire phrase translates as: “Come, you blessed of my father, posses the kingdom prepared for you.” This phrase fits, as he leads the elect to the gate of heaven, behind which sits three elders, one of whom probably depicts Abraham. This represents Abraham’s bosom, a resting place for the elect, where the souls of the saved become children being held in the laps of the elders. Saint Peter, in ecclesiastical garments, guards the gates of heaven as he opens the door for a more petite figure representing a soul. The elders occupy a space filled with nature, a sharp contrast to the depiction of Hell, where the dead tree from which Judas Iscariot hangs represents the only nature. Among the elect, the artist depicts many types of figures, including monks, kings, priests, warriors, and laymen. Both follow the angel and look up at Christ in Majesty.    
+
+<i>The Damned</i> mirror <i>The Elect</i>. This grotesque scene demonstrates the punishments of Hell as they reign down upon the damned. Demons flay people, roast them on spits, serpents eat the sinners, and the Devil even consumes some. The Devil with three heads sits upon a serpent throne, with some mortal souls under his feet. Judas Iscariot hangs from a tree in the bottom right-hand corner of the mosaic, the only condemned figure named. The clergy leads other souls into Hell, including kings and princes.  
+
+<i>Christ as Judge</i> or <i>Christ in Majesty</i> occupies the central portion of the <i>Last Judgement</i> cycle. This depiction comes from the medieval <i>majestas domini</i> tradition of the enthroned Christ in majesty, which was inspired by the grand vision of Christ in the apocalypse. Surrounded by trumpeting angels with the souls of the dead at his feet, Christ sits upon a representation of orbs in mosaics, symbolizing his authority over the cosmos. His stigmata are clearly visible, a reminder of his sacrifice. Gold highlights the folds of his garments, emphasizing the realistic nature of the mosaic. He presides over the raising of the dead and their fate in the afterlife, as angels lead the elect to paradise, and demons drag the damned to Hell. The geometric mosaic-work surrounding Christ mirrors both the cuffs of his robes and the band on his right shoulder, creating a cohesive visual narrative.  
+
+By Margaret (Meg) Anne Coughlan  
+
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation: -51.369, 175.126, -15.736   
+Camera Location:-56.011, 169.122, -13.865 
+Camera Looks Towards:-49.767, 182.169, -12.541    
+
+Annotation block name: The Devil and Demonology       
+
+Annotation Details: <div style="overflow:scroll ; height:250px">Within Christian thought, a good portion of theological study has been devoted to the Devil and demonology.  
+
+One of the first great scholars to dedicate time in his writings to the Devil was Saint Augustine, in his treatise <i>City of God</i>. He was a fifth-century saint and writer whose work is still read to this day. He wrote that the Devil was an angel who abandoned God the Creator due to his own pride, and because of this violation, he was doomed to a state that prevented him from wishing any good. For both him and the damned, everlasting punishment will come to pass. With him fell other angels, who will suffer everlasting misery, and eventually both he and the demons will be conquered by the saints.  
+
+Demons, who in Christian tradition were once angels, are often depicted as a twisted mirror image of angelic beings. Where angels are revered for truthfulness and constancy, demons are most commonly remarked as being crooked, crafty, and deceitful. This depiction of demons as unreliable also applies to their appearance, as they take different forms to deceive humans. Like angels, they are also immaterial, which enables them to possess real people and animals for their own purposes.  
+
+The appearance of demons, just as their personalities, is often seen in art as a mirror to the appearance of angels. While angels and saints are depicted well and beautifully with physiognomic attributes of the virtues, demons are depicted with attributes of vice, with ill-proportioned bodies and ugly facial features. So, too, are angels positioned on the right of Christ and demons on the left in <i>Last Judgement</i> sequences. Demons are depicted, most often, as grotesque versions of angels, with horns and wings, unnatural skin, and nude.  
+
+The Devil, as the first fallen angel, is commonly called, has many names and depictions, and each of these names reflects an attribute associated with him. The three most common names are Melchiresa, which means “my king is evil,” Satan, which means “the tempter” or “the accuser,” and the Prince of Darkness. Melchiresa contrasts with Melchizedek, which means “my king is righteous.” Melchizedek was both a priest and a king, and the name sometimes refers to Christ, who is prophet, priest, and king. The Devil is also commonly associated with the serpent from Eden. However, this serpent is usually correlated with Azazel or Semhaza, the leader of the fallen angels. The importance of Azazel correlates back to the figure of Satan, as with him and Leviathan, they make up the Red Dragon of the Book of Revelation, whom Michael defeats.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Barker, Margaret. <i>The Revelation of Jesus Christ, Which God Gave to Him to Show to His Servants What Must Soon Take Place (Revelation 1.1).</i> Edinburgh: T&T Clark, 2000.  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Greenfield, Richard. “Fallen into Outer Darkness: Later Byzantine Depictions and Conceptions of the Devil and Demons.” <i> Stitching Etnofoor</i> Vol 5 No 1/2 (1992) 61–80.  
+
+<i>Imagery and Belief: Studies in Celebration of the Eightieth Anniversary of the Index of Christian Art.</i> Edited by Colum Hourihane. Princeton: Princeton University Press, 1999.  
+
+Saint Augustine. <i>The City of God.</i> Translated by Marcus Dods. New York: The Modern Library, 1950. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-55.903, 177.180, -15.373     
+Camera Location:-56.011, 169.122, -13.865 
+Camera Looks Towards:-49.767, 182.169, -12.541      
+
+Annotation block name: Hell and the Apocalypse in the West      
+
+Annotation Details: <div style="overflow:scroll ; height:250px">Western tradition has gone through many different views of Hell, as cultural and theological changes shifted some of the perception of Hell.  
+
+The apocalypse of John, or the Book of Revelation, was a break from the traditional Jewish apocalyptic tradition. It abandoned the idea of pseudonymity, as the author is known; it incorporated the belief in the resurrection of Jesus into apocalyptic tradition, and it developed a heavenly liturgy surrounding the apocalypse. This book reworks the apocalypse of Daniel and traditional apocalyptic materials. This book became incredibly important for both art and preaching, and is the primary text later theologians would write on when discussing the apocalypse.  
+
+In the second century, the Apocalypse of Peter, an apocryphal text, focused on the rewards of heaven and not the punishments of Hell. For him, punishments were in a pit, while heaven was a place of rewards and goodness, which he preferred to write about.  
+
+Tyconius, a Donatist lay theologian in the fourth century, wrote on the Book of Revelation, but his text has been lost. It was, however, the primary commentary for theologians for nine hundred years, so secondary references still exist. He emphasized the historical realization of prophecy and championed a typological reading of the text. He also wrote that one cannot know the identity of the saved before the end of days.  
+
+Saint Augustine, a fifth-century theologian who commented on Tyconius, continued with Apocalypse theology. He wrote that no one can know the date and time of the Last Judgement, and that the Kingdom of Heaven will not come on earth.  
+
+Bede and the writers of the seventh century often included funerary or afterlife visions in their writing. For them, Hell was a place of fire and darkness, spilling out of chaos. Alternatively, it was a monster, a leviathan consuming the souls of the damned. Regardless of which view the writer held, the Devil was a bloodthirsty beast as the fear of Hell reinforced adherence to the laws of the Church.  
+
+Most theologians, however, do agree on the purposes of Hell. The first is to punish those whose earthly behavior warrants it. The second is that it is impossible to get out of Hell once one has been condemned there. The third is that some people will be condemned to Hell.  
+
+With the focus on apocalyptic theology consuming the minds of many scholars, it would inevitably become an integral part of how lay Christians viewed the world during the Medieval Period. Moreover, for some, Hell was not so far away; for some scholars like Thomas Aquinas, Hell was a cave-like prison beneath the surface of the earth.  
+
+However, this cavernous Hell could not be reached by mortals alone. Instead, to reach either heaven or Hell, spirits like angels or demons (or, if you are Dante, the soul of your favorite poet, Vigil) would accompany mortals to their intended resting place. Just as in the mosaic cycle of San Giovanni, the elect are led to heaven by angels, and the damned to Hell by demons.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+<i>The Apocalypse in the Middle Ages.</i> Edited by Richard K. Emmerson and Bernard McGinn. Ithaca: Cornell University Press, 1992.  
+
+Barbezat, Michael D. <i>Burning Bodies: Communities, Eschatology, and the Punishment of Heresy in the Middle Ages.</i> Ithaca: Cornell University Press, 2018.  
+
+Dinzelbacher, Peter. “The Way to the Other World in Medieval Literature and Art.” <i>Folklore</i> Vol 97 No 1 (1986) 70-87.  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+<i>Imagining the Medieval Afterlife.</i> Edited by Richard Matthew Pollard. Cambridge: Cambridge University Press, 2020. 
+
+<i>Last Things: Death and the Apocalypse in the Middle Ages.</i> Edited by Caroline Walker Bynum and Paul Freedman. Philadelphia: University of Pennsylvania Press, 2000.  
+
+<i>The Oxford Handbook of Eschatology.</i> Edited by Jerry L. Walls. Oxford: Oxford University Press, 2008.  
+
+Palmer, James T. <i>The Apocalypse in the Early Middle Ages.</i> Cambridge: Cambridge University Press, 2014.  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-53.62, 177.180, -15.373      
+Camera Location:-56.011, 169.122, -13.865 
+Camera Looks Towards:-49.767, 182.169, -12.541       
+
+Annotation block name: Hell in Byzantium      
+
+Annotation Details: <div style="overflow:scroll ; height:250px">As a cultural and religious divide developed between the East and the West, their conceptions of Hell began to differ, too, drawing influence from their own unique positions and cultural history to make a rich tradition of eschatological theology.  
+
+There was a distinct Ancient Greek influence upon the Byzantine idea of Hell. <i> Κόλαση</i>, which is the Greek term for Hell, means punishment. This correlates with the Christian view that Hell was a place of punishment and nightmarish torture. It was a place where even those who evaded punishment in life could not escape divine punishment. <i>Sheol</i>, often translated as Hades, refers to a fiery realm of punishment for the wicked, continuing with the theme of fire associated with Hell in the West. This idea came from punishments for heresy and the Old Testament, as fire was often used as a punishment for enemies of God. In Enoch, <i>Sheol</i> is referenced, and its separation of the wicked and the obedient was a primary component of both Western and Byzantine conceptions of Hell.  
+
+In Byzantine depictions of Hell, the artists are meticulous about documenting the transgressions of the sinners in Hell. They create a categorical system that correlates the crime with the punishment, unlike in the West, where the sins and punishments are typically idiosyncratic. For example, in the Baptistery of San Giovanni, the only named figure is Judas Iscariot, and the damned receive a variety of punishments that are not consistent with other depictions of Hell in the West or the East.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+<i>Hell in the Byzantine World: A History of Art and Religion in Venetian Crete and the Eastern Mediterranean.</i> Edited by Angeliki Lymberopoulou. Cambridge: Cambridge University Press, 2020.  
+
+Marinis, Vasileios. <i>Death and the Afterlife in Byzantium: The Fate of the Soul in Theology, Liturgy, and Art.</i> Cambridge: Cambridge University Press, 2017.  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-53.214, 176.023, -15.695    
+Camera Location:-56.011, 169.122, -13.865 
+Camera Looks Towards:-49.767, 182.169, -12.541     
+
+Annotation block name: Dante and the Last Judgement        
+
+Annotation Details: <div style="overflow:scroll ; height:200px"><i>The Last Judgement</i> holds a position of honor over the high altar of San Giovanni, with the narrative scenes branching off from it. The scenes spiral down from the animal and floral rings ending with <i>The Last Judgement</i>, whose unique depiction of Hell served as an inspiration to Giotto and Dante.  
+
+While he was later banished from Florence and buried in Ravenna, Dante grew up and rose to prominence in Florence. The mosaics cycle of San Giovanni was among the most significant public pieces of art in the city, and the political role of the Baptistery ensured that the public could observe the cycle. Baptism in San Giovanni was one of the markers of citizenship in Florence, and Dante probably visited the Baptistery several times in his life prior to his exile from Florence, after all, he had four children and two siblings. Thus, Dante may have drawn inspiration from San Giovanni’s unique <i>Last Judgement</i> scene for his depiction of Hell in the <i>Inferno</i> section of <i>The Divine Comedy</i>.  
+
+In particular, elements in San Giovanni mirror Dante’s writings in <i>Inferno</i>. On the left of the Hell sequence in San Giovanni, appear tonsured and robed sinners who lead many others into the bowels of Hell. This depiction of clergymen leading kings and peasants alike into Hell is reminiscent of Dante’s writing, where Popes and leaders in the Church are condemned to, a novel idea for the time. There is also a sinner being swallowed by a large reptile, reminiscent of Dante’s punishment of thieves by snakes in the twenty-fourth to twenty-fifth cantos. Satan, with his three heads, eating sinners, too, is the same as Dante’s depiction of Satan in Canto 34. However, in <i>Inferno</i> the three sinners whom Satan eats are Judas Iscariot, Cassius, and Brutus, considered by Dante to be the worst traitors in history. That is not the case in San Giovanni, as Judas Iscariot is depicted hanging from a tree, not in the mouth of Satan.  
+
+There are marked similarities between Dante’s <i>Inferno</i> and the mosaics of Hell in the Baptistery of San Giovanni, and with the mosaic’s significance to the city, it is more than likely that Dante drew inspiration from this famed mosaic for his keystone piece of Italian literature, <i>The Divine Comedy</i>.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Bent, George. <i>Public Painting and Visual Culture in Early Republican Florence.</i> Cambridge: Cambridge University Press, 2016. 
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Nassar, Eugene Paul. “Iconography of Hell: From the Baptistery Mosaic to the Michelangelo Fresco.” <i>Dante Studies,</i> with the Annual Report of the Dante Society No 111 (1993) 53–105.  
+
+Wilkins, Ernest Hatch. “Dante and the Mosaics of His Bel San Giovanni” in Speculum Vol. 2, No. 1 (Jan 1927). 1–10. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-57.535, 177.994, -30.714     
+Camera Location:-58.968, 169.151, -30.836   
+Camera Looks Towards:-64.501, 190.279, -24.795   
+
+Annotation block name: Mosaics: An International Medium       
+
+Annotation Details: <div style="overflow:scroll ; height:250px">Florentine artisans could not produce mosaics solely using raw goods and materials sourced from Italy. Instead, they relied on international trade, coupled with local artisans, to create the <i>tesserae</i> for Florentine mosaics.  
+
+There is currently no archaeological evidence to indicate large-scale raw glass production in Constantinople. This is suprising because of the exquisite mosaics in Byzantine churches. It is clear that these sites refinced and shaped glass, but the raw production in this reguon cannot be confimed with certainty, Instead, there is confimed material evidence of raw glass production in Venice, Tuscany, Milan, and Perugia as well as archaeological evidence in Belus, Wadi Natrun in Egypt, Bet Eli’ezer in Tyre, and Bet She’arim in Palestine. The centralization of confirmed glass production in the Middle East may result from Egypt and the Levant being the primary sources for the sand and other raw materials used in glass production.  
+
+While Italy and Constantinople may not have produced raw glass, they did refine it with stylistic differences. These differences enable the identification of the origin of various types of glass, including <i>tesserae</i>, stained glass, and other vessels.  
+
+The process of fluxing in glasswork involved using another material to lower the melting temperature of silica, making it easier to work with. The fluxing material differed based on both the period and the region. Made in Antiquity, Roman glass tended to be fluxed with natron (mineral soda). Medieval glass was fluxed with plant ash, imported by Venetians from the Levant, and quartz pebbles from Pavia to use in their glass, highlighting the international reach necessary to produce beautiful colored glass. Glass also needed to be opacified after it was colored. In Ancient Rome, they would add tin or antimony to opacify the glass, while Byzantines used calcium phosphate with bone ash.  
+
+Techniques also differed, although not necessarily by region. In Venice, the majority of master artisans who initiated large-scale mosaic cycles were Greek, who passed secrets onto Venetian laborers and apprentices. The prevalence of Greek artists and the Byzantine influence in Venice dates back to the Chrysobull of 1082, an edict that facilitated a healthy, yet not subservient, relationship between Venice and the Byzantine Empire. By the end of the thirteenth century, the Venetian style had slowly evolved into a fusion between a Byzantine style and a European that came to be found in the churches of Venice.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+<i>Byzantium 330-1453.</i> Edited by Robin Cormack and Maria Vassilaki. London: Royal Academy of Arts, 2008. 
+
+Demus, Otto. <i>Byzantine Mosaic Decoration.</i> New York: Caratzas Brothers Publishers, 1976. 
+
+Demus, Otto. <i>The Mosaic Decoration of San Marco Venice.</i> Edited by Herbert L Kessler. Chicago: The University of Chicago, 1988. 
+
+Demus, Otto. <i>The Mosaics of Norman Sicily.</i> London: Routledge & Kegan Paul LTD, 1949.  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence. </i> Florence: Mandragora, 2000.  
+
+Harding, Katherine. “The Production of Medieval Mosaics: The Orvieto Evidence.” <i>Dumbarton Oaks Papers</i> Vol 43 (1989) 73-102.  
+
+James, Liz. <i>Mosaics in the Medieval World: From Late antiquity to the Fifteenth Century.</i> Cambridge: Cambridge University Press, 207.  
+
+Rossella Arletti, Sonia Conte, Mariangela Vandini, Cesare Fiori, Susanna Bracci, Mauro Bacci, Simone Porcinai, “Florence baptistery: chemical and mineralogical investigation of glass mosaic tesserae,” in <i>Journal of Archaeological Science,</i> Volume 38, Issue 1, 2011, Pages 79-88, https://doi.org/10.1016/j.jas.2010.08.012. 
+
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-67.449, 164.136, -8.040     
+Camera Location:-59.936, 162.856, -7.712    
+Camera Looks Towards: -73.671, 158.892, -5.140   
+
+Annotation block name: Noah and the Flood        
+
+Annotation Details: <div style="overflow:scroll ; height:250px">The book of Genesis declares that, in the time of Noah, the world was overcome with great wickedness. The Lord decided to begin again after wiping the Earth clean and selected one a righteous man, Noah to build an ark out of Cyprus trees. Noah was to bring his family and two of every kind of animal to be kept alive on the ark. Noah, strong in his faith, did everything the Lord commanded. Rain fell for forty days and forty nights. The ark was lifted from the Earth by the waters, and every creature on dry land perished. The waters flooded the Earth for one hundred and fifty days, until only Noah and those on the ark remained. Noah sent out a dove which returned with an olive leaf. Noah knew that the water had receded from the Earth. The Lord told Noah to come out of the ark with his family and all the animals so that they could multiply and fill the Earth. In gratitude, Noah built an altar to the Lord and sacrificed some of the clean animals and birds. The Lord responded with his promise that he would never again flood the Earth and destroy all human life. Thus, Noah became a new Adam.  
+
+The ark in the book of Genesis is often associated with the Church, as both are vessels of Salvation. The ark is also associated with refuge from destruction. Theologians associated the ark with the concept of renewal through the true church. Those in the ark represented the new beginning of Earth, responsible for repopulating it after the flood. Likewise the Church was associated with the idea of a new life through the veneration of Christ.  
+
+In the Baptistery of San Giovanni, the depictions of Noah include representations of his three sons, Shem, Ham, and Japheth, who aid him in the construction of the ark. The scenes depicting the commissioning and construction of the ark are followed by the entering of the ark by Noah’s family and the animals. This specific scene takes twice the space Biblical scenes typically do, likely because it combines two separate Biblical scenes. Typically, the animals entering the ark and Noah’s family entering the ark are two separate scenes.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography: 
+
+Genesis 6-8:5.  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000.  
+
+Zuffi, Stefano. Old Testament Figures In Art. Translated by Thomas Michael Hartmann. Los Angelos: Getty Publishing, 2003. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-48.714, 159.751, -7.904   
+Camera Location:-54.793, 161.810, -8.547    
+Camera Looks Towards: -39.434, 154.228, -1.948   
+
+Annotation block name: Nudity in the Old and New Testament       
+
+Annotation Details: <div style="overflow:scroll ; height:250px">One of the only significant depictions of nudity is found in the Book of Genesis, specifically in the story of Adam and Eve. Nudity was the original condition of Adam and Eve in Eden, and they were without shame. However, while nudity was indicative of the protection of Paradise and their blissful existence before the Original Sin, in theology and art, by some it has come to be a negative and shameful hallmark of their lives on earth.  
+
+However, for many, there was a difference between the nudity before the Fall and the nakedness afterwards. Nudity was very different from nakedness. With nudity, which was the condition of Adam and Eve before the Fall, it was almost indirect and impersonal. That was simply the state of the world and themselves. There were no positive or negative associations with the bare human form. It simply was. Nakedness, on the other hand, was their state after the Fall. It was uncomfortable and wretched, associated with embarrassment and a deprivation of clothing. This was what Adam and Eve sought to remedy by covering themselves. Suddenly, their natural form was something to be ashamed of. 
+
+Artists depicted Eve’s body to comment upon her moral state. She quickly became associated with carnality and sexual availability, both because of her nudity and because of her long, unbound hair. She became a temptress the cause of humanities fall into sinfulness, and a foil for the Virgin Mary.    
+
+Depending on the situation, nudity can represent purity, innocence, and sacrifice, as it is with many of the martyrs. However, it can also depict shame and humiliation, like the state of Noah in his drunkenness.  
+
+There are horrific images of suffering inscribed on the unclothed human body, specifically the body of Christ. His body is not sexualized, but instead it is broken and tortured, bearing his sacrifice for all believers upon his flesh. Saint Jerome wrote about the body of Christ as a model of virtuous humility and poverty. At the same time, the Franciscans use the stripping of Christ as justification for their vow of poverty. His bare form became one of the significant images within Christianity.  
+
+This was evident with the naked body of Satan, the most monstrous creature in the Medieval mind, whose hairy body was often depicted with oversized genitals. His grotesque nude body was a warped reflection of the body of Christ.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Lindquist, Sherry C.M. “The Meanings of Nudity in Medieval Art: An Introduction.” In <i>The Meanings of Nudity in Medieval Art.</i> Edited by Sherry C.M. Lindquist. 1-46.  
+
+Seidel, Linda. “Nudity as Natural Garment: Seeing Through Adam and Eve’s Skin.” In <i>The Meanings of Nudity in Medieval Art.</i> Edited by Sherry C.M. Limdquist. United Kingdom: MPG Books Group, 2012. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-65.94, 177.994, -30.714     
+Camera Location:-58.968, 169.151, -30.836   
+Camera Looks Towards:-64.501, 190.279, -24.795      
+
+Annotation block name: The Creation of the Baptistry Mosaics        
+
+Annotation Details: <div style="overflow:scroll ; height:250px">The mosaic program of the Baptistery of San Giovanni were both one of the first monumental narrative cycles in Florence. Adorned with one thousand square meters of mosaics, the dome glistens with ten million <i>tesserae</i> ranging from five to twenty millimeters. 
+
+Scholars believe that the first mosaics were laid in the <i>scarsella</i>, a small rectangular apse, between 1260 and 1270. This was then followed by the dome mosaics, which date between 1270 and 1310. The order of their completion was likely top to bottom, and then the <i>Last Judgment</i> sequence to the Biblical cycles. There was likely a chronological gap between the decorations of the highest portions of the dome and the Last Judgment scene. This is supported by different artists and schools handling different sections of the dome, a theory supported by the artistic difference that appear from one section of the dome to another.  
+
+The mosaics were begun by practitioners of the Byzantine style, but completed by great Tuscan artists. Among those thought to have participated in the project are the painters  Cimabue, Coppo di Marcovaldo, Meliore, and Jacopo Torriti, the latter of whom also worked on Santa Maria Maggiore in Rome during the early 1290s. The mosaics were completed by a variety of mosaicists, including Apollonius. Apollonius was a Greek artisan living and working in Venice before Andrea Tafi brought him to Florence to work in the Baptistery of San Giovanni. The Venetian sections of the Baptistery are considered to have a greater Tuscan influence than other sections of the mosaic cycle. There are regions of the Baptistry attributed to a young Cimabue, whose work at the time was considered in direct comparison to the work of the Palaeologan Renaissance in Byzantium.   
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+"Baptistery." Opera di Santa Maria Del Fiore: Firenze 1296. Accessed July 14, 2025. https://duomo.firenze.it/en/discover/baptistry.  
+
+Bent, George. <i>Public Painting and Visual Culture in Early Republican Florence.</i> Cambridge: Cambridge University Press, 2016. 
+
+Boskovits, Miklós. "Florentine Mosaics and Panel Paintings: Problems of Chronology." In <i>Studies in the History of Art,</i> Vol. 61 (2002) 486-498. 
+
+<i>Byzantium 330-1453.</i> Edited by Robin Cormack and Maria Vassilaki. London: Royal Academy of Arts, 2008. 
+
+Cerullo, Sophia. "Restoration Begins on Florence Baptistery Mosaics." The Florentine. February 9, 2023. Accessed July 14, 2025. https://www.theflorentine.net/2023/02/09/%EF%BF%BCrestoration-begins-mosaics-florence-baptistry/?_gl=1*smeglh*_up*MQ..*_ga*Nzg1NDYwMDQxLjE3NTI1MTg5MjU.*_ga_JLVWG8FMGQ*czE3NTI1MTg5MjQkbzEkZzEkdDE3NTI1MTg5NzkkajUkbDAkaDA.  
+
+James, Liz. <i>Mosaics in the Medieval World: From Late Antiquity to the Fifteenth Century.</i> Cambridge: Cambridge University Press, 2017.  
+
+Rossella Arletti, Sonia Conte, Mariangela Vandini, Cesare Fiori, Susanna Bracci, Mauro Bacci, Simone Porcinai, "Florence baptistery: chemical and mineralogical investigation of glass mosaic tesserae," in <i>Journal of Archaeological Science,</i> Volume 38, Issue 1, 2011, Pages 79-88, https://doi.org/10.1016/j.jas.2010.08.012. 
+
+Sportelli, Francesco. "Visitors Can See Famed Florence Baptistry's Mosaics Up Close." AP News. February 8, 2023. Accessed July 14, 2025. https://apnews.com/article/italy-florence-entertainment-f7f3760db6a81462876eef2fa9f209f0. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-47.224, 164.442, -7.966     
+Camera Location:-52.950, 165.024, -11.158 
+Camera Looks Towards:-38.100, 170.584, 1.370   
+
+Annotation block name: The Creation     
+
+Annotation Details: <div style="overflow:scroll ; height:250px">The Book of Genesis states that in the beginning, God created the heavens and the earth, separated light from the darkness, and divided time into day and night. He then separated the sky and the sea, the sea from the land, and caused the land to produce vegetation. He created the moon, sun, and stars to govern the day and night. He formed the creatures of the sea and air and the land animals.  
+
+He created mankind in His likeness to steward the land. He blessed Adam, gave him every green plant for food. But he was not to eat from the tree in the center of the garden. All the beasts of the earth and birds of the sky were theirs to care for. He created man from dust and breathed life into him, creating a living being.  
+
+However, Adam had no suitable partner. So the Lord caused him to fall asleep and removed one of his ribs. From this rib the Lord created Eve, the first woman. She came from his ribs to be a partner, not the foot as a servant or the head as a ruler.  
+
+The first scene in the Genesis sequence is that of Creation in which God creates Heaven and Earth, light and darkness, sky, seas, the sun and moon, the stars, and all the creatures of the earth. The seven days of Creation are combined into one mosaic scene wherein all of Creation is presided over by the Lord. He is separated from His creation in a heavenly circle, but still presides over it with his hands in benediction. The sun and the moon are depicted in two forms: as planetary bodies and as anthropomorphized figures. In the Creation of Adam, God the Creator is seated upon the globe. This highlights His status as both Creator and Ruler of the World. In the Creation of Eve, the foliage and background continue from the Creation of Adam as if they are in a singular scene. God is still seated upon the globe, but he is larger in this frame than in the previous scene. Adam lies asleep upon the rock, but his form is unnatural, almost as if he has died, mirroring the figure of Christ in many deposition scenes. Eve, however, is awake and appears to be blessed by God the creator, as she prays. The mixture of foliage and columns separates the space and highlights the imagery of Eden as the first temple.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Collins, Patrick J. “Narrative Biblical Cycles in Medieval Art and Drama.” <i>Comparative Drama</i> Vol 9 No 2 (1975) 125–146. 
+
+Genesis 1:1-2:6, Genesis 2:7, and Genesis 2:21-25 
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000.  
+
+Zuffi, Stefano. <i>Old Testament Figures In Art.</i> Translated by Thomas Michael Hartmann. Los Angelos: Getty Publishing, 2003. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-50.444, 174.590, -15.447 
+Camera Location:-56.011, 169.122, -13.865 
+Camera Looks Towards:-49.767, 182.169, -12.541     
+
+Annotation block name: The Dragon and The Snake       
+
+Annotation Details: <div style="overflow:scroll ; height:220px">In the Christian Bible, both the dragon and the snake are associated with the devil: the snake because of the Temptation in the Garden of Eden, and the dragon because of the apocalyptic imagery in the Book of Revelation. The two creatures were associated linguistically.  
+
+The word “dragon” is derived from the Greek <i>δράκων</i> (<i>drakōn</i>) and its Latin cognate <i>draco</i>. However, both of these terms applied to large, constricting snakes in the ancient world. In Ancient natural histories, <i>drakōn</i>s were listed in the same section as snakes.    
+
+In the <i>Iliad</i>, <i>drakōn</i> is used along with <i> ὄφις</i> (<i>ophis</i>) which also means snake. This <i>drakōn</i> was small enough to be carried by an eagle and fit on an altar, which does not suggest something of mythic proportions. The difference between <i>drakōn</i> and <i>ophis</i> seems to be dependent on context, as a <i>drakōn</i> is used more in a religious context, while <i>ophis</i> is used in an ordinary context.  
+
+Aristotle uses the term <i>drakōn</i>, and discusses it as the enemy of the eagle, which once again, seems to refer to a snake, not the modern or Renaissance conception of a dragon.  
+
+Pliny, though, begins to add details to his depiction of the <i>draco</i>, as he says that the ones that originate in Africa can use their heads as sails to sail across the ocean. Virgil, too, says that what he terms as dragons swim quickly across the sea with fiery eyes and a sinusoidal back.  
+
+There are winged dragons in Roman and Greek mythology, but they are not the norm. Instead, they were perceived as composite creatures like the Pegasus or the Chimera, rather than a creature which appeared regularly or was included in natural histories.  
+
+Saint Augustine of Hippo in the fifth century, was one of the first to introduce the Christian conception of a dragon. His description was very different from his forefathers, who almost certainly were referring to snakes. He wrote that dragons were the largest animals and lived in subterranean caves, from which they flew. The concept of dragons as flying creatures may have originated from the battle between Michael, the archangel, and the red dragon in the Book of Revelation, which he may have assumed took place in the air. His followers echoed this view and by the tenth century it was common to depict dragons with legs, feet, and wings.  
+
+As the <i>drakōn</i> became a dragon, the imagery around it changed. While the snake was often associated with the devil, the dragon also became an important symbol as an Apocalyptic beast. Images of the apocalypse were overtaken with that of the red dragon, but that <i>drakōn</i> may not have been that different from the serpent in Eden. 
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Dendle, Peter. “Cryptozoology in the Medieval and Modern Worlds.” <i>Folklore</i> Vol 117 No 2 (2006) 190-206.  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Nassar, Eugene Paul. “Iconography of Hell: From the Baptistery Mosaic to the Michelangelo Fresco.” <i>Dante Studies, with the Annual Report of the Dante Society</i> No 111 (1993) 53-105. 
+
+Senter, Phil, Uta Mattox, and Eid E. Haddad. “Snake to Monster: Conrad Gressner’s Schlangenbuch and the Evolution of the Dragon.” In <i>Journal of Folklore Research</i> Vol 53 No 1 (2016) 67-124.  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-57.495, 155.816, -5.654
+Camera Location:-59.632, 166.204, -7.962  
+Camera Looks Towards:-51.881, 149.327, 0.003    
+
+Annotation block name: The Hierarchy of Angels: Orders of Angels  
+
+Annotation Details: <div style="overflow:scroll ; height:250px">Seraphim are the spiritual beings that in Christian tradition are said to be the keepers of the Garden of Eden and keepers of the Throne of God. They are depicted in red or, as in the Baptistry with six red wings that bear a face in the middle. The choice of red likely has to do with the name seraphim, which is <i>s’raphim</i> in Hebrew, meaning burning ones. The Seraphim, the closest to God, are the highest order of the angels.  
+
+Similarly, the Cherubim are said to support the Throne of God and the presence of His Glory. Cherubim were associated with the Garden of Eden, while artistic representations of  Cherubim were depicted in the Ark of the Covenant, the Tabernacle, and the Temple. The Hebrew word for Cherubim is <i>k’rubim</i>, the word for Babylonian deities of lower orders who mediate between men and higher gods. By the ninth century, cherubim were depicted as two-winged human figures. As late as 1200, Jewish texts described a cherub as child-like creatures with six wings, according to Isaiah 6:2. The cherubim in the Baptistery are depicted this way.  
+
+The Thrones are not typically depicted in “human” form; instead, they are shown as <i>Ophanim</i>, or wheels, as Ezekiel depicts them. Thrones praise God and are associated with both Judgment and Justice, as they appear in Ezekiel’s vision of the Throne of God. In the Baptistery, the Thrones are depicted as humanoid figures with wings and are positioned on the right-hand side of Christ, next to the Seraphim and Cherubim, whose colors are reflected in the wings and robes of the Thrones. The angel of the Thrones holds the <i>mandorla</i>, the Byzantine symbol of God’s throne.      
+
+The Angels of Dominions are associated with Justice, Mercy, and the order of the cosmos. They are part of the second hierarchy of angels, who are associated with governing the universe. In the Baptistery, the Dominions hold scepters, which highlight their role in maintaining the order of the universe.  
+
+The Angels of Virtues are crowned and depicted as breakers of chains. They have men with devils upon their backs begging to be set free from demons and sin. They, too, carry a staff representative of their authority, as they govern the elements, assist in miracles, and inspire humans to cultivate the Christian virtues.   
+
+The final angels of the second level of the hierarchy are those of the Powers. These angels are depicted in military garb with crested helmets, spears, and lamellar armor. Powers are guardians against evil forces who protect the balance of the universe.   
+
+The Third level of the hierarchy of angels revolves around those who interact the most with humans, like Principalities. They assign tasks of divine purpose by guiding and protecting nations, groups of people, and institutions, like the Church. In the Baptistery, these figures carry the Flag of Saint George, marked with a red cross in a white field, as was used by Cursaders of the day.  	 
+
+Archangels are a complex topic, as they are both part of the third hierarchy of angels and are often referred to as the highest-ranking angels. Figures like Michael, Raphael, Gabriel, and Uriel are all considered archangels, but also among the highest of the angels. The prefix <i>arch-</i> comes from the Greek meaning “chief,” designating them as leaders among the angels. However, in Hebrew, the book of Daniel uses the term <i>sārīm</i>, which means “princes,” in this context a reference to Michael as one of the great princes among the angels. Archangels function as messengers, protectors, spiritual warriors, healers, intermediaries, and guardians of order, depending on the individual angel. Archangels are in the third level of the hierarchy, but because they interact with humans, they are named as specific figures. In Revelation, there is mention of seven angels, which are believed to be Enoch’s archangels of Uriel, Raguel, Michael, Seroquel, Gabriel, Haniel, and Raphael.  
+
+In the Western tradition, the three main archangels are Michael, Gabriel, and Raphael. Michael means “who is like God” and is often represented with a sword or spear, standing upon a winged man or dragon that represents Satan. He is also often depicted with a scale which will weigh the souls of the dead. Gabriel was the divine messenger associated with the Annunciation and therefore carries a messenger’s staff or a stem of lilies. The staff represents his role in safeguarding the Church. Lastly, there is Raphael, who carries a walker’s staff and wears sandals. He is also known as a healer, and often has a physician’s alabaster jar.  
+
+Archangels wear elegant robes holding <i>cartouches</i> that contain divine message <i>anima ouertes</i>. In Medieval Italian, <i>anima</i>, much as it is in Latin, means the soul or spirit. However, <i>ouertes</i> is less clear in meaning. It appears to be linguistically very similar to <i>overt</i>, which is an Old French past participle and stems from the Latin <i>apertus</i>. It, therefore, could mean “open” or “opened.” Together, the scroll held by two archangels read “the opened soul.” This phrase suggests that the archangels are intermediaries of God and that viewers need to open their hearts and souls to hear them.   
+
+The final characters on this hierarchy are the <i>angelus</i> or <i>angelos</i>, which are mostly referred to as angels. These are the messenger figures depicted with scrolls. These angels are also akin to guardian angels, as they are meant to protect and guide Christians.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Becker, Udo. <i>The Continuum Encyclopedia of Symbols.</i> United Kingdom: Continuum, 2000.  
+
+Bent, George. <i>Public Painting and Visual Culture in Early Republican Florence.</i> Cambridge: Cambridge University Press, 2016.  
+
+Bloom, Harold. <i>Omens of Millennium: The Gnosis of Angels, Dreams, and Resurrection.</i> New York: Riverhead Books, 1996. 
+
+Ferguson, George. <i>Signs & Symbols in Christian Art.</i> Oxford: Oxford University Press, 1961.  
+
+Giorgi, Rosa. <i>Saints in Art.</i> Edited by Stefano Zuffi. Translated by Thomas Michael Hartmann. Los Angelos: Getty Publications (2003). 
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Langmuir, Erika. <i>Pocket Guides: Angels.</i> London: National Gallery Publications, 1999. 
+
+Eichler, Raanan. “Cherub: A History of Interpretation.”</i> In <i>Biblica</i> Vol 96. No. 1. (2015) 26-38. 
+
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation: -70.652, 164.473, -15.572    
+Camera Location:-62.816, 162.926, -14.235    
+Camera Looks Towards:-81.912, 156.395, -13.196 
+
+Annotation block name: The Death of John the Baptist      
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> In <i>The Beheading of Saint John the Baptist</i>, the motion dominates the composition. The executioner drags John the Baptist by his hair out of the prison cell as the executioner’s sword swings down upon him. His hands move as if to brace himself, but do not quite touch the ground, giving the impression that he still moves. The prison bars frame the latter half of his body, as the ancient-looking prison with a dome highlights the antiquity of the scene. The symbol on the keystone of the prison appears again on the left column, which frames the scene, highlighting the connection between the <i>Beheading of Saint John the Baptist</i> and <I>The Dance of Salome</i> on the preceding section of the dome. Salome, who asked for the head of John the Baptist at the request of her mother, looks on at the execution, her face displaying disgust and horror at the scene before her. A doorway frames her, perhaps representing the palace from which she has come. The colors of Salome’s dress reflect the dome, and the consistent styling allows for her identification throughout the scenes.  
+
+<i>Salome Takes St John the Baptist’s Head to Herodias</i> continues the previous narrative and continues in the book of Mark. The executioner who beheaded John the Baptist placed his head on a platter, which he gave to Salome, who in turn gave it to her mother. In this scene, Salome holds out the head of John the Baptist upon a golden platter to her mother, who reaches out to take her desired prize. The platter upon which the head rests mirrors the halo that adorns John the Baptist’s head in every preceding scene. The dome of the prison reflects with an inverse color scheme in the court of Herod. He ignores the head of John the Baptist; instead, he focuses on the servant handing him a glass of wine. The scene feels bisected, as Herodias and Herod turn away from one another, each focused on different portions of the mosaic. The opulent fabrics and setting continue, highlighting the decadence and pageantry of court life.    
+
+The <i>Burial of John the Baptist</i>, a scene of mourning, appears in the book of Matthew. Once word of John the Baptist’s death had spread, his disciples came and buried the body before telling Christ. The architectural features that highlight the ancient setting continue in this scene with the large cupola, whose interior detail mirrors those on the tomb. Blood drips down John the Baptist’s neck as lost his head, reminding the viewer of his death by beheading. They wrapped him in a simple shroud, a stark contrast to the bright colors of his mourning disciples. They look grief-stricken as they crowd around him, some holding their hands to their faces, and others looking as if they experience pain. As the final scene in the John the Baptist cycle, his death remains in the viewer’s mind, especially as the artist placed it directly below <i>The Women at the Tomb</i>.  
+
+The final three scenes of the John the Baptist cycle line up with the final scenes of the Christological cycle, highlighting the parallel lives of these two relatives. The <i>Crucifixion</i> mirrors <i>The Beheading of John the Baptist</i> and the <Lamentation</i> the mosaic of <i> Salome Takes St John the Baptist’s Head to Herodias</i>. While these scenes may be sorrowful, both Christ and John the Baptist in places of glory in the Last Judgement, offer a reprieve, leaving a sense of hope.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography: 
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Matthew 14:12.  
+
+Mark 6: 14-29. 
+
+Zuffi, Stefano. <i>Gospel Figures In Art.</i> Translated by Thomas Michael Hartmann. Los Angelos: Getty Publishing, 2003. 
+
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-66.594, 154.663, -15.486     
+Camera Location:-60.424, 160.171, -14.172   
+Camera Looks Towards:-68.297, 141.577, -13.372    
+
+Annotation block name: Prior to the Death of Saint John the Baptist        
+
+Annotation Details: <div style="overflow:scroll ; height:250px">While he was in prison, the book of Luke accounts for John the Baptist sending his disciples to Christ. As he was in prison, John the Baptist sent two of his disciples to Christ to ask Him if He truly was the one who was to come. This scene depicts <i>Saint John the Baptist Sends His Disciples to Christ</i> in the mosaics of the Baptistery of San Giovanni. John the Baptist, with his wild hair forming almost a crown against his golden halo, as he leans through the prison bars to gesture out to his disciples as they move away from him. Dressed in fine, glistening robes, the two disciples look back towards John the Baptist, in his prison cell, clutching his scroll, as they flee the scene. Every figure in this scene is in motion, making the piece dynamic and highlighting the quality of the drapery.  
+
+The book of Luke continues with the account of John the Baptist’s disciples meeting Christ, during which they asked the question that they had been given. To this Christ responded with his miracles: giving sight to the blind, mobility to the lame, cleansing to the lepers, and hearing to the deaf. In <i>Christ Performs Miracles in Front of St. John the Baptist’s Disciples</i> figures crowd the scene, leaving very little of a gilded background, unlike the other scenes. Figures come in three different sizes in the mosaic, as Christ and the Saints tower over the spectators and the recipients of the miracles. Christ holds a scroll with one hand and with the other gestures towards Saint John the Baptist’s disciples. This hand in blessing rests above the ill, drawing the eye to those who will be healed in the scene. The eyes of everyone except Christ’s disciples, who look towards the infirm, and one figure looking at John the Baptist’s disciples look towards Christ, many with a look of reverence as they look up towards the taller figure.  
+
+The scene quickly shifts in the next mosaic away from a scene of healing or devotion to the debauchery of court life in <i>Salome’s Dance</i>. Both Mark and Matthew recount this scene during Herod’s birthday banquet. He asked Salome to dance for the reception, where she pleased him and all the guests, so he rewarded her with whatever she wished, and she asked for the head of John the Baptist, at her mother’s urging. This distressed Herod, but he had to give in because he had made an oath before honored guests. This riotous scene has a dog begging at the table, servants running about filling goblets of wine, a musician playing, and young Salome dancing as courtiers look on. The textures and fabrics in this piece highlight how Salome moves in the silken blue dress. The courtiers and servants all have gilded accents, bringing light to the piece and demonstrating the courtly setting, so different from the prison where they throw John the Baptist.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Luke 7:18-23. 
+
+Mark 6:21-29. 
+
+Matthew 14:6-10.  
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-56.607, 151.201, -15.515     
+Camera Location:-56.166, 159.608, -14.256    
+Camera Looks Towards:-48.979, 140.721, -14.296    
+
+Annotation block name: The Baptism of Christ to Saint John the Baptist in Prison      
+
+Annotation Details: <div style="overflow:scroll ; height:250px"><i>The Baptism of Christ</i>, a pivotal scene in both the mosaics of the Baptistery of San Giovanni and the Christian canon, appears in all four gospels. In the text, John the Baptist saw Christ, and Christ asked for baptism. At first, John the Baptist refused, saying that it was he who Christ should baptize. However, in the end, John the Baptist baptized Christ, saying that he saw the Holy Spirit come down as a dove upon him, and a voice from heaven called out that Christ was the Son of God. In the mosaics, in this unique scene Christ appears nude while submerged in the river Jordan. He looks up to his cousin, John the Baptist, whose hand blesses him, as a dove comes down from the spheres of the heavens. Angels attend the baptism, holding the robes of Christ while he submerges in the water. Unlike the previous baptism scene, which was an affusion baptism, John the Baptist baptizes Christ via immersion.  
+
+The scene then quickly jumps in time to <i>Saint John the Baptist Reproached Herod</i>. This scene takes place in a palatial setting, with a marble arch and a large couch representing the palace. An attendant holds a parasol over Herodias‘s head, adding another layer of motion to the depiction. John the Baptist, with his staff flanked by guards, looks decidedly out of place in Herod’s court. The artist proportions John the Baptist differently from the other figures, his dull clothes stand out in comparison to their gilded silks, and his halo marks him as other. Both Herod and Herodias hold their arms out in disgust, their brows furrowed, while John the Baptist looks up at them, his hand outstretched in almost a placating, but still reproachful gesture. In the Gospels, this scene happens in the court of Herod, as John the Baptist condemns Herod’s marriage to his former sister-in-law, Herodias.  
+
+The mosaics continue with <i>Saint John the Baptist Thrown in Prison</i>. This story appears in the book of Mark. Herodias wished to execute John the Baptist, but Herod, who knew the people considered John the Baptist a prophet, refused to kill him and instead put him in prison. In this scene, John the Baptist appears in prison, with bars above him. A black background swallows him, yet his halo shines through. His staff and camelhair shirt continue to appear, as his halo reflect his unkept hair and beard. The prison looks classical with a pediment, emphasizing the idea that this story occurred in Christian history. Two armed soldiers with shields, look at John the Baptist, flanking him. The one on his left clutches his sword in an agitated stance, while the other reaches out towards John the Baptist, as if in conversation with him. Behind this soldier, another cloaked figure lingers, who looks at the Baptist. John the Baptist reaches out towards these figures, his hand raised in blessing.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+John 1:29-34. 
+
+Luke 3:19-22. 
+
+Matthew 3:13-17 and Matthew 14:1-12. 
+
+Mark 1:9-11 and Mark 6:14-29.   
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-47.685, 154.882, -15.679     
+Camera Location: -52.930, 161.473, -14.304   
+Camera Looks Towards: -34.402, 153.418, -14.725   
+
+Annotation block name: John the Baptist before the Coming of Christ       
+
+Annotation Details: <div style="overflow:scroll ; height:250px">In this mosaic trio in San Giovanni, which begins with <i>Saint John the Baptist Preaches to the Crowds</i> John the Baptist appears as an adult, and while he dresses as he did in the <i>Young John the Baptist in the Wilderness</i>, he appears more mature. In a wilderness-like setting, John the Baptist holds the same scroll, preaching to a group of finely dressed male figures, who whisper among themselves and look towards John the Baptist, absorbing his words. Every book of the Gospel recounts the story of John the Baptist preaching to the crowds. Wearing clothes of camel hair with a leather belt, he preached repentance for the forgiveness of sin in the wilderness of Judea, for the Messiah would soon come.  
+
+The narrative continues in <i>The Baptism of the Crowds</i>, which also takes place in a rocky natural landscape. Luke and Matthew write that many came to John the Baptist for him to baptize them, and preaching charity, John the Baptist did so. He also told them all that he only baptized them with water for repentance, while the Messiah will baptize with the Holy Spirit and fire. Just as before, a crag in the rock resembles a spring bubbling to the surface, or an underground river emerging, symbolizing the Jordan River. From this river John the Baptist may have filled his pitcher, which he uses to baptize the small, naked figure before him. S plays an important visual role in this central moment of baptism. John the Baptist towers over the other figures in the composition, even as the baptized figure hunches over in prayer. The textiles in the mosaic also draw attention, as the richly dressed men hold the baptized man’s clothing as the water cascades down him. Unlike in the previous scenes with John the Baptist, here the background seems less rocky, for as the figure receives the waters of baptism, the trees begin to fruit and flower, as if they too have received that water.  
+
+Suddenly, in that rocky landscape with the bubbling river, Christ appears over the shoulder of John the Baptist. In <i>Saint John Accounts the Coming of Christ</i> Christ reaches out towards him and appears in fine vestments, but he does not truly appear in the scene. Instead, John the Baptist speaks on the coming of Christ in <i>Saint John Accounts the Coming of Christ</i>; his visual appearance illustrates John the Baptist’s message, not the actual presence of Christ. The book of John recounts this. Several priests and Levites came to question John as to who he was, and he responded that the Messiah would come after him, and that John had only baptized with water, not as the Messiah would. Those listening to John’s dress differently from the figures in the first two scenes. The fabrics bolder, with bright reds and vibrant greens, radiate as opposed to the more jewel-tones of the previous figures. Once again, John the Baptist’s staff and scroll appear with him, attributes associated with his early ministry.                                           
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+John 1:19-34. 
+
+Luke 3:1-22. 
+
+Matthew 3:1-12. 
+
+Mark 1:1-11. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-43.979, 164.066, -15.710    
+Camera Location:-52.272, 165.268, -14.344    
+Camera Looks Towards:-33.230, 172.025, -14.693    
+
+Annotation block name: The Youth of John the Baptist       
+
+Annotation Details: <div style="overflow:scroll ; height:250px">In the book of Luke, Zechariah and Elizabeth grew old without having children. However, an angel told Zechariah that they would soon bear a child, and he did not believe. So Gabriel made Zechariah silent until the birth of his child. When this scene is depicted in the Baptistery of San Giovanni, there is tremendous motion in the piece. Both the angel and Zechariah appear in movement. The angel is stepping forward towards Zechariah, his annunciation staff in hand, with his hand raised in blessing. Zechariah responds in turn, his left hand raised in a stilling motion as he leans back, away from the angel. In his right hand, a thurible or censer swings under the tabernacle and before the altar, draped in fine silk. Behind Zachariah, female petitioners kneel with their hands clasped in prayer while male figures stand behind them, almost in applause. These male figures are wearing ecclesiastical vestments, which are a contrast to the ancient robes of the angel and Zechariah. One interesting feature of this mosaic is the perspective and construction of the tabernacle. This tabernacle’s front left column disappears behind the angel and is not continued where it should reappear in the composition. This allows for more gold <i>tesserae</i> and for more attention to be drawn to the movement of the angel’s feet.  
+
+So it came to pass later in the book of Luke that Elizabeth had a son and they named him John, as his father, who still could not speak, wrote. Once John the Baptist was named, Zechariah could speak again. <i>The Birth and Naming of John the Baptist</i> has a similar composition to that of the nativity of Christ, as Elizabeth also reclines on a couch and is central to the composition. Elizabeth is surrounded by a variety of relatives and attendants, one of whom holds out an infant John the Baptist to his father, who looks not at the child. Instead, Zachariah, small and sequestered in the corner of the piece, although all the motion is towards him, looks at the scrolls on which he is writing, possibly writing the name he would bestow on the child. Elizabeth and Zachariah are of very different sizes. Elizabeth reclines upon a couch and appears long, while Zachariah is hunched over and, even standing up, would be smaller than Elizabeth. The attendants and relatives, who hold the infant John the Baptist, all lean away from the reclining Elizabeth and towards Zachariah, drawing the eye towards him.  
+
+According to the Italian inscription, <i>Young John the Baptist in the Wilderness</i> was restored between 1898 and 1907 as portions of it were crumbling and had been neglected. Thus, portions of this scene are not original, including the inscription, which is why Italian, not Latin, is used. In his youth, as recounted in Luke, John the Baptist grew strong in spirit and went to live in the wilderness before he began his ministry in Israel. John the Baptist stands in a rocky landscape, much like <i>The Labor of Adam and Eve<i>. He, too, wears camel’s hair and a traveler’s cloak. He has his staff or reed in hand, symbolizing him both as a traveler and the foreteller of Christ. John the Baptist wears no shoes, not even a pair of pilgrim’s sandals. His dress is simple and demonstrates his humility and personal piety as he lives as an aesthetic in the wilderness, eating only locusts and wild honey before taking up his ministry. His cloak flutters in the wind, mirroring the movement of the trees, his only companions in the piece.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Luke 1:5-80. 
+
+Zuffi, Stefano. <i>Gospel Figures In Art.</i> Translated by Thomas Michael Hartmann. Los Angelos: Getty Publishing, 2003. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-59.530, 154.467, -7.864     
+Camera Location:-58.261, 159.863, -10.124    
+Camera Looks Towards:-55.871, 142.940, 0.659    
+
+Annotation block name: The Mythos of Cain       
+
+Annotation Details: <div style="overflow:scroll ; height:250px">The story of Cain and Abel appears in both the book of Genesis and a set of apocryphal texts, such as the book of Lamech.  
+
+According to tradition, Cain and Abel were the sons of Adam and Eve. Cain was a farmer and Abel a shepherd. When it came time to offer a sacrifice to God, Abel gave the best of his flock and Cain a portion of his harvest. God favored Abel’s sacrifice, which angered Cain. In a state of rage, Cain killed Abel. God confronted Cain and cursed him to wander and till the land without a fruitful harvest. God also marked Cain so that no one would kill him in his exile, thus forcing him to endure his punishment. Instead, the depiction of the death of Cain comes from the book of Lamech. Lamech is said to be both the killer of Cain and his descendant. Lamech was blind, so he only went out hunting with his son, Tubal. However, one day Tubal mistook the figure of Cain for that of a wild animal, and Lamech killed him. However, some sources report that Tubal purposely facilitated the death of Cain due to his bloodlust. This association with beasts often comes from the legends behind the mark of Cain. In the Talmudic tradition, the mark of Cain was a horn, adding another layer to Tubal’s mistake. Once Lamech realized he had slain his forefather, in his grief, he slayed Tubal as well.   
+
+The story of Cain and Abel very quickly became associated with the relationship between Christ and Judas in the New Testament. Just as Abel was a shepherd, so too was Christ a shepherd of men. The murder of Abel by Cain was one of the first acts of treachery, mirrored by Judas’ betrayal of Christ. Cain’s descendants are also doomed within Medieval theology, as it was believed that all descendants of Cain would possess his traits. Some sects believed that the descendants of Cain were more akin to, or even were, monsters and Cain quickly became known for his violent nature. Because of this, Cain was often degraded from human status to something akin to a wild beast. In works of art, this was often depicted through animal features, animal skins, ugliness, or physical deformity to contrast him with upright characters, such as Abel and Christ.   
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography: 
+
+Friedman, John Block. <i>The Monstrous Races in Medieval Art and Thought.</i> Cambridge, Massachusetts: Harvard University Press, 1981.  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000.  
+
+Mellinkoff, Ruth. <i>The Mark of Cain.</i> Berkley: University of California Press, 1981. 
+
+Zuffi, Stefano. <i>Old Testament Figures in Art.</i> Translated by Thomas Michael Hartmann. Los Angeles: Getty Publishing, 2003.  
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-49.877, 157.415, -7.906     
+Camera Location:-53.682, 161.665, -8.050    
+Camera Looks Towards:-33.489, 153.342, -2.009    
+
+Annotation block name: Original Sin        
+
+Annotation Details: <div style="overflow:scroll ; height:250px">Adam and Eve quickly abdicate their privilege in Eden, - to their o to the temptations of the Devil in the form of a serpent, who compels them to partake of the forbidden fruit in paradise. The Lord God then drove them out of Eden, and placed a cherubim with a flaming sword in the East of Eden to guard the Tree of Life.  
+
+<i>The Original Sin</i> scene departs from the leafy, natural background of the three creation scenes and moves instead into a gilded liminal space. This bare background highlights the four figures of Adam, Eve, the serpent, and the tree. Adam and Eve are still nude, and her hair is unbound and golden. Eve’s swollen abdomen gives the appearance of early pregnancy: there is a vertical line across her belly, <i>linea nigra,</i>, which often appears during pregnancy. The serpent’s open mouth seems to speak to Eve, tempting her to disobey the Lord’s commandment.  
+
+<i>The Rebuke of Adam and Eve</i> depicts the mortal figures with shame. They try to cover themselves and hunch over more than they did in their pre-fall state. God holds out his arm in reproach towards Adam, yet he responds by pointing to Eve, shifting the blame and focus to her, just as in the Genesis account.   
+
+<i>The Expulsion from Paradise</i> continues with the bare background, except for the addition of the architectural feature of the gate to Eden. The gate to Eden appears reminiscent of contemporary architecture, with a cross above the entrance. This gate, in scripture, is guarded by the cherubim, but in the mosaic, the angel is red, which indicates a seraphim. The seraphim wields his sword in defense of the gate, yet he looks mournfully at Adam, placing his hand upon Adam’s shoulder. Adam and Eve, too, look forlorn, expressing the heartbreak that comes from the Expulsion.  
+
+ By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Collins, Patrick J. “Narrative Biblical Cycles in Medieval Art and Drama.” <i>Comparative Drama</i> Vol 9 No 2 (1975) 125-146. 
+
+Genesis 3.  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000.  
+
+Urs Von Balthasar, Hans. <i>The Scandal of the Incarnation: Irenaeus Against the Heresies.</i> Translated by John Saward. San Francisco: Ignatius Press, 1990.  
+
+Zuffi, Stefano. <i>Old Testament Figures In Art.</i> Translated by Thomas Michael Hartmann. Los Angelos: Getty Publishing, 2003.
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-49.244, 165.196, -5.711     
+Camera Location:-55.324, 164.036, -7.269    
+Camera Looks Towards:-37.065, 169.819, 4.843    
+
+Annotation block name: The Textile Evidence of an East/West Influence        
+
+Annotation Details: <div style="overflow:scroll ; height:220px">The Silk Road had been established by the Romans and the Levant brought a continuous stream of Eastern artifacts and textiles into the West. Portable artifacts, such as mosaics, paintings, silks, and manuscripts, flooded Italy, influencing Italian art through a collision of East and West. In the mosaics of the Baptistery of San Giovanni, the textiles and armor demonstrates this influence.   
+
+The Lamellar armor, worn by the angels of Powers, can be dated as early as the sixth century. This armor was originally produced in Byzantium but spread to the Germanic and Crimean regions during military conquests in the Middle Ages. Lamellar armor was made of rectangular metal plates with rounded corners. These plates were held together with leather straps, which were flexible enough for use during combat, unlike later plate armor. The upper layers of these metal plates overlapped the lower, almost akin to scales. The appearance of Byzantine armor in this Florentine mosaic suggests the intermingling of Eastern and Western cultures through the medium of mosaics.  
+
+The Silk Road connected Byzantium and the Muslim world with the Christian West from the tenth to the mid-fourteenth century. Raw silks were imported to Italy from Byzantium and Inner Asia and then turned into wfine clothing, which was traded back to Byzantine and Arabic buyers. Florence, in particular, with its <i>Arte della Calimala</i>, was well known for its international reach in the sale of finished clothing. This guild was also responsible for the funding of the Baptistery of San Giovanni thus explaining the emphasis on fine garments. Textiles became a medium in art to communicate the rank, wealth, and prestige of both the depicted and the patron, as seen in the international reach of <i>Arte della Calimala</i> in the mosaics of San Giovanni. 
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Belting, Hans. “Byzantine Art among Greeks and Latins in Southern Italy.” In <i>Dumbarton Oaks Papers</i> Vol 28 (1974) 1–29.  
+
+Bugarski, Ivan. “A Contribution to the Study of Lamellar Armours.” In <i>Starinar</i> Vol 55 (2005).  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000.  
+
+Husband, Timothy B. “Ecclesiastical Vestments of the Middle Ages: An Exhibition.” In <i>The Metropolitan Museum of Art Bulletin</i> Vol 29 No 7 (March 1971). 285-290.  
+
+Jacoby, David. “Silk Economics and Cross-Cultural Artistic Interaction: Byzantium, the Muslim World, and the Christian West.” In <i>Dumbarton Oaks Papers</i> Vol 58 (2004) 197–240.  
+
+Noonan, James-Charles Jr. <i>The Church Visible: The Ceremonial Life and Protocol of the Roman Catholic Church.</i> New York: Viking, 1996. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-69.664, 163.664, -12.784     
+Camera Location:-61.911, 163.094, -11.790    
+Camera Looks Towards:-82.970, 155.391, -15.058    
+
+Annotation block name: The Death of Christ        
+
+Annotation Details: <div style="overflow:scroll ; height:250px"><i>The Crucifixion of Christ</i> pictures only Christ, and not the two thieves. Instead, he is flanked only by five figures, all adorned with halos. They are likely Mary, mother of Christ, with two female figures, and John with another female figure. Mary Magdalene does not appear to be present in the Crucifixion, as all the female figures have their hair covered, while Mary Magdalene is depicted with loose hair. There are also no instruments of the Passion present, although the stigmata are still very visible. The cross frames the <i>Lamentation of Christ,</i> while the figures hold the deposed Christ. The characters present are Mary Magdalene, with her unbound hair, Mary Mother of Christ, Mary of Cleophas, Mary of Salome, John the Evangelist, Joseph of Arimathea, and Nicodemus. In the <i>Women at the Tomb,</i> the tomb appears as a mausoleum instead of a cave-like structure. The soldiers all sleep before the tomb, as the Angel in glistening golden robes holds the linens that once wrapped around the body of Christ. The three women appear wary of the Angel, but still look upon him, heeding his words and the resurrection of Christ.    
+
+Above his head, upon the cross, they placed a sign which said, “This is Jesus, the King of the Jews.” Two thieves were crucified with him, one on either side. Longinus, the centurion with him, saw all of this and praised God, believing that Jesus was a righteous man.  
+
+Mary, mother of Jesus, Mary the wife of Clopas, and Mary Magdalene, with John, stood by while all of this happened. Mary wept for her fallen son, as his body was pierced with a spear before it was brought down from the cross. 
+
+After the Sabbath, Mary Magdalene, Mary of Cleophas, and Mary of Salome went back to the tomb of Christ to anoint his body. There was a violent earthquake, as an Angel of the Lord rolled back the stone from the tomb and sat upon it. The guards at the tomb were so afraid of him in his white clothes and appearance like lightning that they shook and fell unconscious. The Angel then spoke to the women, telling them that He had risen. He instructed them to go and get the disciples and tell them that Jesus would meet them in Galilee. The women ran to get the disciples, and on the way, they saw Jesus, whom they worshipped, as He told them that He would meet the disciples in Galilee.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+John 19:16-27.  
+
+Luke 23:26-49 and Luke 24:1-12.  
+
+Mark 15:21-41 and Mark 16:1-8.  
+
+Matthew 27:32-56 and Matthew 28:1-10.  
+
+Zuffi, Stefano. <i>Gospel Figures In Art.</i> Translated by Thomas Michael Hartmann. Los Angelos: Getty Publishing, 2003. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-65.539, 155.080, -12.594     
+Camera Location: -59.620, 160.658, -11.800   
+Camera Looks Towards:-69.576, 140.426, -14.049    
+
+Annotation block name: Massacre of the Innocents to the Capture of Christ        
+
+Annotation Details: <div style="overflow:scroll ; height:270px">Herod was irate when he realized that the Magi had outwitted him. In an effort to kill the Christ Child, Herod ordered the execution of every male child under the age of two. The streets of the cities ran red with the blood of innocent sons. However, Jesus, on his way to Egypt with Joseph and Mary, escaped this dragnet. The depiction of the Massacre of the Innocents is bloody and horrendous as soldiers pierce babies, piled up in the street. One mother, her hair unbound and her chest bared, tries to wrench her son away from one of the soldiers, but he raises his head as if to strike her. The legs of the soldiers are bloody as they walk through a slog of infants towards Herod. Unblemished and regal, Herod appears in a sharp contrast to the horror before him, as he overlooks the carnage that he has ordered. 
+
+During Passover, Jesus and his twelve disciples came together to celebrate with a traditional. While they ate, Jesus told the twelve that one of them would betray him. Jesus took the bread and, giving thanks, broke it and gave it to the disciples, telling them that it was his body. Then he gave them wine, saying that it was the blood of the covenant. He also told Peter that before the rooster would crow that day, he would deny Jesus three times. In <i>The Last Supper</i> it is Judas, in the depiction of the Last Supper, who appears in the foreground, as he kneels before Christ. He is depicted without a halo, unlike the other disciples, signifying that he will be the one who betrays Christ. The table is laden with bread and wine, however, there is also a knife next to Peter, foreshadowing his cutting of Malchus, and a fish on the table referencing both Christ’s moniker as a Fisher of Men and some of the disciples’ previous roles as fishermen.   
+
+Jesus then went to Gethsemane, the Mount of Olives, where he prayed to the Lord,  as his father, his <i>Abba</i>, asking for this burden to be taken from him. However, he knew that there was no way for the burden to be lifted from him, so he resolved to follow the will of God. Judas then came with a large crowd armed by the chief priests and elders. He kissed Jesus, as the agreed-upon sign, and greeted Jesus. Jesus replied that he ought to do what he came for. So Jesus was seized and arrested. Simon Peter grabbed his sword and took off the ear of Malchus, a servant of the high priest. However, Jesus told him to put away his sword, for those who live by the sword die by the sword. The guards took him as the disciples fled. The depiction of the Arrest of Christ is a scene filled with movement as Christ reaches out to stop Peter, who is cutting the ear of Malchus. The moment of Judas’s kiss is depicted as soldiers reach out and grab the serene Christ as weapons are lofted in the background. Regardless of the violence of the scene, Jesus lifts his left hand in blessing.   
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+John 18:1-12. 
+
+Luke 22:7-53.  
+
+Mark 14:12-50.  
+
+Matthew 2:13-18 and Matthew 26:17-56.   
+
+Zuffi, Stefano. <i>Gospel Figures In Art.</i> Translated by Thomas Michael Hartmann. Los Angelos: Getty Publishing, 2003. 
+
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-56.616, 151.817, -12.643     
+Camera Location:-56.523, 159.207, -11.982    
+Camera Looks Towards:-47.621, 138.685, -15.604    
+
+Annotation block name: The Youth of Christ        
+
+Annotation Details: <div style="overflow:scroll ; height:250px">
+The <i>Presentation in the Temple</i> illustrates the moment of Jesus’s circumcision, when Joseph brings sacrificial doves as an offering to God. Simeon and Anna, a rabbi and a prophetess, attend the ceremony. Simeon holds the Christ Child, while Anna, Mary, and Joseph look on. Anna holds a scroll with a pseudo-Hebrew script while Mary clutches her chest and reaches out for her child. Simeon, Jesus, and Mary stand under the canopy, while Anna and Joseph wait outside. Joseph holds the necessary dove for the consecration.  
+
+The <i>Dream of Joseph</i> depicts the moment when an angel comes to warn that King Herod intends to hunt down and kill Jesus. The angel urges Joseph to lead his wife and child to safety in Egypt, and to stay there until Herod’s death. The scene takes place in a rocky landscape similar to the landscape of the death of Abel. He sleeps upon the rocks, elderly, and his hair white as an angel holds a scroll which reads “Fuge in Egiptum” above him. The depiction of the Flight into Egypt continues in the rocky landscape, as the Holy Family and a guide make their way to Egypt. The donkey’s elongated neck and his buckling legs make him seem weary and like he had long been carrying a heavy load.    
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Luke 2:22-40 
+
+Matthew 2:13-23 
+
+Zuffi, Stefano. <i>Gospel Figures In Art.</i> Translated by Thomas Michael Hartmann. Los Angelos: Getty Publishing, 2003. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-47.986, 155.765, -12.845     
+Camera Location:-53.637, 161.511, -12.401    
+Camera Looks Towards:-32.895, 153.189, -16.150    
+
+Annotation block name: The Magi        
+
+Annotation Details: <div style="overflow:scroll ; height:270px">The <i>Adoration of the Magi</i> features the depiction of three kings who were notified of Christ’s birth and traveled to Bethlehem to venerate him. Here we see them before an enthroned Madonna and Child, with the star above them. This scene appears in an external space, with a tabernacle and building behind the figures. One of the Magi kneels and presents his gift to the Christ Child, while the other two stand behind him. In the Christian tradition, the three kings are Melkon, King of Persia; Balthasar, King of India; and Gaspar, King of Arabia, and the gifts they brought represent the three aspects of Christ on earth. Gold represented his majesty and royalty. Frankincense represented his priestly mission. Myrrh represented his incarnation as a mortal man destined to die and be buried.  
+
+In <i>The Dream of the Magi</i>, the kings sleep upon steps as an angel comes to them from God the Father to warn them not to go back to Herod, who wished to learn Christ’s identity in order to kill him, and instead returned home by another route.. Their actual dream is not depicted; instead, they are in a state of rest.   
+
+They traveled home to the East, bypassing Jerusalem, with the knowledge that they had seen and worshiped the prophesied one. <i>The Return Journey of the Magi</i> depicts them on the sea in a boat, which is not what is described in the scriptures, but does allow for inventive mosaic technique and even the depiction of sea creatures.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Matthew 2-2:12.  
+
+Zuffi, Stefano. <i>Gospel Figures In Art.</i> Translated by Thomas Michael Hartmann. Los Angelos: Getty Publishing, 2003. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-44.868, 164.573, -12.896     
+Camera Location:-53.088, 165.286, -12.690    
+Camera Looks Towards: -32.107, 173.216, -15.923   
+
+Annotation block name: The Birth of Christ        
+
+Annotation Details: <div style="overflow:scroll ; height:250px">The Christ cycle begins with the scene of the <i>Annunciation</i>, which subests the presence of God in a blue orb. In the <i>Annunciation</i> the angel Gabriel appeared to Mary, a virgin, to whom he told that she would bear the Holy One by the power of the Lord, even though she was a virgin. Golden rays and a dove, representing the Holy Spirit, come from the orb to Mary. The Byzantine tradition of depicting Mary outside is continued, but notably, we see neither a book or  lily, two symbols commonly associated with this moment.  
+
+In the <i>Visitation</i> a pregnant Mary visited her cousin Elizabeth, who was pregnant and would bear John the Baptist who would prefigure Christ. Both Mary and Elizabeth are depicted with halos in the Visitation, as both of their circumstances are miraculous. However, the miraculous circumstances differ as Elizabeth’s pregnancy is earthly, simply with some divine intervention, like the circumstances of Sara and Abraham, while Mary’s pregnancy is wholly divine.   
+
+Caesar called for a census, so Mary and her husband Joseph had to go to Bethlehem, but because of the census called by Caesar, there were no rooms available at any inns, so they slept in a stable where Mary gave birth to Christ and was adored by shepherds sent by angels. Once again, this scene takes place outdoors. In the Nativity, the scene takes place almost in a liminal space, as the scene combines the birth of Christ and the announcement to and adoration by the shepherds. It is Mary, not Christ, who is in the center of the composition, as Christ is in the manger with the ox, and the ass is instead in the upper corner. The depiction of the announcement to the shepherds in the same scene as the Nativity highlights the later moniker of Christ as the Shepherd of Men. The traditional inclusion of the ox and ass, which represent the books of Isaiah and Habakkuk, represents the traditional depiction of the Nativity in a stable, as the animals even lean into the manger as an angel looks over them.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Luke 1:26-2:20.  
+
+Matthew 1:18-2:23.  
+
+Zuffi, Stefano. <i>Gospel Figures In Art.</i> Translated by Thomas Michael Hartmann. Los Angelos: Getty Publishing, 2003. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-65.94, 177.994, -28.25     
+Camera Location:-58.968, 169.151, -30.836   
+Camera Looks Towards:-64.501, 190.279, -24.795       
+
+Annotation block name: Creating Monumental Mosaics      
+
+Annotation Details: <div style="overflow:scroll ; height:250px"><i>Tesserae</i> are the small tiles that are used to create mosaics and are made from a variety of materials, including marble, granite, gold, silver, Beykoz stone, painted terracotta, limestone, and, of course, glass, by far the most widely utilized material of them all.
+
+Glassmaking is a twofold process with the creation of raw glass and the refinement and creation of <i>tesserae</i>. Glassworkers flux sand (silica) to a lower melting temperature using a rod of natron and heat it in a furnace at a temperature between 1100 and 1200 degrees Celsius to form glass. Natron is either a mineral soda (sodium carbonate) or ashes from salty plants with lime (calcium oxide). This method produces raw, clear glass which was then shipped to local glassmakers skilled in the production of finished products and glassblowers who refine material locally. This production was often small-scale and localized in specialized workshops akin to factories.
+
+To create <i>tesserae</i>, the glass was treated in four steps: it was first colored, then opacified, colored with metal foil, and finally cut. To color the glass, glassblowers added different materials to the warm glass, depending on the region's specific requirements. These could include metallic copper, cobalt oxide, and sulfur, all derived from different sources. They then opacified the glass by adding crystalline material, bubbles, or saline droplets to the glass. The materials differ by region: Roman glassmakers used tin or antimony while Byzantine glassmakers used calcium phosphate with bone ash. Only glass for metallic <tesserae</i> was colored with metal foil. This complicated process relied on adhesion a procedure which utilized. the melting points of both materials to layer them.
+
+The glass was then cut into <i>tesserae,</i> which came to the construction site as colored lumps, bars, or already cut, depending on the site, the quantity, and color of the glass.
+
+The "muff" technique was most commonly used to cut <i>tesserae</i>. Glassblowers blew and shape molten glass into cylinders, and they then cut them open lengthwise into sheets of glass. They reheated the glass slowly in an annealing chamber of the furnace, which flattened the glass under its own weight to create flat sheets. The glassblower finally cut the glass to the mosaicist's specifications.
+
+Using the technical composition of the <i>tesserae</i>, historians can identify the origin of glass and the sourcing of materials to establish trade networks of both raw and finished goods. They can also track economic and social factors that contributed to the creation of grand works, such as cathedrals.
+
+The mosaicists now placed the <i>tesserae</i> to create the mosaics. Although no written evidence survives from Byzantium or the rest of the medieval world regarding the laying of mosaics. The basic method remained the same throughout the Roman and Medieval Periods. First, artisans prepared the wall by erecting scaffolds and laying plaster. Artisans adding a layer of rough lime plaster, aggregated with sand and strengthened with straw, to retain humidity and prevent the plaster from drying out quickly. They used crushed brick or pottery to waterproof the plaster and then placed flat-headed iron nails and clamps to secure it. Tesserae was then applied to the wall by two to three layers of this plaster, each ranging from five to ten centimeters in thickness, depending on the masonry and architecture. Artisans laid a final layer of fine lime plaster, between two and three centimeters thick, and then began the underdrawings. Laying mosaics was precise because once <i>tesserae</i> were laid, they could not be moved. Depending on the size and scale, a single mosaic might require up to one million <i>tesserae</i> for completion.
+
+By Margaret (Meg) Anne Coughlan
+
+Bibliography:
+
+<i>Byzantium 330-1453.</i> Edited by Robin Cormack and Maria Vassilaki. London: Royal Academy of Arts, 2008.
+
+Demus, Otto. <i>The Mosaics of Norman Sicily.</i> London: Routledge & Kegan Paul LTD, 1949.
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence. </i> Florence: Mandragora, 2000.
+
+Harding, Katherine. "The Production of Medieval Mosaics: The Orvieto Evidence." <i>Dumbarton Oaks Papers</i> Vol 43 (1989) 73-102.
+
+James, Liz. <i>Mosaics in the Medieval World: From Late Antiquity to the Fifteenth Century.</i> Cambridge: Cambridge University Press, 2017
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-49.134, 174.012, -15.780
+Camera Location:-56.011, 169.122, -13.865 
+Camera Looks Towards:-49.767, 182.169, -12.541    
+
+Annotation block name: Consequences of Crime in Renaissance Florence       
+
+Annotation Details: <div style="overflow:scroll ; height:200px"><i>The Last Judgement</i> sequence in the Baptistery of San Giovanni showcases punishments in Hell as a central consequence of condemnation. This idea of punishment in Hell after death was also reflected in the penal system of Florence.  
+
+Much like in the depiction of Hell, corporal punishments were used in both Florence and Medieval Europe as a whole. As in Hell, punishments were designed to reflect the crime, and were often sought to be symbolic in nature. Blasphemy would be punished by a glossectomy and forgery by the removal of a hand, for example. These punishments were codified and applied with minimal leeway, as with life imprisonment (<i>confinato a perpetuo carcere</i>), they were listed in penal statute books. So, too, did writers reflect the punishments in Hell to sins on earth.  
+
+Unlike modern conceptions of the penal system, life imprisonment was not a traditional punishment in Medieval Europe. Instead, a fine, physical punishment, banishment, or execution would be enacted. However, in Renaissance Florence, life imprisonment began to be instituted as a punishment, while shorter terms of stay were still the norm. Debtors’ prisons like <i>Le Stinche</i> were used to hold prisoners before trial or until fines were paid, until longer-term imprisonments were instituted. The idea of being eternally condemned to Hell was different from the punishments in Florence, as at least with those, there was the idea that they would come to an end, either through release or death.   
+
+Unlike the English Common Law System, based on precedent, Florence relied on a set of codes that outline actions and the resulting punishments. This left minimal leeway in the hands of the Judges, who instead delivered the appropriate sentence without worrying about precedence or what other judges had ruled decades earlier.  
+
+One such crime with a set punishment was treason, which was punished via public hanging. <i>The Last Judgement</i> depicted Judas in this position, who, for his betrayal of Christ, demons hang in Hell. The artist labels him in this sequence, removing any doubt as to his identity. Judas’s punishment in Hell reflects his death, as in the book of Matthew, Judas kills himself via hanging. A demon clutches another sinner to Judas’s right, who swings a sword down towards her arm, perhaps suggesting that she was a thief in life.  
+
+The frankly horrific punishments in Hell both terrify and delight, they are gut-wrenching, yet the artist worked masterfully to create these scenes. The level of detail in the piece makes it hyper-realistic, reminding the viewer of the punishments that await the damned in Medieval Florence.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Bent, George. <i>Public Painting and Visual Culture in Early Republican Florence.</i> Cambridge: Cambridge University Press, 2016. 
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Wolfgang, Marvin E. “Crime and Punishment in Renaissance Florence.” <i>The Journal of Criminal Law and Criminology</i> vol 81 No 3 (1990) 567–584. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation:-52.863, 165.464, -2.438    
+Camera Location:-56.868, 164.021, -10.173    
+Camera Looks Towards:-56.868, 164.021, 12.488   
+
+Annotation block name: Birds, Beasts, and Botany: the Importance of Nature Imagery     
+
+Annotation Details: <div style="overflow:scroll ; height:200px">A ring of animal and floral mosaics surrounds the Lantern of San Giovanni, important iconographical symbols for both Christianity and the Baptistery. Animals and what they represent were crucial within medieval art, as images carried profound theological meanings, served to illustrate religious dogma, and brought glory to God. Images of animals and Medieval Bestiaries aided in moral instruction as people strove to emulate the qualities of animals like the ox, and eschew those of the snake or scorpion.  
+
+Interwoven African lilies ring the lantern, painted blue to associate them with the purity of the Virgin Mary and the scene of the Annunciation. The lily had been a symbol of Florence over a thousand years, and have been features on the Florin, the gold coin minted in Florence and used internationally across Europe and the Levant. It appears around the lantern highlighting both the religious and civic ties of the Baptistery of San Giovanni in Florence.  
+
+Beneath the ring of lilies appears a system of vines and animals. The acanthus plant, present throughout this portion of the mosaic, had been featured in Corinthian columns and garlands of foliage in ancient temples and thus harkened back to the Roman origins of the city of Florence. Vines wrap around sixteen roundels of individualized heads, whose identities are yet unknown.  
+
+Each of the eight portions of the mosaic has a different pair of animals, highlighting the octagonal shape of the building.  
+
+The peacock, a symbol of resurrection, is the easiest of these animals to identify. The colorful unfurling of tis tailfeathers reminded early Christians of the mythical phoenix that, like Christ, was resurrected from the dead in perpetuity.  
+
+The hart is at once an allusion to the psalms and a representation of believers. Psalm 42 begins with the verse, “As the deer pants for streams of water, / so my soul pants for you, my God.” True to the text, the hart in the Baptistery mosaic drinks from a fountain, representing the faithful who yearns for the purifying waters of salvation.  
+
+The heron, too, is a significant symbol, as it is associated with Christ. Taking cues from Pliny the Elder, who asserted that the heron sheds tears when it is in pain, theologians associated it with Christ on Mount of Olives. The heron can also symbolize Christ because it is an enemy of the snake, which is commonly associated with the devil. In Medieval bestiaries, however, it represents the souls of those who dedicate their lives to the higher sphere of God.  
+
+The ram appears throughout the Bible, as an important sacrificial offering in the Old Testament. Its appearance in the story of Abraham and Isaac associated it with the ritual of sacrifice and as such became a precursor to Christ the sacrificed lamb.  
+
+The next bird is likely a mourning dove. The symbol of the Holy Spirit, Noah’s flood, and the divine presence during the Pentecost.  
+
+The Chianina cow, native to Italy, is a white cow with curved horns, native to Italy, and is one of the oldest breeds of cattle. They were primarily raised to be used like draft horses or oxen, for pulling plows and carrying heavy burdens, perhaps a metaphor for the burden carried by Christ.  
+
+The partridge is another symbol of the Church and truth. They represent selfless protection and sacrifice, as mother partridges will sacrifice themselves to lead predators away from their young. As such, they are often associated with the sacrificial love of Christ.   
+
+Finally, the ox, symbol of patience and strength, represents Christians who bear the yoke of Christ willingly and those who labor for the good of others.  
+
+The animal and floral images in the mosaic section surrounding the lantern serve as precursors to the ensuing stories, establishing themes of resurrection, strength, sacrifice, and the Church, while also emphasizing the ties of San Giovanni to its civic host.   
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:  
+
+Becker, Udo. <i>The Continuum Encyclopedia of Symbols.</i> United Kingdom: Continuum, 2000. 
+
+Ferguson, George. <i>Signs & Symbols in Christian Art.</i> Oxford: Oxford University Press, 1961. 
+
+Hassig, Debra. “Beauty in the Beasts: A Study of Medieval Aesthetics.” In <i>RES: Anthropology and Aesthetics</i> No 19/20 (1990/1991) 137-161. 
+
+Giusti, Annamaria. <i>The Baptistery of San Giovanni in Florence.</i> Florence: Mandragora, 2000. 
+
+Julien, Jacques. “The Grey Heron and his Symbolism.” Jacques Julien Photography. https://jacquesjulien.com/the-grey-heron-ardea-cinerea-in-europe/. 
+
+McNamara, Denis R. <i>Catholic Church Architecture and the Spirit of the Liturgy.</i> Chicago: Archdiocese of Chicago: Liturgy Training Publications, 2009. 
+
+“Ram” in <i>Rochester Bestiary c.1230.</i> Rochester Bestiary. British Library MS. Transcription by Dr Patricia Steward. Translation and commentary by Gabriele Macelletti. https://www.kentarchaeology.org.uk/records/rochester-bestiary-ram. 
+
+Twinning, Louisa. <i>Symbols and Emblems of Early and Medieval Christian Art.</i> London: John Murray, 1885. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation: -39.86, 173.25, -28.21     
+Camera Location: -33.734, 173.023, -29.595  
+Camera Looks Towards: -50.911, 167.047, -29.400   
+
+Annotation block name: The Doors of the Baptistry of San Giovanni: The Door of Andrea Pisano and Civic Ties   
+
+Annotation Details: <div style="overflow:scroll ; height:250px">  The Baptistry of San Giovanni has three famous doors, and the south door by Andrea Pisano, depicts the life of John the Baptist, patron saint of Florence. The reliefs highlight the ties that bound the rite of Baptism to John the Baptist and the figure of John the Baptist to the city he protected.   
+
+The International Cloth Merchant’s Guild commissioned Andrea Pisano to create twenty-eight panels that were to be appended to the south doors in 1330. They were completed and installed in 1336.   
+
+The south doors of the Baptistery were particularly important to the residents of the city. Florentines entered the building through this portal during the Baptismal procession, which culminated in the act of baptism and resulted in the conferral of citizenship on the infant receiving baptism. Once this sacred ritual of baptism was finished, the entourage of friends and family exited the Baptistery through those same south doors in which they entered, providing a cyclical experience of a consistent visual catalog tied to the very act of baptism itself and the city of Florence. The scenes on the doors that faced the piazza reminded passersby of their own experiences as witnesses of the baptisms of their children, grandchildren, and godchildren.  Baptism was a binding force of Florentine society that both welcomed children into the citizenry of Florence and created social bonds and networks of patronage between families through the selection of godparents.   
+
+Andrea Pisano devoted twenty of the twenty-eight bronze panels to scenes from the life of John the Baptist, many of which replicate the mosaic images that appear on the ceiling inside the building that were produced some thirty years earlier. These panels, that should be read from top to bottom and from left to right, frame John the Baptist as a prophet and martyr. The left wing’s panels all refer to the public life of John the Baptist and his preaching, while the right wing depicts his martyrdom.   
+
+The bronze panels are essential to understanding the door as religious and civic imagery. The intersections of the panels also include lion heads, which symbolize the lines of David and Judah, and are supported by eight panels at the base that represent allegorical references to the Cardinal and Theological Virtues (fortitude, temperance, faith, and prudence united with faith, hope, charity, and humility). The Virgin Mary, namesake of the new cathedral that was then in mid-construction, traced her lineage through to the house of David, who in turn was used by Florentines as a symbol of their city. The virtues, labeled in Latin, referred to the qualities Florentines expected their civic leaders to embrace and embody while governing them and their city. The baptistery was a sacred space, a social space, and a civic space all rolled into one, with the figure of John the Baptist, patron saint of Florence, as the link that connected these three elements together.  
+
+By Margaret (Meg) Anne Coughlan  
+
+Bibliography:   
+Bent, George R. <i>Public Painting and Visual Culture in Early Republican Florence.</i> Cambridge: 2016. 250, 255, and 257.  
+Brucker, Gene A. <i>Florence, the Golden Age, 1138-1737.</i> New York: 2007. 88.   
+Mark 6:14-29.  
+Matthew 14:1-12.  
+Paolucci, Antonio. <i>The Origins of Renaissance Art: The Baptistery Doors, Florence.</i> trans. Françoise Pouncey Chiarini. New York: 1996. 27, 30, and 55.   
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation: -43.25, 171.93, -29.72     
+Camera Location: -31.587, 171.810, -30.805   
+Camera Looks Towards: -65.000, 163.931, -27.448 
+
+Annotation block name: John the Baptist: A Hagiography      
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> John the Baptist was born to Zachariah and Elizabeth, and the miraculous circumstances surrounding his birth continued throughout his lifetime, providing a hagiography that explains his revered status as a saint. Zachariah was a priest and his elderly wife Elizabeth, the cousin of a teenaged girl named Mary, was well past childbearing age. When the angel Gabriel came to tell Zachariah that his wife would bear a son, Zechariah doubted him and thus was struck dumb by the angel until his son was born. When the child was born, he was circumcised and named John by the mute Zachariah, who scratched the name on a tablet.  
+
+John spent his life as an ascetic, preaching and baptizing his followers, among whom was his second cousin Jesus; he reputedly wore a shirt of camel hair and scavenged off the land, eating little more than locusts and honey. Christ’s first appearance in the Gospels as an adult revolves around his meeting with John at the River Jordan after wandering alone in the desert. While baptizing his adherents, John sees the Dove of the Holy Spirit floating above the head of Jesus as he emerges from the wilderness and announces, “Behold – the Lamb of God” (<i>Ecce Agnus Dei</i>), signifying both John’s recognition that Christ is the chosen one and the ultimate sacrifice he is destined to make. John then baptizes Jesus in the river, purifying Christ in preparation for his ministry.  
+
+John’s demise occurred at the same time as Christ’s. The Baptist was imprisoned by the Jewish king Herod, who objected to John’s condemnation of him for marrying Herodias, the widow of Herod’s brother. Because of Herod’s reluctance to execute the popular prophet, Herodias conspired with her daughter, Salome, to force his hand. At a special banquet at court, Salome volunteered to perform a special dance on the condition that Herod compensate her with anything she demanded. Upon completion of the dance, Salome asked for the head of John the Baptist on a platter. Herod regretted his promise, but as he was a king before important guests, he could not take his words back, and ordered the execution of John the Baptist. The severed head was presented to Salome and Herodias at the banquet, to the horror of everyone at the table.   
+
+According to the Bible, the body was then buried, and the news was relayed to the still-living Christ. <i>The Golden Legend</i> differs significantly from this point: Julian the Apostate supposedly took the bones of John the Baptist and burned them before throwing the ashes to the wind over the fields. However, the finger that pointed to Christ before his baptism failed to burn and was salvaged by his followers. One legend holds that the right index finger of John was brought to Normandy and preserved as a relic in a church specially constructed for it. An alternative myth specified that the finger was kept in Byzantium and ultimately sold to Pope John XXIII, who deposited the relic in the Florentine monastery of S. Maria degli Angeli in 1413.   
+
+As for the head of John the Baptist, Herodias buried it in Herod's palace as he feared that the prophet would live again if his head remained with his body. However, the location of the head was revealed to two monks in a vision and they retrieved and restored the relic to the Church. Emperor Theodosius then brought the head to Constantinople to a church that was prepared for it at the end of the fourth century.   
+
+By Margaret (Meg) Anne Coughlan   
+
+Bibliography:  
+de Voragine, Jacobus. <i>The Golden Legend: Readings on the Saints Vol 1.</i> Trans. William 	Granger Ryan. New Jersey: 1993. 329-330.    
+de Voragine, Jacobus. <i>The Golden Legend: Readings on the Saints Vol 2.</i> Trans. William 	Granger Ryan. New Jersey: 1993. 132-33, 135, and 137-39.   
+Matthew 3:1-17 and 4:1-12.   
+Luke 1:5-80 and 3:2-16.      
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\   
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation: -39.86, 164.25, -28.21     
+Camera Location: -33.734, 173.023, -29.595  
+Camera Looks Towards: -50.911, 167.047, -29.400    
+
+Annotation block name:  John the Baptist and Florence: The Civic and Economic Ties     
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> John the Baptist, cousin of Christ, was chosen as the patron saint of Florence, and he was soon engrained in essential elements of the fabric of the city. The ancient city had venerated Mars, the god of war, as its protector, but after the vast conversions to Christianity in the fourth century, Florentines turned to Saint Zenobius, its first bishop, and Saint Reparata, virgin saint, as its patrons. Only during the thirteenth century did the city adopt John the Baptist as patron saint, and this was probably because both Zenobius and Reparata were associated with the former feudal lords of the city. John the Baptist gave Florence, a new republic in 1282, a fresh start with a new patron saint.   
+
+There were multiple reasons for his selection as patron saint. As the second cousin of Jesus Christ, John represented a direct link to the foundations of the faith. The Baptist already had a small cult in the city by 1282 and the eleventh-century Baptistery bore his name. He was also tied to Mars, which was appealing to Guelphs who wanted the city to expand its territorial claims through military might: John the Baptist offered legitimacy to the people of Florence, tying them to Mars, Rome, the republican government that presided over its Mediterranean expansion in antiquity. This connection to the past, to Rome, and to the Historical Jesus made John the Baptist an exceptional choice as patron saint of the new Florentines republic.   
+
+As time passed, Florentines attempted to define themselves with qualities traditionally associated with John the Baptist: courage, moral rectitude, and stalwart faith. Whether they actually succeeded in doing so is a matter of debate.   
+
+John the Baptist was also connected to the economic prowess of Florence in symbolic ways. The <i>Arte della Seta</i> (the silk guild), adopted John as its patron saint, giving it the right to emblazon their products with his image. It has been argued that the tessellated pattern of the Baptistery’s flooring was intentionally used in the design of elegant silk garments made by the city’s silk merchants. Foreigners surely knew of John’s ties to Florence, as the florin – the prevailing currency of international exchange in early modern Europe - was struck with the image of the city’s lily on one side and the figure of John the Baptist on the other. As Florence's trade and international banking network expanded across the continent, the florin was visually associated with the city and its patron saint, connecting them all in a cycle of co-dependent familiarity.   
+
+By Margaret (Meg) Anne Coughlan   
+
+Bibliography:  
+Brucker, Gene A. <i>Florence, the Golden Age, 1138-1737.</i> New York: 2007. 88 and 247.   
+Chrétien, Heidi L. <i>The Festival of San Giovanni: Imagery and Political Power in Renaissance Florence.<i/> New York: 1994. 1,15, 19-20, and 23-26.   
+de Voragine, Jacobus. <i>The Golden Legend: Readings on the Saints Vol 1.</i> Trans. William Granger Ryan. New Jersey: 1993. 330.   
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation: -40.69, 164.19, -30.31    
+Camera Location: -33.734, 173.023, -29.595  
+Camera Looks Towards: -50.911, 167.047, -29.400  
+
+Annotation block name: The Feast Day of San Giovanni   
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Daily life ground to a halt on July 24th as the citizens of Florence celebrated the life and death of John the Baptist, the city's patron saint. The festival began with the <i>mostra</i>, as the city, its guilds, and people dressed in their finest apparel, which reflected well on their private households and their professional guild associations but also demonstrated their reverence for John the Baptist. Toted by these well-appointed Florentines were a host of relics and holy orders, paraded through the city on floats led by a procession of flag bearers representing the sixteen <i>gonfalone</i> (neighborhoods) of Florence to the Baptistery of San Giovanni. This procession included members of individual patrician households who would make an offering at the Baptistery. This formal procession brought the different parts of the city together in a pan-Florentine celebration intended to diffuse any animosities between and among the guilds, neighborhoods, clergy, and government.  
+
+The festival was closed by a horserace called a <i>palio</i>, with each <i>gonfalone</i> (banner) supporting a horse that represented the neighborhood, adding a healthy dose of competition to the day’s proceedings. This race began at the Ponte alle Mosse and ended at the Piazza San Pier Maggiore. It was a complicated route, with many curves through the city streets that annually resulted in several casualties.  The winner was rewarded with a <i>palio</i>, a silk banner upon a pole, that the winning <i>gonfalone</i> celebrated with pride until the next year’s race.  
+
+These large-scale spectacles were not the only entertainment at the festival, as many smaller events occurred simultaneously. Confraternities and guilds often performed or funded mini dramas for people to watch. Jousts were also popular, as well as a ball game called <i>calcio</i>, dating back to the Romans and Greeks, which tied the festival of San Giovanni to the city’s ancient roots. Bonfires, a remnant of the festival of Mars, were lit throughout the city with <i>luminare</i>, a decorative light display popular in Europe before the introduction of fireworks. Even the Piazza del Duomo was decorated with blue canopies adorned with silver stars.   
+
+The Feast Day of San Giovanni carried with it symbolic importance for the residents of Florence, and sometimes it came to be the chosen moment for an expression of public dissent. The parade of 1343 included a procession of laborers who had recently splintered from the potent Wool Guild to form their own nascent trade organization. The appearance of these separatists so outraged the public that it led to the downfall of the sitting <i>podestà</i>, Walter of Brienne, the so-called Duke of Athen. In 1378, a <i>coup d’état</i> led by the Ricasoli, Castiglionchio, and Albizzi families culminated in the general uprising known as the Ciompi Revolt, which ousted the entire republican apparatus and briefly resulted in a government formed by lower class workers. The revolt was suppressed – its ideals appropriated by opportunists and its leaders ultimately overthrown by a counter-revolt led by the local aristocracy – but the memory of this class-based rebellion lived on in the collective memory of the city for decades. The importance of the Feast Day of San Giovanni, both literally and symbolically, cannot be exaggerated.  
+
+By Margaret (Meg) Anne Coughlan   
+
+Bibliography:  
+Brucker, Gene A. <i>Florentine Politics and Society 1343-1378,</i> New Jersey: 1962. 363.   
+Chrétien, Heidi L. <i>The Festival of San Giovanni: Imagery and Political Power in Renaissance Florence</i> New York: 1994.  5-6, 32-35, 37, 41, and 42-44.   
+Hibbert, Christopher. <i>Florence: The Biography of A City</i>, New York: 1993. 127.   
+Lucas-Dubreton, Jean. <i>Daily Life in Florence In the Time of the Medici</i>, Trans. A. Lytton Sells. New York: 1961. 135.   
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\   
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation: -71.101, 155.132, -27.995     
+Camera Location: -78.776, 157.127, -31.307
+Camera Looks Towards: -61.342, 161.854, -29.189 
+
+Annotation block name: The Doors of the Baptistry of San Giovanni: The North Door of Lorenzo Ghiberti   
+
+Annotation Details: <div style="overflow:scroll ; height:300px"> Lorenzo Ghiberti constructed two of the Baptistery’s three doors, with the first being this North door depicting the life of Christ and important church fathers. The <i>Arte del Calimala</i> (the International Cloth Merchant’s Guild) commissioned Ghiberti in 1403 to compliment Andrea Pisano’s south door. These bronze reliefs, dedicated to scenes from the life of Christ and representations of the early Church Fathers and the Four Evangelists, mirror some of the scenes from the Baptistery’s ceiling, produced in mosaic one hundred years earlier. They were originally placed in the East doorway of the Baptistery facing the cathedral but were then moved to the North portal to make way for Ghiberti’s more elaborate and stylistically innovative <i>Gates of Paradise</i> that were installed in 1452.   
+
+Ghiberti’s program focuses on scenes from the Infancy and Passion of Christ. As with Andrea’s south doors, Ghiberti produced twenty-eight panels in quatrefoil frames with two rows of effigies at the bottom. These figures represent the early Church Fathers (Augustine, Ambrose, Gregory, and Jerome) and the Four Evangelists. Unlike Andrea’s program, which must be read from top to bottom, Ghiberti’s cycle of bronze panels must be read bottom to top, culminating in the Passion sequence at the top of the door, looming over the viewer.  
+
+Ghiberti’s program focuses on the idea of Christ as savior and redeemer of mankind. The inclusion of Church Fathers and the Evangelists emphasizes this as the Evangelists recounted his acts and the Church Fathers elaborated upon doctrines of Christian orthodoxy, including Christ’s  dual nature as both God and man. Forty-eight heads of prophets and prophetesses are at intersections of the bronze panels, reminding viewers of the promise of the Messiah and his sacrifice. This visual reminder of Christ and his sacrifice served to remind the viewer of the purpose of the Baptistery, which was at once to bring infants into both the covenant of Christ and the civic fold of Florence, creating a cohesive visual theme for the Baptistery of San Giovanni.   
+
+By Margaret (Meg) Anne Coughlan   
+
+Bibliography:  
+
+Bent, George R. <i>Public Painting and Visual Culture in Early Republican Florence.</i> Cambridge: Cambridge University Press, 2016. 255-56.   
+Brucker, Gene A. <i>Florence, the Golden Age, 1138-1737.</i> New York: Abbeville Press, 2007. 88.   
+Paolucci, Antonio. <i>The Origins of Renaissance Art: The Baptistery Doors, Florence.</i> Trans. Françoise Pouncey Chiarini. New York: George Brazier, 1996. 75.    
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Baptistery/Baptistery.html     
+
+Location of Annotation: -50.026, 174.685, -28.162
+Camera Location: -54.356, 168.443, -28.481
+Camera Looks Towards: -51.065, 174.496, -29.793
+
+Annotation block name: Tomb of Baldassare Cossa (or Coscia), Pope John XXIII (1426-1428)
+
+Annotation Details: <div style="overflow:scroll ; height:250px">Donatello and Michelozzo began work on the tomb for the deposed Pope John XXIII, who had previously gone by the name of Baldassare Cossa or Coscia, sometime in 1425 or 1426. Cossa was a Neapolitan nobleman who, in 1410, had been elected one of three sitting popes during the Great Schism of the early fifteenth century. His reign ended in 1415 when the Council of Constance met to rescind the claims of all three competing pontiffs and elect a single, new authority that achieved general consensus. Cossa wound up in Florence, largely due to Medicean connections, where he died unexpectedly in 1419 at the age of 60. After some negotiations, the Arte della Calimala initiated the lengthy project to create a tomb suitable for the only pope buried in Florence. The bronze and marble sculpture of Cossa was completed in the spring of 1428 and marks the only sepulcher in the church of S. Giovanni, the Baptistery of Florence.  
+
+Problematically, Cossa, a foreigner, had died without a designated burial chapel or tomb. His bequest to the Baptistery of his most prized possession – the relic of St. John the Baptist’s index finger – suggests his intent to be buried in S. Giovanni. At first the executors of his will, who included Giovanni de’Medici and Niccolò da Uzzano, wished to build a chapel in the octagonal building, but in 1421 Palla Strozzi and other Cloth Guild officers dismissed the proposal, opting instead for a less conspicuous monument.   
+
+The first piece of this monument – a beautiful marble tomb slab – was installed in 1424 to mark the spot, and on it was etched the inscription, JOANNES QVONDAM PAPA XXIIIus. OBIIT FLORENTIE ANNO DOMINI MCCCCXVIIII XI KALENDAS IANVARII (“Here lies John XXIII, who was pope, and who died in Florence on the eleventh Kalend of January, 1419”). This seemingly benign epitaph allegedly rubbed the sitting pope the wrong way, for Martin V, the man who had overseen John’s deposition, interpreted its message to suggest that his predecessor had never actually relinquished his post, in turn suggesting that it was illegally taken from him. Martin seems to have felt threatened by its implications, even to the point of worrying about whether the powerful Florentines would accept his own claim to the seat of St. Peter. Martin demanded that this inscription be altered to clarify Cossa’s title as “Cardinal,” but his appeal was rejected by the Florentines with little debate.   
+
+There was for some time a debate over who or what corporate body commissioned the bronze effigy of Baldassare Cossa from Donatello and Michelozzo after the former pope’s death in 1419. The Signoria had designated the Baptistery as his final resting place, and the absence of any other tombs in S. Giovanni suggests that, in so doing, the government also took on the responsibility of paying for the tomb. Alternatively, Cossa’s nephews – who had received an abundant inheritance from their papal uncle – could have funded the marble sepulcher and its bronze effigy. However, copies of now-lost records from the Arte della Calimala confirm their role as patrons of the tomb, which seems to have cost them somewhere between 800 and 1000 florins.  
+
+Donatello had entered into a partnership with the goldsmith and future architect Michelozzo in 1425, and the two of them combined their skills to complete a number of projects over a ten-year period. Michelozzo’s tax declaration of 1427 specifies that the two were still working on the Cossa tomb project that summer, and that 600 of the 800 florins due to them had already been deposited into their accounts by the executors of Cossa’s estate. Michelozzo, however, could not say with confidence when the monument would be finished; in fact, it would take another year for the team to complete their work. In June 1428, the tomb was finally installed.   
+
+Despite their partnership, Donatello received most accolades. The brilliant tomb emerges from its wall niche, glowing from the sheen of the unusual combination of the two materials. The marble and bronze ensemble is framed by two massive columns that form its borders on either side. At the base appear the three Theological Virtues of Faith, Hope, and Charity, each one carved in stone and occupying a classicizing niche articulated by fluted pilasters topped with Corinthian capitals and scallop shell arches behind them. Cossa’s coats of arms – including the papal shield of the Shield of St. Peter – separate the virtues from the actual tomb above, upon which one still sees the epitaph that so annoyed Martin V in 1424. Above the tomb appears the bronze figure of John XXIII, with his head adorned with a Bishop’s miter and resting on a pillow. Cossa, covered in a billowing robe that replicates the folds of magnificent draperies for which the International Cloth Merchants’ Guild was so famous, lays across a bed adorned with lion’s legs (an allusion, one believes, to the Throne of Wisdom occupied by King Solomon in the Old Testament). Above him hangs an ornate marble canopy, tinted with bronze fringes, that reveals the Virgin Mary holding either an image of the Christ Child, Cossa’s soul (in the form of a miniature adult), or a reference to both. There was no other sepulcher like it in Florence, or anywhere else in Italy: it is truly a tomb fit for a King – or, rather, in this case, a Pope.   
+
+Donatello’s naturalistic rendering of fabrics, figures, architectural motifs, and Cossa’s face marks a transitional moment in European tomb monument history. The fabric dangling from the baldacchino folds voluptuously and billows out from where it has been bunched together, additionally serving as a distinct symbol of John’s title and position, for all pontifical processions included a canopy that was held over the pope’s head as he was carted through the streets. Architectural elements only recently employed by Filippo Brunelleschi] in the Old Sacristy of S. Lorezno and employed by Donatello in his magnificent sculpture of <i>S. Louis of Toulouse</i> in the niche of Orsanmichele maintained by the Parte Guelfa bring into this essential space a modern taste that emphasizes the very latest trends in the visual arts. But most importantly, Baldassare Cossa’s facial features seem to be as lifelike a portrait as had been sculpted since the days of the ancient Roman Republic, with meticulous attention paid to the overall facial proportions and details of skin, whiskers, and brows. Perhaps Donatello lavished careful attention to Cossa’s features knowing that viewers would consider them in their fullest capacities, such as the tilt of Cossa’s head down and to the right, towards the middle of the Baptistery where the audience would stand and inspect Donatello’s work.   
+
+The tomb effigy of Baldassare Cossa, the former Pope John XXIII, was not Donatello’s first public commission, nor would it be his last; yet its naturalistic likeness to one of Europe’s most important figures makes it one of Donatello’s best, although oddly underappreciated, bronze sculptures in Florence.  
+
+By George Bent  
+
+Bibliography:   
+Lightbown, R.W. <i>Donatello and Michelozzo: An Artistic Partnership and its Patrons in the Early Renaissance</i>, vol.2 (London: Phaidon, 1980).  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+ 
+
+ 
+
+ 
+

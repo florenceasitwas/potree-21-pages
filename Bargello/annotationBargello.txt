@@ -1,0 +1,360 @@
+
+
+Keys- A line break should be added as <br><br>
+	  To make a word Italisized <i>What you want Italisized here</i>
+	  To make a word Bold <b>What ever you want bold here</b>
+	  If you want a scroll wheel then add <div style="overflow:scroll ; height:650px"> before the text
+
+
+ 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html 
+
+Location of Annotation: 20.25, -5.44, 9.06 
+Camera Location: 23.436, 5.939, 12.388 
+Camera Looks Towards: 22.906, -1.256, 10.774 
+
+Annotation block name: Magdalene Chapel 
+Annotation Details: <div style="overflow:scroll ; height:260px">Once used as the final holding place for prisoners awaiting execution, the Magdalene Chapel features themes of repentance, forgiveness, punishment, and judgement. Also known as the Cappella del Podestà, the chapel occupies the northeast corner of the Bargello’s primo piano. The palace served as the main office for the Podestà, a foreign-born magistrate entrusted to keep peace in the city of Florence. After trials were conducted inside the building, those who were sentenced to death prepared for their execution inside chapel with the assistance of members of the Confraternity of the Neri. Responsible for catering to the souls of the condemned, the confraternity recited prayers and used images to encourage repentance.  
+
+The Magdalene chapel features four elaborate fresco cycles displaying scenes of <i>Heaven</i> (east wall), <i>Hell</i> (west wall), <i>Life of Mary Magdalene</i> (north side wall), and <i>Life of John the Baptist</i> (south side wall). The frescoes were first discovered in July of 1840 under a layer of whitewash. Originally attributed to Giotto due to similarities with his paintings in the Arena Chapel, the authorship of the frescos remains a debated topic due to the poor condition of the paintings, with some areas entirely faded. The frescos were most likely produced between 1322 and 1337, and Vasari mentioned them in the <i>Lives of the Most Excellent Painters, Sculptors, and Architects.</i> 
+
+The Magdalene Chapel frescos once served as an aide for the Neri Confraternity to guide the criminals towards penance. By drawing on themes of judgement and contrasting the fates of Heaven and Hell, the Neri presented a clear choice for prisoners contemplating imminent death. However, the frescos on the side walls featuring scenes from the lives of Mary Magdalene and John the Baptist were also used as vehicles for the confraternity to guide criminals toward salvation. Mary Magdalene’s famous conversion after encountering Christ drew clear examples for condemned criminals as they were urged to repent in their final hours. Meanwhile, as the patron saint of Florence and primary intercessor during the Last Judgement, John the Baptist’s placement alluded to the Florentine penal system and the legitimacy of harsh justice in the name of the state.  
+
+By Alexandra Byler 
+
+Bibliography: 
+Bent, George. <i>Public Painting and Visual Culture in Early Republican Florence.</i> New York: Cambridge University Press, 2016: 107, 77.  
+Chiodo, Sonia. “A Tribute to Dante: The Giottesque Portrait in the Palazzo del Podestà in Florence.” <i>New Horizon Trecento Italian Art,</i> (2020): 171. 
+Elliott, Janis. “The Judgement of the Commune: The Frescoes of the Magdalen Chapel in Florence.” <i>Zeitschrift Für Kunstgeschichte</i> 61, no. 4 (1998): 509, 514, 515. 
+Holmes, Megan. <i> The Miraculous Image in Renaissance Florence.</i> New Haven and London: Yale University Press, 2013: 75, 72. 
+Yunn, Amee. <i>The Bargello Palace: The Invention of Civic Architecture in Florence. </i> London and Turnhout: Harvey Miller Publishers, 2015: 15, 184. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html 
+
+Location of Annotation: 20.15, -5.44, 8.63 
+Camera Location: 20.150, -5.440, 8.630
+Camera Looks Towards: 22.906, -1.256, 10.774 
+
+Annotation block name: Confraternity of the Neri 
+Annotation Details: <div style="overflow:scroll ; height:230px"> Founded in 1343, the Confraternity of the Neri tended to the spiritual and physical needs of criminals during their last hours after they were condemned to death by the Florentine government. The Neri’s various tasks included joint prayer sessions, persuading the condemned to seek mercy, and brought crucifixes and spiritual books to prisoners. Also known as the Compagnia alla Croce al Tempio, the confraternity stayed with criminals during their last sleepless night in the Bargello’s Magdalene Chapel to help administer their last rites and hear their confessions. Then, the brotherhood guided the condemned as they made their way to the executioner’s grounds outside the city walls. During this procession, confraternity members walked with criminals and made stops at important outdoor tabernacles to permit them to seek forgiveness publicly before continuing on to the oratory of Santa Maria della Croce al Tempio where the condemned heard their last mass. They were then executed. 
+
+According to the Confraternity of the Neri’s record book <i>Libri varie,</i> the brotherhood’s roots date back to 1343 when a group of boys had the idea to form a lay brotherhood after praying before an image of the Virgin Mary. According to legend, this image may have been the <i>Madonna dei Malcontenti</i>, a street tabernacle on the Via dei Malcontenti near the church of San Giuseppe. As the boy prayed, Mary planted the idea in their head to form the confraternity. It took another thirteen years to fulfill her wishes and the <i>Madonna dei Malcontenti</i> became a pivotal stop on the criminal processional route.  
+
+Active between fourteenth and seventeenth centuries, the Confraternity of the Neri grew in size. The brotherhood secured enough funding to build Santa Maria della Croce al Tempio, an oratory outside the Santa Croce gate (the Piazza Beccaria, where the Florentine Archives are presently located). The church became the last stop on the execution processional route where the condemned heard their last mass. The Neri then walked prisoners to the gallows to receive their punishment.  
+
+By Alexandra Byler 
+
+Bibliography: 
+Bent, George. <i>Public Painting and Visual Culture in Early Republican Florence.</i> New York: Cambridge University Press, 2016: 28, 72, 75-77, 109. 
+Elliott, Janis. “The Judgement of the Commune: The Frescoes of the Magdalen Chapel in Florence.” <i>Zeitschrift Für Kunstgeschichte</i> 61, no. 4 (1998): 514.
+Freedberg, David. <i>The Power of Images: Studies in the History and Theory of Response.</i> Chicago: University of Chicago Press, 1991: 5, 9.  
+Holmes, Megan. <i>The Miraculous Image in Renaissance Florence.</i> New Haven and London: Yale University Press, 2013: 68. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+ 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+ 
+
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html 
+
+Location of Annotation: 19.49, 1.60, 8.71 
+
+Camera Location: 23.289, 5.487, 7.140 
+
+Camera Looks Towards: 13.444, -20.447, 11.343
+
+Annotation block name: Mary Magdalene Frescos 
+Annotation Details: <div style="overflow:scroll ; height:275px"> The south wall of the Bargello’s Magdalene Chapel displays scenes from the life of Mary Magdalene. Her unusual story highlighted the importance of redemption for those in dire need of comfort. 
+
+The scenes on the top tier of the south wall illustrate <i>Christ in the House of Simon,</i> <i>Resurrection of Lazarus,</i> and <i>The Marys at the Sepulcher.</i> The lower register displays <i>Noli me Tangere</i>, <i>St. Mary Magdalene in Prayer</i>, an <i>Angel Offering Her a Jar</i>, <i>The Communion of St. Mary Magdalene</i>, and <i>The Benediction and Assumption of St. Mary Magdalene.</i> These scenes focus on both biblical and hagiographical stories of Mary Magdalene.  
+
+<i>Christ in the House of Simon</i> tells the story of the Magdalene washing Jesus’s feet with her tears, an act that resulted in Christ’s forgiveness of her sins. The scene depicts four men – with three of them adorning a halo – sitting at a dinner table. Christ sits on the right overlooking the rest of the table, while the figure of Mary Magdalene weeps underneath as she washes his feet. Following the chapel’s theme of redemption, the panel explains Christ’s parable of forgiveness shown through acts of love for the Lord.  
+
+The <i>Resurrection of Lazarus</i> recounts the story of Lazarus, whom some believe to be the brother of Mary Magdalene, raised from the dead. The scene illustrates Jesus outside and flanked by other haloed figures including Lazarus’ sisters Mary and Martha. Jesus raises his hand to presumably Lazarus’ tomb where he will cry out “Lazarus, come out.” At the moment, Lazarus walks out of the tomb and Jesus instructs the people to unbind him of his wrapping. The <i>Resurrection of Lazarus</i> previews Jesus’ defeat of death: a relevant message to the criminals also facing death. The scene demonstrates both the strength of believing in God and the turning point for Jesus’ crucifixion. Jesus mentions numerous times to Lazarus’ sisters that belief in God leads to one seeing the glory of his abilities. The miracle of Lazarus’ resurrection coincided with Christ’s return to Jerusalem with knowledge of his impending death.  
+
+<i>The Marys at the Sepulcher</i> illustrates the Magdalene discovering Jesus’s disappearance from his tomb, and <i>Noli me Tangere</i> depicts Jesus’s apparition before Mary and his request to spread the news of his resurrection. An angel stands in front of the three Marys in <i>The Marys at the Sepulcher</i>. An open tomb is displayed behind the angel, indicating that the Marys have discovered Jesus’ miraculous rise from the dead. While there are large chunks missing, <i>Noli me Tangere</i> illustrates Mary Magdalene with a halo surrounding her long red hair, reaching towards a figure clothed in white, presumably Jesus. According to the Gospel of John, Mary Magdalene originally thinks the figure is a gardener. When she realizes Jesus is the man and white robes, she reaches out to touch him but he said “Noli me tangere (Do not touch me)” as he has yet to ascend into heaven. After telling her to spread the word, Mary runs to spread the news of Jesus’ resurrection with his disciples.   
+
+Other scenes on the lower fresco cycle, like <i>Mary Magdalene in Prayer</i> and <i>Assumption of St. Mary Magdalene</i>, display Mary as a naked hermit before her confessors and her death and assumption into heaven. By showcasing Mary Magdalene’s journey from sinner to saint, these scenes present a case for redemption. Since condemned prisoners spent their last night in the Magdalene Chapel, the fresco cycle indiscreetly showcased a possible avenue for their redemption, as viewers were invited to see Mary Magdalene, patron saint of repentant sinners, as an exemplum for them to follow.  
+
+By Alexandra Byler 
+
+Bibliography: 
+
+Bent, George. <i>Public Painting and Visual Culture in Early Republican Florence.</i> New York: Cambridge University Press, 2016: 109-110. 
+Chiodo, Sonia. “A Tribute to Dante: The Giottesque Portrait in the Palazzo del Podestà in Florence.” <i>New Horizon Trecento Italian Art,</i> (2020): 180. 
+Elliott, Janis. “The Judgement of the Commune: The Frescoes of the Magdalen Chapel in Florence.” <i>Zeitschrift Für Kunstgeschichte</i> 61, no. 4 (1998): 514.
+<i>The Holy Bible: New Revised Standard Version Catholic Edition, John</i> 11:1-57, 20: 1-23. 
+<i>The Holy Bible: New Revised Standard Version Catholic Edition, Luke</i> 7:11-17, 36-50, 24: 1-12.  
+Yunn, Amee. <i>The Bargello Palace: The Invention of Civic Architecture in Florence. </i> London and Turnhout: Harvey Miller Publishers, 2015: 184-186.  
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html 
+
+Location of Annotation: 25.76, -5.11, 9.01
+Camera Location: 22.646, 4.983, 6.810
+Camera Looks Towards: 24.469, -9.177, 9.485
+
+Annotation block name: John the Baptist Frescos 
+Annotation Details: <div style="overflow:scroll ; height:275px"> The lateral wall on the north side of the Bargello’s Magdalene Chapel displays scenes from the life of John the Baptist, who was declared patron saint of Florence in the thirteenth century and was often depicted as an intercessor in Last Judgement scenes. He also appeared in images pertaining to justice, injustice, and the plight of prisoners in Florentine art. The Magdalene Chapel’s illustrations of John the Baptist were probably included in the artistic program to relate back to Florence’s penal system, an appropriate theme for the chapel used by condemned prisoners on the eve of their executions.  
+
+The upper left side of the chapel’s north wall contains traces of what was probably a depiction of the <i>Birth and Naming of the John the Baptist</i>, which were only discovered during a restoration in 1937. While the image’s condition has suffered tremendously, the scene still depicts fragments of figures who most likely included Zacharias, the Virgin Mary’s sister Elizabeth, and a baby Saint John. The fresco illustrates a scene from the <i>Gospel of Luke</i>  where the Angel Gabriel appears and tells Zacharias that he and his wife Elizabeth will have a child who they will name John. Zacharias is left in shock because Elizabeth was thought to be too old to have a child. During Gabriel’s appearance to Zacharias, the angel foretells John’s role in bringing people back to the Lord. Gabriel will also be the one to appear to Mary to tell her she will become pregnant with Jesus, and during the apparition he also shares the news of Elizabeth’s pregnancy.  
+
+Beneath the image of his birth appears the scene of the <i>Feast of Herod,</i> the biblical recounting of the Baptist’s death. The <i>Gospel of Mark</i> describes the story of Herod, the ruler of Galilee, imprisoning John after he condemned Herod for marrying his brother’s wife, Herodias. While his wife held a grudge against John and wanted him dead, Herod did not want to kill John because he was known as a holy figure. However, on Harod’s birthday, his daughter preformed a dance for the guests and gave his daughter one request as a gift. After asking her mother what she should ask for, out of loyalty she told him she wanted the head of John the Baptist. Harod reluctantly ordered John’s execution, and his minions brought to him the Baptist’s head on a silver platter. While damaged, figure in front of the fresco with a sword by his side presumably holds John the Baptist’s head and shows the gory scene to the rest of the guests at the party. The gruesome scene probably resonated with the criminals since the condemned likely also received decapitation as a punishment. Given his involvement in the Last Judgement, the fresco cycle encouraged the condemned to pray to John the Baptist for intercession during their judgement after execution. 
+
+By Alexandra Byler 
+
+Bibliography:  
+Bent, George. <i>Public Painting and Visual Culture in Early Republican Florence.</i> New York: Cambridge University Press, 2016: 109-110, 254. 
+Elliott, Janis. “The Judgement of the Commune: The Frescoes of the Magdalen Chapel in Florence.” <i>Zeitschrift Für Kunstgeschichte</i> 61, no. 4 (1998):515. 
+<i>The Holy Bible: New Revised Standard Version Catholic Edition, Luke</i> 1: 5-25. 
+<i>The Holy Bible: New Revised Standard Version Catholic Edition, Mark</i> 6: 14-29. 
+<i>The Holy Bible: New Revised Standard Version Catholic Edition, Matthew</i> 14: 1-12. 
+Yunn, Amee. <i>The Bargello Palace: The Invention of Civic Architecture in Florence. </i> London and Turnhout: Harvey Miller Publishers, 2015: 184-185. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html 
+
+Location of Annotation: 25.46, -5.56, 15.33
+Camera Location: 23.256, 6.762, 6.990
+Camera Looks Towards: 21.280, -17.553, 13.509
+
+Annotation block name: Paradise 
+Annotation Details: <div style="overflow:scroll ; height:275px"> The frescoes in the Magdalene Chapel have been attributed to Giotto. Painted between 1322 and 1337, the largely deteriorated paintings present a fractured version of a Last Judgement, with <i>Paradise</i> appearing on the altar wall and <i>Hell</i> painted on the entrance wall. The Magdalene chapel’s version of <i>Paradise</i> promotes the promise of redemption for condemned prisoners who saw it the night before their execution. 
+
+The image of <i>Paradise</i> features the Enthroned Christ surrounded by saved souls. While more than a third of the image is obliterated, Jesus’s large form is still visible at the top of the painting. Here, Christ stands surrounded by a large golden halo and a red background. A group of haloed figures with a blue background surround his left side facing him. In the middle of the wall appear remnants of other saints stacked one upon another. A legion of saved souls are visible towards the bottom of the painting, in addition to two kneeling figures with eyes cast upwards towards Christ the Redeemer. It has been argued that the famous poet Dante appears on the lower right amongst the saved souls; however, the controversial figure is an addition after the 1840 restoration.  
+
+Condemned criminals spent their last night praying in the chapel with members of the Confraternity of the Neri before they processed through the streets of Florence to their execution. While one earthly form of judgement had already taken place in the form of a trial administered in a court of law, prisoners understood that a second judgement – that of God’s – still awaited them after death. The fresco of <i>Paradise</i>presented an opportunity for sinners to repent and be redeemed; its promise was underscored by the illustration of the alternative awaiting prisoners in the form of the fresco of <i>Hell</i>, located on the wall through which they had to pass on their way to the gallows. Should they resist the spiritual urgings of the Neri, a never-ending cycle of pain and humiliation awaited them in the clutches of Lucifer. The Magdalene Chapel’s imagery gave sinners two choices, and only of them was a hopeful message of redemption. 
+
+By Alexandra Byler 
+
+Bibliography: 
+
+Bent, George. <i>Public Painting and Visual Culture in Early Republican Florence.</i> New York: Cambridge University Press, 2016: 72, 109-112. 
+Chiodo, Sonia. “A Tribute to Dante: The Giottesque Portrait in the Palazzo del Podestà in Florence.” <i>New Horizon Trecento Italian Art,</i> (2020): 171, 180. 
+Elliott, Janis. “The Judgement of the Commune: The Frescoes of the Magdalen Chapel in Florence.” <i>Zeitschrift Für Kunstgeschichte</i> 61, no. 4 (1998): 509, 514. 
+Holmes, Megan. <i>The Miraculous Image in Renaissance Florence.</i> New Haven and London: Yale University Press, 2013: 75. 
+Yunn, Amee. <i>The Bargello Palace: The Invention of Civic Architecture in Florence. </i> London and Turnhout: Harvey Miller Publishers, 2015: 15, 184-185.
+  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html  
+
+Location of Annotation: -6.37, 53.50, -0.70
+Camera Location: -23.461, 67.690, 0.013
+Camera Looks Towards: 62.515, 14.625, -17.455
+
+Annotation block name: Bargello – Overview and 13th Century Origins   
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The most common name for this complex, il Bargello, refers to the Medici chief of police who occupied the building after Florence was assimilated into the Duchy of Tuscany in the 16th century. Formerly known as the Palazzo del Podestà, the Bargello originally served as the Florentine Republic’s governmental center in the thirteenth century before becoming a judicial complex. The Bargello’s origins lie not in the main structure bracketed by the Via del Pronconsolo and Via Ghibellina to the north, but rather at the south end that faces the Piazza Sant’Apollinaire – the area originally purchased in 1255. The building was renovated and restructured periodically over time and ultimately came to be used as a prison.	 
+
+Because the Capitano del Popolo was considered an advocate for the local citizenry (as opposed to the corporate guilds that were increasing their political influence) the Sant’Apollinaire structure, built next to a public square, functioned as a civic intersection between the government and the people. This was altered soon after 1260, when the Podestà – a foreign leader invited to preside over the government for a short period and serve as the city’s judicial head– became the main resident of the Bargello. Since the Podestà “presided over the highest civil and criminal courts,” the building needed to encapsulate the adjudication of crime in Florence. Both the exterior and interior were thus transformed to suit the building’s purpose. 
+
+As the Bargello increased in size, the building’s appearance took on a more punitive character. Public executions of noted criminals such as Azzolino and Neri degli Uberti occurred steps away from the building. When the guilty could not be apprehended in person, its exterior was painted with images of treachery, felony, and bankruptcy: records of pitture infamante indicate that portraits of offenders and their crimes were produced to shame wrongdoers. The tactic worked so well that political groups and families tried to bribe officers of the Bargello into refraining from immortalizing their relatives with these permanent condemnations. 
+
+In 1289, the Capitano del Popolo purchased land on the north end of the block facing the Via Ghibellina. The Ordinances of Justice that, in 1293, ousted magnates from the government and conferred power on the popolo made the structure all the more important. A Magnate’s Prison was added in the mide-1290s and by 1300 the Palazzo del Podestà encompassed the entire west side of the Via del Pronconsolo city block. Later construction in the fourteenth century focused on creating a “new palace” that cooperated with the function and aesthetic of the so-called “old palace.” 
+
+By Charlotte Cook and Julia Brinker 
+ 
+Bibliography:
+
+Bent, George. Public Painting and Visual Culture in Early Republican Florence (New York: Cambridge University Press, 2016). 
+Edgerton, Samuel Y. Pictures and Punishment: Art and Criminal Prosecution During the Florentine Renaissance (Ithaca: Cornell University Press, 1985). 
+Freedberg, David. The Power of Images (Chicago: University of Chicago, 1989). 
+Yunn, Amee. The Bargello Palace: The Invention of Civic Architecture in Florence (Brussels, Brepols Publishers, 2015). 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html  
+
+Location of Annotation: 11.72, 26.47, -4.04 
+Camera Location: 6.423, 34.656, 6.177 
+Camera Looks Towards: 47.184, -17.830, -49.899 
+ 
+Annotation block name: Bargello – The Courtyard 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> An elaborately decorated open courtyard surrounded by an arcade with large columns and vaulted ceilings forms the core of the old Palazzo del Podestà. Its origins have been hotly contested, however. Either the space formed a part of the original design of the “old palace,” and thus dates to the middle decades of the thirteenth century, or it was built under Angevin rule to serve as a central meeting place around the renovated “new palace” sometime in the 1330s. 
+
+The quadrangle courtyard is surrounded on three sides by a broad vaulted gallery with three arches on each side. The coats of arms of magistrates and members of the Rota cover the walls and pillars, as do the emblems of the specific districts, or <i>quartieri<i/>, within the city. An octagonal fountain marks the center, while a 14th-century staircase leads to the second floor of the palace. Although its original date of construction is debated, current research indicates that the courtyard’s current configuration follows its original 14th-century plan, but that it also retains some significant 19th-century alterations that facilitated its use as a prison. 
+
+The symbols of the neighborhoods and guilds of Florence were integrated into the decoration of vaults of the courtyard to unite the various Florentine communities under the scales of justice at the Bargello. While members of these communities were thus symbolically present in the “communal palace” through their neighborhood insignias, they were often also physically present as members of the representative counsel in the judicial process or as witnesses who gathered in the courtyard during pronouncements of judgment. 
+
+As such, the courtyard took on public, ceremonial, and private functions that changed over time as the Bargello’s role in the fabric of Florentine civic society transformed.
+ 
+By Lindsey Hill and Julia Brinker 
+
+Bibliography:
+
+Sexton, Kim Susan. "A History of Renaissance Civic Loggias in Italy from the Loggia Dei Lanzi 	to Sansovino's Loggetta," Ph.D. dissertation, Yale University, 1997. Ann Arbor, MI. 
+Terry, A. “Criminals and Tourists: Prison History and Museum Politics at the Bargello in Florence,” Art History 33 (2010), 836-55. 
+Yunn, Amee. "The Bargello: A New History of the First Communal Palace of Florence, 1255–1346," Ph.D dissertation, New York University, 2008. Ann Arbor, MI. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html  
+
+Location of Annotation: -6.33, 53.74, -1.32
+Camera Location: -12.036, 57.160, -2.334
+Camera Looks Towards: 4.015, 41.239, -0.784  
+
+Annotation block name: Bargello – 14th Century Reconstructions   
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Amee Yunn divides the Bargello’s major fourteenth-century renovations into two distinct periods. The first was initiated under the reign of the Angevin Viceroy while the second followed on the heels of the fire of 1332. During these two periods, more civic departments took up residency within the expanding Bargello, including the commune’s Treasury, which then served several decades within the same compound as the civil and criminal courts. This co-mingling of the judicial and economic branches of the government in one structure speaks to the Bargello’s increasing centrality in the nexus of power. 
+
+From 1291 to 1308, under the direction of a string of Podestà, the Piazza Sant’Apollinaire structure to the south end of the city block united with the Palazzo del Capitano at the north to form a single cohesive palazzo. From 1316 to 1322, the Angevin Viceroy, a product of Florence’s newfound alliance with King Robert of Naples, “expanded” the Bargello into a “magnificent residence” that mimicked extant features surrounding the palace’s courtyard. This phase of construction prioritized residential features such as balconies, private rooms, and courtyards, as well as the so-called Magdalene Chapel that served as a final devotional space for condemned criminals on the eve of their executions. The Via dell’Acqua wing at the east end, together with the new courtyard, resulted in the Bargello encompassing an entire city block. 
+
+The fire of 1332 necessitated a new set of reconstructions. According to contemporary chronicler Giovanni Villani, the fire “burnt the entire roof of the old palace and two parts of the new palace from the first vaults upward. For this reason the commune ordered that all was to be rebuilt using vaults up to the roof”. As a result, builders re-designed the building’s core structures from scratch and made them higher in the process. In a quest to maintain geometrical balance, the height of the tower was increased in proportion to the new height of the building. By the end of construction in 1346, the renovated Bargello competed for prominence with the recently completed Palazzo Vecchio, just up the street from it. By then, however, the composition of the government had changed to remove power from the hands of the Podestà to the hands of the eight elected priors, who now resided in the Palazzo Vecchio. For the next 150 years the Bargello was used primarily as a ‘palace of justice’ in which laws were administered and enforced, but not necessarily crafted. 
+
+By Charlotte Cook and Julia Brinker 
+
+Bibliography: 
+
+Edgerton, Samuel Y. <i>Pictures and Punishment: Art and Criminal Prosecution During the Florentine Renaissance</i> (Ithaca: Cornell University Press, 1985). 
+Yunn, Amee. <i>The Bargello Palace: The Invention of Civic Architecture in Florence</i>(Brussels, Brepols Publishers, 2015). 
+Boutier, Jean, Yves Sintomer, and Sarah-Louise Raillard. "The Republic of Florence (from the Twelfth to the Sixteenth Centuries): Historical and Political Issues," <i>Revue Française 	De Science Politique (English Edition)</i> 64, no. 6 (2014), 1-27. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html  
+
+Location of Annotation: -6.31, 53.79, -1.98
+Camera Location: -11.982, 58.432, -2.392
+Camera Looks Towards: 8.428, 39.257, -0.690 
+
+Annotation block name:  Bargello – 19th Century Reconstructions   
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The Bargello we see today, particularly its interior, is almost entirely a 19th-century fabrication. The building underwent a massive restoration project led by architect Francesco Mazzei (1806-1869) in 1857 to reverse approximately three centuries of neglect from its use as a prison. While the updates to the exterior remained faithful to its appearance after the last major phase of renovations from 1332-1346, the new design of the interior took significant artistic liberties.  
+
+These changes strayed from mere restorative measures, going so far as to include decorative embellishments and alter room structures to dramatize and exaggerate the architect’s 19th-century perception of what the Medieval structure ought to have looked like. The original, multi-storied interior of what is now the Michelangelo Hall was demolished and rebuilt as one great open space with high vaulted ceilings and additional windows. Stone crests were imbedded into the courtyard walls and ceilings were lavishly painted – all of them 19th-century fantasies that made their way into re-designed structures across western Europe during the Industrial Age. Mazzei adapted the Bargello to work as an exhibition space, expanding doorways, rooms, walkways, and windows for better circulation. 
+
+After the completion of its renovations, the old Palazzo was reopened as the Bargello National Museum in 1865. The museum’s mission statement “to house all monuments and objects in any way illustrating the history, the traditions and the crafts of the Nation in the Middle Ages and in the period of the Risorgimento” was surely enhanced by the architectural renovations that Mazzei oversaw. Of particularly noteworthy interest are the two large rooms of sculptures – including the aforementioned “Michelangelo Hall” and the Donatello Gallery directly above it – and the partially disfigured chapel on the Primo Piano that once served as the worship space for capital punishment criminals. 
+
+By Lisa Aldridge and Julia Brinker 
+
+Bibliography:
+
+Yunn, Amee. <i>The Bargello Palace: The Invention of Civic Architecture in Florence</i> (Turnhout, 2015). 
+Villani, Giovanni. <i>La Nuova Cronica</i> (Florence, 1991). 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html  
+
+Location of Annotation: -7.79, 36.54, 0.88
+Camera Location: -13.115, 43.594, -3.800
+Camera Looks Towards: 10.233, 20.088, 5.793
+
+Annotation block name:  Bargello – Renovations, 1500-1800 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The office of the Podestà was abolished in the early 16th century and the palace was refurbished for the Council of Justice, which occupied the building until 1574. The palace then became the new headquarters for the Medicean police captain, nicknamed il Bargello, under the rule of Duke Cosimo I de’ Medici. From that point until the middle of the nineteenth century the Bargello served as both a prison and torture site during Medicean Ducal reign. 
+
+The floor plan of the Bargello changed dramatically during this period to increase the number of prison cells, interrogation rooms, and administrative offices through the erection of additional walls and floors. The Great Hall that now houses Donatello’s David was turned into thirty-two individual cells, jails were transformed into dungeons, and the Magdalene Chapel functioned as a debtor’s prison. The frescoed decorations throughout the building were whitewashed and many were destroyed in the process. The vaulted arcades on the sides of the courtyard and loggia were walled-in to make offices for guards, clerks, magistrates, and other officials. A stanza de’ tormenti was established and executions were held in the courtyard, with decapitated heads displayed outside of the building to assert the might of penal authorities and communicate the increasing control of the Medicean duchy. 
+
+In 1782, Grand Duke Pietro Leopoldo abolished these executions and ordered a mass burning of all torture instruments in the courtyard of the Bargello (Florentines today take great pride in claiming that the Duchy of Tuscany was the first in Europe to do away with Capital Punishment). Yet the building remained a prison until the middle of the 19th century. It was only in the years leading up to Italian Reunification that the Bargello was completely renovated and redesigned to serve as a National Museum of sculpture. Most of its current appearance was invented as an imaginary homage to the Middle Ages during this reclamation project. 
+
+By Lindsey Hill and Julia Brinker 
+
+Bibliography:
+
+Terry, Allie. “Criminals and Tourists: Prison History and Museum Politics at the Bargello in Florence,” Art History 33 (2010), 836-55. 
+Yunn, Amee. <i>The Bargello Palace : The Invention of Civic Architecture in Florence</i>(Turnhout, 2015). 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html  
+
+Location of Annotation: -7.80, 36.73, 0.07  
+Camera Location: -11.467, 50.467, -2.501
+Camera Looks Towards: -10.035, 22.521, -0.474
+
+Annotation block name: Bargello – Constructions and Additions, 1260-1348 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The initial construction of the building in the 1250s took advantage of the site's configuration on the Piazza Sant'Apollinare. It reused the ancient walls of the ex-Ghibelline neighborhood consortium as a basis of the structure’s foundation, and the original south façade of the building (on the via della Vigna Vecchia) may have been formed by the remnants of these confiscated properties. The area east of the palace was most likely razed to create a small piazza while the south side overlooked the Piazza Sant'Apollinare, which was used for civic functions, processions, and ritual performances. 
+
+The structure at the Piazza Sant'Apollinare became the Palazzo del Podestà in 1260, and when the Capitano's office was revived in the 1280s, a second building stage (1285-1287) added to it the Via Ghibellina structure, which now became known as the Palazzo del Capitano. Built as the Capitano's new palace, the Via Ghibellina structure became part of a twin-palace configuration before the Via del Proconsolo block enclosed them. 
+
+The third building stage from 1291 to 1308, enclosed the palaces of the Capitano and the Podestà into the monumental Via del Proconsolo block, or Palazzo del Comune. In 1294, the magnate prisons were built near two communal houses on the east side in the Via dell'Acqua, and more land was bought for the communal pasture. After a two-year hiatus, the documents in 1296-1308 show payments for unspecified repairs for three identifiable projects: the 1296 opening of a new door near the Piazza Sant'Apollinare, the 1297-1298 plan to build a street connecting the Bargello and Orsanmichele, and the final purchase of land in 1308 at the southeast corner of the block. Since most of the repairs coincide in time with uprisings during which the building was attacked, the substantial sums paid suggest that the Palazzo suffered considerable damages at the turn of the fourteenth century. 
+
+The fourth building stage, 1316-1322, began immediately after the construction of the Palazzo Vecchio and transformed the Bargello into a magnificent residence for the Angevin Viceroys of King Robert of Naples by adding a large courtyard, balcony, and rear wing. The balcony by Tone di Giovanni (active 1300) connected the old and new parts of the Bargello to make a single structure. 
+
+After the fire of 1332, the final building stage resulted in the repair of damages, the construction of a new council hall, and the raising of the upper stories with vaults to the present height. According to the contemporary account by Villani, the fire had “burnt the entire roof of the old palace and two parts of the new palace from the first vaults upward. For this reason, the commune ordered that all be rebuilt using vaults up to the roof.” The large first-floor vaults of the front wing ("roof of the old palace") and the two upper stories of the courtyard ("two parts of the new palace") can be attributed to the renovation during that time by Neri di Fioravanti (active 1340—1384) and Benci di Cione (d. 1388). 
+
+By Pengrui Wang and Julia Brinker 
+
+Bibliography:
+
+Yunn, Amee. The Bargello Palace: the Invention of Civic Architecture in Florence (Turnhout: Brepols, 2015). 
+Terry, Allie. “Criminals and Tourists: Prison History and Museum Politics at the Bargello in Florence,” Art History 33 (2010), 836–55. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html  
+
+Location of Annotation: -7.79, 36.74, -0.83
+Camera Location: -11.548, 49.798, -3.274
+Camera Looks Towards: -5.997, 22.669, 1.239
+
+Annotation block name: Bargello – The Fire and Subsequent Renovations   
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Although poorly documented, the fire that engulfed the Bargello in 1332 appears to have destroyed the roof of the front wing and the upper floors of the courtyard. According to the Florentine chronicler, Giovanni Villani, the blaze was one of many that swept through Florence in the years 1331 and 1332, damaging multiple buildings but, unlike the disastrous fire of 1304, sparing most of the city. Clearly, structures in 14th-century Florence were vulnerable to fire and were, at this time, routinely under threat: Perhaps the lack of written evidence about the specific events of the 1332 fire can be attributed to their frequency at the time, making this event less noteworthy to contemporaries than they might be to us today. 
+
+Much of what we know about what was lost in the fire comes from the resulting restorations of the building. The designers Neri di Fioravanti and Benci di Cione undertook the project to renovate the damaged structure and completed it in 1346, despite the economic recession that afflicted the city at that time. 
+
+This phase of renovations significantly altered the Bargello’s appearance. The whole palace was heightened; the wood-beam ceilings were replaced with vaulted ceilings (presumably to reduce its vulnerability to future flames), and the bell tower was proportionately elongated to fit the elevated façade. Though the structure may have boasted crenellations prior to the fire of 1332, there is no conclusive evidence to prove it: The ones we see today were added during this phase of renovations. These changes both improved the stability of the building and made it more grandiose. It was to this version of the Bargello that later renovation projects claimed to remain faithful, though in reality much of the Bargello’s interior has been inaccurately embellished since the 14th century. 
+
+By Liza Aldridge and Julia Brinker 
+
+Bibliography: 
+
+Yunn, Amee. The Bargello Palace: The Invention of Civic Architecture in Florence (Turnhout, 2015). 
+Villani, Giovanni. La Nuova Cronica (Florence, 1991). 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html  
+
+Location of Annotation: 32.12, 50.89, 36.28  
+Camera Location: 7.579, 53.583, 28.214
+Camera Looks Towards: 39.651, 53.497, 40.907  
+
+Annotation block name: Bargello – Bell Tower 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Often considered to be the Bargello’s most recognizable feature, the bell tower was built over a pre-existing structure that was a part of the palace owned by the Boscoli family. This tower was transformed into a Campanile when the property was purchased by the commune to create the Palazzo del Popolo in 1255. The Primo Popolo required the lowering of all private towers within the city in the early 1290s, making this bell tower instantly recognizable and a powerful symbol of the Guelphs and the Popolo’s victory over their Ghibelline rivals. 
+
+The first bell was hung before 1285 when it was rung daily as the Florentine army prepared to fight against Pisa. The practice continued whenever the army assembled to confront foreign enemies and when communal officials met formally in the palace. 
+
+In 1305, the Council of One Hundred approved 400 lire for the restoration of the bell tower, but the changes were enjoyed only briefly before the fire of 1332 ruined it completely. The Campanile was rebuilt – probably by Benci di Cione – to its current height of 57 meters, and traces of its foundations still remain in the vaults underneath the second belfry. The bell tower, often called the “Volognana” for unknown reasons, was raised on four vaults below the ground level, extended at the palace roof level, and expanded by the renovation of both an old and new bell chamber. 
+
+The Volognana was used for both visual and audio signals that addressed the population daily. The bell tower became one of the most important sites of pitture infamanti in Florence. As early as 1291, paintings of shamed “enemies of the state” were applied to its walls, beginning with representations of Porcziano family members as punishment for their attack on a merchant. Political enemies like the Duke of Athens were similarly represented there, as were other villains, rivals, and communal threats. 
+
+By 1378, the Florentine government had established an acoustic regime based on the exchange of rings between its four principal bells that were located in the towers of its two centers of authority – the courts of the Palazzo del Podestà (Bargello) and the legislative councils housed in the Palazzo della Signoria. The “Montanina” and the bell of the “Podestà” were both housed in the Bargello. The start of each day was sounded by an exchange between the bell of the “Podestà,” rung from the Bargello, and that of the “Popolo” from the Palazzo della Signoria, as referred to as the “day bell” (campana del dì). As soon as darkness began to fall, a different exchange between the “Montanina” bell in the Bargello and its counterpart in the Palazzo della Signoria signaled the shift from evening activities to the quiet of the night. The opening and closing of the courts were also announced by the “Montanina.” 
+
+Clearly, Florentines could tell the difference in sound between the various bells in their city. 
+
+By Katherine Berman and Julia Brinker 
+
+Bibliography:
+
+Atkinson, Niall. Architecture, Anxiety, and the Fluid Topographies of Renaissance Florence 	(Ithaca, NY, 2009). 
+Atkinson, Niall. "The Republic of Sound: Listening to Florence at the Threshold of the 			Renaissance," I Tatti Studies in the Italian Renaissance 16 (2013), 57-84. 
+Yunn, Amee. "The Bargello: A New History of the First Communal Palace of Florence, 1255–	1346." Ph.D. dissertation, New York University, 2008. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Bargello/Bargello.html  
+
+Location of Annotation: -5.57, 60.57, -0.96
+Camera Location: -25.932, 78.028, -0.890
+Camera Looks Towards: 1.556, 46.263, -3.631
+
+Annotation block name: Bargello – Occupants and Residents of the Bargello   
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The Bargello was the only communal palace in Florence before the construction of the Palazzo Vecchio (1298-1315). Most often described as the “Palazzo del Podestà,” it was actually first occupied by the Capitano del Popolo, the leader of the Primo Popolo, in 1255. The Podestà moved into the Bargello after the collapse of the Primo Popolo in 1260, five years later. Unlike the Capitano del Popolo who focused on issues of domestic security, the Podestà governed over the entire city and represented it in diplomatic affairs. 
+
+After the Constitution of the 1280s revived the office of the Capitano, a second palace was built for him in 1285-1287 adjacent to the first palace used by the Podestà. From then until about the 1340s, the Capitano and the Podestà shared the developing Bargello complex, with an open piazzetta between them on via Proconsolo: during this period, documents refer to the "pallatium Communis," distinguishing occasionally between the living quarters of the Capitano and the Podestà on this city block. The monumentality and martial design of the Podestà's palace helps explain why the Angevin Viceroys and Duke Charles of Calabria chose the Bargello as their official residence during their custody of Florence in the 1310s and 1320s. But the building’s regal significance was reduced soon thereafter: records describing the building’s renovations following the fire of 1332, as well as Giovanni Villani's chronicle of 1348, refer to the Bargello as the "Palazzo del Comune," a more egalitarian title. 
+
+In addition to foreign magistrates, the Office of the Treasury was located in the Bargello by 1292, and the treasurers lived in the Via del Proconsolo block by 1319. Besides the Capitano, Podestà, and the Treasury, some other government offices occupied the Bargello between 1255 and 1346, including the Gonfalonier of Justice (Executor of the Ordinances of Justice) and the Tower Officials. The Gonfalonier of Justice, an official position created by the new Ordinances of Justice of 1293, was responsible for implementing the anti-magnate laws and executing the verdicts of the Capitano del Popolo. The Gonfalonier of Justice may have stayed in the two communal houses next to the magnate prisons in the Via dell'Acqua as early as 1295 (while the origin of these houses is uncertain, they may have been part of the Bargello's north annex by 1255). The Executor of the Ordinances of Justice, who replaced the Gonfalonier of Justice in 1307, may have occupied part of the Bargello between 1329 and 1343 before he and the Capitano moved to the houses behind the Palazzo Vecchio. The Tower Officials, or Six in Charge of Rights – perhaps so-named for their role in regulating the height of the city towers – held their office on the ground floor of the Bargello's tower. 
+
+By Pengrui Wang and Julia Brinker 
+
+Bibliography: 
+
+Yunn, Amee. The Bargello Palace: the Invention of Civic Architecture in Florence (Turnhout: Brepols, 2015).  
+Terry, Allie. “Criminals and Tourists: Prison History and Museum Politics at the Bargello in Florence,” Art History 33 (2010), 836–55. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+ 

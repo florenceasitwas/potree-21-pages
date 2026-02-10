@@ -1,0 +1,765 @@
+
+
+Keys- A line break should be added as <br><br>
+	  To make a word Italisized <i>What you want Italisized here</i>
+	  To make a word Bold <b>What ever you want bold here</b>
+	  If you want a scroll wheel then add <div style="overflow:scroll ; height:650px"> before the text
+
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+  
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 42.38, 44.53, 4.56
+
+Camera Location: 48.996, 42.235, 8.390
+
+Camera Looks Towards: 40.313, 42.441, 6.026
+
+Annotation block name: Paradise 
+
+Annotation Details:  <div style="overflow:scroll ; height:250px"> Directly opposite Nardo di Cione’s fresco of <i>Inferno</i> stands the painter’s representation of <iParadise.</i> These two frescoes, which flank either side of <i>The Last Judgement</i>, present the alternative outcomes awaiting devotees in the Christian afterlife. Just as Nardo’s <i>Inferno</i> portrays a depiction of Hell that draws its source of inspiration from Dante’s poem <i> Commedia,</i> the image of <i>Paradise</i> similarly depends on the poem’s description of Heaven in an antonymic way. The fresco propagates the rewards of piety on Earth and provides viewers with a hopeful prospect of eternal life after mortal death.  
+
+The work portrays an enthroned Christ and Mary, above two winged angels, surrounded by a massive crowd of biblical characters. The halos around each of their heads emphasize their sanctity and explain to viewers the piety of those in Heaven. A litany of apostles, saints, and prophets can be identified and include some of the best-known figures in the Judeo-Christian tradition. Noah, David, Moses, and Abraham appear, reminding viewers of the holiness of Old Testament Jewish leaders and their exalted position in the celestial court. Saint Peter, the gatekeeper of Heaven, grasps the keys that open its gates to all those devout enough to enter Paradise after death. Viewers were here encouraged to practice similar pious devotions in their own lives to find a place among these ideal worshippers who have already ascended into the kingdom of heaven.  
+
+This approach to idealistic religious devotion, articulated with an expression of bright color schemes, presents Heaven as a paradisiacal kingdom ruled over by a benevolent deity whose power is denoted by his ornate throne and elevated placement in the composition. The use of gold leaf in the halos of the heavenly entourage predicates the holiness of this <i> Paradise </i> and, particularly when juxtaposed with its compliment of the Inferno, reflets Nardo di Cione’s impulse to promote pious habits among his viewers in the Strozzi Chapel. 
+
+By John Carr Haden
+
+Bibliography:
+Arthur Kathleen Giles. <i> The Strozzi Chapel in Santa Maria Novella. </i> UMI Dissertation Services: Ann Arbor, Michagan. 1977. 
+Schuman, Jack C. "'Reversed' Portatives and Positives in Early Art."  <i> The Galpin Society Journal </i>  24 (1971): 16-21. 
+
+  
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html  
+
+Location of Annotation: 49.09, 38.10, 4.52 
+
+Camera Location: 42.407, 40.886, 5.483 
+
+Camera Looks Towards: 46.027, 40.901, 5.987
+
+Annotation block name: Inferno  
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Dante Alighieri’s wrote his <i> Divine Comedy</i> in the early 14th century, and it contains three parts: <i> Inferno</i>, <i> Purgatorio</i>, and <i> Paradiso</i>. The first section of the story, <i> Inferno</i>, demonstrates the true fate of Christian sinners. Through his eloquent poetic voice, Dante realizes the origins and outcomes of sin in the Christian world and, via literature, vividly describes the pains of hell that derive from a life of sin. This work served as a manifesto for avoiding sin in life and urged Florentine citizens who read its pages to live a pious, penitent life, adhering to the laws prescribed by Christianity. 
+
+Nardo di Cione sought to capture this same ideal in his depiction of <i> Inferno</i> in Strozzi Chapel. Painted in the mid-14th century, the painting contains iconographic elements that clearly propagate the same idea that one needs to avoid hell at all costs. A large rift appears at the top of a painting opening the bowels of hell unto earth. Below depicts naturalistic humans being damned by a plethora of dark entities, perhaps demons, who possess wings, talons, and malicious fangs. A burning walled city lies below this hellish crack; the city reflects similar characteristics to the Florentine city walls. Also engulfed in flames, a similar wall runs through the median of the piece. At the bottom center of the image, a deity clothed in darkness consumes the souls of poor humans. His fiendish yellow eyes violently pop from the picture plane to ominously stare at onlookers, almost as if welcoming their imminent fate. Large diagonal crags, representing Dante’s tiers of hell, exude a sensational feeling of chaos and disorder that works to support the danger of unconformity to Christian ideals in everyday life, and provides a physical allegory to the pain and chaos of hell. The demon filled work propagates viewer’s fear of hell, developing a sense of dread in all who believed that the depths of this painting would become their fate. Appropriate for a burial chapel in Florence, this image allows viewers to understand the endless doom that follows a life of sin. Nardo di Cione’s <i> Inferno</i> propagates Christian ideals and incites an inherent bias against lifestyle’s filled with sin and corruption. 
+
+By John Carr Haden
+
+Bibliography:
+Arthur Kathleen Giles. <i> The Strozzi Chapel in Santa Maria Novella.</i> UMI Dissertation Services: Ann Arbor, Michagan. 1977. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html  
+
+Location of Annotation: 46.66, 44.22, 4.00
+
+Camera Location: 45.874, 40.172, 4.733 
+
+Camera Looks Towards: 45.614, 52.855, 4.776 
+
+Annotation block name: The Strozzi Chapel Altarpiece   
+
+Annotation Details: <div style="overflow:scroll ; height:325px"> Andrea di Cione, better known as Orcagna, painted the altarpiece that rests squarely in the center of Strozzi Chapel, just below the fresco of the <i>Last Judgement</i> that his brother, Nardo, completed in the 1350s. Created between 1352 and 1357, Orcagna’s altarpiece depicts two holy figures kneeling at the feet of Christ. To the left appears St. Thomas Aquinas and, to his right, St. Peter kneels penitently. The Virgin Mary grasps Thomas’ shoulder in an act of advocacy, while John the Baptist watches over St. Peter. The inclusion of these characters, specifically the Virgin and St. John, reminds us of the hierarchy of saints in fourteenth-century Europe: the Deesis of Christ, Mary, and the Baptist presided over apostles, gospel writers, and contemporary theologians in both artistic representations and in popular conceptions of the ranking of saints in the celestial court.  
+
+By John Carr Haden
+
+Bibliography: 
+Arthur Kathleen Giles. <i>The Strozzi Chapel in Santa Maria Novella.</i> Ann Arbor, Michigan: UMI Dissertation Services. 1977. 
+Slepian, Marcie Freedman. "Merchant Ideology in the Renaissance: Guild Hall Decoration in Florence, Siena, and Perugia. Volume 1. Yale University, 1987. https://search.proquest.com/docview/303620783?accountid=14882 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html  
+
+Location of Annotation: 47.74, 35.92, 3.22
+
+Camera Location: 45.821, 19.935, 9.422 
+
+Camera Looks Towards: 39.433, 132.763, -6.821
+
+Annotation block name: The Strozzi Chapel 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Located in the west transept of S. Maria Novella, the Strozzi Chapel is undoubtedly an artistic masterpiece. Best known for its large frescoes depicting <i>Paradise</i>, <i>The Last Judgement</i>, and <i> Inferno</i>, the space is a prime example of Florentine religious art. Built between 1340 and 1348, this large, raised chapel is indicative of traditional architectural and ritualistic styles. Located just to the left of the crossing, the chapel’s decorations can be seen by those standing before the high altar. This prominent location foreshadows the importance and richness of the chapel. 
+
+The artist responsible for the chapel’s design and construction was Fra Jacopo Talenti, the “capomaestro” (master mason/builder) of the Dominican friary from 1333 to 1362. It is impossible to define precisely Talenti’s style, for the building evolved over time with many different artists applying their own visions to the space. However, it is almost certain that Talenti was responsible for most of the Strozzi Chapel; various details and motifs can be used to identify his work, such as columns with octagonal capitals and acanthus leaf ornaments. Talenti’s relief sculpture style is also present. He often crafted reliefs depicting the Virgin Mary and angels with minute, almost abstract features, and these pieces were often used on capitals and portals that can be found in both the Chapel and the nave. 
+
+The Chapel was commissioned by the wealthy Strozzi family for funerary uses. At the chapel’s base lies a large tomb for the remains of deceased members. The Strozzi family could obviously afford one of the most prestigious venues in the church, and their means stretched beyond simply buying the space. Decorative commissions were issued by later family members that finally ended with the chapel’s official completion in 1370. 
+
+By John Carr Haden
+
+Bibliography: 
+Arthur, Kathleen Giles. "The Strozzi Chapel: Notes on the Building History of Sta. Maria Novella."  <i>The Art Bulletin</i>  65, no. 3 (1983): 367-86. 
+Arthur Kathleen Giles. <i>The Strozzi Chapel in Santa Maria Novella.</i> UMI Dissertation Services: Ann Arbor Michigan. 1977. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 46.64, 44.12, 3.73 
+
+Camera Location: 45.874, 40.172, 4.733 
+
+Camera Looks Towards: 45.614, 52.855, 4.776
+
+Annotation block name: Decorative Framing of Altarpiece 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The intricate boarder surrounding Orcagna’s <i>Strozzi Altarpiece</i> aids in conveying a deeper within the altarpiece itself. Large, pointed arches, reminiscent of gothic arcades, extend above panels. Meanwhile, the gold leaf used to decorate the frame provides a heavenly atmosphere that envelops the work and draws the viewer’s attention to the interior of the altarpiece. Created between 1354 and 1357, the frame contains iconography relating to the dedication of the Cappella Strozzi and includes the images of Saints Thomas Aquinas and Peter, Mary, and Christ. Orcagna added many additional features to this ornate frame to accentuate its originality. 
+
+Gert Kreytenberg noted that many of these additions Orcagna may have included in the golden frame surrounding the altarpiece. Each of the five-pointed arches rise above the main characters in the piece. Traditionally, these columns would have supported the arches at each point of termination. However, Orcagna relied solely on two columns on the exterior to support the entirety of the frame. Kreytenberg argues the necessity of the omission to emphasize fluidity and three-dimensionality. In turn, the exclusion insinuated a greater personal connection between the saints present within the painting and stressed the interrelations between Christ and his holy entourage. The arcades below each arch bear an architectural style similar to Maso di Banco’s monument for the Florentine bishop Tedice Aliotti in Santa Maria Novella.  
+
+The unique architectural style of Orcagna’s <i>Strozzi Altarpiece’s</i>* frame has a profound impact on the overall meaning of the piece. The fluidity of the framing devices was perhaps necessary to highlight Saint Thomas Aquinas’ and Christ’s close relationship, which is revealed to viewers through the transfer of a book from the latter to the former. The lack of a column between these two figures allows this exchange to occur seamlessly and without interruption, breaking the barrier between the spiritual realm and the physical one occupied by Thomas and his Dominican Order followers.  
+
+By John Carr Haden
+
+Bibliography:  
+
+Kreytenberg, Gert. "Image and Frame: Remarks on Orcagna's Pala Strozzi."  <i>The Burlington Magazine </i> 134, no. 1075 (1992): 634-38.
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 47.28, 36.02, 2.71
+
+Camera Location: 45.821, 20, 9.5 
+
+Camera Looks Towards: 39.433, 132.763, -6.821 
+
+Annotation block name: Guild Art in Relation to the Strozzi Chapel 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Study of guild hall decoration in Florence provides an understanding of traditional iconography used by guilds during this time. If nothing else, the traditional Florentine guild hall contained multiple representations of both the Madonna and the city’s patron saint, John the Baptist. For instance, the <i>Palazzo della Mercanzia</i> is decorated by images of the virtues deemed necessary in successful mercantile activity, such as truth, honor, and justice. These were presided over by an image of the Madonna who, in Florentine eyes, embodied other important virtues – those of pious livelihood. The <i>Palazzo dell’Arte della Lana</i> (the palace of the wool guild, members of which included parts of the Strozzi family, the patrons of the Strozzi chapel) contains representations of these same virtues.  
+
+This inclusion of St. John the Baptist and the Virgin Mary on the <i>Strozzi Altarpiece</i> offers an interesting parallel that demonstrates the iconographic similarities between guild art and religious art. These two figures served as representatives of the city of Florence as a whole, and therefore also its commerce; their virtues were then seen as inherent to the city, propelling its bourgeoning economy.  
+
+By John Carr Haden
+
+Bibliography: 
+Arthur Kathleen Giles. <i>The Strozzi Chapel in Santa Maria Novella.</i> Ann Arbor, Michigan: UMI Dissertation Services. 1977. 
+Slepian, Marcie Freedman. "Merchant Ideology in the Renaissance: Guild Hall Decoration in Florence, Siena, and Perugia.” Volume 1. Yale University, 1987.
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 47.51, 35.89, 2.25
+
+Camera Location: 45.821, 20, 9.5 
+
+Camera Looks Towards: 39.433, 132.763, -6.821 
+
+Annotation block name: The Architecture of the Strozzi Chapel 
+
+Annotation Details: <div style="overflow:scroll ; height:225px"> Santa Maria Novella has been renovated and redecorated numerous times since its inception in the 13th century, yet some original architectural style choices can be seen still today. Such choices were intentional to promote the religious ideals of the Dominicans to all who entered the church. The order predicated itself on humility and showcased it through demonstrations of poverty, as demonstrated through their architecture. There were set limits on ceiling height, the size of chapels, and even the location of vaulting. These ideas remained a part of Dominican spirituality into the fourteenth century.  
+
+The Strozzi Chapel does not respect those same architectural rules that were otherwise explicitly followed within Santa Maria Novella. The chapel’s immensely high ceilings and ornately decorated vaults contradict the ideals of poverty set forth. These create an air of monumentality in the chapel, that privileges the Strozzi family’s burial chamber: the patrons could very well have used their political and financial influence to bypass the Order’s rules and regulations regarding chapel architecture. 
+
+By John Carr Haden
+
+Bibliography: 
+Arthur, Kathleen Giles. "The Strozzi Chapel: Notes on the Building History of Sta. Maria Novella."  <i>The Art Bulletin</i> 65, no. 3 (1983): 367-86. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 48.23, 46.15, 4.67
+
+Camera Location: 46.242, 33.465, 7.466
+
+Camera Looks Towards: 45.941, 36.449, 7.530
+
+Annotation block name: The Last Judgement
+
+Annotation Details: <div style="overflow:scroll ; height:275px"> Florentine religious culture predicated itself on death and the journey of human spirits in the afterlife. Scenes depicting God’s judgment at the time of death were frequently painted in churches and public venues, further institutionalizing this important religious facet. The iconography of the frescoes in the Strozzi Chapel speaks to this obsession with life after death. 
+
+Nardo di Cione’s large fresco of <i>The Last Judgment</i> covers the south, west, and north walls of the Strozzi Chapel. Painted between 1352 and 1357, the work provides an intricate description of the Christian afterlife, specifically the judgment of a soul immediately after death. The omnipotent Christ stands at the pinnacle of the work, gesturing towards both angels and the souls of the recently deceased who stand below him. These human figures fill the picture plane at the lower left and right, but not all are the same. The bright blue-sky contrasts with somber faces of the damned that fill the bottom right portion of the painting as they anxiously await their fiery fate. These damned figures wear hats or headdresses that designate them as heretics, Jews, Muslims, or enemies of the state. To the left sit the saved, designated by their hopeful countenances and exaggerated gestures that suggest jovial conversation. Between them stands a lancet window, a physical separation representing the difference in character between the good and the damned. The placement of this work behind the altar and altarpiece by Andrea di Cione provides a constant reminder of the fate that awaits the living after death and promotes pious behavior during their remaining time on Earth. 
+
+The inclusion of symbols connected to St. Thomas Aquinas is another addition that represents the Christian predication of post-mortem occurrences. The medieval theologian was responsible for the assertion that there is an afterlife and that the souls of humans are judged immediately following death. The notion of immediate judgment would make its way into Christian funerary culture and is reflected in scenes such as those in Cione’s <i>The Last Judgment.</i> Additionally, large medallions containing symbols referring to the life and accomplishments of St. Thomas Aquinas and his teachings sit on the vaulted ceiling in Strozzi Chapel. This blatant reference to the theologian and his wisdom exemplifies the idealized Christian cycle of judgement after death and cement this facet of religious culture as immediately apparent in the Strozzi Chapel. 
+
+By John Carr Haden
+
+Bibliography: 
+
+Arthur Kathleen Giles. <i> The Strozzi Chapel in Santa Maria Novella.</i> UMI Dissertation Services: Ann Arbor, Michagan. 1977. 
+
+Brilliant, Virginia. "Envisaging the Particular Judgment in Late-Medieval Italy."  <i>Speculum</i> 84, no. 2 (2009): 314-46.  
+
+Drury, Shadia B. "Aquinas and the Inquisition: A Tale of Faith and Politics."  <i>Salmagundi,</i> no. 157 (2008): 91-108. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 48.33, 44.97, 13.27
+
+Camera Location: 46.044, 35.020, 9.127
+
+Camera Looks Towards: 47.685, 57.327, 24.247
+
+Annotation block name: St. Thomas Aquinas Vault Frescos  
+
+Annotation Details: <div style="overflow:scroll ; height:300px"> Resting directly above Orcagna’s ornate altarpiece are the large groin vaults responsible for supporting the Cappella Strozzi’s towering ceiling. As part of the commission, the Strozzi family requested large medallions containing images of St. Thomas Aquinas to be painted on each of the four ceiling panels. These medallions project the saint as a holy being. A shimmering halo surrounds his head, and he sits on a throne emanating rays of golden light enhanced by the use of gold leaf. Around this throne appear a multitude of stars gleaming within a luxuriously dark blue night. The artist and patron of these vaults spared no expense in creating these medallions, and the inclusion of St. Thomas within this scene makes clear his influence on the Dominicans of this church.  
+
+As alluded to, St. Thomas was an important Dominican figure responsible for instituting and propagating some of the group’s defining principles. The saint was and is renowned for his unyielding commitment to theological studies and determined focus in instituting these values in Dominican clergymen. He urged his fellow preachers to keep their finger on the pulse of contemporary issues even while studying early Christian doctrine. This desire is emphasized in one of his most famous literary works, his <i> Summa Theologiae.</i> Here St. Thomas argues for the use of reason and logic to understand spirituality and greater connection with God, drawing inspiration from the works of Aristotle. His emphasis on logical reasoning helped his readers debate their religious rivals and, as a result, led to the institutionalization of it within Dominican religious culture.  
+
+It would have been impossible for Dominicans in S. Maria Novella to forget the saint who was responsible for some of the most defining characteristics of their doctrinal and theological approaches. Their interest in Thomas Aquinas was obviously shared by the Strozzi family, who paid homage to this Dominican leader by naming him the patron saint of their burial chapel. The saint’s appearance on the altarpiece by Orcagna, as well as in the ceiling medallions, make this reverential effect even more pronounced and showcase the true potency that the order’s most influential theologian enjoyed in S. Maria Novella.  
+
+By John Carr Haden
+
+Bibliography: 
+
+Arthur Kathleen Giles. <i>The Strozzi Chapel in Santa Maria Novella.</i> Ann Arbor, Michigan: UMI Dissertation Services. 1977. 
+
+Davies, Brian. "St Thomas Aquinas as a Dominican."  <i>New Blackfriars</i> 60, no. 706 (1979): 102-16 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation:  -39.19, 3.50, 0.13
+
+Camera Location: -103.073, 11.276, 18.330
+
+Camera Looks Towards: -12.951, 5.220, 11.097
+
+Annotation block name: The Facade of Santa Maria Novella   
+
+Annotation Details: <div style="overflow:scroll ; height:325px"> Although construction of the façade began between 1295 to 1300 with the building of ten <i>avelli</i> out of green and white marble, the portion above the bottom rose window remained incomplete throughout the Trecento and part of the Quattrocento. The original lower part showcased both a Tuscan proto-Renaissance style with marble revetments, serpentine, and larger arcades overlapping other panels and a Gothic style with niches, tombs, side doors under pointed arches, and a circular window. The façade would remain incomplete until Giovanni di Paolo Rucellai, a wealth banker and property owner, commissioned Leon Battista Alberti to complete the façade. However, the building’s partial completion served as a unique opportunity for Alberti to reconcile the completed lower portion with his own style. 
+
+On the lower level, Alberti walled and replaced the two niches on the side with corner buttresses that he arranged in horizontal striping in honor of the facades of the nearby Baptistery and more distant church of S. Miniato al Monte, both of which he considered Florentine landmarks. This would prove to be a motif throughout his career. Additionally, he removed two niches from the main door and created a deep portal that suggested his own classical influences. Alberti further presented his classical interests by adding four columns (two of which bear Corinthian capitals) and cornices that echo the ancient structures of the Arch of Septimius Severus and the Pantheon in Rome.  
+
+Alberti reconciled the rectangular patterns of the Tuscan proto-Renaissance style in the frieze with his own architectural approach. Within the frieze, Alberti embedded each square with different, ornamental rose patterns that allowed for the unification of the large rectilinear shapes with the circular ones already present in the upper part of the structure. Pilasters with horizontal striping end each side, which help maintain some continuity from the lower level. 
+
+The upper level of the façade appears to mark a transition from the style of one era of the Gothic and Romanesque styles to the more modern interest of classical architecture that Alberti preferred. While he still maintained the horizontal striping through four pilasters, the Gothic presence of rose patterned circles and classical geometric shapes conform to his own unique style. Alberti further reconciled the different styles toward the top by embedding larger rectangles with more elaborate rosettes that feature both geometric and circular patterns. To mask the difference in width between the upper and lower stories, Alberti used scrolls embellished with ornate rosettes and intricate lace designs to mask the side aisles flanking the nave. 
+
+Albert continued to show his classical influence by inscribing the name of the patron and the date of completion, 1470, in the Latin inscription just below the pediment. The pediment embellished with the Dominican solar emblem and intricate designs showcases Alberti’s ability to unify the building’s history with his own style. 
+
+By Chris McCrackin
+
+Bibliography 
+
+Hatfield, Rab. “The Funding of the Façade of Santa Maria Novella.” <i>Journal of the Warburg and Cortauld Institutes,</i> Vol. 64, 2004, pp. 81-128. 
+
+Lehmann, Phyllis Williams. “Alberti and Antiquity: Additional Observations.” <i>The Art Bulletin,</i> Vol. 70, No. 3, 1988, pp. 388-400. 
+
+Roy, Brian. <i>The Façade of Santa Maria Novella: Architecture, Context, Patronage, and Meaning.</i> 1997. McGill University, Ph. D Dissertation. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html  
+
+Location of Annotation: 48.92, 8.15, 0.92
+
+Camera Location: 24.088, 14.089, 7.063
+
+Camera Looks Towards: 138.213, 13.493, 10.255
+
+Annotation block name: Ghirlandaio’s Frescos 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Those lucky enough to pass through Santa Maria Novella’s tramezzo would have encountered the elegant Cappella Maggiore located behind the high altar at the transept’s crossing. Decorated by Domenico Ghirlandaio, the frescoes in this chapel help us understand artistic techniques used by artists in the later part of the Florentine Renaissance. The cycle depicts scenes from the lives of both John the Baptist, the patron saint of Florence, and the Virgin Mary, the namesake of the church. Although these paintings may seem derivative of other pieces found in the nave and chapels in the church, they represent an elevated stylistic rendering focused more on naturalism and variability than traditional formulas. Ghirlandaio’s style looks more distinctive than that of his predecessors Giotto and Masaccio, whose <i>Crucifix</i> and <i>Trinity</i> in S. Maria Novella represent advances of previous eras.  More indebted to the classical tradition, Ghirlandaio applied his own method of planning, sketching, and composition to these frescoes that articulate contemporary trends in late fifteenth-century Florentine painting.  
+
+By John Carr Haden
+
+Bibliography: 
+Bent, George R. <i>Public Painting and Visual Culture in Early Republican Florence</i>. New York: Cambridge University Press, 2016. 
+Cadogan, Jean K. "Observations on Ghirlandaio's Method of Composition."  <i>Master Drawings</i> 22, no. 2 (1984): 159-235. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html  
+
+Location of Annotation: 60.74, 21.49, 3.19
+
+Camera Location: 59.155, 16.972, 4.390
+
+Camera Looks Towards: 59.032, 19.968, 4.294
+
+Annotation block name: Birth of the Virgin 
+
+Annotation Details: <div style="overflow:scroll ; height:275px"> The image of the <i>Birth of the Virgin</i> exemplifies Ghirlandaio’s artistic expression. Formed by orthagonals that converge at a vanishing point in the composition’s center, a three-dimensional room contains the figures of the scene in which the Virgin was born. Within the painting, numerous midwives stand in ornate clothing as they wait for the presentation of the Virgin. The naturalism of the drapery is mirrored by a cascading stream of water that fills a pot being used to clean the newborn. Around the ceiling are naturalistic cherubs whose marble bodies perfectly match the anatomical structures of human beings. Unlike any other piece in Santa Maria Novella, the naturalism within indicates Ghirlandaio’s style. The artist’s preliminary sketches highlight his specific focus on the naturalism of garments, faces, and on a variance in details present in the work.  Unlike standard Christian works of art, which aimed to represent images of religious figures and icons, Ghirlandaio implements an elevated naturalism and unique iconography that set the stage for later painters like Leonardo da Vinci. 
+
+By John Carr Haden
+
+Bibliography: 
+Bent, George R. <i>Public Painting and Visual Culture in Early Republican Florence</i>. New York: Cambridge University Press, 2016. 
+Cadogan, Jean K. "Observations on Ghirlandaio's Method of Composition."  <i>Master Drawings</i> 22, no. 2 (1984): 159-235. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html  
+ 
+Location of Annotation: 27.52, 64.44, 8.57 
+ 
+Camera Location: 28.986, 56.031, 0.508 
+ 
+Camera Looks Towards: 29.000, 57.859, 1.328 
+ 
+Annotation block name: Vault Frescoes in the Spanish Chapel 
+ 
+Annotation Details: <div style="overflow:scroll ; height:350px">The vault frescoes in the Spanish Chapel modify and expand upon the themes present in the main wall frescoes, namely the Dominican emphasis on preaching and the sacrifice and Resurrection of Christ. The chapel’s north vault depicts the <i>Ascension</i>, the south vault depicts the <i>Resurrection</i> , the east vault the <i>Navicella</i>, and the west vault an image of the <i>Pentecost</i>.
+ 
+A copy of Giotto’s famous mosaic of the same name from Old St. Peter’s in Rome, the <i>Navicella</i>, or the Salvation of Peter, depicts the moment in which Christ walks on water, calls out to Peter to join him, and saves him from drowning. As Old St. Peter’s was not destroyed until the beginning of the fifteenth century, Giotto’s mosaic would have been extant at the time Andrea painted the Spanish Chapel. The Dominican order closely aligned itself with Rome and the papacy and for a time served as the Pope’s Inquisitors. The inclusion of this image thus tied the Dominicans at Santa Maria Novella in with the larger papal institution.
+ 
+The <i>Navicella</i> vault faces the west vault’s image of the <i>Pentecost</i>, the moment when the Holy Spirit descended and gifted the disciples with the ability to speak in many tongues so that all the people of the world might understand their preaching. This clearly parallels the Dominican role as preachers sent to deliver the message of God to the people.
+ 
+The west wall fresco of  <i>St. Thomas Enthroned</i> below the <i>Navicella</i> reinforces the importance of preaching in the Dominican order. St. Thomas Aquinas, the preeminent Dominican theologian, sits flanked on either side by his ancient sources and inspirations and presides over all the collected knowledge of the universe. The hero of the Scholastic method, Thomas appears as the most dominant authority in intellectual history.
+ 
+Another connection to preaching appears in the chapel’s<i>Pentecost</i> wall fresco. The painting contains a scene from the book of <i>Acts</i> in which Peter delivers a sermon on the day of Pentecost. He speaks about the death and resurrection of Christ, saying:
+ 
+“Men of Israel, hear these words: Jesus of Nazareth, a man attested to you by God with mighty works and wonders and signs that God did through him in your midst, as you yourselves know— this Jesus, delivered up according to the definite plan and foreknowledge of God, you crucified and killed by the hands of lawless men. God raised him up, loosing the pangs of death, because it was not possible for him to be held by it…. This Jesus God raised up, and of that we all are witnesses. Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing.”
+ 
+Peter’s Pentecost sermon references Christ’s crucifixion and ascension, the two scenes depicted in the north and south vaults, respectively. Thus, both the wall and vault frescoes of the Spanish Chapel build upon one another to emphasize the church’s role of preaching to the people through the Scholastic method, as well as the centrality of Christ’s sacrifice to the Christian faith.
+
+By Alice Chambers
+
+Bibliography: 
+"Acts 2 ESV." Bible Gateway. Accessed April 01, 2019. https://www.biblegateway.com/passage/?search=Acts 2&version=ESV. 
+Gardner, Julian. Patrons, Painters, and Saints : Studies in Medieval Italian Painting. Aldershot, Hampshire, Great Britain: Variorum, 1993. 
+Krén, Emril, and Daniel Marx. "Frescoes in the Spanish Chapel, Florence (1366-67), Santa Maria Novella." Web Gallery of Art. Accessed April 01, 2019.  
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html  
+ 
+Location of Annotation: 33.80, 58.64, -0.89 
+ 
+Camera Location: 28.544, 55.801, -0.537 
+ 
+Camera Looks Towards: 30.515, 55.803, -0.179 
+ 
+Annotation block name: Chapterhouse or Spanish Chapel 
+ 
+Annotation Details: <div style="overflow:scroll ; height:350px"> Population growth in Florence began to exceed the capacity of structures within Santa Maria Novella before the advent of the plague in 1348. Buildings such as the St. Nicholas Chapel and the Capitolo del Nocentino could not hold large gatherings like the Provisional Council of Dominicans. However, as the Plague of 1348 ravaged Florence and awakened religious anxieties, wealthy members of Santa Maria Novella such as Buonamico di Lapo Guidalotta of the Buombaroni family began to donate funds to ensure an easier afterlife. This wave of religious anxiety over accrued wealth resulted in the expansion of Santa Maria Novella, and buildings such as the Green Cloister and the Chapterhouse, also known as Spanish Chapel, were constructed in the mid-trecento under the supervision of Fra Jacopo Talenti. With a donor acquired for the construction of the meeting chamber, the convent granted a site south of the friars' burial ground and next to Strozzi Chapel for the Chapterhouse. 
+	The interior architecture of the Chapterhouse showcases Jacopo Talenti's ability as an architect. Faced with the intrusion of the Strozzi Chapel in the northeast, Jacopo was able to slightly alter the northwest corner, giving the structure a symmetrical appearance. The short columns supporting the large vault creates the impression that the roof bends as it ascends above the viewer. Typical of the Italian Gothic style, Jacopo’s minimalist tendencies incorporated into the space a series of windows wrought in marble with pointed arches, but with few decorative additions or embellishments.
+Buonamico died shortly after the Chapterhouse's initiation in 1355, and his estate left 850 florins to the Dominicans to complete the interior. However, the final decorations of the interior were not begun until December 1365 when Andrea di Bonaiuto was hired to paint the walls and vaults with elaborate frescoes that celebrated the order and its mission. With a stipend and house provided for Andrea and his wife, Andrea spent the next two years completing the fresco cycle in the Chapterhouse. For centuries, this space and its decorative programs hosted meetings held by both the community in the cloister and by the Dominican Order writ large, as S. Maria Novella became known as one of the most important mendicant seats in Christendom.
+
+By Chris McCrackin
+
+Bibliography: 
+Brown, J. Wood. <i>The Dominican Church of Santa Maria Novella at Florence: A Historical, Architectural, and Artistic Study</i>. Otto Schulze & Co., 1902.
+Bent, George. "Andrea di Bonaiuto." <i>Medieval Italy: An Encyclopedia</i>. edited by Christopher Kleinhenz. Routledge, 2004. pp. 33-34.
+Offner, Richard and Klara Steinweg. <i>A Critical and Historical Corpus of Florentine Painting</i>. Giunti Gruppo Editoiale, 1996.
+  
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html  
+ 
+Location of Annotation: 33.80, 52.71, -0.92 
+ 
+Camera Location: 27.990, 54.081, -0.540 
+ 
+Camera Looks Towards: 29.918, 54.414, -0.106 
+ 
+Annotation block name: The ‘Other’ in Andrea di Bonaiuto’s Spanish Chapel Frescoes 
+ 
+Annotation Details: <div style="overflow:scroll ; height:350px"> While Andrea di Bonaiuto depicts multitudes of Christian figures in the frescoes of Santa Maria Novella’s chapterhouse, he also includes many non-European and non-Christian figures identifiable by their distinct garb. Andrea’s frescoes were intended to represent Dominican ideals and to glorify the order in one of the most important and influence convents in Europe; thus, one can interpret the way the frescoes depict Jews and Muslims as being emblematic of larger Dominican views. 
+
+One can divide the Spanish Chapel frescoes into two primary groups: those which depict the Crucifixion and the events surrounding it and those which show figures and events from Dominican history. Foreigners appear in both images, yet Andrea includes them for slightly different purposes depending on the scene. In both cases, Andrea distinguishes these “others” through their particular costumes and headdresses, as well as their skin tone, facial features, and even whiskers. He depicts his Jewish figures as contemporary medievals, instantly recognizable to a fourteenth-century viewer. In the Crucifixion images, these infidel “others” feature prominently among the crowds who jeer at Christ and serve to contrast the piety of Christians who mourn his fate. This draws from a long tradition of depicting Jews, rather than Romans, as those responsible for Christ’s crucifixion, a position only altered during the late twentieth century by Pope John Paul II. However, this characterization presents an inherent paradox as Christ himself descended from Jews and grew up within the Jewish faith. Christians viewed Jews as both the forefathers of Christ and as persecutors whose involvement in Christ’s condemnation reflected unkindly on the nature of all Jews. The choice to remain faithful to the tenants of Judaism, and thus to reject the invitation to convert to Christianity, was regarded by medieval politicians and theologians as a form of collective blasphemy, and the Jewish community in Europe became an easy target for scapegoating throughout the Middle Ages and on into the modern era. 
+
+In the Dominican scenes, by comparison, the scope of this comparison between Christian and non-Christian was narrowed. Here, the foreigners become the audience which listens to the sermons of famous Dominican figures such as Thomas Aquinas, and they either embrace or reject his arguments for conversion. Andrea di Bonaiuto lumps together both Jews and Muslims into a category of nonbelievers in these scenes, and in the process clearly demarcates an “us against them” approach to contemporary religious practice. However, rather than rely on cartoonish depictions of Jews or caricatures of foreigners to illustrate their inferiority, Andrea’s frescoes instead place focus on the theme of physical blindness to explain the unwillingness or inability of non-Christians to adhere to Dominican argumentation. By painting a distinctive representation picture of the “other,” Andrea simultaneously defines Dominican identity.  
+
+By Alice Chambers
+
+Bibliography: 
+Debby, Nirit Ben-Aryeh. "Art and Sermons: Dominicans and the Jews in Florence's Santa Maria Novella." <i>Church History and Religious Culture</i> 92, no. 2/3 (2012): 171-200.   
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html  
+ 
+Location of Annotation: 20.16, 57.77, -1.64 
+ 
+Camera Location: 12.324, 54.759, -0.215 
+ 
+Camera Looks Towards: 28.116, 54.001, 0.471 
+ 
+Annotation block name: The Spanish Chapel at Santa Maria Novella 
+ 
+Annotation Details: <div style="overflow:scroll ; height:350px"> Termed ‘the Spanish Chapel’ because of its use in the sixteenth century by the Spanish merchant community, the chapter house of Santa Maria Novella served as a multifunctional space. The Dominican friars utilized this central room as a place to gather, deliver justice, and convene council, and its architectural structure stemmed from its multipurpose nature. 
+
+As revealed by an important letter from Humbert of Romans, the leader of the Dominican Order from 1254-1263, the chapter house was expected to be placed in every institution’s cloister. The Dominicans at Santa Maria Novella followed this convention closely, constructing their chapter house to face out onto the Chiostro Verde (the Green Cloisters) at the heart of the building complex.  
+
+Ornamented with black, white, and green marble inlay, the chapter house façade opens out to a slightly wider cloister walk on the north side of the Chiostro Verde. As indicated by other chapter houses within the Roman province (to which Santa Maria Novella belonged), Dominicans tended to favor a symmetrical façade with a doorway flanked by two ornamented, low-silled windows, a convention shared with multiple religious orders. The windows contain white marble tracery and originally opened to the outside; the iron grilles and glass currently in place were only added in later centuries. The low, open windows permitted light to shine into the interior and granted those gathered outside in the cloister access to the happenings within.  
+
+Multiple liturgical and administrative proceedings occurred there on a daily basis. These activities included readings from the legislation, gospels, or martyrology, as well as prayers for benefactors and the chapter of faults, a ritual in which the friars publicly confessed their sins. Additionally, the space could host sermons preached to the friars, the reception and profession of novices, as well as the annual liturgical ceremonies performed on days such as Holy Thursday and Good Friday. 
+
+In addition to the many functions outlined above, the chapter house also served as the burial chapel of Buonamico di Lapo Guidalotti (d. 1355), who funded the construction of several bays of the Chiostro Verde as well as the construction of the chapter house. Within the chapter house, the Guidalotti family arms flank reliefs of the *Visions of St. Dominic* and the *Martyrdom of St. Peter of Verona*, two focal Dominican images. These signs of family patronage elevate the Guidalotti alongside major Dominican figures and co-opt the space as a lay funerary chapel, further complicating its visual messaging. 
+
+In addition to altering the function and use of the chapter house, Guidalotti also altered its physical design. The chapter house leads into a smaller chapel, an inclusion atypical of Dominican architecture at the time. Dedicated to the *Corpus Christi*, this small chapel served as the center point of Guidalotti’s lavish commemorative requirements in his will of 1355. He left 2,000 gold florins to fund a daily mass at the chapel altar and mandated that ten friars perform a daily recitation of the hours. In the end, the expense of Guidalotti’s requests outpaced the funds he left behind, and the 325 florins set aside to paint the walls of the chapter house and chapel also proved inadequate. Thus, for about a decade the chapter house decorations fell to the wayside. A later prior, Zanobi Guasconi, had to secure this funding and employed Andrea di Bonaiuto in 1365 to execute the fresco cycle that currently adorns the chapter house’s walls. 
+
+By Alice Chambers
+ 
+Bibliography: 
+Cannon, Joanna. <i>Religious Poverty, Visual Riches: Art in the Dominican Churches of Central Italy in the Thirteenth and Fourteenth Centuries</i>. New Haven: Yale University Press, 2013, 187.
+Gardner, Julian. <i>Patrons, Painters, and Saints: Studies in Medieval Italian Painting</i>. Aldershot, Hampshire, Great Britain: Variorum, 1993, 112. 
+
+  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html  
+ 
+Location of Annotation: 28.57, 46.92, -0.93
+ 
+Camera Location: 31.015, 58.846, -1.118 
+ 
+Camera Looks Towards: 30.994, 57.631, -1.036 
+ 
+Annotation block name: The <i>Via Veritatis</i>
+ 
+Annotation Details: <div style="overflow:scroll ; height:350px"> Perhaps the centerpiece of Andrea di Bonaiuto’s Spanish Chapel fresco cycle is the <i>Via Veritatis</i>, or “true way,” so termed by the American art historian Millard Meiss. This fresco, also called the <i>Church Militant</i>, covers the east wall of the chapterhouse and faces the image of the <i>Triumph of St. Thomas</i> (or <i>St. Thomas Enthroned</i>), with the images of the <i>Crucifixion</i> and <i>Scenes from the Life of St. Peter Martyr</i> in between them on the north and south walls. 
+
+Though the <i>Via Veritatis</i> makes up only a part of the mural cycle’s overall effect, its detailed symbolism provides a window into medieval Dominican identity. The image outlines the Dominican mission within the larger Church hierarchy and emphasizes the order’s role to provide spiritual guidance to the masses and to combat heresy. In the top portion of the fresco, representing the Heavenly realm, Christ appears as described in the Book of <i>Revelation</i>, holding a book and a key. Below him, a sacrificial lamb sits atop an open book that rests on a throne. Four six-winged creatures, each a symbol of one of the four gospel writers, flank the throne, their bodies covered with all-seeing eyes. A heavenly host surrounds Christ to either side, and the Virgin Mary stands to his right holding white lilies. 
+
+Below the Celestial court stands the Gate of Paradise, guarded by St. Peter, who holds his familiar iconographic attribute of the keys he needs as gatekeeper of Heaven. Those whom Peter has allowed to enter Paradise include various saints, particularly the major Dominican figures of Thomas Aquinas, Peter Martyr, and Dominic. All of the saints within this realm gaze towards Christ, their sightlines pulling the viewer upward to look upon the Celestial Court and the Heavenly throne within it at the top of the composition.  
+
+Moving down, the fresco’s main portion has been divided roughly in half: the left side illustrates the composition and potency of the Universal Church, while the right depicts the primary mission of the Dominican Order. A fantastical image of Florence’s cathedral, identifiable by its distinct dome that had not yet been designed in 1367, dominates the former. In all likelihood, Andrea di Bonaiuto used some kind of imagined model of the building as its basis, as Brunelleschi’s famous dome would not be initiated for another fifty years, well into fifteenth century. However, it does serve as a reminder of Andrea’s role on the Florentine committee that was charged with the task of figuring out how to cover the cathedral’s crossing in the mid-1360s.  
+
+Andrea places the major representatives of both church and state institutions in front of the cathedral. The pope sits at the center of the group, joined on his left by a cardinal, bishop, and monastic representatives, while to his right appear the Holy Roman Emperor, a king, and other secular authorities. Sheep appear below the pope and emperor, calling upon the image of Christ as the Good Shepherd and the Dominicans’ calling to tend the flock. Andrea depicts a troop of black and white dogs driving several brown wolves away from the sheep towards the fresco’s right side. Interestingly, the brown of the wolves’ coats perhaps refers to the habits of the rival Franciscan order, a not-so-subtle statement regarding the intense rivalry between the two mendicant groups in Florence. The dogs’ black and white fur mirrors the black and white robes of the Dominicans and coyly alludes to their reputation as the <i>Domini Cani</i>, or “hounds of the Lord.”  
+
+The scene to the far right revolves around the mission of Dominicans as preachers of Orthodoxy. While Dominic spurs the dogs on against the wolves with his staff, St. Peter Martyr and Thomas Aquinas confront nonbelievers and heretics alike through both the spoken and written word. Their unbelieving audience reacts to their testimony in various ways; some convert, others contemplate what they have heard, and a final few cover their ears so as not to hear, demonstrating the willful ignorance of those who refuse to accept Christianity. 
+
+Directly above this depiction of the spiritual war against heresy appears a coded reference to the Dominican pastoral role within Florence and Christendom at large. Placed literally in the center of the composition, Dominic gestures upwards towards the zone of Paradise while another friar blesses an old man kneeling before him. To the right of this scene, four figures sit on a bench within a grove or orchard while children and maidens frolic, dance, and consume fruit in what might represent a process of spiritual purgation for the afterlife (however, the scene has also been interpreted as a reference to man’s carnal lusts and the pleasures of the body). Could this be an allegorical representation of Purgatory, a zone where humans prepare themselves to enter Paradise? Or do we instead see an image that warns viewers of the consequences of submitting to earthly temptation? Of all the images within the <i>Via Veritatis</i>, and indeed within the entire Spanish Chapel, this perplexing scene continues to challenge the historians who attempt to decipher it. As such, it is one of the most important and controversial images of the entire Florentine Trecento. 
+
+By Alice Chambers
+ 
+Bibliography: 
+Gardner, Julian. <i>Patrons, Painters, and Saints : Studies in Medieval Italian Painting</i>. Aldershot, Hampshire, Great Britain: Variorum, 1993, 110. 
+Polzer, Joseph. "Andrea Di Bonaiuto's Via Veritatis and Dominican Thought in Late Medieval Italy." The Art Bulletin 77, no. 2 (1995): 263-89.  
+   
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: -11.45, 34.49, 3.62 
+
+Camera Location: 1.294, 64.070, 5.080 
+
+Camera Looks Towards: 0.053, 49.804, 0.942 
+
+Annotation block name: Frescoes of the Green Cloister 
+
+Annotation Details: <div style="overflow:scroll ; height:425px"> Although the architectural construction of the Green Cloister was completed by ca. 1359, the interior frescoes of the walkways were not completed until the mid-Quattrocento by a multitude of artists. While many of these artists – such as Paolo Uccello – were criticized for their compositional choices, their attention to detail and perspective earned them the grudging praise of later writers. Although the architectural design of the Green Cloister emphasizes simplicity and essentials, the frescoes demonstrate the painters’ abilities to depict complex scenes in fairly legible ways.  
+
+The northern arcades – the oldest part of the Cloister – contain a fresco dedicated to Dominican history and attributed to Stefano di Giovanni, a Sienese painter, along with a second image of the <i>Tree of the Dominican Order</i>, both of which were part of the first church. Since these frescoes were exposed to the rain prior to the construction of the cloister, the paintings are faded and extensively damaged. While the northern wall showcased historical paintings of S. Maria Novella, the eastern, southern, and western walls bear scenes from the Old Testament. These frescoes, attributed to Dello Delli, Paolo Uccello, and various other painters of the early 1400s, implemented varying shades of terra verde (an earth tone of green), thus giving the structure its namesake of the Green Cloister.  
+
+Although many of the twenty frescoes produced by Delli in the southern and western walls (including a lost figure of St. Dominic portrayed on a lunette above the Spanish Chapel) have faded, the fresco roundels of famous saints and doctors, as well as many of Uccello’s frescoes, can still be seen today. These frescoes include the <i>Creation of Man</i>, <i>The Expulsion of Adam and Eve</i>, <i>Death of Abel</i>, <i>Scenes from the Life of Abraham</i>, <i>Loading of the Animals onto Noah’s Ark</i>, <i>The Deluge</i>, and the <i>Sacrifice of Noah</i>.  Uccello’s most famous work, <i>The Deluge</i>, painted sometime in the 1430s or 1440s, reveals Uccello’s extensive knowledge of perspective, foreshortening, and volumetric representations.  
+
+Beneath <i>The Deluge</i> and last in the series, Uccello's <i>Sacrifice of Noah</i> employs the technique of foreshortening in the figure of God descending down from the head of the spectator. The use of foreshortening was innovative at this time and creates the impression that God is extending out of the fresco. Vasari indicates that the lower right figure represents Shem and is based on Dello Delli’s work. 
+
+By Chris McCrackin
+
+Bibliography: 
+
+Brown, J. Wood. <i>The Dominican Church of Santa Maria Novella at Florence: A Historical, Architectural, and Artistic Study</i>. Otto Schulze & Co., 1902. 
+
+Károly, Karl. <i>A Guide to the Paintings of Florence</i>. George Bell & Sons, 1893. 
+
+Mather, Frank Jewett. <i>A History of Italian Painting</i>. Henry Holt & Co., 1923. 
+
+Zirpolo, Lilian. “Chiostro Verde, Santa Maria Novella, Florence (Green Cloister).” <i>The A to Z of Renaissance Art</i>. The Scarecrow Press, 2009, p. 95. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 0.56, 49.67, -2.02
+
+Camera Location: 11.231, 38.389, 4.912
+
+Camera Looks Towards: -15.618, 69.281, -13.104
+
+Annotation block name: The Green Cloister  
+
+Annotation Details:<div style="overflow:scroll ; height:500px">The Green Cloister, Bell Tower, Strozzi Chapel, and Spanish Chapel became hallmarks of Santa Maria Novella’s architectural and artistic design during the Trecento. Shortly after the Black Death desecrated the Florentine population in 1348, Mico Guidalotta secured the area that abutted the west side of the church for the construction of the Chapterhouse and the Green Cloister. The friars then secured donations from the Da Castiglione and Lucalberti families, who had traditionally served as treasurers of Florence; their funding of the Cloister’s construction perhaps demonstrates the laity’s increasing religious anxiety over accumulated wealth in the wake of the Plague. With land and finances secured in 1350, construction began later that year under the direction of the Master of Works, Fra Jacopo Talenti da Nipazzano. 
+
+The architectural design spoke to an Italian Gothic style and was completed by ca. 1359. On the arches that supported the arcades, Jacopo used alternating green and white marble decorated with precise line work. This echoed the early façade of the church, as well as the Baptistery, S. Salvatore, and S. Miniato al Monte, all designed and built in the eleventh century. Within the interior of the arcades, Jacopo further demonstrated his Gothic influences with rib vaults and elaborate portals and windows typical of this style. However, Jacopo showed some restraint by employing classical arches supported on Corinthian columns rather than the pointed arches typical of the Gothic style.  Jacopo’s most striking decision was to reduce the number of decorative elements and diminish the scope of architectural embellishments in the space, which resulted in simplified design that focused on geometry rather than flair. While this was typical of the Italian Gothic style, this choice allowed future painters – Paolo Uccello chief among them – to paint the interior walls of the Green Cloister with elaborate frescoes celebrating Dominican and church history. Completed almost 100 years after the start of construction, the Cloister’s designs echo the themes found in the interior decorations and demonstrate the sustained wealth and cultural influence of the Dominicans during this period. 
+
+By Chris McCrackin
+
+Bibliography 
+
+Brown, J. Wood. <i>The Dominican Church of Santa Maria Novella at Florence: A Historical, Architectural, and Artistic Study.</i> Otto Schulze & Co., 1902. 
+
+Károly, Karl. <i>A Guide to the Paintings of Florence.</i> George Bell & Sons, 1893. 
+
+Zirpolo, Lilian. “Chiostro Verde, Santa Maria Novella, Florence (Green Cloister).” <i>The A to Z of Renaissance Art.</i> The Scarecrow Press, 2009, p. 95. 
+
+  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: -8.15, 28.70, -1.52
+
+Camera Location: -5.962, 37.212, 0.332
+
+Camera Looks Towards: -5.971, 31.213, 0.470
+
+Annotation block name: The Deluge 
+
+Annotation Details: <div style="overflow:scroll ; height:295px"> Painted in the Green Cloister from 1447-8, Paolo Uccello's <i>The Deluge</i> has garnered both criticism and praise throughout its history. Although the Green Cloister painters pioneered cutting-edge techniques in fresco painting, Uccello's zealous pursuit of what he called "O! thou dear perspective!" was criticized by contemporaries and scholars. While <i>The Deluge</i> follows orthogonal lines flawlessly, Giorgio Vasari criticized the perspective in the sixteenth century. He noted the perspective compressed the overall composition, which in turn forces the viewer to take in each figure individually rather than understand the scene in its entirety. Despite this issue, Uccello's attention to the smallest detail of the human form and mastery of foreshortening proved vital for the development of Florentine fresco painting, and the importance of his works in the Green Cloister cannot be overstated in the greater context of fifteenth-century art.  
+
+More recently, <i>The Deluge</i> has become associated with modernity. The fresco’s usage of the disjunction between individual details and overall composition creates deeper meaning. Within <i>The Deluge</i>, Uccello portrays the various responses to a crisis vividly. While some of the figures retain a calm, peaceful repose, the grotesque twisting of other figures portrays the bestial nature of the human condition. Uccello’s decision to portray human bodies devoid of color sacrifices accuracy for compositional unity. The heavy use of white drawn across the field helps viewers connect the independent parts of the picture but wrests the life out of the characters who struggle to survive the storm. While the erosion of color suggests the moral and physical impoverishment of the human figures, the use of white also creates the impression that these figures emerge into a space, rather than out from it.  
+
+The figures’ clothing appears caught, a physical snag representing a greater temporal one. One side depicts the period of the prehistoric flood, while the other portrays the first appearance of the Black Death which wiped out half of Florence’s population in 1348. At the time, it was not uncommon to portray Biblical figures in contemporary costumes. Uccello's choice to use Florentine clothing in this scene from Genesis creates clear parallels between the flood and the plague that any local viewer would have recognized immediately. The individual responses of Uccello’s figures to the terror of the flood scene echoes the intense trauma experienced exactly one hundred years earlier, by the ancestors of the very people who would have been his painting’s original audience. 
+
+By Chris McCrackin
+
+Bibliography: 
+Karoly, Karl. <i>A Guide to the Paintings of Florence.</i> London, George Bell & Sons, 1893. 
+Mather, Frank Jewett. <i>A History of Italian Painting.</i> New York, Henry Holt & Company, 1923. 
+Schefer, Jean Louis. <i>The Deluge, The Plague Paolo Uccello.</i> Translated by Tom Conley, The University of Michigan Press, 1995. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: -39.19, 3.10, -1.5
+
+Camera Location: -103.073, 11.276, 18.330
+
+Camera Looks Towards: -12.951, 5.220, 11.097
+
+Annotation block name: History of Santa Maria Novella 
+
+Annotation Details: <div style="overflow:scroll ; height:300px">The origins of Santa Maria Novella extend back into the period after the Imperial garrison stationed at Florence left the city in 524. The first written account of a chapel on the site dates from 983 and lists it as a possession of the Chapter of Florence. Although initially a small chapel, the expansion of economic power in Florence resulted in the church’s growth during the eleventh century. By 1072, written records describe the chapel as an “Ecclesia,” suggesting the growing importance of the church within the diocese.  
+
+In this same year of 1072 a priest, Grimaldo, donated additional lands to the chapel which permitted construction of a new church adjacent to the former on the opposite side of Farm Road. On October 30th, 1094, Bishop of Florence, Rainerius, consecrated the new Romanesque Church with the assistance of Seniorellus the Archpresbyter. This consecration is said to have moved Florentinius Battisagna and the sons of Ildiza to donate their lands that ringed the building. The church coexisted with the chapel until the 12th century, when written records document the building as both an “Ecclesia” and “Cappella,” suggesting that Santa Maria Novella had assumed control of the smaller space. By 1197, a cloister had been added to the complex. However, Santa Maria Novella only took on its current appearance after the arrival on the Dominicans in the thirteenth century.  
+
+Although the Dominicans assumed the church under the Act of 1221, the expansion of the church did not begin until Fra Aldobrandino Cavalcanti became prior in 1244. Under Aldobrandino’s supervision, Fra Ristoro da Campi and Fra Sisto, the masons who built the first vaults of the Bargello, began to build the transept of a new church in 1245. This initial project appears to have been completed by 1279, as the Cardinal Latino Frangipani then laid the second wave of construction’s foundation stone on October 18th – an event commemorated by an inscription in the east transept. The Ricci and Tornaquinci families then funded the construction of the nave, tramezzo, and chancel, thus giving Santa Maria Novella the general appearance that it has today. 
+
+Responsibility for the church’s completion fell to three Dominican friars named Fra Mazzetto, Fra Alberto Mazzanti, and Fra Borghese. While Fra Mazzetto completed architectural work in the Prato and Albertino designed the Convent, Borghese took charge of the church from 1280 until his death in 1313. Although construction of the larger church began in 1279, the structure would not be entirely finished until the bell tower’s north end completion in 1360. Decorations of the church’s interior spaces – including those in the Strozzi Chapel by Nardo and Andrea di Cione, the frescoes by Andrea di Bonaiuto in the Spanish Chapel, and Masaccio’s <i>Holy Trinity</i> – continued for centuries afterwards. Withstanding the crises of warfare, plague, and even a lightning strike in 1351, the Santa Maria Novella to this day stands as a monument of religious, cultural, and artistic life in Florence. 
+
+By Chris McCrackin
+
+Bibliography: 
+
+Arthur, Kathleen. “The Strozzi Chapel: Notes on the Building History of Sta. Maria Novella.” <i>The Art Bulletin</i>, Vol. 65, No. 3, 1983, 367-86. 
+
+Brown, J. Wood. <i>The Dominican Church of Santa Maria Novella at Florence: A Historical, Architectural, and Artistic Study.</i> Otto Schulze & Co., 1902. 
+
+Gáldy, Andrea. “Santa Maria Novella”. <i>The Art, History, and Architecture of Florentine Churches.</i> Cambridge Scholars Publishing, 2016, 308-39. 
+ 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 36.51, 32.50, 20.13
+
+Camera Location: -25.939, 35.281, 33.445
+
+Camera Looks Towards: 244.199, 4.963, 35.725
+
+Annotation block name: Campanile of Santa Maria Novella 
+
+Annotation Details: <div style="overflow:scroll ; height:300px">While the original Campanile developed alongside the old church in 1094, the majority of the current Campanile’s construction happened in c. 1330 on its previous foundations. With an increase of population and wealth from the previous century, the influx of revenue allowed Fra Simone Saltarelli, Archbishop of Pisa, to donate both the bells and 11,000 florins for its construction. The inscription on the two bells bear the name of Puccio Fiorentino, a bell-founder in the parish of San Michele Visdomini, and contain the dates 1305 and 1310, which suggest that the current early stages of the campanile might have been completed in the early 1300's. Saltarelli added three new bells to the structure in 1330: one of them bears the inscription "Ugolinus de Bononia me fecit 1331" or "Ugolinus de Bononia made me in 1331.” The other two bells show the date of 1333 and identify the maker as the same Puccio who had made the original set for the early Campanile. 
+
+However, the newly constructed Campanile did not last long because lightning struck the upper levels of the tower and the angel capping the roof during the night of April 20th, 1358. The disaster caused debris to fall on the Church and Convent, resulting in severe damage to these structures. Donations from the Confraternity of St. Peter Martyr, however, allowed for the top to be rebuilt after Fra Jacopo Talenti's design. In order to prevent future disasters, the Prior, Fra Piero di Ubertino Strozzi, placed a box of relics at the top of the Campanile. Nevertheless, lightning repeatedly struck the Campanile throughout its history. 
+
+The chronicler, Ammirati, noted that the Florentine public believed that Heaven sent down the lightning to punish the prideful clergy. Looming over both the Baptistery and Santa Maria Novella, the Campanile was considered a brazen display of power and wealth. Since the Baptistery was designed as the center of the Piazza of San Giovanni, the towering Campanile potentially detracted from the power of the Baptistery and the focus of the piazza. The Florentine public soon referred to the Dominican structure that dwarfed its surrounding buildings as Florentine Tower of Babel. Many related the lightning strikes against the Campanile to God’s punishment against the clergy for building a magnificent structure to reach heaven. Contrary to the goals of its makers, the public’s perception of God’s retribution against the Santa Maria Novella’s Campanile marked a rare miscalculation by the Dominicans in Florence.  
+
+By Chris McCrackin
+
+Bibliography: 
+
+Brown, J. Wood. <i>The Dominican Church of Santa Maria Novella at Florence: A Historical, Architectural, and Artistic Study.<i> Otto Schulze & Co., 1902. 
+
+Trachtenberg, Marvin. <i>Dominion of the Eye: Urbanism, Art, and Power in Early Modern Florence.<i> Cambridge, Cambridge University Press, 1997. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 26.73, -13.50, -0.43
+
+Camera Location: -24.314, -13.886, 12.382
+
+Camera Looks Towards: 46.509, -11.994, -33.057
+
+Annotation block name: The Cemetery of Santa Maria Novella 
+
+Annotation Details: <div style="overflow:scroll ; height:300px">The cemetery of Santa Maria Novella was not only one of the main burial sites of renaissance Florence, it also influenced the design of the church itself. Consecrated in 1094 and first described in 1105, the burial site became too small to satisfy the needs of the local community. The rights established in the twelfth century of <i>jus sepulchri</i> allowed individuals to choose the location of their interment; the Papal Bulls of 1227 and 1243 permitted graves to be located within the confines of church interiors and allowed intramural burials. Both the changing societal view of the cult of the dead and the rise of the urban population lead to the cemetery’s importance to Santa Maria Novella.  
+
+The Papal Bulls allowed for the construction of a two-story nave, in which the vaults of the ancient churchyard supported the transepts above and the nave itself. This was particularly beneficial in the western transept. The western transept houses the Rucellai Chapel, the Strozzi Chapel, and the Carboni Chapel. The Strozzi Chapel was constructed directly on top of the vault of the Carboni Chapel, dedicated to St. Anthony; this stacking of the chapels would not have been possible with the Papal Bulls. Furthermore, the capitals placed on columns in the Strozzi Chapel still contain the Carboni family’s coat of arms, suggesting that the Strozzi family did not obtain the site until after the interment of Ulivero dei Carboni in 1337. The Steccuti Chapel, dedicated to St. Anne, was built underneath the western transept and cemetery and may contain frescoes by Giotto.  
+
+Although the western transept encroached on the cemetery, other surrounding areas – specifically, outside the eastern transept – had room for expansion. The construction of the southern portion of the nave, the façade, and the Convent Gate allowed for <i>avelli,</i> or wall tombs, which demonstrated the Dominicans. Wall tombs aimed to promote interaction between the living and the dead and became a key form of ancestral commemoration in Florentine culture. <i>Avelli</i> are commented on in such works as Dante's <i>Commedia</i> and Boccaccio's <i>Decameron</i> – these tombs were occasionally used as a locus or mechanism of shame. In some cases of slander, convicted criminals were forced to stand within an <i>avello,</i> wearing a paper mitre to invoke insults from passing crowds. Shame was yoked to society’s physical reminders of death, reminding the guilty of the spiritual fate that awaited them if they did not repent.   
+
+In a city shrouded in famine, war, political instability, and plague, worlds of the living and the dead were never far from each other. Even the interior of Santa Maria Novella was arranged in such a way as to accommodate both the living and the dead simultaneously. The preoccupation with dying and the dead came to govern not only religious ritual performance, but also the construction, design, and placement of paintings in the church. Especially after the Black Death, images became a way to connect the living and the dead. Specifically, commissioner requests became increasingly specific, suggesting the power of paintings during times of plague. Among the best examples of this practice is Masaccio's <i>Trinity,</i> positioned directly across from the only door leading to the cemetery. The living were reminded of the sacrifice of Christ and the possibility of eternal life after death as they entered from the eastern door of the nave. The interment of the dead reflects the Florentine belief of the power of the dead and the privileging of both the past and the future over the present. 
+
+By Chris McCrackin
+
+Bibliography: 
+
+Arthur, Kathleen. “The Strozzi Chapel: Notes on the Building History of Sta. Maria Novella.” <i>The Art Bulletin</i> 65 (1983), 367-86. 
+
+Bent, George. <i>Public Painting and Visual Culture in Early Republican Florence.</i> Cambridge, 2016. 
+
+Brown, J. Wood. <i>The Dominican Church of Santa Maria Novella at Florence: A Historical, Architectural, and Artistic Study.</i> Otto Schulze & Co., 1902. 
+
+Bruzelius, Caroline. "The Dead Come to Town: Preaching, Burying, and Building in the Mendicant Orders." <i>The Year 1300 and the Creation of a New European Architecture</i>, edited by Alexandra Gajewski and Zoë Opačić, Brepols, 2007, 203-24. 
+
+Cohn, Samuel. <i>The Cult of Remembrance and the Black Death</i>. John Hopkins University Press, 1992. 
+
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: -8.86, 27.89, 6.25 
+
+Camera Location: -5.907, 16.381, 3.726 
+
+Camera Looks Towards: -2.130, 37.993, -0.423 
+
+Annotation block name: Holy Trinity 
+
+Annotation Details:   Masaccio’s <i>Holy Trinity</i> constitutes the first nearly perfect example of one-point perspective in Western art. Painted around 1427, Masaccio’s masterpiece unites the three components of the <i>Holy Trinity</i>: God the Father, Christ the Son, and the Holy Spirit in the form of a dove. In the center of the composition, Christ hangs from the wooden cross that God the Father supports from above. Between the Father and the Son appears the dove, completing the Trinity. The Virgin Mary and John the Baptist accompany the scene, and Mary gazes at the viewer.  
+
+ The two donors gaze at each other with gestures of prayer. Masaccio’s use of one-point perspective informs the viewer that the donors reside outside the scene in a separate spatial box and thus occupy a realm that different from that of the holy figures behind them, suggesting that the image of the <i>Holy Trinity</i> is a vision that has been conjured by the prayers of the donors. The orthogonal lines created by the receding architecture converge at a vanishing point where Christ’s blood drips below the cross. With the geometric organization of his scene, Masaccio has kept in mind the viewer’s positioning below the image; the vanishing point matches the viewer’s eye level: one must gaze slightly upward to see the entire scene. However, just below the viewer’s sightline appears a second image: a depiction of a skeleton on a sarcophagus. This “memento mori” reminds viewers that they too will perish and that they must contemplate and revere the sacrifice that Christ made for humanity, just as the donors do above. The Virgin Mary’s gaze and hand gesture invite them to contemplate the complexity and spiritual weight of the scene. Because of its location directly behind the pulpit in the area where the congregation sat, this image was extremely accessible to the public, and one can well imagine preachers referencing it during their sermons. 
+
+  Masaccio’s <i>Holy Trinity</i> is brilliantly unified by the red, white, and blue color pattern that echoes along the receding architectural space. The strategic use of color, combined with the perfect use of one-point perspective, allows the painting to become a “window onto space.” Thus, viewers can imagine the scene taking place right in front of them. Even through this pristine use of naturalism, the spiritual mystery is preserved through the visions of the donors that inspire viewers to tap into that same realm of spirituality.  
+
+By Madeleine Lee
+
+Bibliography:
+
+Bent, George. </i>Public Painting and Visual Culture in Early Republican Florence</i>. New York: Cambridge University Press, 2016 (see pp. 273-88). 
+
+Goffen, Rona, ed. </i>Masterpieces of Western Painting: Masaccio’s Trinity</i>. New York: Cambridge University Press, 1998 (see pp. 90-94). 
+
+Schegel, Ursula. “Observations on Masaccio’s Trinity Fresco in Santa Maria Novella.” </i>The Art Bulletin</i> 45, no. 1 (March 1963), 19-33. https://www.jstor.org/stable/3048052.  
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 4.65, 28.90, -1.40 
+
+Camera Location:  5.734, 36.875, 0.328 
+
+Camera Looks Towards: 5.707, 18.878, 0.742 
+
+Annotation block name: The Expulsion 
+
+Annotation Details:   
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html  
+
+Location of Annotation: 9.49, 28.96, -1.35  
+
+Camera Location:  11.390, 37.387, 0.316  
+
+Camera Looks Towards: 11.381, 31.389, 0.454  
+
+Annotation block name: The Creation  
+
+Annotation Details:    
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: -2.06, 28.80, -1.44 
+
+Camera Location:  -0.756, 35.928, 0.385 
+
+Camera Looks Towards: -0.837, -18.063, 1.627 
+
+Annotation block name: Noah’s Ark 
+
+Annotation Details:   
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 38.72, -0.49, 6.40 
+
+Camera Location:  44.502, -0.722, 7.133 
+
+Camera Looks Towards: 29.982, -0.962, 6.860 
+
+Annotation block name: Tomb of Tedice Aliotti 
+
+Annotation Details: <div style="overflow:scroll ; height:375px">With the rapid social change regarding the cult of the dead and the Papal Bulls of 1227 and 1243 allowing interment within the church, ecclesiastical authorities – often from wealthy families – began to be buried behind the <i>tramezzo</i>. Influential laypeople and clergy within the Dominican church erected tombs for their loved ones, replete with elaborate imagery and expensive material, to encourage passersby to stop and pray for the deceased’s passage through Purgatory. By being interred inside the church, and specifically near an altar, the dead increased their chances of saintly intercession in heaven.  
+
+As a result of famine and disease in the early 1300s, internment behind the <i>tramezzo</i> steadily increased. Individuals such as Riscoli, Aldobrandino Cavalcanti, Fra Corrado della Penna, and Tedice Aliotti were buried in notably expensive and elaborate tombs. Tedice Aliotti’s tomb specifically has gained significant attention, as Maso di Banco more than likely constructed it after Aliotti’s death on October 7th, 1336. Either part of the Visdomini or Tosinghi family, Aliotti rose to prominence within the Dominican church, serving as vicar under Corrado della Penna as well as holding the title of Bishop of Fiesole. Possessing both familial and religious status within the church, Aliotti was buried behind the <i>tramezzo</i>.  
+
+The positioning of the tomb marks Aliotti’s elevated status. Aliotti’s tomb is mounted on the wall above the viewer, suggesting to the viewer the heights that he reached during his life of service. The tomb contains the effigy of Aliotti, which was reserved for people of status within the Dominican community; this distinction invited more people to pray over his soul.  
+
+The stylistic details of the tomb also attract the viewer’s eye. Composed primarily of marble, Maso di Banco’s fine craftsmanship appear in the intricate line work filling the arches, columns, and supports which maintain perfect harmony within the construction. Reliant on the embellishments on the blank space, the tomb echoes Gothic influences but differs from the Italian Gothic style of Santa Maria Novella’s architecture. The incorporation of angels holding a lantern suggest that the Divine watches over Aliotti even after death and provides an image of comfort to the presumably mourning onlooker. The tomb presents a powerful visual spectacle that stops the visitor, bringing to their mind the soul of Aliotti as he progresses through Purgatory. 
+
+By Chris McCrackin
+
+Bibliography:
+
+Arthur, Kathleen. “The Strozzi Chapel: Notes on the Building History of Sta. Maria Novella.” <i>The Art Bulletin*</i>, Vol. 65, No. 3, 1983, pp. 367-86. 
+
+Butterfield, Andrew. “Social Structure and Typography of Funerary Monuments in Early Renaissance Florence.” <i>Anthropology and Aesthetics,</i> no. 24, 1994, pp. 47-67. 
+
+Brown, J. Wood. <i>The Dominican Church of Santa Maria Novella at Florence: A Historical, Architectural, and Artistic Study.</i> Otto Schulze & Co., 1902. 
+
+Bruzelius, Caroline. "The Dead Come to Town: Preaching, Burying, and Building in the Mendicant Orders." <i>The Year 1300 and the Creation of a New European Architecture</i> edited by Alexandra Gajewski and Zoë Opačić, Brepols, 2007, 203-24. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SMN/SMN.html 
+
+Location of Annotation: 12.80, 14.23, -0.54 
+
+Camera Location: -6.400, 13.834, 4.174
+
+Camera Looks Towards: 123.909, 17.881, -5.340
+
+Annotation block name: Tramezzo 
+
+Annotation Details:  <div style="overflow:scroll ; height:300px">Santa Maria Novella’s transept and lower nave are partitioned off from the rest of the church with an architectural concept known as a <i>tramezzo</i>. The ecclesial practice was common during the Middle Ages, and it restricted what the laity could see. However, unlike the cathedral screens of France, Germany, and the Eastern Orthodox Church, the Italian <i>tramezzo</i> was found exclusively in monastic churches to provide privacy for specific areas of the church. Although it remains unclear who was allowed behind the <i>tramezzo</i>, the partition undoubtedly divided along lines of class, gender, and/or social status within the Italian community. 
+
+Separating the first six bays of the nave from the transepts, the <i>tramezzo</i> of Santa Maria Novella restricted the viewership of the altar, the decorated Strozzi and Rucellai Chapels, and the tombs of clergymen and civic figures in the transept. Shrouding all six bays and extending across the church, the <i>tramezzo’s</i> lower story probably contained four altars that would have been accessible to the laity. The choir formed the last part of the barrier between what would have been accessible and inaccessible to the laity, either occupying the main chapel or the central part of the nave. On the upper story of the <i>tramezzo</i>, four more altars extended across the <i>ponte</i> or choir-screen, which provided the clergy a route between the choir and cloister. Of this choir screen, Fra Modesto Biliotti wrote in his <i>Chronicle of Santa Maria Novella</i> that, “private Masses were said on certain days, and on feasts of the Deacon and Sub-deacon sang the Gospel and Epistle.” The <i>tramezzo</i> is capped with three arches on both sides of the middle nave, a structure oftentimes called barco, given that it resembles the shape of a boat.  
+
+Within a crowded church, the <i>tramezzo</i> provided order by dictating who was allowed into the sacred space. It also separated lay worshippers from some of the church’s most prized devotional imagery. While the <i>tramezzo</i> provided incentive for some to join a <i>laudesi</i> company or seek out confraternities in search of greater privileges, for others it provided a justification to take on monastic vows and dedicate their lives to the church. For wealthy families who possessed chapels beyond the <i>tramezzo</i>, it became another way to demonstrate their wealth and prestige while simultaneously providing a coveted burial spot for their family that was close to the church’s high altar. This is not to say that commoners had no access to devotional imagery or sacred spaces. Pictorial motifs such as the Madonna and Child that appeared in street tabernacles, references to patron saints in fresco cycles, and cult figures in sculptures and works in public oratories addressed lay audiences daily. While the <i>tramezzo</i> divided visitors to a church according to their status, the ideas and images closeted behind them were replicated elsewhere in the city, accessible to all.  
+
+By Chris McCrackin
+
+Bibliography: 
+
+Brown, J. Wood. <i>The Dominican Church of Santa Maria Novella at Florence: A Historical, Architectural, and Artistic Study.</i> Otto Schulze & Co., 1902. 
+
+Cooper, Donal. “Recovering the Lost Rood Screen of Medieval and Renaissance Italy.” <i>The Art and Science of the Church Screen in Medieval Europe: Making, Meaning, Preserving,</i> edited by Spike Bucklow, Richard Marks, and Lucy Wrapson, Boydell Press, 2017. 
+
+Hall, Marcia. “The Tramezzo in the Italian Renaissance, Revisited.” <i>Thresholds of the Sacred: Architectural, Art Historical, Liturgical, and Theological Perspectives on Religious Screens, East and West</i>, edited by Sharon E.J Gerstel, Harvard University Press, 2006. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 

@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>San Remigio</title>
+
+	<link rel="stylesheet" type="text/css" href="../../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<script src="../../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../../libs/spectrum/spectrum.js"></script>
+	<script src="../../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../../libs/other/BinaryHeap.js"></script>
+	<script src="../../libs/tween/tween.min.js"></script>
+	<script src="../../libs/d3/d3.js"></script>
+	<script src="../../libs/proj4/proj4.js"></script>
+	<script src="../../libs/openlayers3/ol.js"></script>
+	<script src="../../libs/i18next/i18next.js"></script>
+	<script src="../../libs/jstree/jstree.js"></script>
+	<script src="../../build/potree/potree.js"></script>
+	<script src="../../libs/plasio/js/laslaz.js"></script>
+	<script src="../../libs/three.js/build/three.js"></script>
+
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+	</div>
+	
+	<script type="module">
+    	import * as THREE from "../../libs/three.js/build/three.module.js";
+		import {PLYLoader} from "../../libs/three.js/loaders/PLYLoader.js";
+		import {OBJLoader} from "../../libs/three.js/loaders/OBJLoader.js";
+        import {GLTFLoader} from "../../libs/three.js/loaders/GLTFLoader.js";
+        //import {FBXLoader} from "../../libs/three.js/loaders/FBXLoader.js";
+        
+		console.log("Three.js version:", THREE.REVISION);
+		//let MTLLoader;
+        //try {
+        //    const module = await import("../../libs/three.js/loaders/MTLLoader.js");
+        //    MTLLoader = module.MTLLoader;
+        //    console.log("MTLLoader successfully imported");
+        //} catch (error) {
+        //    console.error("Error importing MTLLoader:", error);
+		//}
+
+		//if (!MTLLoader) {
+		//	console.error("MTLLoader failed to import - OBJ models cannot be loaded with materials");
+		//}
+
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+
+		viewer.useHQ = true; 
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(6 * 1000 * 1000);
+        viewer.loadSettingsFromURL();
+        viewer.scene.view.position.set(47.006, 36.631, 8.198);
+        viewer.scene.view.lookAt(47.217, 29.252, 6.564);
+
+		// <!-- INCLUDE SETTINGS HERE -->
+		viewer.loadSettingsFromURL();
+		
+		viewer.setDescription("");
+		viewer.scene.camera;
+		viewer.setDescription("Point cloud by <a target='_blank' href='https://florenceasitwas.wlu.edu/'>Florence As It Was</a>");
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_appearance").next().show();
+			$("#menu_tools").next().show();
+			$("#menu_clipping").next().show();
+			viewer.toggleSidebar();
+		});
+		
+		
+
+		Potree.loadPointCloud("../../pointclouds/Remigio/RemigioRestored20260107/metadata.json", "San Remigio", e => {
+			let scene = viewer.scene;
+			let pointcloud = e.pointcloud;
+      scene.addPointCloud(pointcloud);
+
+			let material = pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+
+			material.shape = Potree.PointShape.SQUARE;
+			material.activeAttributeName = "rgba";
+            pointcloud.position.set(0,0,0);
+            pointcloud.rotation.set(0,0,0);
+
+      // viewer.scene.view.position.set(-22.887, 51.337, 3.740);
+      // viewer.scene.view.lookAt(-6.942, 18.521, 3.945);
+
+
+			//viewer.fitToScreen();
+		});
+
+				
+			
+		
+
+		Potree.loadPointCloud("../../pointclouds/Remigio/crucifix1/metadata.json", "Crucifix", e => {
+			let scene = viewer.scene;
+			let pointcloud = e.pointcloud;
+      		scene.addPointCloud(pointcloud);
+
+			let material = pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+
+			material.shape = Potree.PointShape.SQUARE;
+			material.activeAttributeName = "rgba";
+            //object.position.set(10, 76, 1.1);
+            pointcloud.position.set(46 ,23.7,8.5);
+           // object.scale.multiplyScalar(.01);
+            pointcloud.rotation.set(-.26,-.03 ,0 );
+            
+
+      // viewer.scene.view.position.set(-22.887, 51.337, 3.740);
+      // viewer.scene.view.lookAt(-6.942, 18.521, 3.945);
+
+
+			//viewer.fitToScreen();
+		});
+// obj lamentation starts herer
+
+  {
+            let manager = new THREE.LoadingManager();
+            manager.onProgress = function (item, loaded, total) {
+                console.log(item, loaded, total);
+            };
+
+            let onProgress = function (xhr) {
+                if (xhr.lengthComputable) {
+                    let percentComplete = xhr.loaded / xhr.total * 100;
+                    console.log(Math.round(percentComplete, 2) + '% downloaded');
+                }
+            };
+            let onError = function (xhr) { };
+			//TextureLoader points to the texture created in the photogrammetry workflow
+            const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/Giotto_Lamentation_20260108v2.jpeg`);
+
+            texture.wrapS = THREE.RepeatWrapping;
+            texture.wrapT = THREE.RepeatWrapping;
+
+            let loader = new OBJLoader(manager);
+			//OBJLoader loads the polygon model created in the photogrammetry workflow
+            loader.load(`${Potree.resourcePath}/models/Giotto_Lamentation_20260108v2.obj`, function (object) {
+                object.traverse(function (child) {
+                    if (child instanceof THREE.Mesh) {
+                        child.material.map = texture;
+                    }
+                });
+                // The code below positions the polygon model in reference to the 
+				// point cloud coordinate system. In this case the units are in meters and radians.
+				object.position.set(41.12, 23.32, 3.99);
+                object.scale.multiplyScalar(.067);
+                object.rotation.set(0, Math.PI/240, Math.PI);
+
+
+                viewer.scene.scene.add(object);
+
+                viewer.onGUILoaded(() => {
+                    // Add entries to object list in sidebar
+                    let tree = $(`#jstree_scene`);
+                    let parentNode = "other";
+
+                    let meshID = tree.jstree('create_node', parentNode, {
+                        text: "Saints Cosmas and Damian",
+                        icon: `${Potree.resourcePath}/icons/triangle.svg`,
+                        data: object
+                    },
+                        "last", false, false);
+                    tree.jstree(object.visible ? "check_node" : "uncheck_node", meshID);
+
+                    //tree.jstree("open_node", parentNode);
+                });
+
+            }, onProgress, onError);
+        }
+		//Obj Mesh object ends HERE
+		//
+		//Obj 2 Madonna starts here
+{
+            let manager = new THREE.LoadingManager();
+            manager.onProgress = function (item, loaded, total) {
+                console.log(item, loaded, total);
+            };
+
+            let onProgress = function (xhr) {
+                if (xhr.lengthComputable) {
+                    let percentComplete = xhr.loaded / xhr.total * 100;
+                    console.log(Math.round(percentComplete, 2) + '% downloaded');
+                }
+            };
+            let onError = function (xhr) { };
+			//TextureLoader points to the texture created in the photogrammetry workflow
+            const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/S_Remigio_Madonna_20260120.jpeg`);
+
+            texture.wrapS = THREE.RepeatWrapping;
+            texture.wrapT = THREE.RepeatWrapping;
+
+            let loader = new OBJLoader(manager);
+			//OBJLoader loads the polygon model created in the photogrammetry workflow
+            loader.load(`${Potree.resourcePath}/models/S_Remegio_Madonna_20260120.obj`, function (object) {
+                object.traverse(function (child) {
+                    if (child instanceof THREE.Mesh) {
+                        child.material.map = texture;
+                    }
+                });
+                // The code below positions the polygon model in reference to the 
+				// point cloud coordinate system. In this case the units are in meters and radians.
+				object.position.set(50.31, 24.4, 4.25);
+                object.scale.multiplyScalar(.115);
+                object.rotation.set(0, 0, Math.PI);
+
+
+                viewer.scene.scene.add(object);
+
+                viewer.onGUILoaded(() => {
+                    // Add entries to object list in sidebar
+                    let tree = $(`#jstree_scene`);
+                    let parentNode = "other";
+
+                    let meshID = tree.jstree('create_node', parentNode, {
+                        text: "Madonna",
+                        icon: `${Potree.resourcePath}/icons/triangle.svg`,
+                        data: object
+                    },
+                        "last", false, false);
+                    tree.jstree(object.visible ? "check_node" : "uncheck_node", meshID);
+
+                    //tree.jstree("open_node", parentNode);
+                });
+
+            }, onProgress, onError);
+        }
+		//Obj Mesh 2 object ends HERE
+
+        
+        
+
+
+        //gltf tramezzo starts here
+
+{
+// GLTF Loader
+let manager = new THREE.LoadingManager();
+            manager.onProgress = function (item, loaded, total) {
+                console.log(item, loaded, total);
+            };
+
+            let onProgress = function (xhr) {
+                if (xhr.lengthComputable) {
+                    let percentComplete = xhr.loaded / xhr.total * 100;
+                    console.log(Math.round(percentComplete, 2) + '% downloaded');
+                }
+            };
+            let onError = function (xhr) { };    
+
+
+//const loader = new GLTFLoader(manager);
+let loader = new GLTFLoader(manager);
+
+    // Replace the path below with your .gltf or .glb path relative to this HTML file
+    const MODEL_PATH = "../../build/potree/resources/models/Tramezzo20260206v2.glb";
+    
+
+    loader.load(MODEL_PATH,
+      (gltf) => {
+        const model = gltf.scene || gltf.scenes[0];
+        
+        model.position.set(40.75,23.77,3.15);
+        model.scale.multiplyScalar(1);
+        model.rotation.set(0, -(Math.PI/2), -(Math.PI/2));
+        viewer.scene.scene.add(model);
+        viewer.onGUILoaded(() => {
+                    // Add entries to object list in sidebar
+                    let tree = $(`#jstree_scene`);
+                    let parentNode = "other";
+
+                    let meshID = tree.jstree('create_node', parentNode, {
+                        text: "tramezzo",
+                        icon: `${Potree.resourcePath}/icons/triangle.svg`,
+                        data: model
+                    },
+                        "last", false, false);
+                    tree.jstree(model.visible ? "check_node" : "uncheck_node", meshID);
+                });
+        //scene.add(model);
+        
+      },
+      
+    );
+}   
+       
+		//gltf Mesh tramezzo object ends HERE	
+
+	
+//gltf 4 Roodstarts here
+
+{
+// GLTF Loader
+let manager = new THREE.LoadingManager();
+            manager.onProgress = function (item, loaded, total) {
+                console.log(item, loaded, total);
+            };
+
+            let onProgress = function (xhr) {
+                if (xhr.lengthComputable) {
+                    let percentComplete = xhr.loaded / xhr.total * 100;
+                    console.log(Math.round(percentComplete, 2) + '% downloaded');
+                }
+            };
+            let onError = function (xhr) { };    
+
+
+//const loader = new GLTFLoader(manager);
+let loader = new GLTFLoader(manager);
+
+    // Replace the path below with your .gltf or .glb path relative to this HTML file
+    const MODEL_PATH = "../../build/potree/resources/models/brace_rood2.glb";
+    
+
+    loader.load(MODEL_PATH,
+      (gltf) => {
+        const model = gltf.scene || gltf.scenes[0];
+        
+        model.position.set(46.845, 23.82, 8.3);
+        model.scale.multiplyScalar(1);
+        model.rotation.set(0,Math.PI/2, Math.PI/2);
+        viewer.scene.scene.add(model);
+        viewer.onGUILoaded(() => {
+                    // Add entries to object list in sidebar
+                    let tree = $(`#jstree_scene`);
+                    let parentNode = "other";
+
+                    let meshID = tree.jstree('create_node', parentNode, {
+                        text: "rood",
+                        icon: `${Potree.resourcePath}/icons/triangle.svg`,
+                        data: model
+                    },
+                        "last", false, false);
+                    tree.jstree(model.visible ? "check_node" : "uncheck_node", meshID);
+                });
+        //scene.add(model);
+        
+      },
+      
+    );
+}   
+       
+		//gltf Mesh 4 object ends HERE	
+
+        	//Obj 5  Puerto rico annunciation tarts here
+
+{
+            let manager = new THREE.LoadingManager();
+            manager.onProgress = function (item, loaded, total) {
+                console.log(item, loaded, total);
+            };
+
+            let onProgress = function (xhr) {
+                if (xhr.lengthComputable) {
+                    let percentComplete = xhr.loaded / xhr.total * 100;
+                    console.log(Math.round(percentComplete, 2) + '% downloaded');
+                }
+            };
+            let onError = function (xhr) { };
+			//TextureLoader points to the texture created in the photogrammetry workflow
+            const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/Puerto_Rico_Annunciation_RC_20260123_simplified_u1_v1_diffuse.jpeg`);
+
+            texture.wrapS = THREE.RepeatWrapping;
+            texture.wrapT = THREE.RepeatWrapping;
+
+            let loader = new OBJLoader(manager);
+			//OBJLoader loads the polygon model created in the photogrammetry workflow
+            loader.load(`${Potree.resourcePath}/models/Puerto_Rico_Annunciation_RC_20260123_simplified.obj`, function (object) {
+                object.traverse(function (child) {
+                    if (child instanceof THREE.Mesh) {
+                        child.material.map = texture;
+                    }
+                });
+                // The code below positions the polygon model in reference to the 
+				// point cloud coordinate system. In this case the units are in meters and radians.
+				object.position.set(52.5, 23.06, 3.7);
+                object.scale.multiplyScalar(0.045360);
+                object.rotation.set(0, (Math.PI/180), -(Math.PI/1.81));
+
+
+                viewer.scene.scene.add(object);
+
+                viewer.onGUILoaded(() => {
+                    // Add entries to object list in sidebar
+                    let tree = $(`#jstree_scene`);
+                    let parentNode = "other";
+
+                    let meshID = tree.jstree('create_node', parentNode, {
+                        text: "annunciation",
+                        icon: `${Potree.resourcePath}/icons/triangle.svg`,
+                        data: object
+                    },
+                        "last", false, false);
+                    tree.jstree(object.visible ? "check_node" : "uncheck_node", meshID);
+
+                    //tree.jstree("open_node", parentNode);
+                });
+
+            }, onProgress, onError);
+        }
+		//Obj Mesh 4 object ends HERE	
+    { // LIGHTS. Lights can be added and adjusted to change the appearance of the polygon models.
+			const directional = new THREE.DirectionalLight( 0xffffff, .4);
+			directional.position.set( -10, 15, 5);
+			//directional.lookAt(44.693, 25.866, 6.631);
+
+            const directional2 = new THREE.DirectionalLight( 0xffffff, .2);
+			directional2.position.set(10, 15, 5);
+			//directional2.lookAt(43.298, 25.964, 8.056);
+            
+            //const directional3 = new THREE.DirectionalLight( 0xffffff, .3);
+			//directional3.position.set(40.412, 14.802, 9.591);
+			//directional3.lookAt(44.718, 22.137, 5.218);
+
+            const lamp = new THREE.PointLight( 0xffffff, .7,15, 0); // color, intensity, distance, decay
+            lamp.position.set(47.137, 23.885, 8.099);
+            lamp.castShadow = false;
+
+            // white spotlight left side
+            const spotLight = new THREE.SpotLight( 0xffffff,.5);
+            spotLight.position.set( 52.552, 24.150, 5.9 );
+            spotLight.target.position.set(52.467, 22.522, 3.257);
+            spotLight.penumbra = .5;
+          
+           // white spotlight left column
+           
+            const spotLight2 = new THREE.SpotLight( 0xffffff,.5);
+            spotLight2.position.set( 50.251, 25.440, 6.5);
+            spotLight2.target.position.set(50.306, 22.176, 3.262);
+            spotLight2.penumbra = .5;
+
+            // white spotlight Right alcove
+           
+            const spotLight3 = new THREE.SpotLight( 0xffffff,.5);
+            spotLight3.position.set( 41.4, 25.440, 6);
+            spotLight3.target.position.set(41.4, 22.176, 3.262);
+            spotLight3.penumbra = .5;
+
+			const ambient = new THREE.AmbientLight(0xffffff,.5);
+
+			viewer.scene.scene.add(directional);
+            viewer.scene.scene.add(directional2);
+            viewer.scene.scene.add(spotLight);
+            viewer.scene.scene.add(spotLight.target);
+            viewer.scene.scene.add(spotLight2);
+            viewer.scene.scene.add(spotLight2.target);
+            viewer.scene.scene.add(spotLight3);
+            viewer.scene.scene.add(spotLight3.target);
+            //scene.add(lamp);
+            //viewer.scene.scene.add(directional3);
+			viewer.scene.scene.add(ambient);
+		}
+
+		{
+            let pageTitle, location, blockName, annotationDetails, cameraPosition, cameraTarget = '';
+            const annoData = [];
+            const url = 'annotationRemigio.txt?v=1';
+            fetch(url)
+              .then((res) => res.text())
+              .then((text) => {
+                const sections = text.split(/\\\\+/); // Split based on the line of slashes
+
+                sections.forEach(section => {
+                  const lines = section.split('\n');
+
+                  // Reset variables for each section
+                  pageTitle = location = blockName = annotationDetails = cameraPosition = cameraTarget = '';
+
+                  // Parse each line
+                  lines.forEach(line => {
+                    if (line.startsWith('Page:')) {
+                      pageTitle = line.replace('Page:', '').trim();
+                    } else if (line.startsWith('Location of Annotation:')) {
+                      location = line.replace('Location of Annotation:', '').trim();
+                    } else if (line.startsWith('Camera Location:')) {
+                      cameraPosition = line.replace('Camera Location:', '').trim();
+                    } else if (line.startsWith('Camera Looks Towards:')) {
+                      cameraTarget = line.replace('Camera Looks Towards:', '').trim();
+                    } else if (line.startsWith('Annotation block name:')) {
+                      blockName = line.replace('Annotation block name:', '').trim();
+                    } else if (line.startsWith('Annotation Details:')) {
+                      annotationDetails = line.replace('Annotation Details:', '').trim();
+                    } else {
+                      // If it's not a key line, add to annotation details
+                      if (annotationDetails) {
+                        annotationDetails += `<p>${line.trim()}</p>`;
+                      }
+                    }
+                  });
+                  // Check if we have a valid title and location
+                  if (pageTitle && location) {
+
+                    location = location.split(",").map(value => parseFloat(value.trim()));
+                    cameraPosition = cameraPosition.split(",").map(value => parseFloat(value.trim()));
+                    cameraTarget = cameraTarget.split(",").map(value => parseFloat(value.trim()));
+
+                    const currentUrl = window.location.href;
+
+
+                    // Only process if the current URL matches the page title
+                    if (currentUrl === pageTitle) {
+                      processData(pageTitle, location, cameraPosition, cameraTarget, blockName, annotationDetails);
+                    }
+                  }
+                });
+              })
+              .catch((e) => console.error(e));
+
+            function processData(title) {
+                let autoAnnos = new Potree.Annotation({
+                    position: location,
+                    "cameraPosition": cameraPosition,
+                    "cameraTarget": cameraTarget,
+                    "title": blockName,
+                    "description": annotationDetails
+                });
+                viewer.scene.annotations.add(autoAnnos);
+            }	
+        }
+		
+		
+		//end annnotation
+		
+		var supportsWheel = false;
+		var annotations =  viewer.scene.getAnnotations(); 
+		const MinDistanceFromPainting = 50;
+		
+		/* The function that will run when the events are triggered. */
+		function HideAnnotations (e) {
+			/* Check whether the wheel event is supported. */
+			if (e.type == "wheel") supportsWheel = true;
+			else if (e.key === 'w' || e.key === 'a' || e.key === 's' || e.key === 'd') supportsWheel =  true;
+			else if (e.key === 'ArrowUp' || e.key === 'ArrowDown' || e.key === 'ArrowLeft' || e.key === 'ArrowRight') supportsWheel =  true;
+			else if (supportsWheel) return;
+				
+	
+			if (annotations && annotations.children) {
+					annotations.children.forEach(function(anno) {
+					if (anno.position) {
+						if (anno.title) {
+
+							if (Math.sqrt(((viewer.scene.getActiveCamera().position.x) - (anno.position.x))**2  +
+									      ((viewer.scene.getActiveCamera().position.y) - (anno.position.y))**2 +
+										  ((viewer.scene.getActiveCamera().position.z) - (anno.position.z))**2) < MinDistanceFromPainting) {
+								anno.visible = true;
+							} else {
+								anno.visible = false;
+							}
+						}
+					}
+				});
+			}
+				
+				
+		}
+		/* Add the event listeners for each event. */
+		document.addEventListener('wheel', HideAnnotations);
+		document.addEventListener('keydown', HideAnnotations);
+		document.addEventListener('DOMMouseScroll', HideAnnotations);
+		
+		
+		
+		
+	</script>
+	
+	
+  </body>
+</html>

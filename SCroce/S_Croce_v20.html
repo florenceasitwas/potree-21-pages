@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Potree Viewer</title>
+
+	<link rel="stylesheet" type="text/css" href="../../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<script src="../../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../../libs/spectrum/spectrum.js"></script>
+	<script src="../../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../../libs/other/BinaryHeap.js"></script>
+	<script src="../../libs/tween/tween.min.js"></script>
+	<script src="../../libs/d3/d3.js"></script>
+	<script src="../../libs/proj4/proj4.js"></script>
+	<script src="../../libs/openlayers3/ol.js"></script>
+	<script src="../../libs/i18next/i18next.js"></script>
+	<script src="../../libs/jstree/jstree.js"></script>
+	<script src="../../build/potree/potree.js"></script>
+	<script src="../../libs/plasio/js/laslaz.js"></script>
+	
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+	</div>
+	
+	<script type="module">
+
+		import * as THREE from "../../libs/three.js/build/three.module.js";
+		import {PLYLoader} from "../../libs/three.js/loaders/PLYLoader.js";
+		import {OBJLoader} from "../../libs/three.js/loaders/OBJLoader.js";
+	
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+		
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(6_000_000);
+		viewer.loadSettingsFromURL();
+		
+        viewer.setDescription("To help you navigate through this model <a target='_blank' href='https://youtu.be/xWqQ1-G3MvQ'>Click Here</a>");
+		
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_tools").next().show();
+			$("#menu_scene").next().show();
+			//viewer.toggleSidebar();
+		});
+		
+		// Sigeom
+		Potree.loadPointCloud("../../pointclouds/SCroce_20201005/metadata.json", "scroce", function(e){
+			let scene = viewer.scene;
+			scene.addPointCloud(e.pointcloud);
+			
+			let material = e.pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+
+            viewer.scene.view.position.set(614.824, 336.219, 35.242);
+            viewer.scene.view.lookAt(477.528, 329.716, -4.202);
+			//scene.view.position.set(589974.341, 231698.397, 986.146);
+			//scene.view.lookAt(new THREE.Vector3(589851.587, 231428.213, 715.634));
+			// viewer.fitToScreen();
+		});
+		
+	
+
+
+		{
+			let manager = new THREE.LoadingManager();
+			manager.onProgress = function ( item, loaded, total ) {
+				console.log( item, loaded, total );
+			};
+
+			let onProgress = function ( xhr ) {
+				if ( xhr.lengthComputable ) {
+					let percentComplete = xhr.loaded / xhr.total * 100;
+					console.log( Math.round(percentComplete, 2) + '% downloaded' );
+				}
+			};
+			let onError = function ( xhr ) {};
+
+			const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/tedaldi_v2.jpg`);
+
+			texture.wrapS = THREE.RepeatWrapping;
+			texture.wrapT = THREE.RepeatWrapping;
+
+			let loader = new OBJLoader( manager );
+			loader.load(`${Potree.resourcePath}/models/tedaldi_v3.obj`, function ( object ) {
+				object.traverse( function ( child ) {
+					if ( child instanceof THREE.Mesh ) {
+						child.material.map = texture;
+					}
+				} );
+                object.position.set(468.5, 295, -1.94);
+				object.scale.multiplyScalar(.147);
+                object.rotation.set(0,0.015,.155);
+				//object.position.set(589871.587, 231528.213, 725.634);
+				//object.scale.multiplyScalar(500);
+				//object.rotation.set(Math.PI / 2, Math.PI, 0)
+
+				viewer.scene.scene.add( object );
+
+				viewer.onGUILoaded(() => {
+					// Add entries to object list in sidebar
+					let tree = $(`#jstree_scene`);
+					let parentNode = "other";
+
+					let bunnyID = tree.jstree('create_node', parentNode, { 
+							text: "tedaldi tomb", 
+							icon: `${Potree.resourcePath}/icons/triangle.svg`,
+							data: object
+						}, 
+						"last", false, false);
+					tree.jstree(object.visible ? "check_node" : "uncheck_node", bunnyID);
+
+					//tree.jstree("open_node", parentNode);
+				});
+
+			}, onProgress, onError );
+		}
+
+		{
+			let manager = new THREE.LoadingManager();
+			manager.onProgress = function ( item, loaded, total ) {
+				console.log( item, loaded, total );
+			};
+
+			let onProgress = function ( xhr ) {
+				if ( xhr.lengthComputable ) {
+					let percentComplete = xhr.loaded / xhr.total * 100;
+					console.log( Math.round(percentComplete, 2) + '% downloaded' );
+				}
+			};
+			let onError = function ( xhr ) {};
+
+			const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/peruzzi_dm_v2_low_edit.jpg`);
+
+			texture.wrapS = THREE.RepeatWrapping;
+			texture.wrapT = THREE.RepeatWrapping;
+
+			let loader = new OBJLoader( manager );
+			loader.load(`${Potree.resourcePath}/models/peruzzi_dm_v2_trim_flipflip.obj`, function ( object ) {
+				object.traverse( function ( child ) {
+
+					if ( child instanceof THREE.Mesh ) {						child.material.map = texture;
+					}
+				} );
+                object.position.set(411.487, 308.338, 0.463);
+				object.scale.multiplyScalar(.0001);
+				object.rotation.set(Math.PI / 2,.2-Math.PI/2, 0);
+				//object.position.set(589871.587, 231528.213, 725.634);
+				//object.scale.multiplyScalar(500);
+				//object.rotation.set(Math.PI / 2, Math.PI, 0)
+
+				viewer.scene.scene.add( object );
+
+				viewer.onGUILoaded(() => {
+					// Add entries to object list in sidebar
+					let tree = $(`#jstree_scene`);
+					let parentNode = "other";
+
+					let bunnyID = tree.jstree('create_node', parentNode, { 
+							text: "Peruzzi altar", 
+							icon: `${Potree.resourcePath}/icons/triangle.svg`,
+							data: object
+						}, 
+						"last", false, false);
+					tree.jstree(object.visible ? "check_node" : "uncheck_node", bunnyID);
+
+					//tree.jstree("open_node", parentNode);
+				});
+
+			}, onProgress, onError );
+		}
+
+		{ // LIGHTS
+			const directional = new THREE.DirectionalLight( 0xffffff, 1.0);
+			directional.position.set( 10, 10, 10 );
+			directional.lookAt(0, 0, 0);
+
+			const ambient = new THREE.AmbientLight(0x555555);
+
+			viewer.scene.scene.add(directional);
+			viewer.scene.scene.add(ambient);
+		}
+		{ // ANNOTATIONS
+			let scene = viewer.scene;
+			
+			scene.annotations.add(new Potree.Annotation({
+				position: [466.737, 295.596, -1.956],
+				title: "Tedaldi Tomb",
+				cameraPosition: [465.244, 294.901, -0.211],
+				cameraTarget: [468.428, 295.041, -2.724],
+				description: `
+				That this grave belonged to the Tedaldi is made clear by the painted, if faded, 
+				coat of arms on the pier above it, as well as its proximity to the tombs of Leonardo�s 
+				great-great grandparents on the south and west faces of the pier. According to a Santa Croce inventory of 
+				tombs, known as a sepoltuario, the pier also held a funeral banner and three shields, certainly decorated with
+				Tedaldi heraldry and carried in Tedaldi funeral processions.
+				`
+			}));
+
+			scene.annotations.add(new Potree.Annotation({
+                position: [411.612, 307.880, -0.220],
+				title: "Giotto di Bondone",
+				cameraPosition: [418.300, 309.791, 1.760],
+				cameraTarget: [413.195, 309.322, 0.667],
+				description: `
+				Attributed to Giotto di Bondone and his workshop, ca. 1315 Proposed location, Peruzzi Chapel, S. Croce, 
+				Florence; Proposed patron, Peruzzi family North Carolina Museum of Art, Raleigh, NC: https://ncartmuseum.org/object/christ-blessing-with-st-john-the-evangelist-the-virgin-mary-st-john-the-baptist-and-st-francis-known-as-the-peruzzi-altarpiece/
+				`
+			}));
+		}
+	</script>
+	
+	
+  </body>
+</html>

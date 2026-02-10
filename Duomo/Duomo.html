@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>S. Maria del Fiore</title>
+
+	<link rel="stylesheet" type="text/css" href="../../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<script src="../../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../../libs/spectrum/spectrum.js"></script>
+	<script src="../../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../../libs/other/BinaryHeap.js"></script>
+	<script src="../../libs/tween/tween.min.js"></script>
+	<script src="../../libs/d3/d3.js"></script>
+	<script src="../../libs/proj4/proj4.js"></script>
+	<script src="../../libs/openlayers3/ol.js"></script>
+	<script src="../../libs/i18next/i18next.js"></script>
+	<script src="../../libs/jstree/jstree.js"></script>
+	<script src="../../build/potree/potree.js"></script>
+	<script src="../../libs/plasio/js/laslaz.js"></script>
+	
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+	</div>
+	
+	<script>
+	
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+
+		viewer.useHQ = true; 
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(6 * 1000 * 1000);
+        viewer.loadSettingsFromURL();
+        viewer.scene.view.position.set(-53.233, 99.592, 28.133);
+        viewer.scene.view.lookAt(-19.640, -29.849, -2.302);
+
+		<!-- INCLUDE SETTINGS HERE -->
+		viewer.loadSettingsFromURL();
+		
+		viewer.setDescription("");
+		viewer.scene.camera;
+		viewer.setDescription("Point cloud by <a target='_blank' href='https://florenceasitwas.wlu.edu/'>Florence As It Was</a>");
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_appearance").next().show();
+			$("#menu_tools").next().show();
+			$("#menu_clipping").next().show();
+			viewer.toggleSidebar();
+		});
+		
+		
+
+		Potree.loadPointCloud("../../pointclouds/Duomo/Duomo_20231212/metadata.json", "STrinita", e => {
+			let scene = viewer.scene;
+			let pointcloud = e.pointcloud;
+
+            scene.addPointCloud(pointcloud);
+			let material = pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+			material.shape = Potree.PointShape.SQUARE;
+			material.activeAttributeName = "rgba";
+           
+            
+
+			//viewer.fitToScreen();
+		});
+
+										
+		{
+            let pageTitle, location, blockName, annotationDetails, cameraPosition, cameraTarget = '';
+            const annoData = [];
+            const url = 'annotationDuomo.txt?v=1';
+            fetch(url)
+              .then((res) => res.text())
+              .then((text) => {
+                const sections = text.split(/\\\\+/); // Split based on the line of slashes
+
+                sections.forEach(section => {
+                  const lines = section.split('\n');
+
+                  // Reset variables for each section
+                  pageTitle = location = blockName = annotationDetails = cameraPosition = cameraTarget = '';
+
+                  // Parse each line
+                  lines.forEach(line => {
+                    if (line.startsWith('Page:')) {
+                      pageTitle = line.replace('Page:', '').trim();
+                    } else if (line.startsWith('Location of Annotation:')) {
+                      location = line.replace('Location of Annotation:', '').trim();
+                    } else if (line.startsWith('Camera Location:')) {
+                      cameraPosition = line.replace('Camera Location:', '').trim();
+                    } else if (line.startsWith('Camera Looks Towards:')) {
+                      cameraTarget = line.replace('Camera Looks Towards:', '').trim();
+                    } else if (line.startsWith('Annotation block name:')) {
+                      blockName = line.replace('Annotation block name:', '').trim();
+                    } else if (line.startsWith('Annotation Details:')) {
+                      annotationDetails = line.replace('Annotation Details:', '').trim();
+                    } else {
+                      // If it's not a key line, add to annotation details
+                      if (annotationDetails) {
+                        annotationDetails += `<p>${line.trim()}</p>`;
+                      }
+                    }
+                  });
+                  // Check if we have a valid title and location
+                  if (pageTitle && location) {
+
+                    location = location.split(",").map(value => parseFloat(value.trim()));
+                    cameraPosition = cameraPosition.split(",").map(value => parseFloat(value.trim()));
+                    cameraTarget = cameraTarget.split(",").map(value => parseFloat(value.trim()));
+
+                    const currentUrl = window.location.href;
+
+
+                    // Only process if the current URL matches the page title
+                    if (currentUrl === pageTitle) {
+                      processData(pageTitle, location, cameraPosition, cameraTarget, blockName, annotationDetails);
+                    }
+                  }
+                });
+              })
+              .catch((e) => console.error(e));
+
+            function processData(title) {
+                let autoAnnos = new Potree.Annotation({
+                    position: location,
+                    "cameraPosition": cameraPosition,
+                    "cameraTarget": cameraTarget,
+                    "title": blockName,
+                    "description": annotationDetails,
+                });
+                viewer.scene.annotations.add(autoAnnos);
+				autoAnnos.visible = false;
+            }	
+        }
+		
+		//end annnotation
+		
+		var supportsWheel = false;
+		var annotations =  viewer.scene.getAnnotations(); 
+		if (annotations && annotations.children) {
+			annotations.children.forEach(function(annos) {
+						annos.visible = false;
+			});
+		}
+		const MinDistanceFromPainting = 12;
+		
+		/* The function that will run when the events are triggered. */
+		function HideAnnotations (e) {
+			/* Check whether the wheel event is supported. */
+			if (e.type == "wheel") supportsWheel = true;
+			else if (e.key === 'w' || e.key === 'a' || e.key === 's' || e.key === 'd') supportsWheel =  true;
+			else if (e.key === 'ArrowUp' || e.key === 'ArrowDown' || e.key === 'ArrowLeft' || e.key === 'ArrowRight') supportsWheel =  true;
+			else if (supportsWheel) return;
+				
+	
+			if (annotations && annotations.children) {
+				annotations.children.forEach(function(anno) {
+				anno.visible = false;
+				if (anno.position) {
+					if (anno.title) {
+						if (Math.sqrt(((viewer.scene.getActiveCamera().position.x) - (anno.position.x))**2  +
+									  ((viewer.scene.getActiveCamera().position.y) - (anno.position.y))**2 +
+									  ((viewer.scene.getActiveCamera().position.z) - (anno.position.z))**2) < MinDistanceFromPainting) {
+							anno.visible = true;
+							} 
+						}
+					}
+				});
+			}
+				
+				
+		}
+		/* Add the event listeners for each event. */
+		document.addEventListener('wheel', HideAnnotations);
+		document.addEventListener('keydown', HideAnnotations);
+		document.addEventListener('DOMMouseScroll', HideAnnotations);
+		
+		
+		
+		
+	</script>
+	
+	
+  </body>
+</html>

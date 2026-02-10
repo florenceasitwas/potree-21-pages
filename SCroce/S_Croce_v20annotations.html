@@ -1,0 +1,381 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Potree Viewer</title>
+
+	<link rel="stylesheet" type="text/css" href="../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<script src="../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../libs/spectrum/spectrum.js"></script>
+	<script src="../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../libs/other/BinaryHeap.js"></script>
+	<script src="../libs/tween/tween.min.js"></script>
+	<script src="../libs/d3/d3.js"></script>
+	<script src="../libs/proj4/proj4.js"></script>
+	<script src="../libs/openlayers3/ol.js"></script>
+	<script src="../libs/i18next/i18next.js"></script>
+	<script src="../libs/jstree/jstree.js"></script>
+	<script src="../build/potree/potree.js"></script>
+	<script src="../libs/plasio/js/laslaz.js"></script>
+	
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+	</div>
+	
+	<script type="module">
+
+		import * as THREE from "../libs/three.js/build/three.module.js";
+		import {PLYLoader} from "../libs/three.js/loaders/PLYLoader.js";
+		import {OBJLoader} from "../libs/three.js/loaders/OBJLoader.js";
+	
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+		
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(6_000_000);
+		viewer.loadSettingsFromURL();
+		
+        viewer.setDescription("To help you navigate through this model <a target='_blank' href='https://youtu.be/xWqQ1-G3MvQ'>Click Here</a>");
+		
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_tools").next().show();
+			$("#menu_scene").next().show();
+			//viewer.toggleSidebar();
+		});
+		
+		// Sigeom
+		Potree.loadPointCloud("../pointclouds/SCroce/metadata.json", "scroce", function(e){
+			let scene = viewer.scene;
+			scene.addPointCloud(e.pointcloud);
+			
+			let material = e.pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+
+            viewer.scene.view.position.set(614.824, 336.219, 35.242);
+            viewer.scene.view.lookAt(477.528, 329.716, -4.202);
+			//scene.view.position.set(589974.341, 231698.397, 986.146);
+			//scene.view.lookAt(new THREE.Vector3(589851.587, 231428.213, 715.634));
+			// viewer.fitToScreen();
+		});
+		
+	
+
+
+		{
+			let manager = new THREE.LoadingManager();
+			manager.onProgress = function ( item, loaded, total ) {
+				console.log( item, loaded, total );
+			};
+
+			let onProgress = function ( xhr ) {
+				if ( xhr.lengthComputable ) {
+					let percentComplete = xhr.loaded / xhr.total * 100;
+					console.log( Math.round(percentComplete, 2) + '% downloaded' );
+				}
+			};
+			let onError = function ( xhr ) {};
+
+			const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/tedaldi_v2.jpg`);
+
+			texture.wrapS = THREE.RepeatWrapping;
+			texture.wrapT = THREE.RepeatWrapping;
+
+			let loader = new OBJLoader( manager );
+			loader.load(`${Potree.resourcePath}/models/tedaldi_v3.obj`, function ( object ) {
+				object.traverse( function ( child ) {
+					if ( child instanceof THREE.Mesh ) {
+						child.material.map = texture;
+					}
+				} );
+                object.position.set(468.5, 295, -1.94);
+				object.scale.multiplyScalar(.147);
+                object.rotation.set(0,0.015,.155);
+				//object.position.set(589871.587, 231528.213, 725.634);
+				//object.scale.multiplyScalar(500);
+				//object.rotation.set(Math.PI / 2, Math.PI, 0)
+
+				viewer.scene.scene.add( object );
+
+				viewer.onGUILoaded(() => {
+					// Add entries to object list in sidebar
+					let tree = $(`#jstree_scene`);
+					let parentNode = "other";
+
+					let bunnyID = tree.jstree('create_node', parentNode, { 
+							text: "tedaldi tomb", 
+							icon: `${Potree.resourcePath}/icons/triangle.svg`,
+							data: object
+						}, 
+						"last", false, false);
+					tree.jstree(object.visible ? "check_node" : "uncheck_node", bunnyID);
+
+					//tree.jstree("open_node", parentNode);
+				});
+
+			}, onProgress, onError );
+		}
+
+		{
+			let manager = new THREE.LoadingManager();
+			manager.onProgress = function ( item, loaded, total ) {
+				console.log( item, loaded, total );
+			};
+
+			let onProgress = function ( xhr ) {
+				if ( xhr.lengthComputable ) {
+					let percentComplete = xhr.loaded / xhr.total * 100;
+					console.log( Math.round(percentComplete, 2) + '% downloaded' );
+				}
+			};
+			let onError = function ( xhr ) {};
+
+			const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/peruzzi_dm_v2_low_edit.jpg`);
+
+			texture.wrapS = THREE.RepeatWrapping;
+			texture.wrapT = THREE.RepeatWrapping;
+
+			let loader = new OBJLoader( manager );
+			loader.load(`${Potree.resourcePath}/models/peruzzi_dm_v2_trim_flipflip.obj`, function ( object ) {
+				object.traverse( function ( child ) {
+
+					if ( child instanceof THREE.Mesh ) {						child.material.map = texture;
+					}
+				} );
+                object.position.set(411.487, 308.338, 0.463);
+				object.scale.multiplyScalar(.0001);
+				object.rotation.set(Math.PI / 2,.2-Math.PI/2, 0);
+				//object.position.set(589871.587, 231528.213, 725.634);
+				//object.scale.multiplyScalar(500);
+				//object.rotation.set(Math.PI / 2, Math.PI, 0)
+
+				viewer.scene.scene.add( object );
+
+				viewer.onGUILoaded(() => {
+					// Add entries to object list in sidebar
+					let tree = $(`#jstree_scene`);
+					let parentNode = "other";
+
+					let bunnyID = tree.jstree('create_node', parentNode, { 
+							text: "Peruzzi altar", 
+							icon: `${Potree.resourcePath}/icons/triangle.svg`,
+							data: object
+						}, 
+						"last", false, false);
+					tree.jstree(object.visible ? "check_node" : "uncheck_node", bunnyID);
+
+					//tree.jstree("open_node", parentNode);
+				});
+
+			}, onProgress, onError );
+		}
+
+		{ // LIGHTS
+			const directional = new THREE.DirectionalLight( 0xffffff, 1.0);
+			directional.position.set( 10, 10, 10 );
+			directional.lookAt(0, 0, 0);
+
+			const ambient = new THREE.AmbientLight(0x555555);
+
+			viewer.scene.scene.add(directional);
+			viewer.scene.scene.add(ambient);
+		}
+		{ // ANNOTATIONS
+			let scene = viewer.scene;
+			
+			scene.annotations.add(new Potree.Annotation({
+				position: [466.737, 295.596, -1.956],
+				title: "Tedaldi Tomb",
+				cameraPosition: [465.244, 294.901, -0.211],
+				cameraTarget: [468.428, 295.041, -2.724],
+				description: `
+				That this grave belonged to the Tedaldi is made clear by the painted, if faded, 
+				coat of arms on the pier above it, as well as its proximity to the tombs of Leonardo�s 
+				great-great grandparents on the south and west faces of the pier. According to a Santa Croce inventory of 
+				tombs, known as a sepoltuario, the pier also held a funeral banner and three shields, certainly decorated with
+				Tedaldi heraldry and carried in Tedaldi funeral processions.
+				`
+			}));
+
+			scene.annotations.add(new Potree.Annotation({
+                position: [411.612, 307.880, -0.220],
+				title: "Giotto di Bondone",
+				cameraPosition: [418.300, 309.791, 1.760],
+				cameraTarget: [413.195, 309.322, 0.667],
+				description: `
+				Attributed to Giotto di Bondone and his workshop, ca. 1315 Proposed location, Peruzzi Chapel, S. Croce, 
+				Florence; Proposed patron, Peruzzi family North Carolina Museum of Art, Raleigh, NC: https://ncartmuseum.org/object/christ-blessing-with-st-john-the-evangelist-the-virgin-mary-st-john-the-baptist-and-st-francis-known-as-the-peruzzi-altarpiece/
+				`
+			}));
+
+			scene.annotations.add(new Potree.Annotation({
+                position: [416.940, 325.648, 2.759],
+				title: "Baroncelli Chapel Overview",
+				cameraPosition: [416.963, 322.423, 2.579],
+				cameraTarget: [417.085, 325.802, 2.469],
+				description: `
+				The Baroncelli Chapel sits in the south transept of the Basilica of Santa Croce in Florence. The space is dedicated to the Virgin Mary; all of the frescos in the chapel depict her life, as well as that of Christ. A stained-glass window above the altarpiece illuminates the space. The Bandini Baroncelli family commissioned this chapel in 1328; their banking pursuits endowed them with great wealth as well as political influence in Florence. The chapel did not permit the entry of common people, thus those who were allowed in had to be of significant social status. This selectivity means most people viewed the chapel not from up close, but rather from a lower position on the transept floor.  
+				Documents indicate that Taddeo Gaddi painted the chapel’s frescoes. He drew inspiration from Giotto’s work, using a similar palette of colors while playing with light and dark contrasts.  Taddeo understood that most people would view his work from the transept floor, and structured his frescos accordingly. He refrained from making the orthagonals of the paintings too steep or dramatic, so that the space from afar looks realistically occupied by the figures and almost three dimensional in appearance. Taddeo’s paintings interact with architecture of the space, expanding from the walls onto pillars, ceilings, and into niches of the chapel. These different scenes and images work together to create a holy experience for the viewer, which simultaneously summons the power of Virgin Mary as well as depicts the religious dedication of the Baroncelli family.  
+
+				`
+			}));
+
+				scene.annotations.add(new Potree.Annotation({
+                position: [416.29, 329.58, 6.81],
+				title: "The Life of the Virgin Mary Frescoes",
+				cameraPosition: [427.704, 332.502, 5.496],
+				cameraTarget: [416.125, 330.614, 5.675 ],
+				description: `
+				Frescoes on the east wall of the Baroncelli Chapel portray the story of the Virgin Mary, with scenes that depict her own life as well as that of her parents, Anna and Joachim. The east wall consists of five scenes: four square pictures and a larger lunette painting. Starting at the top with the fresco titled Joachim being Driven from the Temple, Joachim makes an offering in the Jewish temple but is pushed out due to his childlessness. Exiled into the wilderness, he sits on a rock and meets the angel Gabriel, who blesses him with the announcement that his wife, Anna, will deliver a daughter in her old age. The story continues below with the image of The Meeting at the Golden Gate, a composition borrowed from Taddeo’s master, Giotto di Bondone. Here, the couple embraces at the city gate after Joachim’s return, a gesture provoked by Gabriel’s news. The two figures sit at the center of the scene, golden halos and pastel robes emphasizing their role as main characters. From the left, a shepherd strides towards them and a group of handmaidens watch at the right, with the city of Jerusalem looming behind them.  
+				To the right of this scene appears The Birth of the Virgin, which introduces Mary into the storyline. Once again, figures are placed at an angle to help give life to the scene, as do the realistically rendered draperies of the handmaidens’ robes that fall off of their bent knees. Now obscured by the damaged wall, Anna reclines on the bed while her infant daughter, Mary, receives her first bath below her. The story then moves along into the scene of The Presentation of the Virgin at the bottom right. Here, Mary’s parents take her to the temple, who then leave her there to be raised as a maiden; she is to dedicate her life in service to the Lord. Taddeo arranges the architectural framework of this scene to create a pictorial depth: the stairs leading into the middle ground, along with the arcades along the upper registers of the buildings, form a spatial box that suggests a stage. Taddeo’s figures interact within this space, sitting on different levels and in different sizes to underscore the distances between them.  
+				The final scene of The Betrothal of the Virgin shows the competition among Mary’s suitors for her hand and Joseph’s surprising victory. Mary stands to the right of the competition before a tapestry hung on the arcade of a loggia. Taddeo depicts a tradition here: that the seat in which a bride sits in is framed by woven fabrics. The aged Joseph, left alone by the death of his first wife and too old to procreate with a young one, leans toward her in the middle of the crowd. The rod held by this elderly widower flowers above his head – the symbol of his selection as Mary’s groom – which causes his younger rivals to break the branches that they had hoped would blossom, and thus signify their appointment as her husband. The layering of figures in the crowd creates a vibrant, even chaotic scene, as the entire city turns out to witness this odd occurrence. 
+ 
+
+				`
+			}));
+
+					scene.annotations.add(new Potree.Annotation({
+                position: [418.125, 332.318, 1.906],
+				title: "The Coronation of the Virgin Altarpiece: Background",
+				cameraPosition: [423.060, 319.108, 0.337],
+				cameraTarget: [416.125, 330.614, 5.675],
+				description: `
+				The Coronation of the Virgin, also known as the Baroncelli pentaptych, serves as the central altarpiece of the Baroncelli chapel; it also forms the backdrop to the ceremonial Eucharistic table. Although Taddeo Gaddi is credited as the main artist of the frescoes in the Baroncelli Chapel, his hand is not present in the Coronation.  
+ 				Giotto, or maybe his workshop, painted the altarpiece sometime around the year 1330, when the chapel’s frescoes were completed. It bears close similarities with a double-sided altarpiece commissioned by the Cardinal Jacopo Stefaneschi and produced for the basilica of Old St. Peter’s in Rome, thus suggesting that the same painter was responsible for both pictures. The artist signed his name on the inscription with the words, “OPUS MAGISTRI JOCTI”. It must be noted, however, that it was not uncommon for a master painter’s name to be added deceptively to a work of art. It would be the workshop assistants who did the work, but the master had the name. Thus, the appearance of Giotto’s name on the panel may, counter-intuitively, does not guarantee his participation in the Coronation. 
+				The scene of the Coronation can stand independently, but it also fits with the rest of the chapel. Giotto, probably working in collaboration with his former student, Taddeo Gaddi, made an effort to incorporate all five panels into the fresco program in the rest of the chapel, as well as the stained-glass window above. This can be seen in the consistency of the color palette, the overall brightness of the scenes, and the unity of figures.  
+ 				The Coronation of the Virgin appears on the altarpiece, completing the program of the Life of the Virgin Mary in the Baroncelli Chapel. Its position here, rather than in a fresco, emphasizes the central role of the Virgin as a celestial advocate who sits on the right hand of Christ and jointly presides over His court. Indeed, viewers would have immediately recognized the Coronation of the Virgin as a reference to Mary’s regal role in Paradise, as this subject was featured in the mosaic on the entrance wall of the city’s Cathedral of San Maria del Fiore as early as 1310. By adding this scene to Taddeo Gaddi’s fresco cycle that features Mary’s story on Earth, Giotto’s altarpiece extended her legend into the Heavenly sphere to give her a deified quality to match her earthly significance. 
+
+
+				`
+			}));
+
+						scene.annotations.add(new Potree.Annotation({
+                position: [419.049, 332.455, 1.336],
+				title: "The Coronation of the Virgin Altarpiece: Description",
+				cameraPosition: [422.050, 319.851, 1.395],
+				cameraTarget: [416.125, 330.614, 5.675],
+				description: `
+				The Coronation of the Virgin sits as a physical centerpiece of the Baroncelli Chapel. It serves as the liturgical focus of the space, and completes the pictorial cycle that celebrates Mary’s presence and brings her holiness into the viewer’s realm through artistic representation. This channeling can be seen on the altarpiece, which features Mary’s transition from human existence to a deified position of Sainthood. Christ and Mary sit in the center of the altarpiece’s main compartment, wearing white garments. If their central location on the altarpiece and glowing attire do not immediately signify the importance of these two figures, their size and height does. Mary and Christ almost double the size of the rest of the figures and sit at a much higher position from their regal perches on the holy throne. This hierarchy of scale shows viewers who matters most in this scene and  the implications of Mary’s coronation as Queen of Heaven. Now crowned as the Bride of Christ, Mary occupies a religious realm that is almost equal to that of Jesus, a concept underscored by their similar sizing.  
+				The small crowd of witnesses consider Mary and Jesus from their lower positions. Golden halos frame the heads of saints and angels, while four of the latter sit at the feet of Mary and Christ reverently holding gifts before the holy couple. These characters stand in a naturalist posture, with those in the front obscuring their partners behind them. The overlapping of the figures in the crowd is an attempt to create a realistic space, even though the way in which the crowd expands vertically is not natural. The angels expand into the two other panels on the left and right, creating a sea of color that contrasts with the gold background, while a group of musicians sit at lower part of the panels, giving the scene a celebratory nature.  
+				This altarpiece is the final image in the story being told on the walls of this chapel, which tells of Mary’s ascension to sainthood. The coronation scene is deliberately left out of the fresco program and commemorated on the altarpiece to emphasize the central role of the chapel as a vessel for Mary’s religious presence. This image is also placed at the center of the Baroncelli Chapel’s artistic program for it is a common picture. During the 14th century, the Triumph of the Virgin would have been recognizable to many as a scene where Christ reinforces his reverence for his mother. This iconography helps in making the entire program of the chapel readable and brings the different elements together as a whole artistic unit.  
+ 
+
+				`
+			}));
+
+						scene.annotations.add(new Potree.Annotation({
+                position: [413.413, 295.547, 17.690],
+				title: "Capella Maggiore Chapel Overview",
+				cameraPosition: [438.454, 300.286, 4.780],
+				cameraTarget: [406.675, 298.372, 8.519],
+				description: `
+				The Cappella Maggiore, one of sixteen chapels in the Church of Santa Croce, houses a mural-fresco program painted in the 1380s by Agnolo Gaddi.  The Church of Santa Croce was built from 1294 to 1442, and was in use during its construction and renovations.  This Franciscan church became home to some of Florence’s most well-known gothic and pre-renaissance art, including frescos, sculptures, and the architecture of the church itself.  The church also houses works of famous artists, including Giotto, Donatello, Andrea della Robbia, and numerous other prominent Trecento and Renaissance Italian artists.   
+				The Cappella Maggiore, the church’s major chapel, houses Agnolo Gaddi’s fresco program of The True Cross.  Dedicated to the Holy Cross, the cycle was commissioned by the wealthy Alberti Family, while the altar was funded by a gift from the Alamanni Family.  As the patron of such a prominent chapel in the Church of Santa Croce, the Alberti family was able to display their sense of importance and holiness to the Florentine population. 
+				The True Cross fresco program in the Cappella Maggiore tells the story of, as the name suggests, the true cross. It originated from a group of thirteenth-century religious writings: the Golden Legend (or the Legenda Aurea) by Jacopo da Voragine. The narrative can be read from bottom to top, starting on the right side of the program. This pictorial narrative is told by Agnolo Gaddi, in which he fused the Giotto tradition of painting with a more modern style. By doing this, he kept his finger on the pulse of artistic trends – Giotto’s style – but also brought in his own personal modifications. Furthermore, Gaddi portrayed the faces within The True Cross in an individualized manner, demonstrating that he likely drew inspiration for these faces from his life. He also intricately painted the details in the figures’ outfits and the heavily ornamented architecture surrounding them. Gaddi utilized a dark background to contrast the lighter foreground, allowing for a greater depth and sense of naturalism to emerge within the narrative. Given Gaddi’s skill and attention to detail, along with the prominence of the Church of Santa Croce, the Cappella Maggiore stands out among Florentine chapels as an excellent pivot point: shifting from traditional Gothic style towards the early Renaissance style. 
+ 
+
+				`
+			}));
+
+						scene.annotations.add(new Potree.Annotation({
+                position: [413.437, 295.520, 20.252],
+				title: "Artist Biography",
+				cameraPosition: [440.681, 301.159, 5.992],
+				cameraTarget: [406.675, 298.372, 8.519],
+				description: `
+				Agnolo Gaddi was born into an artistic family sometime around 1350. His father, Taddeo Gaddi, was a Florentine painter and architect; his grandfather, Gaddo di Zanobi, was a Florentine artist credited with the mosaic of the Coronation of the Virgin in the Duomo. Agnolo’s father, Taddeo, studied with the great Giotto di Bondone and painted in Giotto’s style throughout his prominent artistic career. Taddeo taught his sons, Agnolo and Giovanni, how to paint through the same methods that Giotto taught him, connecting Agnolo’s pedigree back to that influential painter. As a student of the Giotto school of painting, Agnolo painted with a high sense of naturalism, aiming to portray his figures with a realistic sense of perspective, and allowing for an authentic engagement between the viewer and the painting. In achieving such Giotto-esque naturalism, Agnolo earned the bids for numerous commissions throughout his short career, including Papal commissions, altarpieces, and other religious frescos. 
+				Agnolo began his formal painting career in 1369 in Rome with his brother, Giovanni.  From July to October they completed a project to decorate a portion of the Vatican, commissioned by Pope Urban the Fifth, that they shared with the established Lombard painter, Giovanni da Milano.  After completing the decoration in the Vatican, Agnolo’s name is not seen in records until 1376, when he appears in Florence. His name is recorded with more frequency in the 1380s, as he received a series of painterly commissions; this includes what has come to be known as his best and most prominent work, the series dedicated to the Legend of the True Cross in the Cappella Maggiore of the Church of Santa Croce. Agnolo received many other commissions throughout the 1380s and 1390s, including the paintings Madonna Enthroned with Saint and Angels, Coronation of the Virgin, Madonna of Humility with Angels, and Crucifixion. Agnolo’s ability to create a unification throughout a composition made him a highly coveted painter during the late fourteenth century, yet his talents were not solely confined to painting. Agnolo’s name appears on statues for the façade of the Cathedral of Florence, indicating that he was likely the designer or gilder of these statues. He was not solely a painter, rather he was a “renaissance man”, equipped with skills and knowledge to excel in multiple crafts.  Agnolo’s death in 1396 put an end to a successful and imaginative artistic career. He was buried in the Church of Santa Croce on October 16, 1396.  Agnolo Gaddi boasts achievements for being the last painter under the Giotto-style techniques, while also being an excellent designer of sculptures.  
+  
+
+				`
+			}));
+
+						scene.annotations.add(new Potree.Annotation({
+                position: [406.701, 294.266, 21.723],
+				title: "The Relic of the True Cross",
+				cameraPosition: [438.296, 299.910, 6.478],
+				cameraTarget: [406.675, 298.372, 8.519],
+				description: `
+				The inspiration for Agnolo Gaddi’s fresco program in the Cappella Maggiore in Santa Croce originated from Santa Croce’s most prized relic: a piece of wood from the True Cross. The Florentine church acquired this in the thirteenth century, as a gift from Louis IX, who had purchased the relic in 1258.  This piece of wood was of great importance to the Franciscan friars: it stood as a symbol of Christ’s suffering, further encouraging their own commitment to Christ’s poverty and Saint Francis’s stigmatization of 1224.  In 1300, the artist Bertuccio made a crystal, Venetian reliquary for the relic of the True Cross, which held it on S. Croce’s high altar.  The reliquary was positioned directly in front of Agnolo Gaddi’s fresco program of the Legend of the True Cross, thus creating a tangible, material manifestation of the pictorial depiction in the Cappella Maggiore.   
+				In addition to Agnolo Gaddi’s True Cross program, the Cappella Maggiore also housed a stained-glass program depicting stories of the Crucifixion, Elijah and the Fiery Chariot, and the Ascension of Francis. Much of the stained-glass was done in the first half of the fourteenth century, and what remains of it are the earliest extant examples of stained-glass in Florence. The Franciscans’ decision to dedicate a majority of the Cappella Maggiore’s artistic program towards Christ’s suffering, Saint Francis, and the True Cross speaks to the significance of their prized relic. The friars at Santa Croce were able to connect their artistic programs with daily prayers and rituals in the choir to serve as constant reminders of the sacrifices of both Christ and his Medieval counterpart, Saint Francis of Assisi. Thus, the church’s possession of the relic from the True Cross served as the inspiration for the Cappella Maggiore’s decorative program. 
+
+ 
+
+				`
+			}));
+
+					scene.annotations.add(new Potree.Annotation({
+                position: [414.105, 290.342, 20.182],
+				title: "Legend of the True Cross: The Death of Adam",
+				cameraPosition: [436.661, 301.999, 12.072],
+				cameraTarget: [406.675, 298.372, 8.519],
+				description: `
+				Agnolo Gaddi’s frescoes of the Legend of the True Cross consists of eight different images that illustrate the popular myth surrounding the story of Christ’s Crucifix. The frescoes move downward, reading from the top right image and move down, before starting again at the top left image and descending once more. The cycle opens with the scene of The Death of Adam, which tells two parts of a story in one continuous narrative. 
+ 				The Death of Adam appears as a split scene, with the beginning of the narrative occurring in the background and the end of it in the foreground.  The vignette begins with two figures who appear in the sky. One of them, the Archangel Michael, emerges with a heavenly light extending from his body and radiates out like a shroud. Adam’s son, Seth, kneels to the left of Michael on his right knee while extending his right hand towards Michael, who in turn gives Seth a branch from Heaven. This narrative then leads to the foreground, where Adam’s corpse rests in a small grave with his feet extending to the right. Mourners surround his body, which allows Agnolo to frame the figures in the foreground. Seth kneels above Adam and leans towards the grave, placing the branch – representative of the Tree of Knowledge – that he received in the background onto Adam’s body in the foreground.  
+				Agnolo’s compositional acumen allowed him to create a structure and form through Adam’s horizontal, rigid body that emphasizes his importance in the composition. Agnolo’s decision to display Adam and Seth’s bodies as much larger than that of the archangel Michael and the other witnesses who surround Adam creates an emphasis on the two main characters without detracting from the holy angel. A detailed landscape appears behind the figures in the foreground that leads to the figures in the background. This landscape, possibly a reference to Jerusalem, consists of hills, mountains, roads, and trees, showing Agnolo’s abilities to portray a naturalistic landscape that recedes into the distance. The bucolic environment speaks directly to the notion of Eden as an Earthly Paradise, and thus painfully reminds viewers of the opportunity that was lost when Adam and Eve bit into the Forbidden Fruit.  
+	`
+			}));
+
+					scene.annotations.add(new Potree.Annotation({
+                position: [415.212, 290.573, 14.981],
+				title: "Legend of the True Cross: The Adoration and Burial of the Wood",
+				cameraPosition: [435.679, 307.119, 11.205],
+				cameraTarget: [406.675, 298.372, 8.519],
+				description: `
+				The second image in Agnolo Gaddi’s cycle of the Legend of the True Cross is the Adoration and Burial of the Wood. This pair of scenes show the importance and power of the relic of the True Cross that came to the Franciscans in Santa Croce in 1258.  
+				The left side of the image depicts the Queen of Sheba on her way to meet King Solomon. As the queen approached the bridge that spanned the Kendron River, she recognized the holiness and divinity of the wood that had been used to build it. The queen knelt before it, prayed, and then prophesized that the wood would someday cause the downfall of the Jewish kingdom. King Solomon heard the Queen of Sheba’s prophesy and ordered the wood of the bridge to be buried to protect the Jewish people from the doom that the Queen had prophesized. As is the case with all such stories of prophesy, the predication was fulfilled when the wood was used to carry out the Passion of Christ. 
+				As seen with the first panel, The Death of Adam, Agnolo employs a continuous narrative in order to tell a full story in a clear manner. The image illustrates the outdoor narrative with fortified buildings and structures in the background. The Adoration and Burial of the Wood contains two narratives with two groups of people, bisected and separated by a stream that runs vertically through the center of the image to create a clear division in the two narratives. Yet Gaddi also connects the narratives through the True Cross that spans the stream and interacts with both groups of people, thus allowing the divided image to be unified through the cross. The group on the left, led by the Queen of Sheba, looks to the right as they strike positions of prayer and reverence as they intuit the power of the holy wood. To the right, King Solomon directs a group of men to bury it. The Adoration and Burial of the Wood tells the story from left to right, contrasting the narrative direction of the entire fresco program, which begins from the right side. 
+				The Adoration and Burial of the Wood serves to show the power and importance of the true cross as its influence and divinity is prophesized by the Queen Sheba, and is then further validated through King Solomon’s efforts to bury and expel any traces of the wood from his kingdom. 
+	`
+			}));
+
+					scene.annotations.add(new Potree.Annotation({
+                position: [414.452, 290.439, 5.471],
+				title: "Legend of the True Cross: The Discovery and Testing of the True Cross",
+				cameraPosition: [435.679, 307.119, 11.205],
+				cameraTarget: [406.675, 298.372, 8.519],
+				description: `
+		          Agnolo Gaddi culminates the right half of his narrative with an image of the Discovery and Testing of the True Cross.  This image corresponds with the previous images in the cycle, as it contains a busy foreground with two scenes in a continuous narrative, both of which feature large groups of people and a detailed landscape in the background with some buildings occupying its space. The two groups of people in the foreground, separated by the direction of the figures’ bodies facing towards the center of their respective groups surround and look towards the true cross.  This narrative, however, ought to be read from right to left, which differs from the left to right and top to bottom narratives of the previous three images in the cycle.  Since this image culminates the right half of the fresco program, Gaddi may have chosen for this narrative to be read from right to left to create a more natural and smooth transition to the left side of the narrative. 
+				The group on the right remove the true cross from a hole in the ground, with each figure looking in awe towards the cross.  They begin to hoist up the cross, which directs the viewer’s gaze towards the background. The cross points towards a small figure in the background, presumably a monk or farmer, who emerges from behind a small mountain.   
+				The group on the left appear after having discovered the true cross, and they eagerly inspect it as it extends over the body of a reclined figure centered within the group, possibly the Jewish woman on whom the true cross’s power was tested.  The figure, once dead but now resurrected by the true cross, sits up from a bed as the cross is held above.  In the background, the viewer can see hills, a cave, a stream, and a building.  The landscape in the background gets darker as it processes away from the foreground scenes, emphasizing what is happening in the crowds of people.  
+
+	`
+			}));
+
+					scene.annotations.add(new Potree.Annotation({
+                position: [413.207, 300.801, 19.353],
+				title: "Legend of the True Cross: St. Helena Returning the Cross to Jerusalem",
+				cameraPosition: [435.991, 290.641, 10.916],
+				cameraTarget: [406.675, 298.372, 8.519],
+				description: `
+		        Agnolo Gaddi begins the left side of the True Cross narrative cycle with an image of Saint Helena Returning the True Cross to Jerusalem.  
+				Set in an imagined representation of Jerusalem, the scene represents Helena’s triumphant return to the Holy City after her discovery of the cross upon which Christ was crucified. Helena’s actions in this painting intentionally echo the miraculous works of Christ, as she performs numerous acts of charity during her journey. The appearance of the cross that she bears on her shoulder – a clear reference to her fierce connection to Christ – underscores this parallelism. 
+				The composition’s foreground features two groups of people, with Saint Helena in the left group holding the true cross. Helena is centered in the composition with the righthand group looking toward her. The members of the left group look towards them, as they kneel and offer praise to Helena and the True Cross she has discovered.  
+				Jerusalem was Saint Helena’s first stop in her journey back to Constantinople, where fragments of the true cross were disseminated as relics into many churches, including the Church of Santa Croce. 
+ 
+
+	`
+			}));
+
+
+		}
+	</script>
+	
+	
+  </body>
+</html>

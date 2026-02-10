@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Orsanmichele pointcloud</title>
+	<!-- These style sheets control the look and feel of the potree web interface. 
+	These can be edited to customize the look -->
+	<link rel="stylesheet" type="text/css" href="../../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<!-- INCLUDE DEPENDENCIES HERE. these are all publicly available open-source libraries. 
+	These are all included in the standard Potree install -->
+	<script src="../../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../../libs/spectrum/spectrum.js"></script>
+	<script src="../../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../../libs/other/BinaryHeap.js"></script>
+	<script src="../../libs/tween/tween.min.js"></script>
+	<script src="../../libs/d3/d3.js"></script>
+	<script src="../../libs/proj4/proj4.js"></script>
+	<script src="../../libs/openlayers3/ol.js"></script>
+	<script src="../../libs/i18next/i18next.js"></script>
+	<script src="../../libs/jstree/jstree.js"></script>
+	<script src="../../build/potree/potree.js"></script>
+	<script src="../../libs/plasio/js/laslaz.js"></script>
+	
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+	</div>
+	
+	<script type="module">
+		//these are loaders for mesh object. Usually we will be using .obj files
+		import * as THREE from "../../libs/three.js/build/three.module.js";
+		import {PLYLoader} from "../../libs/three.js/loaders/PLYLoader.js";
+		import {OBJLoader} from "../../libs/three.js/loaders/OBJLoader.js";
+	
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+		
+		//set default quality setting here. these parameters can be adjusted by the user but default values are set here.
+        viewer.useHQ = true;
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(6_000_000);
+		viewer.loadSettingsFromURL();
+		
+		//viewer.setDescription(`<p></p>Point cloud by <a target='_blank' href='https://florenceasitwas.wlu.edu/'>Florence As It Was</a><br>
+		//  <audio controls loop style="transform: scale(80%);">
+		//	<source src='../../build/potree/resources/music/Orsanmichele Ambient Sounds.wav' type='audio/mpeg'>
+		 // </audio>
+		//`);
+		
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_tools").next().show();
+			$("#menu_scene").next().show();
+			//viewer.toggleSidebar();
+		});
+		
+		// Load the point cloud here: 
+		// The "loadPointCloud" method points to the file created by the Potree Converter application.
+        Potree.loadPointCloud("../../pointclouds/Orsanmichele/OSMniches20251001/metadata.json", "Orsanmichele", function(e){
+			let scene = viewer.scene;
+			scene.addPointCloud(e.pointcloud);
+			
+			let material = e.pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+
+            viewer.scene.view.position.set(-22.887, 51.337, 3.740);
+            viewer.scene.view.lookAt(-6.942, 18.521, 3.945);
+
+            //viewer.scene.view.position.set(-87.007, 60.574, 43.438);
+            //viewer.scene.view.lookAt(-19.346, 32.004, 10.151);
+			
+		});
+		
+        const animation = new Potree.CameraAnimation(viewer);
+
+
+const positions = [
+   [36.117, 14.866, 2.527], //1
+   [32.017, 10.107, 2.393], //2
+   [31.619, 0.386, 3.328],//3
+   [27.660, -2.383, 2.666],//4
+   [24.745, 0.684, 2.655],//5
+   [21.956, 4.144, 2.614],//6
+   [22.854, 6.726, 3.637],//7
+   [21.165, 15.075, 2.648],//8
+   [20.255, 19.488, 1.137],//9
+   [17.254, 29.114, 2.338],//10
+   [-0.812, 44.948, 2.220],//11
+   [-10.749, 53.268, 2.946],//12
+
+   
+
+
+];
+
+const targets = [
+    [26.793, 3.581, 4.742],//1
+	[27.970, 5.167, 2.782],//2
+	[26.894, 4.014, 1.295],//3
+	[27.503, 4.207, 1.798],//4
+	[27.803, 4.000, 1.869],//5
+	[28.102, 3.793, 1.940],//6
+	[27.834, 2.859, 1.177],//7
+	[26.681, 3.119, 1.440],//8
+	[26.822, 1.388, 0.903],//9
+	[20.204, 20.279, 3.324],//10
+	[18.383, 19.219, 3.760],//11
+	[18.922, 8.474, 2.307],//12
+
+	
+	
+   
+];
+
+for(let i = 0; i < positions.length; i++){
+    const cp = animation.createControlPoint();
+
+    cp.position.set(...positions[i]);
+    cp.target.set(...targets[i]);
+}
+
+viewer.scene.addCameraAnimation(animation);
+
+
+	</script>
+	
+	
+  </body>
+</html>

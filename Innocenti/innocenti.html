@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Potree Viewer</title>
+
+	<link rel="stylesheet" type="text/css" href="../../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<script src="../../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../../libs/spectrum/spectrum.js"></script>
+	<script src="../../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../../libs/other/BinaryHeap.js"></script>
+	<script src="../../libs/tween/tween.min.js"></script>
+	<script src="../../libs/d3/d3.js"></script>
+	<script src="../../libs/proj4/proj4.js"></script>
+	<script src="../../libs/openlayers3/ol.js"></script>
+	<script src="../../libs/i18next/i18next.js"></script>
+	<script src="../../libs/jstree/jstree.js"></script>
+	<script src="../../build/potree/potree.js"></script>
+	<script src="../../libs/plasio/js/laslaz.js"></script>
+	
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+	</div>
+	
+	<script type="module">
+		//these are loaders for mesh object. Usually we will be using .obj files
+		import * as THREE from "../../libs/three.js/build/three.module.js";
+		import {PLYLoader} from "../../libs/three.js/loaders/PLYLoader.js";
+		import {OBJLoader} from "../../libs/three.js/loaders/OBJLoader.js";
+	
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+		
+		//set default quality setting here
+        viewer.useHQ = true;
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(6_000_000);
+		viewer.loadSettingsFromURL();
+		
+		viewer.setDescription("Point cloud by <a target='_blank' href='https://florenceasitwas.wlu.edu/'>Florence As It Was</a>");
+		
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_tools").next().show();
+			$("#menu_scene").next().show();
+			//viewer.toggleSidebar();
+		});
+		
+		// Load the point cloud here: 
+		Potree.loadPointCloud("../../pointclouds/Innocenti/Innocenti_20210602/metadata.json", "innocenti_v3", function(e){
+			let scene = viewer.scene;
+			scene.addPointCloud(e.pointcloud);
+			
+			let material = e.pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+
+            viewer.scene.view.position.set(36.983, 103.427, 34.191);
+            viewer.scene.view.lookAt(28.428, 13.963, -7.739);
+			//scene.view.position.set(589974.341, 231698.397, 986.146);
+			//scene.view.lookAt(new THREE.Vector3(589851.587, 231428.213, 715.634));
+			// viewer.fitToScreen();
+		});
+		
+        //OBJ Mesh Object Starts Here
+        {
+            let manager = new THREE.LoadingManager();
+            manager.onProgress = function (item, loaded, total) {
+                console.log(item, loaded, total);
+            };
+
+            let onProgress = function (xhr) {
+                if (xhr.lengthComputable) {
+                    let percentComplete = xhr.loaded / xhr.total * 100;
+                    console.log(Math.round(percentComplete, 2) + '% downloaded');
+                }
+            };
+            let onError = function (xhr) { };
+
+            const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/baby1_100k_4k.jpg`);
+
+            texture.wrapS = THREE.RepeatWrapping;
+            texture.wrapT = THREE.RepeatWrapping;
+
+            let loader = new OBJLoader(manager);
+            loader.load(`${Potree.resourcePath}/models/baby1_100k_4k_rotate.obj`, function (object) {
+                object.traverse(function (child) {
+                    if (child instanceof THREE.Mesh) {
+                        child.material.map = texture;
+                    }
+                });
+                object.position.set(22.470, -14.184, -3.061);
+                object.scale.multiplyScalar(0.06);
+                object.rotation.set(Math.PI -1.65, Math.PI-0.9 , 0);
+
+
+                viewer.scene.scene.add(object);
+
+                viewer.onGUILoaded(() => {
+                    // Add entries to object list in sidebar
+                    let tree = $(`#jstree_scene`);
+                    let parentNode = "other";
+
+                    let meshID = tree.jstree('create_node', parentNode, {
+                        text: "baby",
+                        icon: `${Potree.resourcePath}/icons/triangle.svg`,
+                        data: object
+                    },
+                        "last", false, false);
+                    tree.jstree(object.visible ? "check_node" : "uncheck_node", meshID);
+
+                    //tree.jstree("open_node", parentNode);
+                });
+
+            }, onProgress, onError);
+        }
+		//Obj Mesh object ends HERE
+
+		{ // LIGHTS
+			const directional = new THREE.DirectionalLight( 0xffffff, 1.0);
+			directional.position.set( 10, 10, 10 );
+			directional.lookAt(0, 0, 0);
+
+			const ambient = new THREE.AmbientLight(0x555555,3);
+
+			viewer.scene.scene.add(directional);
+			viewer.scene.scene.add(ambient);
+		}
+		{ // ANNOTATIONS
+			let scene = viewer.scene;
+			
+			scene.annotations.add(new Potree.Annotation({
+                position: [22.478, -14.231, -4.001],
+				title: "Baby",
+                cameraPosition: [25.853, -11.044, -2.878],
+                cameraTarget: [24.466, -12.236, -3.036],
+                description: `The distinctive roundels on the Loggia feature white glazed terracotta infants on blue backgrounds. 
+							Set between the arches of the Loggia, the ten sculpted children have become the symbols of the Ospedale degli 
+							Innocenti.Sculpted figures in lunettes were often employed to distinguish a building’s façade from those of other 
+							similar structures in the city, but the Innocenti’s emphasis on the function of the hospital created an unprecedented level 
+							of clarity.The roundels represent the Innocenti as an institution, revealing a depth of history about the hospital’s segno,
+						and stylistically, they speak to the mastery of Andrea della Robbia. <a href="http://florenceasitwas.wlu.edu/people/andrea-della-robbia.html">Click here to read more!</a>`
+			}));
+		}
+
+
+        let RichaDocTitle_EN = $(`
+						<span>
+							Richa - EN
+							<img src="${Potree.resourcePath}/icons/goto.svg"
+								name="action_set_scene"
+								class="annotation-action-icon"
+								style="filter: invert(1);" />
+						</span>
+					`);
+        RichaDocTitle_EN.find("img[name=action_set_scene]").click((event) => {
+            window.open('http://3d.wlu.edu/documents/Richa_Innocenti_en.pdf', '_blank');
+        });
+        RichaDocTitle_EN.toString = () => "Richa Innocenti English";
+        let aAbout4 = new Potree.Annotation({
+            position: [-21.095, 35.725, 4.784],
+            title: RichaDocTitle_EN,
+            cameraPosition: [-45.651, 68.515, 29.823],
+            cameraTarget: [-13.863, 17.686, -2.409],
+            description: `Giuseppe Richa was a priest, archivist, and historian who lived and worked in the middle decades of the eighteenth century. During the 1750s he researched,
+            wrote, and published a ten-volume study of the churches of Florence called Notizie istoriche delle chiese Fiorentine that was divided into sections
+            corresponding to the city&#39s different districts. Depending in part on earlier speculative writings by Giorgio Vasari, Francesco Bocchi, and
+            Leopoldo del Migliore, Richa updated those sixteenth- and seventeenth-century texts by consulting documents that either lent support to those earlier
+            accounts or corrected errors in them. At times flowery and decorative, Richa&#146;s language reflects the early modern penchant for yoking literary conceits with
+            historical narrative, and at times this can distract us from understanding his main points. Worse, Richa tends to jump from one subject to the next with poor t
+            ransitions, resulting in a choppy organization that sometimes borders on the incongruous: we need to wade through some of his material in order to get to what
+            we&#39re really after. Still, he was careful to place inside Florentine churches those works of art, important personages, and vital events that make them so interesting
+            to us today, and his eyewitness descriptions often include objects that were later removed for one reason or another. His studies thus provide crucial clues about the
+            appearance of building interiors (and exteriors) before the Napoleonic occupation and the cleansing of religious spaces that ensued in the early nineteenth century. Richa&#146;s
+            description of the Ospedale degli Innocenti appears in Volume 8 of the series.`
+        });
+        viewer.scene.annotations.add(aAbout4);
+
+
+        let RichaDocTitle_IT = $(`
+                    <span>
+                        Richa - IT
+                        <img src="${Potree.resourcePath}/icons/goto.svg"
+                            name="action_set_scene"
+                            class="annotation-action-icon"
+                            style="filter: invert(1);" />
+                    </span>
+                `);
+        RichaDocTitle_IT.find("img[name=action_set_scene]").click((event) => {
+            window.open('http://3d.wlu.edu/documents/Richa_Innocenti_Italian.pdf', '_blank');
+        });
+        RichaDocTitle_IT.toString = () => "Richa Innocenti Italian";
+
+        let aAbout5 = new Potree.Annotation({
+            position: [10.504, 56.880, 10.024],
+            title: RichaDocTitle_IT,
+            cameraPosition: [-19.992, 90.836, 13.139],
+            cameraTarget: [12.646, 33.477, -3.524],
+            description: `Giuseppe Richa era un sacerdote, un archivista e uno storico che visse e lavor&#xF2; nella met&#xE0; dei decenni del XVIII secolo. Durante gli anni 1750 ha studiato, scritto e pubblicato uno studio di dieci volumi sulle chiese di Firenze chiamato Notizie istoriche delle chiese fiorentine che &#xE8; stato diviso in sezioni corrispondenti ai diversi quartieri della citt&#xE0;. A seconda in parte dei precedenti scritti speculativi di Giorgio Vasari, Francesco Bocchi e Leopoldo del Migliore, Richa ha aggiornato quei testi del sedicesimo e diciassettesimo secolo consultando documenti che fornivano supporto a quei conti precedenti o correggevano errori in essi. A volte fiorito e decorativo, il linguaggio di Richa riflette la tendenza moderna ai tempi in cui si accoppiano i concetti letterari con la narrazione storica e, a volte, ci&#xF2; pu&#xF2; distrarci dalla comprensione dei suoi punti principali. Peggio ancora, Richa tende a saltare da un argomento all&#x27;altro con transizioni sfavorevoli, dando vita a un&#x27;organizzazione instabile che a volte rasenta l&#x27;incongruente: dobbiamo raggiungere un po &#x27;del suo materiale per arrivare a ci&#xF2; che stiamo veramente cercando. Tuttavia, stava attento a collocare all&#x27;interno delle chiese fiorentine quelle opere d&#x27;arte, personaggi importanti ed eventi vitali che li rendono cos&#xEC; interessanti per noi oggi, e le sue descrizioni dei testimoni oculari spesso includono oggetti che furono successivamente rimossi per un motivo o per l&#x27;altro. I suoi studi forniscono quindi indizi cruciali sull&#x27;aspetto degli interni degli edifici (e degli esterni) prima dell&#x27;occupazione napoleonica e della pulizia degli spazi religiosi che seguirono all&#x27;inizio del diciannovesimo secolo. La descrizione di Richa dell&#x27;Ospedale degli Innocenti appare nel Volume 8 della serie.`
+        });
+
+        viewer.scene.annotations.add(aAbout5);
+
+        let OriginsTitle = $(`
+				        <span>
+				            Origins
+				        </span>
+				                `);
+        OriginsTitle.toString = () => "Origins of Innocenti";
+
+        let aAbout6 = new Potree.Annotation({
+            position: [-9.986, -38.914, 11.345],
+            title: OriginsTitle,
+            cameraPosition: [11.315, -17.537, 26.035],
+            cameraTarget: [7.503, -21.141, 21.342],
+            description: `<div style="overflow:scroll ; height:350px">Florence’s Ospedale degli Innocenti, the Hospital of the Innocents, was conceived as a charitable institution and inspired by a strong sense of public and religious duty. The tradition of public welfare institutions in Florence dated back into the thirteenth century and, by the 1330s, Florence had approximately 30 hospitals filled with 1,000 beds. These spedali – hospitals for the sick, abandoned, and orphaned – were usually located at the edge of the city limits near the contours of the walls that ringed the center. Among these older, large hospitals of the fourteenth century were San Gallo and San Maria della Scala, which were not centrally located and offered limited services. By the early fifteenth century, the city was in need of a well-equipped new space to take care of its struggling population. Infanticide was considered a punishable crime in Florence, and in some cases the convicted faced capital punishment. Rather than risk this fate, poor parents, ill mothers, transient populations or domestic slaves instead chose to abandon unwanted children. The result was that the city often staggered under the weight of destitute, diseased, and desperate children of all ages who had no place to sleep, nothing to eat, and no motive for abiding by social rules and regulations. Francesco di Marco Datini, an international merchant who resided in the nearby town of Prato, recognized the problem. Shortly before his death, the Merchant of Prato left 1000 florins in his will, made on July 31, 1410, to construct a new foundling hospital, and ordered the senior administrative officer of the Santa Maria Nuova hospital, the spedalingo, to oversee the project. The letters between Datini and his intimate friend and notary, Ser Lapo Mazzei, reveal that Datini was concerned for the state of his soul and his lack of legitimate children. Thus, his charitable gift to the Innocenti was not purely about religious salvation but also a wish to create some sort of legacy that he feared might otherwise escape him. Datini’s trust in hospitals clearly aligned with the fact that he had entrusted his illegitimate daughter to the care of the hospital of Santa Maria Nuova. His will stated that he wished to found a new institution “in order to increase the alms and devotions of citizens, rural dwellers, and others who have compassion for the boys and girls called ‘throwaways’ and so that these little children shall be well-fed, educated, and disciplined.” It was his intention to create the very first European hospice for orphaned, abandoned, and unwanted children. After Datini’s death, Mazzei protected his explicit wishes to allocate his money to the building of a new hospital. But after nine years of inaction from the Spedale di Santa Maria Nuovo, Mazzei had Datini’s money transferred to the Silk Guild so that they could begin the project. In 1417, the guild decided to move forward with the building of the spedale and expressed their interest in overseeing its construction. An Operai, a guild subcommittee appointed to oversee operations, approved the plans submitted by Filippo Brunelleschi, and the project was officially initiated in 1419. Brunelleschi, a member of the guild since 1404, had important ties with the guild, and the fame he had earned through his receipt of the commission to build the cupola of S. Maria del Fiore made him the obvious choice as architect. Construction on the hospital began on a garden property along the Piazza de Servi that the Silk Guild had purchased for 1700 florins. As Philip Gavitt argues, charity for children was an attractive form of benevolence in this particular moment in history. Wealthy Florentines were more inclined to leave their money to social institutions dedicated to the welfare of the poor rather than to religious organizations, and hospitals began to replace confraternities as magnets for charitable donations. Many people left land, assets, houses, and money to hospitals after they died, often with the intention of contributing to the common good which they believed might earn them religious indulgences. Although the Florentine government was reluctant to contribute financially due to the fiscal restraints posed by a military threat from France, the signoria provided some funds to sustain the maintenance of the hospital, a vital contribution that helped address the final construction cost of 30,000 gold florins. Mazzei advocated, as Datini wished, for the hospital to gain tax-exemption status, but Mazzei wanted to obtain this privilege without having to declare the hospital as an ecclesiastical site and therefore succumb to clerical rule. Letters show that Mazzei wrote to the Otto di Guardia of Prato reminding them that Datini’s estate was “for the eternal care of the poor” and that they were essentially replicating the approach taken by clerics in churches all across the city. The hospital, he argued, should have the same privileges as the Church. The argument persuaded, and the Ospedale di Innocenti was granted its tax exemption in 1430. Later, the republic further exempted the hospital from the forced loans and duties it normally imposed on individuals and institutions in the city. The hospital opened in 1445, still partially unfinished, and began accepting children immediately. Its first patient was an infant the staff named Agata, left at the door of the hospital in the month of January, and the hospital’s reputation as a suitable depository for unwanted children grew quickly thereafter. Documents indicate that during the first decade of its existence the Ospedale degli Innocenti served the community in precisely the way its donors had intended. Records indicate that 813 children were admitted, 44.5% boys and 55.5% girls. In the next 12 years, 1,754 children were admitted. By the end of the fifteenth century, the Ospedale degli Innocenti was one of the most famous and important institutions in the entire city of Florence.</div>`
+        });
+
+        viewer.scene.annotations.add(aAbout6);
+
+        let FloorplanTitle = $(`
+									<span>
+											Floor Plan
+									</span>
+													`);
+        FloorplanTitle.toString = () => "Floor Plan";
+
+        let aAbout7 = new Potree.Annotation({
+            position: [25.213, -27.221, 11.680],
+            title: FloorplanTitle,
+            cameraPosition: [10.766, -28.113, 60.524],
+            cameraTarget: [12.779, -30.347, 17.581],
+            description: `<img src="/documents/InnocentiFloorplan.png" alt="Innocenti Floor Plan" style="width:450px;height:350px;">`
+        });
+
+        viewer.scene.annotations.add(aAbout7);
+
+
+        let AdmissionsTitle = $(`
+										<span>
+												Admissions Window
+												<img src="${Potree.resourcePath}/icons/goto.svg"
+                            name="action_set_scene"
+                            class="annotation-action-icon"
+                            style="filter: invert(1);" />
+										</span>
+														`);
+        AdmissionsTitle.find("img[name=action_set_scene]").click((event) => {
+            window.open('/documents/AdmissionsWindow01.jpeg', '_blank');
+        });
+        AdmissionsTitle.toString = () => "Admissions Window";
+
+        let aAbout8 = new Potree.Annotation({
+            position: [35.623, -33.623, -9.318],
+            title: AdmissionsTitle,
+            cameraPosition: [33.094, -31.830, -6.930],
+            cameraTarget: [33.938, -32.603, -7.686],
+            description: `<div style="overflow:scroll ; height:350px"><img src="/documents/AdmissionsWindow01.jpeg" alt="The Admissions Window museum text" style="width:450px;height:350px;"> <br> <img src="/documents/AdmissionsWindow02.jpeg" alt="The Admissions Window itself" style="width:450px;height:350px;"></div>`
+        });
+
+        viewer.scene.annotations.add(aAbout8);
+		
+		{
+            let pageTitle, location, blockName, annotationDetails, cameraPosition, cameraTarget = '';
+            const annoData = [];
+            const url = 'annotationInnocenti.txt?v=1';
+            fetch(url)
+              .then((res) => res.text())
+              .then((text) => {
+                const sections = text.split(/\\\\+/); // Split based on the line of slashes
+
+                sections.forEach(section => {
+                  const lines = section.split('\n');
+
+                  // Reset variables for each section
+                  pageTitle = location = blockName = annotationDetails = cameraPosition = cameraTarget = '';
+
+                  // Parse each line
+                  lines.forEach(line => {
+                    if (line.startsWith('Page:')) {
+                      pageTitle = line.replace('Page:', '').trim();
+                    } else if (line.startsWith('Location of Annotation:')) {
+                      location = line.replace('Location of Annotation:', '').trim();
+                    } else if (line.startsWith('Camera Location:')) {
+                      cameraPosition = line.replace('Camera Location:', '').trim();
+                    } else if (line.startsWith('Camera Looks Towards:')) {
+                      cameraTarget = line.replace('Camera Looks Towards:', '').trim();
+                    } else if (line.startsWith('Annotation block name:')) {
+                      blockName = line.replace('Annotation block name:', '').trim();
+                    } else if (line.startsWith('Annotation Details:')) {
+                      annotationDetails = line.replace('Annotation Details:', '').trim();
+                    } else {
+                      // If it's not a key line, add to annotation details
+                      if (annotationDetails) {
+                        annotationDetails += `<p>${line.trim()}</p>`;
+                      }
+                    }
+                  });
+                  // Check if we have a valid title and location
+                  if (pageTitle && location) {
+
+                    location = location.split(",").map(value => parseFloat(value.trim()));
+                    cameraPosition = cameraPosition.split(",").map(value => parseFloat(value.trim()));
+                    cameraTarget = cameraTarget.split(",").map(value => parseFloat(value.trim()));
+
+                    const currentUrl = window.location.href;
+
+
+                    // Only process if the current URL matches the page title
+                    if (currentUrl === pageTitle) {
+                      processData(pageTitle, location, cameraPosition, cameraTarget, blockName, annotationDetails);
+                    }
+                  }
+                });
+              })
+              .catch((e) => console.error(e));
+
+            function processData(title) {
+                let autoAnnos = new Potree.Annotation({
+                    position: location,
+                    "cameraPosition": cameraPosition,
+                    "cameraTarget": cameraTarget,
+                    "title": blockName,
+                    "description": annotationDetails,
+                });
+                viewer.scene.annotations.add(autoAnnos);
+				autoAnnos.visible = false;
+            }	
+        }
+		
+		//end annnotation
+		
+		var supportsWheel = false;
+		var annotations =  viewer.scene.getAnnotations(); 
+		if (annotations && annotations.children) {
+			annotations.children.forEach(function(annos) {
+						annos.visible = false;
+			});
+		}
+		const MinDistanceFromPainting = 12;
+		
+		/* The function that will run when the events are triggered. */
+		function HideAnnotations (e) {
+			/* Check whether the wheel event is supported. */
+			if (e.type == "wheel") supportsWheel = true;
+			else if (e.key === 'w' || e.key === 'a' || e.key === 's' || e.key === 'd') supportsWheel =  true;
+			else if (e.key === 'ArrowUp' || e.key === 'ArrowDown' || e.key === 'ArrowLeft' || e.key === 'ArrowRight') supportsWheel =  true;
+			else if (supportsWheel) return;
+				
+	
+			if (annotations && annotations.children) {
+				annotations.children.forEach(function(anno) {
+				anno.visible = false;
+				if (anno.position) {
+					if (anno.title) {
+						if (Math.sqrt(((viewer.scene.getActiveCamera().position.x) - (anno.position.x))**2  +
+									  ((viewer.scene.getActiveCamera().position.y) - (anno.position.y))**2 +
+									  ((viewer.scene.getActiveCamera().position.z) - (anno.position.z))**2) < MinDistanceFromPainting) {
+							anno.visible = true;
+							} 
+						}
+					}
+				});
+			}
+				
+				
+		}
+		/* Add the event listeners for each event. */
+		document.addEventListener('wheel', HideAnnotations);
+		document.addEventListener('keydown', HideAnnotations);
+		document.addEventListener('DOMMouseScroll', HideAnnotations);
+		
+		
+		
+		
+
+
+
+
+	</script>
+	
+	
+  </body>
+</html>

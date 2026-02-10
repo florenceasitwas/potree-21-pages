@@ -1,0 +1,127 @@
+
+
+Keys- A line break should be added as <br><br>
+	  To make a word Italisized <i>What you want Italisized here</i>
+	  To make a word Bold <b>What ever you want bold here</b>
+	  If you want a scroll wheel then add <div style="overflow:scroll ; height:650px"> before the text
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/Lorenzo/lorenzo.html  
+
+Location of Annotation:-26.04,-15.11,-10.12 
+Camera Location:-15.700, -16.996, -7.087 
+Camera Looks Towards:-38.287, -18.385, -6.882 
+Annotation block name: Setting the Precedent: San Lorenzo’s Early Foundations 
+
+Annotation Details:<div style="overflow:scroll ; height:150px"> The church of San Lorenzo, the first cathedral in Florence, embodies a rich history that explains the building’s importance from late antiquity through the modern era. Though multiple rounds of renovation have changed its original structure, the building still stands as a physical reminder of Christian tradition, Florentine prosperity, and architectural ingenuity.  
+
+The church’s namesake, Saint Lawrence, was a third-century deacon under Pope Saint Sixtus and the emperor Philip, the first Roman leader to endorse Christianity. At this watershed moment, a general named Decius assassinated Philip in a gamble to gain power for himself. Frightened that Decius would come after him next, Philip’s son, Philip the Younger, approached Sixtus and Lawrence with his family’s fortune, asking that they distribute it to the church and the poor in case of his death. Once this came to pass, Decius became the confirmed emperor and began a reign of Christian persecution, eventually executing Philip the Younger and imprisoning Sixtus to obtain the treasure. Lawrence, meanwhile, distributed the wealth according to Philip’s wishes, performing saintly miracles such as restoring sight to the blind. In 258 CE, under pain of imprisonment and torture, including being whipped with scorpions, Lawrence refused to hand over Philip’s riches to Decius. Frustrated at Lawrence’s stubbornness and the betrayal of some of his men whom Lawrence baptized, Decius ordered him to lie on a bed of burning coals. While being roasted alive, Lawrence supposedly exclaimed, “You have me well done on one side; now turn me over and eat!”   
+
+Construction of the original edifice of San Lorenzo began in the fourth century, and its consecration in 393 drew St. Ambrose as a witness to the celebration. Its physical location atop one of the few hills in the otherwise flat topography of the city reflected its high position among its citizenry. It loomed so large in the collective consciousness that it appeared among a handful of structures in the fresco in the Loggia del Bigallo of 1342 that depicted the city's major features. Important details featured in the fresco include the portico, basilica, and bell tower, the city's high point.   
+
+Despite the San Lorenzo’s rich spiritual magnificence, Florentines began to feel that its small size failed to do justice to the religious power it held. When people began to discuss improvements in 1384, their main goal was to enlarge the space so its physical size could properly match its social significance. These renovations stretched out over the years. However, the entire structure could only be reimagined three decades later, when the fire of 1416 destroyed most of the early church and its medieval decorations. The architectural marvel that stands there today rose from the ashes of this disaster. 
+
+By Georgie Gaines 
+
+Bibliography:  
+de Voragine, Jacobus. <i>The Golden Legend: Readings on the Saints.</i> Vol. 2. Translated by William Granger Ryan. Princeton: Princeton University Press, 1993. 
+Santi, Bruno. <i>San Lorenzo: Guide to the Laurentian Complex.</i> Boston: Santak, 1992. 
+Trachtenberg, Marvin. “Building and Writing S. Lorenzo in Florence: Architect, Biographer, Patron, and Prior.” <i>The Art Bulletin</i> 97, no. 2 (2015): 140-72. https://www.jstor.org/stable/pdf/43947729.pdf?ab_segments=0%252Fbasic_SYC-4653%252Ftest&refreqid=excelsior%3A0ba1a0f0f8aeda9045bd809db7640c14. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+
+Page: https://3d.wlu.edu/v21/pages/Lorenzo/lorenzo.html   
+
+Location of Annotation: -86.44, -20.79, -9.82 
+Camera Location: -86.257, -22.674, -3.560 
+Camera Looks Towards: -92.064, -23.111, -45.251 
+Annotation block name: Cosimo’s Farewell: The Crossing of San Lorenzo 
+
+Annotation Details: <div style="overflow:scroll ; height:300px"> Since Cosimo d’Medici began his patronage at San Lorenzo, it is only fitting that his final commission is for that church. Cosimo arranged to be buried at the crossing, at the heart of the church. Though his burial there was not unprecedented, this specific location was unique. Cosimo’s father, Giovanni di Bicci, had been entombed in the Old Sacristy at the end of the south transept in the same tomb that would later hold Cosimo’s children, Piero and Giovanni. However, upon his death in 1464, Cosimo’s tomb would become, as Dale Kent has noted, “the symbolic focus and support of the church that was the center of the spiritual life of his family and his partisans.” The burial marker designed by Andrea del Verrocchio lay proudly at the foot of the high altar, with Cosimo’s body in the crypt directly below. Piero’s records confirm Cosimo’s insistence on that final resting place and a “modest burial.”  
+
+Despite Cosimo’s wishes for a modest funeral and his request “against a high-rising tomb,” the location and the materials of his tomb suggest quite the opposite. The tomb comprises black and white marble, and the burial marker consists mainly of white, green, and red porphyry, materials often associated with princes or emperors and the body of Christ. Four shields with <i>palle,</i> the balls of the Medici coat of arms, appear in the corners of the marker. Also important is the large Solomon’s knot within the main white marble circle. According to humanist scholar and Medici associate Cristoforo Landino, this shape symbolized “the obligation remaining to be met by those who have a debt of punishment yet to pay to God,” a pressing thought constantly in Cosimo’s mind.   
+
+On either side of the altar and of Cosimo’s interred body stood the bronze pulpits commissioned by Cosimo from Donatello. The pulpit on the left features six scenes of the Passion, and the one on the right depicts five miracles following the Passion. The hope for salvation expressed in Donatello’s work is an unsurprising complement to Cosimo’s burial place and perhaps an homage to the friendship the two had forged. Donatello was buried alongside his patron when he died two years after Cosimo. Thus, Cosimo’s final commission and eternal resting place created an undying memorial to himself, his family, and his friend within the church to which he had given so much.   
+
+By Georgie Gaines  
+
+Bibliography:  
+Kent, Dale. <i>Cosimo de’Medici and the Florentine Renaissance.</i> London and New Haven: Yale University Press, 2000. 
+Lavin, Irving. "The Sources of Donatello's Pulpits in San Lorenzo: Revival and Freedom of Choice in the Early Renaissance." <i>The Art Bulletin</i> 41, no. 1 (1959): 19-38. doi:10.2307/3047811. 
+Paoletti, John. "Fraternal Piety and Family Power: The Artistic Patronage of Cosimo and Lorenzo de' Medici." In Ames-Lewis, <i>Cosimo ‘il Vecchio’ de’ Medici 1389-1464,</i>195-220. Oxford: Oxford University Press, 1992. 
+Saalman, Howard. <i>Filippo Brunelleschi: The Buildings.</i> London: Zwemmer Press, 1993. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+
+Page: https://3d.wlu.edu/v21/pages/Lorenzo/lorenzo.html   
+
+Location of Annotation: -26.04, -21.85, -10.12 
+Camera Location: -15.700, -16.996, -7.087
+Camera Looks Towards: -38.287, -18.385, -6.882 
+Annotation block name: Medici Involvement in the Revitalization of San Lorenzo 
+
+Annotation Details: <div style="overflow:scroll ; height:150px"> The renovation of San Lorenzo began as a civic group effort. As the parish church of the <i>gonfalone</i> (or neighborhood) of Lion d’Oro, San Lorenzo fell under the jurisdiction of the area’s dynastic families, including the Medici, most of whom hoped to cleanse their neighborhood of criminal elements and guarantee their salvation. By participating in the project, these families gained access to private chapels and enjoyed the right to be entombed there, eternally close to God.  
+
+The initial expansion plan turned into a full redesign when the fire of 1416 destroyed much of the original church. The same year, the neighborhood assembled an <i>operai</i> to secure the surrounding private and public lands needed for the expansion. In 1418, the <i>operai</i> petitioned the Signoria to obtain a plot of land on the Via de’ Preti, west of the church. As part of their request, the <i>operai</i> insinuated that the project would result in the displacement of “people of low condition and poor reputation and lifestyle,” such as foreigners and prostitutes, who at that time occupied the area. This wording reveals how prominent neighborhood families understood their architectural patronage as purifying the entire neighborhood through revitalizing the community’s social and spiritual center.    
+
+The Signoria granted the <i>operai</i>’s request in December 1418, but a lack of organization and proper funding slowed the process. Construction started with a ground-breaking ceremony on August 10th, 1421, during the feast of San Lorenzo, but demolition along the newly acquired Via de’ Preti did not begin until 1422. Of the eight family chapels planned for the transept, only seven were claimed by local patrons, and of those, only the one for Giovanni d’ Bicci de’ Medici was making progress. By his death in 1429, eight years after construction began, his chapel was the only one complete, while the Old Sacristy that served as Giovanni’s burial site sat unfinished. Work inside the church then ground to a halt.  
+
+After Giovanni’s death, his sons Cosimo and Lorenzo refused to take responsibility for finishing the entire church, believing instead that other neighborhood members needed to be more involved. The plans dragged with the Medici exile from Florence in 1433, and little was done after his return in 1434, thanks to Cosimo’s preoccupation with another project at the church of San Marco. After years of haggling and considerable intervention from the canons in S. Lorenzo, the neighborhood finally surrendered their financial burden to the wealthy bankers, even if it meant relinquishing some agency as patrons. By the early 1440s, those local families that had either failed to complete their chapels or those who politically opposed the Medici were pushed out of the project and replaced with other patrons more eager to please. Medici power was consolidated within the sacred space, and San Lorenzo became a focal point of Medici patronage with images that reflected their patron saints and coats-of-arms. Cosimo’s patronage of San Lorenzo demonstrated his rising position in the neighborhood and Florentine society, but his reluctance to embrace the project also reveals the banker’s conservative approach. 
+
+By Georgie Gaines  
+
+Bibliography: 
+Elam, Caroline. “Cosimo de’ Medici and San Lorenzo.” In Ames-Lewis, <i>Cosimo ‘il Vecchio’ de’ Medici 1389-1464,</i>157-80. Oxford: Oxford University Press, 1992.  
+Peterson, David. “San Lorenzo, the Medici, and the Florentine Church in the Late Fourteenth and Early Fifteenth Centuries.” In <i>San Lorenzo: A Florentine Church,</i> edited by Robert Gaston and Louis Waldman, 62-102. Florence: Dumbarton Oaks Publications, 2017.  
+Saalman, Howard. <i>Filippo Brunelleschi: The Buildings.</i> London: Zwemmer Press, 1993. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+
+Page: https://3d.wlu.edu/v21/pages/Lorenzo/lorenzo.html   
+Location of Annotation: -79.31, -27.74, -7.51 
+Camera Location: -78.890, -23.140, -6.911 
+Camera Looks Towards: -78.094, -53.817, -6.654  
+Annotation block name: The Crossing of San Lorenzo: Donatello’s Bronze Pulpits 
+
+Annotation Details: <div style="overflow:scroll ; height:400px"> On either side of Cosimo de’ Medici’s tomb in San Lorenzo’s crossing stands Donatello’s bronze pulpits. These pulpits mark both the end of Cosimo’s patronage legacy and the conclusion of Donatello’s sculptural career. Although the lack of contemporary documentation leaves the timeline of their creation uncertain, Donatello probably worked on the bronze panels after his return to Florence from Siena in 1460, before he died in 1466. At that time, his workshop assistants finished the project according to his designs and plans. Each pulpit was raised on top of four ionic columns, as they appear today, only in the sixteenth century.  
+
+The south pulpit includes six scenes from the Passion, while the north incorporates five post-Passion miracles. The panels depicting <i>Christ on the Mount of Olives</i> (or the <i>Agony in the Garden), Christ before Pilate and Caiaphas,</i> the <i>Crucifixion, Lamentation</i> (or <i>Pieta</i>), and <i>Entombment</i> on the south pulpit and those of the <i>Three Marys at the Tomb, Christ in Limbo,</i> the <i>Resurrection, Ascension, Pentecost,</i> and <i>Martyrdom of St Lawrence</i> to the north were done in Donatello’s time; the scenes of the <i>Flagellation</i> and <i>St John the Evangelist </i>on the south and <i>St Luke</i> and the <i>Mocking of Christ</i> on the north pulpit are bronze-painted wooden panels added in the early 17th century.   
+
+Donatello emphasized the idea of Death and Resurrection by separating the story into two distinct programs. A possible portrait of Cosimo and his wife Contessina, grieving over Christ’s body in the <i>Pieta</i> panel, ties this theme directly to the patron’s tomb, which was placed between and slightly before the two pulpits. The omission of the <i>Last Supper</i> may have been due to Donatello’s privileging of the performance of the Mass that would have taken place at the high altar in between and behind the pulpits, thus filling the iconographic gap. Florentines standing in the transept and participating in the reenacted Last Supper would have formed this connection.  
+
+This interactive quality signifies Donatello’s understanding of the use of space and evokes the idea of the <i>sacra rappresentazione</i> (sacred play). The figures along the sides of the pulpit seem to wriggle before the viewer and, in some places, spill out of their frame, blurring spatial lines and increasing the overall drama that parallels the contemporary performances of Passion Plays then popular in Florence. Together, these pulpits created a cohesive dialogue between the church’s rich history, its modern use of space, and Cosimo’s personal spirituality in the context of devotional practice in Florentine society. 
+
+By Georgie Gaines 
+
+Bibliography:  
+Lavin, Irving. "The Sources of Donatello's Pulpits in San Lorenzo: Revival and Freedom of Choice in the Early Renaissance." <i>The Art Bulletin</i> 41 (1959), 19-38. 
+Lavin, Irving. “Donatello’s Bronze Pulpits in San Lorenzo and the Early Christian Revival.” <i>Past-Present</i> (1993), 1-28.  
+Saalman, Howard. "The San Lorenzo Pulpits: A Cosimo Portrait?" <i>Mitteilungen Des Kunsthistorischen Institutes in Florenz</i> 30, no. 3 (1986): 587-89. http://www.jstor.org/stable/27653186. 
+Santi, Bruno. <i>San Lorenzo: Guide to the Laurentian Complex.</i> Boston: Santak, 1992. 
+Verdon, Timothy. "Donatello and the Theater: Stage Space and Projected Space in the San Lorenzo Pulpits." <i>Artibus Et Historiae</i> 7, no. 14 (1986): 29-55. doi:10.2307/1483223. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+
+Page: https://3d.wlu.edu/v21/pages/Lorenzo/lorenzo.html    
+
+Location of Annotation: -93.09, -42.54, -8.68 
+Camera Location: -91.726, -39.101, -8.451 
+Camera Looks Towards: -91.515, -53.063, -4.451 
+Annotation block name: Medici Patronage in San Lorenzo: The Old Sacristy 
+Annotation Details: <div style="overflow:scroll ; height:150px"> 
+
+Under the patronage of the Medici, the Old Sacristy became one of the first completed sections in the renovated Church of San Lorenzo. Giovanni commissioned Brunelleschi, who had recently presented his design for the incredible Duomo cupola in 1419, to design the architectural structure of the room. However, the burial chapel was only finished in 1433 when Buggiano, Brunelleschi’s adopted son, finally completed the tomb. Though the clergy did not use the space as a sacristy until 1461, Giovanni di Bicci de Medici pushed the project along to fulfill his obligation of patronage before he died in 1429. Eventually, the Old Sacristy held the tomb of Giovanni and his wife, Piccarda di Nannino di Aduardo Bueri, who died in 1434. Two inscriptions on the tomb and bronze discs of brass <i>palle</i> decorating the tabletop above clearly explain the identity of the interred alongside the names of their children, Cosimo and Lorenzo, who paid for the tomb.  
+
+The double function as a family mausoleum and sacristy lends the space its unique architectonic sense. Brunelleschi’s design elements, like an emphasis on symmetry and geometric forms, echo that of the Holy Sepulchre in Jerusalem and the Florentine Baptistery, especially through the geometric lantern. This emphasis on geometric elements and classical design continued through the <i>all’antica</i> style with fluted Corinthian pilasters, Ionic door frames, and shell pendentives. To infuse the space with his particular <i>ingegno,</i> Brunelleschi added a dome above the altar that was not typical of a fifteenth-century sacristy but more aligned with mausolea found in ancient times.  
+
+Upon the structure’s completion, Cosimo and Lorenzo de’Medici commissioned Donatello to add sculptural decorations, much to Brunelleschi’s dismay, according to Antonio Manetti. One of Donatello’s reliefs represents the brothers Saints Cosmas and Damian, the doctors who invoke Cosimo’s namesake and the “Medici” name. The two deacon saints, Stephen and Lawrence – the latter of whom was Lorenzo de’ Medici’s patron – appear on the other door. Below each of these reliefs sits a bronze door commissioned from Donatello; the door on the right includes images of St John the Evangelist and St Peter, the patron saints of Cosimo’s sons Giovanni and Piero.  
+
+The terracotta reliefs in the roundels feature scenes from the life of St John the Evangelist, the patron saint of Giovanni di Bicci. These scenes illustrate the <i>Raising of Drusiana, St John’s Martyrdom, John’s vision on Patmos,</i> and the <i>Apotheosis of John the Evangelist.</i> The <i>Apotheosis,</i> in particular, emphasizes the room’s function as a mausoleum. Roger Crum argues that a certain figure in this scene was meant to represent Giovanni, actively witnessing and participating in St John’s apotheosis. Together, the self-referential images create a Medici family tree, projecting the path by which the family’s patronage would continue through each generation. Whereas Brunelleschi produced a space fit to hold the remains of a man named Giovanni, Donatello was the one who connected this Giovanni to Saint John the Evangelist.   
+
+By Georgie Gaines 
+
+Bibliography:  
+Crum, Roger J. "Donatello's "Ascension of St. John the Evangelist" and the Old Sacristy as Sepulchre." <i>Artibus Et Historiae</i> 16, no. 32 (1995): 141-61. doi:10.2307/1483566. 
+Elam, Caroline. “Cosimo de’ Medici and San Lorenzo.” In Ames-Lewis, <i>Cosimo ‘il Vecchio’ de’ Medici 1389-1464,</i>157-80. Oxford: Oxford University Press, 1992.  
+Kent, Dale. <i>Cosimo de’Medici and the Florentine Renaissance.</i> London and New Haven: Yale University Press, 2000. 
+Paoletti, John T. "Donatello's Bronze Doors for the Old Sacristy of San Lorenzo." <i>Artibus Et Historiae</i> 11, no. 21 (1990): 39-69. doi:10.2307/1483383. 
+Saalman, Howard. <i>Filippo Brunelleschi: The Buildings.</i> London: Zwemmer Press, 1993. 

@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Orsanmichele pointcloud</title>
+	<!-- These style sheets control the look and feel of the potree web interface. 
+	These can be edited to customize the look -->
+	<link rel="stylesheet" type="text/css" href="../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<!-- INCLUDE DEPENDENCIES HERE. these are all publicly available open-source libraries. 
+	These are all included in the standard Potree install -->
+	<script src="../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../libs/spectrum/spectrum.js"></script>
+	<script src="../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../libs/other/BinaryHeap.js"></script>
+	<script src="../libs/tween/tween.min.js"></script>
+	<script src="../libs/d3/d3.js"></script>
+	<script src="../libs/proj4/proj4.js"></script>
+	<script src="../libs/openlayers3/ol.js"></script>
+	<script src="../libs/i18next/i18next.js"></script>
+	<script src="../libs/jstree/jstree.js"></script>
+	<script src="../build/potree/potree.js"></script>
+	<script src="../libs/plasio/js/laslaz.js"></script>
+	
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+	</div>
+	
+	<script type="module">
+		//these are loaders for mesh object. Usually we will be using .obj files
+		import * as THREE from "../libs/three.js/build/three.module.js";
+		import {PLYLoader} from "../libs/three.js/loaders/PLYLoader.js";
+		import {OBJLoader} from "../libs/three.js/loaders/OBJLoader.js";
+	
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+		
+		//set default quality setting here. these parameters can be adjusted by the user but default values are set here.
+        viewer.useHQ = true;
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(6_000_000);
+		viewer.loadSettingsFromURL();
+		
+		viewer.setDescription("Point cloud by <a target='_blank' href='https://florenceasitwas.wlu.edu/'>Florence As It Was</a>");
+		
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_tools").next().show();
+			$("#menu_scene").next().show();
+			//viewer.toggleSidebar();
+		});
+		
+		// Load the point cloud here: 
+		// The "loadPointCloud" method points to the file created by the Potree Converter application.
+        Potree.loadPointCloud("../pointclouds/orsanmichele/metadata.json", "Orsanmichele", function(e){
+			let scene = viewer.scene;
+			scene.addPointCloud(e.pointcloud);
+			
+			let material = e.pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+
+            viewer.scene.view.position.set(-3.913, 29.995, 5.985);
+            viewer.scene.view.lookAt(1.249, 20.615, 0.738);
+
+            //viewer.scene.view.position.set(-87.007, 60.574, 43.438);
+            //viewer.scene.view.lookAt(-19.346, 32.004, 10.151);
+			
+		});
+		
+        //OBJ Mesh Object Starts Here cosmas and damien
+        {
+            let manager = new THREE.LoadingManager();
+            manager.onProgress = function (item, loaded, total) {
+                console.log(item, loaded, total);
+            };
+
+            let onProgress = function (xhr) {
+                if (xhr.lengthComputable) {
+                    let percentComplete = xhr.loaded / xhr.total * 100;
+                    console.log(Math.round(percentComplete, 2) + '% downloaded');
+                }
+            };
+            let onError = function (xhr) { };
+			//TextureLoader points to the texture created in the photogrammetry workflow
+            const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/Cosmas90trim.jpg`);
+
+            texture.wrapS = THREE.RepeatWrapping;
+            texture.wrapT = THREE.RepeatWrapping;
+
+            let loader = new OBJLoader(manager);
+			//OBJLoader loads the polygon model created in the photogrammetry workflow
+            loader.load(`${Potree.resourcePath}/models/Cosmas90trim.obj`, function (object) {
+                object.traverse(function (child) {
+                    if (child instanceof THREE.Mesh) {
+                        child.material.map = texture;
+                    }
+                });
+                // The code below positions the polygon model in reference to the 
+				// point cloud coordinate system. In this case the units are in meters and radians.
+				object.position.set(-3.181, 20.29, 2.579);
+                object.scale.multiplyScalar(.01);
+                object.rotation.set(0, 0, -Math.PI/3);
+
+
+                viewer.scene.scene.add(object);
+
+                viewer.onGUILoaded(() => {
+                    // Add entries to object list in sidebar
+                    let tree = $(`#jstree_scene`);
+                    let parentNode = "other";
+
+                    let meshID = tree.jstree('create_node', parentNode, {
+                        text: "Saints Cosmas and Damian",
+                        icon: `${Potree.resourcePath}/icons/triangle.svg`,
+                        data: object
+                    },
+                        "last", false, false);
+                    tree.jstree(object.visible ? "check_node" : "uncheck_node", meshID);
+
+                    //tree.jstree("open_node", parentNode);
+                });
+
+            }, onProgress, onError);
+        }
+		//Obj Mesh object ends HERE
+
+		//OBJ Mesh Object2 Starts Here Mathew matt2
+        {
+            let manager = new THREE.LoadingManager();
+            manager.onProgress = function (item, loaded, total) {
+                console.log(item, loaded, total);
+            };
+
+            let onProgress = function (xhr) {
+                if (xhr.lengthComputable) {
+                    let percentComplete = xhr.loaded / xhr.total * 100;
+                    console.log(Math.round(percentComplete, 2) + '% downloaded');
+                }
+            };
+            let onError = function (xhr) { };
+			//TextureLoader points to the texture created in the photogrammetry workflow
+            const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/matt2.jpg`);
+
+            texture.wrapS = THREE.RepeatWrapping;
+            texture.wrapT = THREE.RepeatWrapping;
+
+            let loader = new OBJLoader(manager);
+			//OBJLoader loads the polygon model created in the photogrammetry workflow
+            loader.load(`${Potree.resourcePath}/models/matt2.obj`, function (object) {
+                object.traverse(function (child) {
+                    if (child instanceof THREE.Mesh) {
+                        child.material.map = texture;
+                    }
+                });
+                // The code below positions the polygon model in reference to the 
+				// point cloud coordinate system. In this case the units are in meters and radians.
+				object.position.set(-4.85, 20.56, 3.42);
+				object.scale.multiplyScalar(.35);
+				object.rotation.set(0, 0, 3.66);
+
+
+                viewer.scene.scene.add(object);
+
+                viewer.onGUILoaded(() => {
+                    // Add entries to object list in sidebar
+                    let tree = $(`#jstree_scene`);
+                    let parentNode = "other";
+
+                    let meshID = tree.jstree('create_node', parentNode, {
+                        text: "Matthew Triptych",
+                        icon: `${Potree.resourcePath}/icons/triangle.svg`,
+                        data: object
+                    },
+                        "last", false, false);
+                    tree.jstree(object.visible ? "check_node" : "uncheck_node", meshID);
+
+                    //tree.jstree("open_node", parentNode);
+                });
+                viewer.scene.addAnnotation([-4.915, 20.537, 1.481], {
+						    "cameraPosition": [-8.109, 26.349, 4.993],
+						    "cameraTarget": [-4.423, 18.787, 2.481],
+						    "title": "Matthews Triptych",
+                            "description":`<div style="overflow:scroll ; height:350px"><b>Andrea di Cione</b></br>Born sometime in the 1320s, Andrea appears to have trained in workshop of <a href="http://florenceasitwas.wlu.edu/people/bernardo-daddi.html">Bernardo Daddi</a> before striking out on his own as an independent master in the mid-1340s. He partnered with two other painterly brothers, Nardo(d. 1365) and the much younger Jacopo (d. 1396), on important projects in important centers, and with them produced frescoes in S. Croce, altarpieces for churches, and perhaps an odd fresco of the Expulsion of the Duke of Athens for the local debtor’s prison called the Stinche. His skills earned him the nickname of “Orcagna” (Archangel) due to the beauty of the figures he produced. When he died in 1368, his artistic legacy shaped the city in vital ways.<br><b>The Commission</b><br>The so-called St. Matthew Triptych, Orcagna’s last work, was produced for the guild church and former grain distribution center of Orsanmichele. Commissioned by the Arte del Cambio(the Bankers Guild) and dedicated to their patron saint, the picture was left incomplete at Andrea’s death in 1368 and finished the next year by his younger brother, Jacopo di Cione, who used the completed product as an example of his expertise to receive permission to join the Arte dei Medici e Speziali, the guild that included within its membership the city’s painters.<br><b>St. Matthew Triptych</b><br>The St. Matthew Triptych, now in the Uffizi Gallery, features the standing figure of the Evangelist dressed in a blue robe with a rose cloak wrapped around his body. He holds a quill pen in his right hand and an open book (showing the first phrases of his Gospel) in his left. Four moments from his life’s story move from the lower left to the upper left and then from the upper right down to the lower right. This triptych, a form often employed for altarpiece designs, oddly bends backwards on hinges that originally wrapped around a pier on the south wall of the building, only a few meters away from the enormous tabernacle that Orcagna had finished in 1359 to encase the miracle-working Madonna of Orsanmichele by Bernardo Daddi.<br><b>Narratives</b><br>Oddly, the story reads from the lower left to the upper left, and then moves across the central compartment to the upper right before dropping down to lower right – perhaps to accommodate viewers who might be viewing the picture from below. In the first scene, Christ Calling St. Matthew, we see Jesus beckoning to Matthew, a money-changer who thus complicit with the Romans in their control of Palestine, who in turn accepts the invitation to follow. A boy guards a safebox behind a bench, illustrating contemporary practices of customer service in 14th-century Florence. Matthew here exchanges the life of wealth and ease he once enjoyed for a new life as disciple of Christ. The scene above bears the image of Matthew Quelling Dragons, an allegorical description of the saint’s ability to quiet the fury of sin and the presence of evil. Matthew and John the Evangelist, armed with the truth of their books , calm the threatening beasts, much to the surprise of their sinful witnesses.<br>The upper right panel depicts Matthew, joined again by the beardless John, reviving a dead boy, who sits upright on his funeral bier. To the left we see the infidel marvel at the active power of God’s word as the righteous defeat the enemies of Orthodoxy. Below we see the martyrdom of Matthew, as the saint falls victim to an assassin’s blade while kneeling before an altar that has been partnered intentionally with the banker’s bench of his previous life’s work on the opposite side of the triptych. We again see our artists intentionally pairing up themes to emphasize a particular message: in this case, we encounter a protagonist’s spiritual development over a period of time. '",`
+				});
+            }, onProgress, onError);
+        }
+		//Obj Mesh object ends HERE
+
+		//OBJ Mesh Object2 Starts Here john the Evangelist  
+        {
+            let manager = new THREE.LoadingManager();
+            manager.onProgress = function (item, loaded, total) {
+                console.log(item, loaded, total);
+            };
+
+            let onProgress = function (xhr) {
+                if (xhr.lengthComputable) {
+                    let percentComplete = xhr.loaded / xhr.total * 100;
+                    console.log(Math.round(percentComplete, 2) + '% downloaded');
+                }
+            };
+            let onError = function (xhr) { };
+			//TextureLoader points to the texture created in the photogrammetry workflow
+            const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/john_the_evangelist_OSM.jpg`);
+
+            texture.wrapS = THREE.RepeatWrapping;
+            texture.wrapT = THREE.RepeatWrapping;
+
+            let loader = new OBJLoader(manager);
+			//OBJLoader loads the polygon model created in the photogrammetry workflow
+            loader.load(`${Potree.resourcePath}/models/john_the_evangelist_OSM2.obj`, function (object) {
+                object.traverse(function (child) {
+                    if (child instanceof THREE.Mesh) {
+                        child.material.map = texture;
+                    }
+                });
+                // The code below positions the polygon model in reference to the 
+				// point cloud coordinate system. In this case the units are in meters and radians.
+				object.position.set(2.76, 25.3, 3.5 );
+				object.scale.multiplyScalar(.24);
+				object.rotation.set(Math.PI / 2, Math.PI / 1.45, 0 );
+
+
+                viewer.scene.scene.add(object);
+
+                viewer.onGUILoaded(() => {
+                    // Add entries to object list in sidebar
+                    let tree = $(`#jstree_scene`);
+                    let parentNode = "other";
+
+                    let meshID = tree.jstree('create_node', parentNode, {
+                        text: "St John the Evangelist",
+                        icon: `${Potree.resourcePath}/icons/triangle.svg`,
+                        data: object
+                    },
+                        "last", false, false);
+                    tree.jstree(object.visible ? "check_node" : "uncheck_node", meshID);
+
+                    //tree.jstree("open_node", parentNode); 
+                });
+                viewer.scene.addAnnotation([2.864, 25.346, 1.625], {
+						    "cameraPosition": [-0.880, 27.389, 2.741],
+						    "cameraTarget": [0.081, 26.325, 2.791],
+						    "title": "St John the Evangelist",
+                            "description":`<div style="overflow:scroll ; height:350px"><b>Giovanni del Biondo</b><br>Active in Florence from ca. 1360 until his death in 1396, Giovanni del Biondo’s prolific career spanned most of the last half of the fourteenth century. Trained as a fresco painter but also active as a miniaturist, the artist’s most frequent type of commission came in the form of panel pictures for liturgical settings. The facial characteristics of his figures frequently feature large eyes, jutting jawlines, and rosy cheeks. While he understood the potency of light and shadows as signifiers of volume and space, Giovanni’s paintings rarely convey the same brilliance as do the works of his Giottesque predecessors or his Gerinesque contemporaries. Still, the preponderance of images produced by Giovanni del Biondo – whose paintings adorned spaces in the Duomo, S. Maria Novella, S. Croce, and S. Maria degli Angeli, to name but a few – suggests his popularity in Florence irrespective of the limited skill set he retained.<br><b>Circumstances of John the Evangelist</b><br>Commissioned by the Silk Merchants sometime near 1380, Giovanni del Biondo’s vertically oriented painting of John the Evangelist matches the type of picture installed systematically on the piers of Orsanmichele by late Trecento painters working for the different guilds of Florence. Located on the pier adjacent to Orcagna’s Tabernacle and the miracle working Madonna of Orsanmichele inside it, painted by Bernardo Daddi in 1347, the picture of the patron saint of the Por Santa Maria – the name of the Silk Guild, taken from the location of its headquarters near the city gate named for the Virgin Mary – enjoyed a position of prominence inside the church of the guilds. Its arrangement, with a tall compartment for the effigy and a smaller narrative picture below, aligns the image with typical side panels and predellas that normally flanked central compartments of polyptych altarpieces. Its proximity to Daddi’s cult image of the Madonna, installed with neither side panels nor predella scenes, suggests that the Evangelist – as well as the other pier panels inside Orsanmichele – were produced as surrogates that extended the visual presence of a typical altarpiece throughout the entire ground floor of the guild church.<br><b>The Form of John</b><br>The enthroned Evangelist sits with the index finger of his right hand pointed up toward the half-length image of Christ. Both figures hold opened books in their left hands: Christ’s contains the first and last letters of the Greek alphabet – the Alpha and Omega – which symbolize the beginning and the end, or the entirety of purpose that He entails, while John’s book features the opening verses of his Gospel text, “In the beginning was the Word ….” John’s symbolic eagle perches below his right elbow and an inkwell and quill pen remind us of his authoritative authorship. At his feet, as though trampled by the power of Evangelic insight, lie personifications of the three vices of Pride, Avarice, and Vanity. The narrative scene below illustrates the Ascension of John, who rises up from his earthly grave into the waiting arms of Christ, who is flanked in His Celestial Court by Peter, Paul, and (presumably) the other three Gospel writers. Clerics to the left and puzzled bystanders at the right witness the miraculous event, while the symbol of the Silk Guild – a locked gate – appears on either side of this scene in the form of two coats of arms.<br><b>Iconography</b><br>The frontal position of the figure, combined with his iconographic attribute and emblem of his fame, matches standard representations of figures as they appeared on altarpiece designs. Although a similar approach was taken in the design of the pier panel of St. Zenobius for the nave of the Duomo, the addition of three vices under John’s feet deviates somewhat from the normal representation of saints. Pride, or “Superbia,” has been painted as a bearded soldier, complete with silver gilt wings, helmet, and sword: the metallic materials were used by artists when rendering armed invaders or militant marauders. Vanity has been represented as a royal woman in an emerald gown and gold crown, gazing at her own reflection in a gilt mirror. Between them lies Avarice, who struggles to clutch a bag of coins pregnant with sin. The combination implies a celebration of Republican virtues, for none of the personifications – neither armed marauder, privileged princess, nor female titan – were publicly embraced by Florentines steeped in their own traditions of patriarchal, non-aristocratic, mercantilism.<br><b>Silk Guild (Por S. Maria)</b><br>The Silk Guild, or the Arte Por S. Maria (the guild at the gate of St. Mary), was one of the six major trade organizations of the city: among their ranks were priors, artists, and international financiers of tremendous influence. Along with the Wool guild, the Arte Por S. Maria specialized in the creation of elegant garments that gradually became the staple of the Florentine wardrobe. The designer fabrics they produced brought with them hefty profits into the guild, and by the fifteenth century Silk merchants accounted for a disproportionate number of the city’s highest earners. Their decision to pay Giovanni del Biondo for the panel to celebrate their patron saint in Orsanmichele was in keeping with the guild’s interest in maintaining a visual presence in the church: indeed, the guild had chosen to serve as caretakers of the building as early as 1336 and its members were keen to maintain it. The symbol of the Silk Guild – a locked gate – appears on either side of the narrative scene in the form of two coats of arms. </div>`,
+				});
+            }, onProgress, onError);
+        }
+		//Obj Mesh object ends HERE
+
+        //OBJ Mesh Object2 Starts Here St Marten
+        {
+            let manager = new THREE.LoadingManager();
+            manager.onProgress = function (item, loaded, total) {
+                console.log(item, loaded, total);
+            };
+
+            let onProgress = function (xhr) {
+                if (xhr.lengthComputable) {
+                    let percentComplete = xhr.loaded / xhr.total * 100;
+                    console.log(Math.round(percentComplete, 2) + '% downloaded');
+                }
+            };
+            let onError = function (xhr) { };
+			//TextureLoader points to the texture created in the photogrammetry workflow
+            const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/OSMMartin80Kb.jpg`);
+
+            texture.wrapS = THREE.RepeatWrapping;
+            texture.wrapT = THREE.RepeatWrapping;
+
+            let loader = new OBJLoader(manager);
+			//OBJLoader loads the polygon model created in the photogrammetry workflow
+            loader.load(`${Potree.resourcePath}/models/OSMMartin80K.obj`, function (object) {
+                object.traverse(function (child) {
+                    if (child instanceof THREE.Mesh) {
+                        child.material.map = texture;
+                    }
+                });
+                // The code below positions the polygon model in reference to the 
+				// point cloud coordinate system. In this case the units are in meters and radians.
+				
+                object.position.set(-10, 28.75, 2.20);
+				object.scale.multiplyScalar(1);
+				object.rotation.set(-.03,-.03, Math.PI/6 );
+
+
+                viewer.scene.scene.add(object);
+
+                viewer.onGUILoaded(() => {
+                    // Add entries to object list in sidebar
+                    let tree = $(`#jstree_scene`);
+                    let parentNode = "other";
+
+                    let meshID = tree.jstree('create_node', parentNode, {
+                        text: "St John the Evangelist",
+                        icon: `${Potree.resourcePath}/icons/triangle.svg`,
+                        data: object
+                    },
+                        "last", false, false);
+                    tree.jstree(object.visible ? "check_node" : "uncheck_node", meshID);
+
+                    //tree.jstree("open_node", parentNode);
+                });
+                viewer.scene.addAnnotation([-9.943, 28.667, 1.648], {
+						    "cameraPosition": [-11.228, 33.727, 4.607],
+						    "cameraTarget": [-5.960, 21.832, 0.264],
+						    "title": "St Martin",
+                            "description":"St Martin descriptive text here",
+				});
+
+            }, onProgress, onError);
+        }
+		//Obj Mesh object ends HERE st marten
+
+        //OBJ Mesh Object2 Starts Here Bartholomew
+        {
+            let manager = new THREE.LoadingManager();
+            manager.onProgress = function (item, loaded, total) {
+                console.log(item, loaded, total);
+            };
+
+            let onProgress = function (xhr) {
+                if (xhr.lengthComputable) {
+                    let percentComplete = xhr.loaded / xhr.total * 100;
+                    console.log(Math.round(percentComplete, 2) + '% downloaded');
+                }
+            };
+            let onError = function (xhr) { };
+			//TextureLoader points to the texture created in the photogrammetry workflow
+            const texture = new THREE.TextureLoader().load(`${Potree.resourcePath}/textures/BartholomewTrimBright.jpg`);
+
+            texture.wrapS = THREE.RepeatWrapping;
+            texture.wrapT = THREE.RepeatWrapping;
+
+            let loader = new OBJLoader(manager);
+			//OBJLoader loads the polygon model created in the photogrammetry workflow
+            loader.load(`${Potree.resourcePath}/models/BartholomewTrim.obj`, function (object) {
+                object.traverse(function (child) {
+                    if (child instanceof THREE.Mesh) {
+                        child.material.map = texture;
+                    }
+                });
+                // The code below positions the polygon model in refer-10, 28.75, 2.20ence to the 
+				// point cloud coordinate system. In this case the units are in meters and radians.
+				
+                object.position.set(-2.5, 32.45, 3.0);
+				object.scale.multiplyScalar(.01);
+				object.rotation.set(-.010,-.010, -Math.PI/3.4);
+
+
+                viewer.scene.scene.add(object);
+
+                viewer.onGUILoaded(() => {
+                    // Add entries to object list in sidebar
+                    let tree = $(`#jstree_scene`);
+                    let parentNode = "other";
+
+                    let meshID = tree.jstree('create_node', parentNode, {
+                        text: "St John the Evangelist",
+                        icon: `${Potree.resourcePath}/icons/triangle.svg`,
+                        data: object
+                    },
+                        "last", false, false);
+                    tree.jstree(object.visible ? "check_node" : "uncheck_node", meshID);
+
+                    //tree.jstree("open_node", parentNode);
+                });
+                viewer.scene.addAnnotation([-2.534, 32.440, 1.913], {
+						    "cameraPosition": [-7.215, 31.626, 3.544],
+						    "cameraTarget": [0.953, 32.106, 1.519],
+						    "title": "Bartholomew",
+                            "description":"Bartholomew descriptive text here",
+				});
+
+            }, onProgress, onError);
+        }
+		//Obj Mesh object ends HERE
+
+		{ // LIGHTS. Lights can be added and adjusted to change the appearance of the polygon models.
+			//const directional = new THREE.DirectionalLight( 0xffffff, .5);
+			//directional.position.set( -1.503, 21.122, 6.141 );
+			//directional.lookAt(-1.503, 21.122, -0.141);
+
+            //const directional2 = new THREE.DirectionalLight( 0xffffff, .3);
+			//directional2.position.set( 1.672, 27.008, 6 );
+			//directional2.lookAt(2.818, 25.235, 3.432);
+
+            
+
+			const ambient = new THREE.AmbientLight(0xffffff,1.3);
+
+			//viewer.scene.scene.add(directional);
+            //viewer.scene.scene.add(directional2)
+			viewer.scene.scene.add(ambient);
+		}
+        // ANNOTATION. The code below adds an annotation in the point cloud
+		let PacinoTitle = $(`<span>Saints Cosmas and Damian</span>`);
+        
+        PacinoTitle.toString = () => "Saints Cosmas and Damian";
+
+        let aAbout1 = new Potree.Annotation({
+            // These lines define where the annotation will appear and where the user's view will be 
+			// directed when the annotation is clicked.
+			position: [-3.068, 20.042, 2.154],
+            title: PacinoTitle,
+            cameraPosition: [1.279, 23.237, 2.534],
+            cameraTarget: [-6.164, 18.287, 1.942],
+            description: `The painting of Sts. Cosmas and Damian, currently in the North Carolina Museum of 
+			Art in Raleigh, NC, features the standing figures of the two Physician saints revered by the Florentine 
+			Arte dei Medici e Speziali (the Guild of Doctors and Apothecaries). Dressed in contemporary garments 
+			worn at the time by its members (accentuated by white elements of Ermine fur at the hem and collar), 
+			Cosmas and Damian hold holy manuscripts as they receive a blessing from Christ above. The two predella
+			scenes at the dossal&#39s base recount their miraculous transplant of a wounded leg (whereby the limb of a 
+			Caucasian patient was replaced with that of a recently deceased African) and the decapitation of both saints. 
+			<br/><br/>
+			The painting has been attributed to Matteo di Pacino, a Florentine painter of note who worked between ca. 
+			1360 and 1375 and participated in important projects in the city: he was named in 1371 as a participant in
+			the production of the Coronation of the Virgin for the nunnery of S. Pier Maggiore (now in London), probably 
+			painted frescoes a few years later in the Rinuccini Chapel of S. Croce&#39s Sacristy, and most likely produced
+			miniatures in at least two choral books used by the Franciscans there. 
+			<br/><br/>
+			No archival references address the dossal painting of Sts. Cosmas and Damian. Based on its stylistic features, 
+			the panel should probably be dated to the early years of the 1370s, while its subject matter, dimensions, and 
+			format suggest that it was originally placed on one of the piers in the guild church of Orsanmichele. There it 
+			would have been seen alongside other similarly shaped representations of guild patron saints, like the St. Matthew 
+			Triptych by Andrea and Jacopo di Cione from 1369 (Florence, Uffizi), St. John the Evangelist by Giovanni del Biondo 
+			(Florence, Accademia), and St. Bartholomew by Jacopo del Casentino (Florence, Accademia). These, in turn, 
+			surrounded Andrea di CIone&#39s massive tabernacle containing Bernardo Daddi&#39s miracle working cult image of 1347 
+			called the Madonna of Orsanmichele. 
+`
+        });
+        viewer.scene.annotations.add(aAbout1);
+		//end annnotation
+
+       // viewer.scene.addAnnotation([6.09, 32.10, 2.38], {
+       //                     "cameraPosition": [9.45, 34.729, 3.740],
+       //                     "cameraTarget": [0.081, 26.325, 2.791],
+       //                     "title": "Orcagna Tabernacle",
+       //                   "description":`<div style="overflow:scroll ; height:350px"><b>descriptive text here</b>
+
+        
+	</script>
+	
+	
+  </body>
+</html>

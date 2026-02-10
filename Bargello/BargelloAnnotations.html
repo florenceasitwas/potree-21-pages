@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Potree Viewer</title>
+
+	<link rel="stylesheet" type="text/css" href="../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<script src="../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../libs/spectrum/spectrum.js"></script>
+	<script src="../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../libs/other/BinaryHeap.js"></script>
+	<script src="../libs/tween/tween.min.js"></script>
+	<script src="../libs/d3/d3.js"></script>
+	<script src="../libs/proj4/proj4.js"></script>
+	<script src="../libs/openlayers3/ol.js"></script>
+	<script src="../libs/i18next/i18next.js"></script>
+	<script src="../libs/jstree/jstree.js"></script>
+	<script src="../build/potree/potree.js"></script>
+	<script src="../libs/plasio/js/laslaz.js"></script>
+	
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+	</div>
+	
+	<script>
+	
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+
+		viewer.useHQ = true; 
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(150 * 1000 * 1000);
+        viewer.loadSettingsFromURL();
+        viewer.scene.view.position.set(-69.506, 74.980, 28.557);
+        viewer.scene.view.lookAt(15.738, 28.700, 7.004);
+
+		<!-- INCLUDE SETTINGS HERE -->
+		viewer.loadSettingsFromURL();
+		
+		viewer.setDescription("");
+		viewer.scene.camera;
+		
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_appearance").next().show();
+			$("#menu_tools").next().show();
+			$("#menu_clipping").next().show();
+			viewer.toggleSidebar();
+		});
+		
+		
+
+		Potree.loadPointCloud("../pointclouds/Bargello/metadata.json", "Bargello", e => {
+			let scene = viewer.scene;
+			let pointcloud = e.pointcloud;
+
+            scene.addPointCloud(pointcloud);
+			let material = pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+			material.shape = Potree.PointShape.SQUARE;
+			material.activeAttributeName = "rgba";
+           
+            viewer.scene.view.position.set(-69.506, 74.980, 28.557);
+            viewer.scene.view.lookAt(15.738, 28.700, 7.004);
+
+			viewer.fitToScreen();
+		});
+
+	{ // ANNOTATIONS
+			let scene = viewer.scene;
+			
+			scene.annotations.add(new Potree.Annotation({
+				position: [29.903, 56.836, 48.093],
+				title: "Building Overview",
+				cameraPosition: [20.786, 161.259, -4.594],
+				cameraTarget: [49.614, 23.830, 61.107],
+				description: `
+			The most common name for this complex, il Bargello, refers to the Medici chief of police who occupied the building after Florence was assimilated into the Duchy of Tuscany in the 16th century. Formerly known as the Palazzo del Podestà, the Bargello originally served as the Florentine Republic’s governmental center in the thirteenth century before becoming a judicial complex. The Bargello’s origins lie not in the main structure bracketed by the Via del Pronconsolo and Via Ghibellina to the north, but rather at the south end that faces the Piazza Sant’Apollinaire – the area originally purchased in 1255. The building was renovated and restructured periodically over time, and ultimately came to be used as a prison.
+			Because the Capitano del Popolo was considered an advocate for the local citizenry (as opposed to the corporate guilds that were increasing their political influence) the Sant’Apollinaire structure, built next to a public square, functioned as a civic intersection between the government and the people. This was altered soon after 1260, when the Podestà – a foreign leader invited to preside over the government for a short period and serve as the city’s judicial head– became the main resident of the Bargello. Since the Podestà “presided over the highest civil and criminal courts,” the building needed to encapsulate the adjudication of crime in Florence. Both the exterior and interior were thus transformed to suit the building’s purpose.
+			As the Bargello increased in size, the building’s appearance took on a more punitive character. Public executions of noted criminals such as Azzolino and Neri degli Uberti occurred steps away from the building. When the guilty could not be apprehended in person, its exterior was painted with images of treachery, felony, and bankruptcy: records of pitture infamante indicate that portraits of offenders and their crimes were produced to shame wrongdoers. The tactic worked so well that political groups and families tried to bribe officers of the Bargello into refraining from immortalizing their relatives with these permanent condemnations.
+			In 1289, the Capitano del Popolo purchased land on the north end of the block facing the Via Ghibellina. The Ordinances of Justice that, in 1293, ousted magnates from the government and conferred power on the popolo made the structure all the more important. A Magnate’s Prison was added in the mide-1290s and by 1300 the Palazzo del Podestà encompassed the entire west side of the Via del Pronconsolo city block. Later construction in the fourteenth century focused on creating a “new palace” that cooperated with the function and aesthetic of the so-called “old palace.”
+
+			}));
+
+			}
+
+		
+		
+	</script>
+	
+	
+  </body>
+</html>

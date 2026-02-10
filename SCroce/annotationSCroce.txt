@@ -1,0 +1,1092 @@
+
+Keys- A line break should be added as <br><br>
+	  To make a word Italisized <i>What you want Italisized here</i>
+	  To make a word Bold <b>What ever you want bold here</b>
+	  If you want a scroll wheel then add <div style="overflow:scroll ; height:650px"> before the text
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: 29.42, 94.45, 0.46 
+Camera Location: 18.077, 96.521, 1.301 
+Camera Looks Towards: 45.054, 93.962, 8.570 
+Annotation block name: Baroncelli Chapel Overview  
+
+Annotation Details: <div style="overflow:scroll ; height:200px"> The Baroncelli Chapel sits in the south transept of the Basilica of Santa Croce in Florence. The space is dedicated to the Virgin Mary; all of the frescos in the chapel depict her life, as well as that of Christ. A stained-glass window above the altarpiece illuminates the space. The Bandini Baroncelli family commissioned this chapel in 1328; their banking pursuits endowed them with great wealth as well as political influence in Florence. The chapel did not permit the entry of common people, thus those who were allowed in had to be of significant social status.   
+
+Documents indicate that Taddeo Gaddi painted the chapel’s frescoes. He drew inspiration from Giotto’s work, using a similar palette of colors while playing with light and dark contras  Taddeo understood that most people would view his work from the transept floor, and structured his frescos accordingly. He refrained from making the orthagonals of the paintings too steep or dramatic, so that the space from afar looks realistically occupied by the figures and almost three dimensional in appearance. Taddeo’s paintings interact with architecture of the space, expanding from the walls onto pillars, ceilings, and into niches of the chapel. These different scenes and images work together to create a holy experience for the viewer, which simultaneously summons the power of Virgin Mary as well as depicts the religious dedication of the Baroncelli family.   
+
+By Audrey Overholt   
+
+Bibliography:  
+
+Gardner, Julian. “The Decoration of the Baroncelli Chapel in Santa Croce.” <i>Zeitschrift Für Kunstgeschichte,</i> vol. 34, no. 2, 1971, pp. 89–114.   
+
+Janson-La Palme, Robert  J.H. “Taddeo Gaddi's Baroncelli Chapel: Studies On Design and Content.” <i>ProQuest, Princeton University,</i> ProQuest, 1976.  
+
+“The Baroncelli Chapel.” <i>Santa Croce Firenze,</i> Opera Di Santa Croce. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html 
+
+Location of Annotation: 3.49, 100.98, 0.28 
+Camera Location: -0.347, 90.024, 1.039
+Camera Looks Towards: 0.297, 112.312, 5.082
+
+Annotation block name: Capella Maggiore Chapel Overview 
+Annotation Details: <div style="overflow:scroll ; height:275px"> The Cappella Maggiore, one of sixteen chapels in the Church of Santa Croce, houses a mural-fresco program painted in the 1380s by Agnolo Gaddi.  The Church of Santa Croce was built from 1294 to 1442, and was in use during its construction and renovations.  This Franciscan church became home to some of Florence’s most well-known gothic and pre-renaissance art, including frescos, sculptures, and the architecture of the church itself.  The church also houses works of famous artists, including Giotto, Donatello, Andrea della Robbia, and numerous other prominent Trecento and Renaissance Italian artists.    
+
+The Cappella Maggiore, the church’s major chapel, houses Agnolo Gaddi’s fresco program of <i>The True Cross.</i>   Dedicated to the Holy Cross, the cycle was commissioned by the wealthy Alberti Family, while the altar was funded by a gift from the Alamanni Family.  As the patron of such a prominent chapel in the Church of Santa Croce, the Alberti family was able to display their sense of importance and holiness to the Florentine population.  
+
+<i>The True Cross</i> fresco program in the Cappella Maggiore tells the story of, as the name suggests, the true cross. It originated from a group of thirteenth-century religious writings: the <i>Golden Legend</i> (or the <i>Legenda Aurea</i>) by Jacopo da Voragine. The narrative can be read from bottom to top, starting on the right side of the program. This pictorial narrative is told by Agnolo Gaddi, in which he fused the Giotto tradition of painting with a more modern style. By doing this, he kept his finger on the pulse of artistic trends – Giotto’s style – but also brought in his own personal modifications. Furthermore, Gaddi portrayed the faces within <i>The True Cross</i> in an individualized manner, demonstrating that he likely drew inspiration for these faces from his life. He also intricately painted the details in the figures’ outfits and the heavily ornamented architecture surrounding them. Gaddi utilized a dark background to contrast the lighter foreground, allowing for a greater depth and sense of naturalism to emerge within the narrative. Given Gaddi’s skill and attention to detail, along with the prominence of the Church of Santa Croce, the Cappella Maggiore stands out among Florentine chapels as an excellent pivot point: shifting from traditional Gothic style towards the early Renaissance style.  
+
+By Henry Heery and Julia Brinker 
+
+Bibliography:  
+
+Cole, Bruce. <i>Agnolo Gaddi</i> (Oxford University Press: Oxford, 1977). 
+
+Thompson, Nancy M. "The Franciscans and the True Cross: The Decoration of the Cappella Maggiore of Santa Croce in Florence."  <i>Gesta</i>  43, no. 1 (2004): 61-79. 
+  
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html 
+
+Location of Annotation: 3.15, 99.55, 0.24
+Camera Location: -0.347, 90.024, 1.039
+Camera Looks Towards: 0.297, 112.312, 5.082 
+
+Annotation block name: Agnolo Gaddi Biography  
+Annotation Details: <div style="overflow:scroll ; height:250px"> Agnolo Gaddi was born into an artistic family sometime around 1350. His father, Taddeo Gaddi, was a Florentine painter and architect; his grandfather, Gaddo di Zanobi, was a Florentine artist credited with the mosaic of the Coronation of the Virgin in the Duomo. Agnolo’s father, Taddeo, studied with the great Giotto di Bondone and painted in Giotto’s style throughout his prominent artistic career. Taddeo taught his sons, Agnolo and Giovanni, how to paint through the same methods that Giotto taught him, connecting Agnolo’s pedigree back to that influential painter. As a student of the Giotto school of painting, Agnolo painted with a high sense of naturalism, aiming to portray his figures with a realistic sense of perspective, and allowing for an authentic engagement between the viewer and the painting. In achieving such Giotto-esque naturalism, Agnolo earned the bids for numerous commissions throughout his short career, including Papal commissions, altarpieces, and other religious frescos.  
+
+Agnolo began his formal painting career in 1369 in Rome with his brother, Giovanni.  From July to October, they completed a project to decorate a portion of the Vatican, commissioned by Pope Urban the Fifth, that they shared with the established Lombard painter, Giovanni da Milano.  After completing the decoration in the Vatican, Agnolo’s name is not seen in records until 1376, when he appears in Florence. His name is recorded with more frequency in the 1380s, as he received a series of painterly commissions; this includes what has come to be known as his best and most prominent work, the series dedicated to the Legend of the True Cross in the Cappella Maggiore of the Church of Santa Croce. Agnolo received many other commissions throughout the 1380s and 1390s, including the paintings <i>Madonna Enthroned with Saint and Angels, Coronation of the Virgin, Madonna of Humility with Angels,</i> and <i>Crucifixion.</i> Agnolo’s ability to create a unification throughout a composition made him a highly coveted painter during the late fourteenth century, yet his talents were not solely confined to painting. Agnolo’s name appears on statues for the façade of the Cathedral of Florence, indicating that he was likely the designer or gilder of these statues. He was not solely a painter, rather he was a “renaissance man”, equipped with skills and knowledge to excel in multiple crafts.  Agnolo’s death in 1396 put an end to a successful and imaginative artistic career. He was buried in the Church of Santa Croce on October 16, 1396.  Agnolo Gaddi boasts achievements for being the last painter under the Giotto-style techniques, while also being an excellent designer of sculptures.   
+
+By Henry Heery and Julia Brinker 
+
+Bibliography:  
+
+Cole, Bruce. <i>Agnolo Gaddi</i> (Oxford University Press: Oxford, 1977). 
+
+Thompson, Nancy M. "The Franciscans and the True Cross: The Decoration of the Cappella Maggiore of Santa Croce in Florence." <i>Gesta</i> 43, no. 1 (2004): 61-79.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: 5.22, 105.99, 17.95
+Camera Location: -4.882, 109.003, 19.555 
+Camera Looks Towards: 33.035, 104.502, 22.854 
+
+Annotation block name: <i>The Death of Adam</i> 
+Annotation Details: <div style="overflow:scroll ; height:275px"> Agnolo Gaddi’s frescoes of the <i>Legend of the True Cross</i> consist of eight different images that illustrate the popular myth surrounding the story of Christ’s Crucifix. The frescoes move downward, reading from the top right image and move down, before starting again at the top left image and descending once more. The cycle opens with the scene of <i>The Death of Adam,</i> which tells two parts of a story in one continuous narrative.  
+
+<i>The Death of Adam</i> appears as a split scene, with the beginning of the narrative occurring in the background and the end of it in the foreground.  The vignette begins with two figures who appear in the sky. One of them, the Archangel Michael, emerges with a heavenly light extending from his body and radiates out like a shroud. Adam’s son, Seth, kneels to the left of Michael on his right knee while extending his right hand towards Michael, who in turn gives Seth a branch from Heaven. This narrative then leads to the foreground, where Adam’s corpse rests in a small grave with his feet extending to the right. Mourners surround his body, which allows Agnolo to frame the figures in the foreground. Seth kneels above Adam and leans towards the grave, placing the branch – representative of the Tree of Knowledge – that he received in the background onto Adam’s body in the foreground.   
+
+Agnolo’s compositional acumen allowed him to create a structure and form through Adam’s horizontal, rigid body that emphasizes his importance in the composition. Agnolo’s decision to display Adam and Seth’s bodies as much larger than that of the archangel Michael and the other witnesses who surround Adam creates an emphasis on the two main characters without detracting from the holy angel. A detailed landscape appears behind the figures in the foreground that leads to the figures in the background. This landscape, possibly a reference to Jerusalem, consists of hills, mountains, roads, and trees, showing Agnolo’s abilities to portray a naturalistic landscape that recedes into the distance. The bucolic environment speaks directly to the notion of Eden as an Earthly Paradise, and thus painfully reminds viewers of the opportunity that was lost when Adam and Eve bit into the Forbidden Fruit.   
+
+By Henry Heery and Julia Brinker 
+
+Bibliography:  
+
+Cole, Bruce. <i>Agnolo Gaddi</i> (Oxford University Press: Oxford, 1977). 
+
+Thompson, Nancy M. "The Franciscans and the True Cross: The Decoration of the Cappella Maggiore of Santa Croce in Florence." <i>Gesta</i> 43, no. 1 (2004): 61-79. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: 5.27, 106.30, 13.29 
+Camera Location: -1.074, 107.710, 15.336 
+Camera Looks Towards: 8.106, 107.668, 14.464 
+
+Annotation block name: <i>Adoration and Burial of the Wood</i> 
+Annotation Details: <div style="overflow:scroll ; height:275px"> The second image in Agnolo Gaddi’s cycle of the Legend of the True Cross is the <i>Adoration and Burial of the Wood.</i> This pair of scenes show the importance and power of the relic of the True Cross that came to the Franciscans in Santa Croce in 1258.   
+
+The left side of the image depicts the Queen of Sheba on her way to meet King Solomon. As the queen approached the bridge that spanned the Kendron River, she recognized the holiness and divinity of the wood that had been used to build it. The queen knelt before it, prayed, and then prophesized that the wood would someday cause the downfall of the Jewish kingdom. King Solomon heard the Queen of Sheba’s prophesy and ordered the wood of the bridge to be buried to protect the Jewish people from the doom that the Queen had prophesized. As is the case with all such stories of prophesy, the predication was fulfilled when the wood was used to carry out the Passion of Christ.  
+
+As seen with the first panel, <i>The Death of Adam,</i> Agnolo employs a continuous narrative in order to tell a full story in a clear manner. The image illustrates the outdoor narrative with fortified buildings and structures in the background. The <i>Adoration and Burial of the Wood</i> contains two narratives with two groups of people, bisected and separated by a stream that runs vertically through the center of the image to create a clear division in the two narratives. Yet Gaddi also connects the narratives through the True Cross that spans the stream and interacts with both groups of people, thus allowing the divided image to be unified through the cross. The group on the left, led by the Queen of Sheba, looks to the right as they strike positions of prayer and reverence as they intuit the power of the holy wood. To the right, King Solomon directs a group of men to bury it. The <i>Adoration and Burial of the Wood</i> tells the story from left to right, contrasting the narrative direction of the entire fresco program, which begins from the right side.  
+
+ The <i>Adoration and Burial of the Wood</i> serves to show the power and importance of the true cross as its influence and divinity is prophesized by the Queen Sheba, and is then further validated through King Solomon’s efforts to bury and expel any traces of the wood from his kingdom.  
+
+By Henry Heery and Julia Brinker 
+
+Bibliography: 
+
+Cole, Bruce. <i>Agnolo Gaddi</i> (Oxford University Press: Oxford, 1977). 
+
+Thompson, Nancy M. "The Franciscans and the True Cross: The Decoration of the Cappella Maggiore of Santa Croce in Florence." <i>Gesta</i> 43, no. 1 (2004): 61-79. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: 5.33, 106.13, 3.84 
+Camera Location: -1.135, 107.107, 5.303 
+Camera Looks Towards: 8.084, 107.152, 5.143 
+
+Annotation block name: <i>The Discovery and Testing of the True Cross</i> 
+Annotation Details: <div style="overflow:scroll ; height:275px"> Agnolo Gaddi culminates the right half of his narrative with an image of the <i>Discovery and Testing of the True Cross.</i>  This image corresponds with the previous images in the cycle, as it contains a busy foreground with two scenes in a continuous narrative, both of which feature large groups of people and a detailed landscape in the background with some buildings occupying its space. The two groups of people in the foreground, separated by the direction of the figures’ bodies facing towards the center of their respective groups surround and look towards the true cross.  This narrative, however, ought to be read from right to left, which differs from the left to right and top to bottom narratives of the previous three images in the cycle.  Since this image culminates the right half of the fresco program, Gaddi may have chosen for this narrative to be read from right to left to create a more natural and smooth transition to the left side of the narrative.  
+
+The group on the right remove the true cross from a hole in the ground, with each figure looking in awe towards the cross.  They begin to hoist up the cross, which directs the viewer’s gaze towards the background. The cross points towards a small figure in the background, presumably a monk or farmer, who emerges from behind a small mountain.    
+
+The group on the left appear after having discovered the true cross, and they eagerly inspect it as it extends over the body of a reclined figure centered within the group, possibly the Jewish woman on whom the true cross’s power was tested.  The figure, once dead but now resurrected by the true cross, sits up from a bed as the cross is held above.  In the background, the viewer can see hills, a cave, a stream, and a building.  The landscape in the background gets darker as it processes away from the foreground scenes, emphasizing what is happening in the crowds of people.   
+
+By Henry Heery and Julia Brinker 
+
+Bibliography:  
+
+Cole, Bruce. <i>Agnolo Gaddi</i> (Oxford University Press: Oxford, 1977). 
+
+Thompson, Nancy M. "The Franciscans and the True Cross: The Decoration of the Cappella Maggiore of Santa Croce in Florence." <i>Gesta</i> 43, no. 1 (2004): 61-79. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: -5.20, 111.16, 18.19 
+Camera Location: 2.239, 109.361, 19.219 
+Camera Looks Towards: -5.104, 108.668, 19.713 
+
+Annotation block name: <i>St. Helena Returning the True Cross to Jerusalem</i> 
+Annotation Details: <div style="overflow:scroll ; height:275px"> Agnolo Gaddi begins the left side of the True Cross narrative cycle with an image of <i>Saint Helena Returning the True Cross to Jerusalem.</i>  
+
+Set in an imagined representation of Jerusalem, the scene represents Helena’s triumphant return to the Holy City after her discovery of the cross upon which Christ was crucified. Helena’s actions in this painting intentionally echo the miraculous works of Christ, as she performs numerous acts of charity during her journey. The appearance of the cross that she bears on her shoulder – a clear reference to her fierce connection to Christ – underscores this parallelism.  
+
+The composition’s foreground features two groups of people, with Saint Helena in the left group holding the true cross. Helena is centered in the composition with the righthand group looking toward her. The members of the left group look towards them, as they kneel and offer praise to Helena and the True Cross she has discovered.   
+
+Jerusalem was Saint Helena’s first stop in her journey back to Constantinople, where fragments of the true cross were disseminated as relics into many churches, including the Church of Santa Croce.  
+ 
+By Henry Heery and Julia Brinker 
+
+Bibliography:  
+
+Cole, Bruce. <i>Agnolo Gaddi</i> (Oxford University Press: Oxford, 1977). 
+ 
+Thompson, Nancy M. "The Franciscans and the True Cross: The Decoration of the Cappella Maggiore of Santa Croce in Florence." <i>Gesta</i> 43, no. 1 (2004): 61-79. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: -5.017, 111.23, 13.48
+Camera Location: 0.302, 109.457, 15.194
+Camera Looks Towards: -2.691, 109.412, 15.003
+
+Annotation block name: <i>The Flight of Chosroes</i> 
+Annotation Details: <div style="overflow:scroll ; height:250px"> The final three images in Gaddi’s <i>Legend of the True Cross</i> narrative tell the story of the 7th-century battle between Byzantine Emperor Heraclius and the Persian King Chosroes. Unlike the previous images in the cycle, this composition is not divided into two separate narratives, but rather fluidly portrays Chosroes’s raiding, pillaging, and theft of the True Cross from Jerusalem.  The foreground is filled with Chosroes’s men, who wield swords around their waists while moving from the right side of the image towards the left.  Behind the men in the foreground, Gaddi presents a similar movement with armed men on horses who surround the central figure of Chosroes, lifting the crucifix as he rides away from Jerusalem. The background, following the compositions in the cycle’s other images, contains architectural and geographic elements that locates the city in the back right as Jerusalem. A mountain in the background separates ancient Jerusalem on the right from a Christian structure on the left. Members of Chosroes’s army exit Jerusalem under an arch, while no figures populate the building in the back left of the composition.   
+
+Chosroes carries away the true cross as a spoil of war and as a reward for his capture of the city.  Despite the fact that Chosroes and his men raided and pillaged Jerusalem, Gaddi’s architectural rendering of the city does not indicate any significant destruction or pillaging. Jerusalem is still portrayed as a strong and noble place despite the Persian King’s desecration of it.  This portrayal allows Gaddi to display the holiness and resilience of Jerusalem not easily succumbing to invasions, permitting the city and its institutions to live on. 
+
+By Henry Heery 
+
+Bibliography:  
+
+Cole, Bruce. <i>Agnolo Gaddi</i> (Oxford University Press: Oxford, 1977). 
+
+Thompson, Nancy M. "The Franciscans and the True Cross: The Decoration of the Cappella Maggiore of Santa Croce in Florence." <i>Gesta</i> 43, no. 1 (2004): 61-79. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+  
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: -5.16, 109.49, 8.60 
+Camera Location: 1.344, 110.428, 10.299 
+Camera Looks Towards: 0.047, 110.447, 10.181 
+
+Annotation block name: <i>Chosroes Worshipped by His Subjects, the Dream of Heraclius, and the Defeat of the Son of Chosroes</i> 
+Annotation Details: <div style="overflow:scroll ; height:310px"> Gaddi continues telling the story of the 7th-century battle between the Byzantine Emperor Heraclius and the Persian King Chosroes in the tri-partite image of <i>Chosroes Worshipped by His Subjects, the Dream of Heraclius, and the Defeat of the Son of Chosroes.</i> This sequential image illustrates the events that took place after Chosroes stole the true cross, including its recovery by the Byzantine Emperor after a bloody battle. 
+
+The left side of the image shows Chosroes seated on a throne within an open loggia, facing those who kneel down and offer him praise for the defeat of Emperor Heraclius and his theft of the true cross. In the center of the composition, Heraclius reclines within a tent, dreaming of his impending battle with the Persians. Three soldiers, each looking towards the ground in different directions, occupy the foreground in front of the tent. Heraclius’s gaze directs the viewer towards the top right of his tent, where an angel floats, appearing to descend from heaven (the top right of the image) and towards Heraclius. The angel’s right arm reaches and touches the top right of Heraclius’s tent, pointing to the true cross rising up from the tent, a replication of the apparition of the angel to Constantine which, in 312, resulted in the gradual acceptance of Christianity in the Roman Empire.  
+
+The narrative on the right side of the image depicts a truncated battle scene of two horses and riders facing each other on the bridge over the River Danube. Heraclius, on the left horse, drives his spear into the side of Chosroes’s son, signaling the defeat of the Persians the eminent return of the true cross. The use of a small space and truncated figures add to the action and tension within the battle, showing the chaotic nature of the scene. The three narratives within this image each contribute to its overarching theme of the perseverance and preservation of the true cross.   
+
+By Henry Heery 
+
+Bibliography: 
+
+Cole, Bruce. <i>Agnolo Gaddi</i> (Oxford University Press: Oxford, 1977). 
+
+Thompson, Nancy M. "The Franciscans and the True Cross: The Decoration of the Cappella Maggiore of Santa Croce in Florence." <i>Gesta</i> 43, no. 1 (2004): 61-79. 
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+  
+Location of Annotation: 5.19, 103.44, 3.54 
+Camera Location: 0.395, 89.427, 6.399 
+Camera Looks Towards: -0.018, 112.043, 7.761 
+ 
+Annotation block name: <i>The Relic of the True Cross</i> 
+Annotation Details: <div style="overflow:scroll ; height:275px"> The inspiration for Agnolo Gaddi’s fresco program in the Cappella Maggiore in Santa Croce originated from Santa Croce’s most prized relic: a piece of wood from the True Cross. The Florentine church acquired this in the thirteenth century, as a gift from Louis IX, who had purchased the relic in 1258.  This piece of wood was of great importance to the Franciscan friars: it stood as a symbol of Christ’s suffering, further encouraging their own commitment to Christ’s poverty and Saint Francis’s stigmatization of 1224.  In 1300, the artist Bertuccio made a crystal, Venetian reliquary for the relic of the True Cross, which held it on S. Croce’s high altar.  The reliquary was positioned directly in front of Agnolo Gaddi’s fresco program of the <i>Legend of the True Cross,</i> thus creating a tangible, material manifestation of the pictorial depiction in the Cappella Maggiore.    
+
+In addition to Agnolo Gaddi’s <i>True Cross</i> program, the Cappella Maggiore also housed a stained-glass program depicting stories of the <i>Crucifixion, Elijah and the Fiery Chariot,</i> and the <i>Ascension of Francis.</i> Much of the stained-glass was done in the first half of the fourteenth century, and what remains of it are the earliest extant examples of stained-glass in Florence. The Franciscans’ decision to dedicate a majority of the Cappella Maggiore’s artistic program towards Christ’s suffering, Saint Francis, and the True Cross speaks to the significance of their prized relic. The friars at Santa Croce were able to connect their artistic programs with daily prayers and rituals in the choir to serve as constant reminders of the sacrifices of both Christ and his Medieval counterpart, Saint Francis of Assisi. Thus, the church’s possession of the relic from the True Cross served as the inspiration for the Cappella Maggiore’s decorative program.  
+
+By Henry Heery and Julia Brinker 
+
+Bibliography:  
+
+Cole, Bruce. <i>Agnolo Gaddi</i> (Oxford University Press: Oxford, 1977). 
+
+Thompson, Nancy M. "The Franciscans and the True Cross: The Decoration of the Cappella Maggiore of Santa Croce in Florence." <i>Gesta</i> 43, no. 1 (2004): 61-79. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: 42.22, 74.68, -2.63 
+Camera Location: 39.823, 57.157, -0.934 
+Camera Looks Towards: 39.603, 79.641, 1.884 
+
+Annotation block name: The Pazzi Chapel and Michelozzo 
+Annotation Details: <div style="overflow:scroll ; height:300px"> While Brunelleschi’s involvement in the Pazzi Chapel remains debated, Michelozzo’s work in Santa Croce, design style, and ties to the Medici family provide clues that suggest him as the possible architect of the Pazzi Chapel. 
+
+In the 1430s, Michelozzo led the reconstruction of Santa Croce’s convent, the Medici-Michelozzo project. He rebuilt the burned ex-dormitory and refectory, and added a novitiate corridor and stairway. The project allowed access from the corridor to upper dormitories and library wings, serving the monks’ accommodation, daily activities, and education. This large-scale construction abuts the south of the Pazzi Chapel. Trachtenberg suggests that this physical connectivity and the coherence of the chapel’s outer appearance and the convent indicate that Michelozzo designed the Pazzi Chapel after the reconstruction.  
+
+Aside from the conventual reconstruction, Michelozzo also participated in a few other Medicean family private projects such as Villa del Trebbio and the Palazzo Medici. Notably, in the 1440s, Cosimo di Medici asked him to add decorations to the sacristy in San Lorenzo due to its virtual inactivity and incompletion after Brunelleschi’s death. Michelozzo had the chance to closely examine the Old Sacristy and study Brunelleschian geometric order and architectural compositions. His experience provided him the experience he needed to design the Pazzi Chapel in a similar mode.  
+
+Michelozzo’s working style represented a new architectural fashion that the Medici family desired, as opposed to the aging Brunelleschian tradition. In both Villa del Trebbio and San Lorenzo, Michelozzo transformed pre-existing ineffective buildings into lively and dynamic structures. He managed to grasp the essential stylistic cores from a broad range of architecture models and replicate them in new projects in a simplified and straightforward way.  
+
+For this reason, he did not have as distinctive a personal style as did Brunelleschi, but his synthetic method was flexible enough to meet the desires and demands of his clients. Under the request of the Medici family in designing the Palazzo Medici, Michelozzo combined antique rusticated bricks and communal windows into a trecento palace plan, mimicking the bulky exterior look of Palazzo Vecchio. Michelozzo also replicated the Palazzo Vecchio elements when designing the Palazzo Comunale in the Tuscan town of Montepulciano. As per Michelozzo’s work mode, the Pazzi chapel resembled the Old Sacristy model but was also largely simplified.  
+
+Michelozzo’s participation in the Pazzi Chapel design should come as no surprise. As chief rivals of the Medici Family, the Pazzi would have been happy to appoint the “fashionable” Michelozzo to construct their chapel in S. Croce, and documents indicate that in the 1460s, a full decade after he had completed the Palazzo Medici, the Pazzi family commissioned Michelozzo to build them an equally grand palatial residence that mimicked the design of the Palazzo Medici. These signs all point to Michelozzo as the actual architect of the famous free-standing chapel within greater S. Croce. 
+
+By Reggie Zhao 
+
+Bibliography: 
+Beltramo, Silvia, Flavia Cantatore, and Marco Folin. <i>A Renaissance Architecture of Power: Princely Palaces in the Italian Quattrocento.</i> Leiden: Brill, 2015.  
+
+Saalman, Howard. "Michelozzo Studies." <i>The Burlington Magazine</i> 108, no. 758 (May 1966): 242-50. 
+
+Trachtenberg, Marvin. “Michelozzo and the Pazzi Chapel.” <i>Casabella</i> 61, no. 642 (1997): 56-75. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: 42.22, 74.68, -2.35 
+Camera Location: 39.823, 57.157, -0.934 
+Camera Looks Towards: 39.603, 79.641, 1.884 
+
+Annotation block name: Chapel Architecture
+Annotation Details: <div style="overflow:scroll ; height:300px"> Generally attributed to Filippo Brunelleschi, the Pazzi Chapel closely resembles Brunelleschi’s designs in the Old Sacristy at S. Lorenzo, commissioned by Giovanni de’ Medici as a tomb chapel for the family of bankers. The design features a strict adherence to the ancient laws of Roman architecture in its observance of geometry, proportions, and order. The Old Sacristy most likely served as a model in the construction of the Pazzi Chapel.  
+
+Thus, recognizing the similarities between the two, Paul Barolsky and Howard Saalman have identified Brunelleschi as the primary architect for the Pazzi Chapel. Barolsky suggests that the Pazzi Chapel has the same cubic-framed and domed plan as the Old Sacristy but is more intricate in its geometric patterning and decorative features. Seeing capital designs as the key to understanding architectural authorship, Howard Saalman systematically compares and analyzes the Pazzi Chapel’s capitals with others that have been confirmed as autograph Brunelleschian designs. Capitals in the Old Sacristy have flattened stalks on the surface with one center leaf and two receding leaves on the sides. The leaves on the second row lie over the first, and the rib incisions only curve slightly at the top. The curled volutes are smaller than usual Corinthian capitals, with the signature Brunelleschian abacus flower sitting at the center of the volute. These characteristics are similarly present on the Pazzi Chapel capitals. Although Saalman recognizes that the Pazzi Chapel capitals are slightly different, he notes that the foliage treatments bear a striking resemblance to the ones on the Old Sacristy capitals. Saalman concludes that Brunelleschi was responsible for the lower part of the façade and the interior construction at least. 
+
+Conversely, Marvin Trachtenberg rejects Brunelleschi’s participation in the Pazzi Chapel project. Citing the odd rectangular form (unlike the perfect square of the Old Sacristy), Trachtenberg notes that the architect had to stretch out the arches, pilasters, and entablature of the Old Sacristy’s designs to fit into the new structure. The double-concentric arches in the interior walls of the Pazzi Chapel are solely ornamental and serve no structural function, while those in the Old Sacristy follow a rigorous logic and are integrated into the support system of the frame. The Pazzi Chapel’s pilasters also fail to define the main square structure, a crucial component of Brunelleschian logic. According to Trachtenberg, the architect who designed the Pazzi Chapel largely simplified the Brunelleschian structural tectonics and focused on transforming the visual language of the Old Sacristy into the Pazzi Chapel, but without understanding the functional meaning of that language.  
+
+The design of the Pazzi Chapel follows some of the Brunelleschian geometry but fails to achieve the degree of finesse and thoughtfulness presented in the Old Sacristy. However, it is not an architectural nor historical stretch to attribute Brunelleschi to the former.  
+
+By Reggie Zhao 
+
+Bibliography: 
+Barolsky, Paul. "The Visionary Architecture of the Pazzi Chapel." <i>Arion: A Journal of Humanities and the Classics</i> 25, no. 2 (2017): 1.  
+
+Saalman, Howard. "Filippo Brunelleschi: Capital Studies." <i>The Art Bulletin</i> 40, no. 2 (1958): 113. 
+
+Trachtenberg, Marvin. "Why the Pazzi Chapel Is Not by Brunelleschi." <i>Casabella</i> 60 635 (1996): 58-77. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: 42.56, 86.54, -2.28 
+Camera Location: 39.529, 76.192, -0.844 
+Camera Looks Towards: 40.002, 85.303, 0.499 
+
+Annotation block name: The Pazzi Chapel Design 
+Annotation Details: <div style="overflow:scroll ; height:240px"> Regarded as a notable representation of early Renaissance architecture, the design of the Pazzi Chapel displays an application of rational geometry and the incorporation of a new Classical style. The Pazzi Chapel emerges from the south flank of the Basilica of Santa Croce, where it functioned as a chapter house for the friars. The pediment at the entrance and the rooftop create a vertical central axis for the façade that guides the audience’s view around the exterior. Six classicized Corinthian columns support a grandiose central arch, flanked by rectangular panels that form a grid pattern, which sharpens the structure of the upper main façade and stretches the spaces vertically between the Corinthian columns. Circular cherub reliefs line the upper portion of the frieze, adorned with intricate details, geometric overlays, and a horizontal line to the unadorned façade. Framing pilasters pair up with the Corinthian columns to divide the rectangular spaces into smaller units, thus creating an internal ratio of 1 to 4. To reduce the façade’s geometric heaviness, the architect separated the design of the main entrance from that of the porch façade to create a colonnade and added a raised barrel-vaulted roof below the cone roof. 
+
+The features of the façade disclose the interior’s elements, as similar geometric patterns from the facade are applied to and harmonize with the interior design. Corinthian pilasters with arched niches partition the side walls of the large central chamber and support a frieze that separates the lower half from the lunettes that rise above: cherub heads and a repeated image of the Apocalyptic Lamb of God with the Seven Seals circumambulate the space. Natural light enters through lancet windows at the west end, while circular glazed terra-cotta reliefs of apostles sit on top of each arched niche. Coffered barreled strips connect the east and west walls, while each of the four evangelists occupies an ocular frame in the four spandrels that support the dome above. A rounded, twelve-ribbed dome caps the main compartment, with each section punctuated with an ocular opening that helps to release the tension built up by the arches and allows for a kind of luminescence within the chapel that elevates its sense of airiness and purity.  
+
+The geometry is repeated in the small sanctuary that holds the main altar, where four arches support a secondary dome adorned with a painted zodiac. This design was based largely on that of the Old Sacristy in the church of San Lorenzo that Filippo Brunelleschi crafted from 1421 to 1429 as a burial chapel for Giovanni di Bicci de’Medici and his wife, Piccarda Bueri – the parents of Cosimo de’Medici, who assumed control of the Florentine government in 1434 and was ensconced in power as the Pazzi Chapel was being constructed during the ensuing years. Brunelleschi has, therefore, been identified as the designer of the Pazzi Chapel, but not unanimously by some architectural historians who instead see the hand of Domenico Michelozzo (or even that of a lesser Brunelleschian imitator) at work here. 
+
+By Reggie Zhao 
+
+Bibliography: 
+Barolsky, Paul. "Toward an Interpretation of the Pazzi Chapel." <i>Journal of the Society of Architectural Historians</i> 32 (1973), 228-31.  
+
+Barolsky, Paul. "The Visionary Architecture of the Pazzi Chapel." <i>Arion: A Journal of Humanities and the Classics</i> 25 (2017), 1-10.  
+
+Saalman, Howard. “The Authorship of the Pazzi Chapel,” <i>The Art Bulletin</i> 46 (1964), 388-94. 
+
+Trachtenberg, Marvin. <i>Building in Time: From Giotto to Alberti and Modern Oblivion.</i> New Haven: Yale University Press, 2010. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: 41.89, 69.31, -3.21 
+Camera Location: 39.110, 51.708, 2.166 
+Camera Looks Towards: 39.551, 89.972, 0.051 
+
+Annotation block name: The Pazzi Chapel History 
+Annotation Details: <div style="overflow:scroll ; height:280px"> The Pazzi Chapel is located on the site of an earlier cloister that was destroyed when the dormitory of the friars caught on fire in 1423. The city intervened and assigned 2000 florins to replace it, while seeking an individual sponsor wealthy enough to give additional support to the substantial project.  
+
+The Medici family, led by Giovanni di Bicci and his ambitious son Cosimo, were already committed to the partial renovation of their own neighborhood church of S. Lorenzo, in which the family planned a tomb site in the Old Sacristy, and thus declined to participate in the funding of S. Croce’s ruined cloister. However, the head of a rival family, Andrea Pazzi, took up the challenge, due both to the close ties to S. Croce that his family already enjoyed (S. Croce was the burial site for at least three family members) and Andrea’s desire to compete with the city’s other elite families as patrons of prestigious projects.   
+
+The family’s tax declarations indicate that the Pazzi bank loaned a significant amount of money to the city at the end of the 1420s, but that Andrea was short of funds and initially had a difficult time accumulating the necessary assets to support the project. He rectified matters in 1433 and was able to give a substantial sum – either 2000 florins or 13,000 florins (the exact amount is unclear) – to the friars in S. Croce to demolish the bays of the 14th century ambulatory to make room for the creation of a new chapter house. Additional funds, perhaps as many as 12,000 florins, supplemented this initial gift in 1442, and construction was initiated at that time.   
+
+Still, the space took decades to complete due to repeated lack of monetary funding. Andrea died in 1445 and never saw his chapel in its completed state. The project ground to a halt in 1469 due to insufficient funds, but in 1473 the Cardinal Riario stepped in as its benefactor, which enabled the project to reach its conclusion.   
+  
+By Reggie Zhao 
+
+Bibliography: 
+Paatz, Walter and Elisabeth Paatz, <i>Die Kirchen von Florenz, vol. I.</i> Frankfurt am Main, 1940-1954.  
+
+Saalman, Howard. <i>Filippo Brunelleschi: The Buildings.</i> College Park: Pennsylvania State University Press, 1993. 
+
+Saalman, Howard. "Filippo Brunelleschi: Capital Studies." <i>The Art Bulletin</i> 40, no. 2 (1958): 113. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: 42.54, 86.18, -2.55 
+Camera Location: 39.593, 76.257, -0.439 
+Camera Looks Towards: 39.220, 80.939, -0.315 
+
+Annotation block name: The Pazzi Conspiracy  
+Annotation Details: <div style="overflow:scroll ; height:265px"> The historical record of the Pazzi family finds its origins in the eleventh century, when members served as military officers in the First Crusade. The family gradually enhanced its status; by the beginning of the 14th century, they had become prominent members of the Calimala and Bankers guilds in Florence. The family’s residences were targeted by the anti-magnate Ciompi rebels who burned down Pazzi’s properties in 1378. The family’s fortunes recovered soon thereafter, as the reactionary conservative government that replaced the Ciompi in the early 1380s protected elite families like the Pazzi.  
+
+Still, the aristocratic status of the family by law prevented its members from gaining major positions in politics. Those who tried, like Guglielmino Pazzi, the father of Andrea, could only work in minor offices outside of Florence.  
+
+Like his forebears, Andrea Pazzi matriculated into both the Calimala and the Bankers guilds as a young man. Art historian Howard Saalman deduced from fragments of bank records that Andrea must have started in his career in a subordinate position in Averardo de’ Medici’s bank – before marrying the daughter of a wealthy wool merchant named Caterina. Caterina’s dowry was instrumental in providing Andrea entry into his first enterprise as an independent entrepreneur. In 1410, using the Pazzi name, to receive a discounted entrance fee, Andrea matriculated into the Bankers’ guild, and four years later he joined the Merchant’s guild to launch the family’s international business ventures. Partnering with Girolamo di Jacopo Guasconi, a respected banker, and other Pazzi relatives in France, Andrea enjoyed great success from profits accrued in his Barcelone and Avignon bank branches. The family’s wealth boomed in the 1420s, when Andrea returned to the company of Averardo de’ Medici – now as a partner – and divided the assets of the Pazzi Company among his sons.  
+
+As the family’s fortunes grew, Andrea’s ambition in shaping the Pazzi clan as a political powerbroker in Florentine society similarly expanded. Andrea loaned funds to the communal government in response to the financial crisis of the mid-1420s, which brought to the family the gratitude of city leaders. With this newfound monetary and political power, Andrea Pazzi invited Pope Eugenius IV to dine with him in a room above the then-unfinished Pazzi Chapel in 1443. The chapel’s commission and early construction marked the high point of the family’s social and cultural prominence in Quattrocento Florence.  
+
+By Reggie Zhao 
+
+Bibliography: 
+Hibbert, Christopher. <i>The Rise and Fall of the House of Medici.</i> London: Penguin, 1979. 
+Saalman, Howard. <i>Filippo Brunelleschi: The Buildings.</i> College Park: Pennsylvania State University Press, 1993. 
+Trachtenberg, Marvin. “Michelozzo and the Pazzi Chapel.” <i>Casabella</i> 61, no. 642 (1997): 56-75. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+
+Location of Annotation: 42.54, 85.85, -2.82 
+Camera Location: 39.593, 76.257, -0.439 
+Camera Looks Towards: 39.220, 80.939, -0.315 
+
+Annotation block name: The Pazzi Conspiracy  
+Annotation Details: <div style="overflow:scroll ; height:240px"> The Pazzi family faced serious trouble in 1478, due to its role in the design and execution of an unsuccessful assassination of both Giuliano and Lorenzo de’Medici, the de facto rulers of Florence at the time.  
+
+The plot to overthrow the Medici sprang from a disastrous war with Pope Sixtus IV and his allies that the Medici had prosecuted poorly. Lorenzo had secretly worked to cut the political influence of the papacy in Italy, and in so doing had allied with Venice to offset the commercial prominence of Naples, then in league with Sixtus. The Medici had also negotiated with the Milanese to purchase the city of Imola to strengthen Florence’s tie with northern cities like Romagna and Faenza, which bordered on the Papal States. Sixtus intervened, however, and bribed the Sforza by offering to the family the entire Duchy of Lombardy, thus staving off what would have been an insurmountable alliance. The Medici, furious at this level of corruption, vowed to destroy papal power in Italy, and tried to use as leverage their position as the Pope’s bankers.  
+
+Fearing a freeze on his assets, Sixtus transferred the Curia’s accounts from the Medici bank to the one run by Francesco Pazzi, who was eager to take on this new client. In a fit of rage, the pope expressed to a condottiere his wish to change the Florentine government, but demurred when it came to actually participating in any plot that might result in bloodshed.    
+
+Girolamo Riario, the Lord of Imola and a nephew of the Pope, was aware of his uncle’s anger and began to conceive of a conspiracy to rid Sixtus of his troubling adversaries in Tuscany. He approached Francesco and offered his assistance while simultaneously convincing the Pope to release papal troops to assist the act: Sixtus arranged for his army to march north and settle just outside Florence, ready to attack when the time was ripe. Francesco, Jacopo de’ Pazzi, and the other ringleaders then assembled in Florence for detailed logistics. Girolamo Riario used his nephew, Cardinal Raffaello Riario, as a pawn, as he cared deeply for the Medici’s art collection: Girolamo wrote a letter asking Lorenzo to entertain Raffaello, whose visit would grace the Medici. Lorenzo accepted, and during the ensuing meeting the two agreed to reconvene in the Florentine cathedral on Easter Sunday, where they would worship together before moving back to the Medici’s parish church of S. Lorenzo to view a Hellenistic sculpture of Venus that was on display there.  
+
+On April 26th, 1478, roughly 120 conspirators filtered in among the congregation that clogged the Duomo’s nave. At the end of Mass, as the canons dismissed the congregation, a conspirator raced toward an altar where young Giuliano knelt in prayer: a knife pierced through Giuliano’s head, and Jacopo kept stabbing his body. A second group of conspirators simultaneously leapt over the balustrade that separated them from Lorenzo, then worshipping at a separate altar on the opposite side of the church. Years later, Lorenzo told Michelangelo his memory: “Girolamo’s nephew (not Raffaello) lifted the chalice in a signature way…My yellow blouse flashed red…I clutched my side, spun free…jumped the choir rail and made it to the sacristy.” There he was joined by Medicean friends and allies, while the Pazzi conspirators fled from the church. An hour later, the wounded Lorenzo seized the opportunity to rouse the general public and gave a speech from a balcony in which he condemned the crime, mourned his brother’s assassination, and urged his fellow Florentines to stand with him and with the cause justice to defend the city.   
+
+Those conspirators who had attacked the Medici brothers were quickly captured. Some were immediately thrown out of the window of Palazzo Vecchio and the Bargello under the order of Lorenzo. The Pazzi brothers hoped papal troops would take the opportunity to attack Florence in the midst of this chaos, but Lorenzo’s escape instead caused them to retreat, thus denying the Pazzi brothers any kind of safe exodus. Francesco was captured, forced to march through town and endure the humiliation of the citizenry, and then publicly strangled. Jacopo managed to escape from the city for Romagna, but he too was soon captured, brought back to Florence, and hanged in front of the Bargello insert link.   
+
+The Pazzi family was utterly disgraced. The city destroyed the Pazzi family's dolphin coat-of-arms every place it appeared in Florence. Everyone with the surname of “Pazzi” was required by law to change their name. Those few members of the family who were both innocent of involvement and who chose to remain in the city were banned from participation in all civic affairs.  To this day, the only meaningful legacy of the family can be found on the grounds of S. Croce in the form of the chapel that still bears its name.  
+
+By Reggie Zhao 
+
+Bibliography:  
+Acton, Harold. <i>The Pazzi Conspiracy: The Plot against the Medici.</i> London: Thames and Hudson, 1979.  
+
+Hibbert, Christopher. <i>The Rise and Fall of the House of Medici.</i> London: Penguin, 1979.  
+
+Martines, Lauro. <i>April Blood: Florence and the Plot against the Medici</i>. Oxford: Oxford University Press, 2003. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Annotation block name: <i>The Martyrdom of Saint Stephen</i> 
+
+Annotation Details: <div style="overflow:scroll ; height:200px"> Located in the Pulci-Beraldi Chapel of the Basilica of Santa Croce, <i>The Martyrdom of Saint Stephen</i> depicts the violent death of Saint Stephen, the early Christian saint to whom the chapel is dedicated. The renowned Florentine painter Bernardo Daddi painted this fresco around 1345, serving as a focal point of the chapel. The vibrant colors and active detail create a distinct and dynamic composition for the fresco. By decorating the chapel walls with both <i> The Martyrdom of Saint Stephen</i> and <i>The Martyrdom of Saint Lawrence,</i> the commissioner of the chapel established the theme of piety and religious sacrifice.  
+
+The first-century proto-martyr of the Church, Saint Stephen, faced death by stoning at the behest of the Pharisees, one of whom was a Syrian soldier named Saul. In Daddi’s fresco, the story of the martyrdom plays out from left to right, capturing the judgment and subsequent killing of the saint in one frame. On the far left, a seated Pharisee condemns the serene martyr, who clutches a Bible while wearing the costume of a deacon and points to the heavens. Connecting the left and right scenes, a uniformed man grabs the back of Saint Stephen’s cloak, leading him through the archway, which divides the fresco into two scenes. To the right, three men hold stones high above their target, menacingly encircling their victim. Now kneeling, Saint Stephen presses his palms together prayerfully, with his gaze again directed away from his earthly perils and towards the heavens. To the left, a spectator – likely Saul of Tarsus – watches but does not participate in the violence. Saul serves as an example of the soul yet to be saved in the form of a complicit witness to the sins of the world who does nothing to intercede on behalf of the vulnerable. Upon his return to Syria, the Trecento viewer knew that Saul would be knocked off his horse by a blinding heavenly light, and after three days of sightlessness, he converted to Christianity. Saul would change his name to Paul and go on to be one of the founders of the Western Church.   
+
+Both Saints Stephen and Lawrence became martyrs for Christianity, and Daddi’s depiction of them exemplified their sacrifice and piety. It reminded the viewer of the sacrifice and devotion required to give up one’s life for the faith, a position many of the viewers would never be in but could contemplate through the images of <i>The Martyrdom of Saint Stephen</i> and <i>The Martyrdom of Saint Lawrence</i> in the Pulci-Beraldi Chapel.   
+
+By Sofia Yasin 
+
+Bibliography: 
+Chastel, André. <i>Art of the Italian Renaissance.</i> New York: Arch Cape Press, 1988. 
+White, John, and Nikolaus Pevsner. <i>The Pelican History of Art.</i> Harmondsworth: Penguin Books, 1966. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: -20.19, 105.63, 3.38 
+Camera Location: -23.611, 107.346, 3.309 
+Camera Looks Towards: 24.423, 108.265, 20.422
+
+Annotation block name: <i>The Martyrdom of St. Lawrence</i>  
+
+Annotation Details: <div style="overflow:scroll ; height:200px"> The frescos in the Pulci-Beraldi Chapel link the space to its patron saints, Saint Stephen and Saint Lawrence. In a single frame, Bernardo Daddi’s pre-1330 fresco, <i>The Martyrdom of Saint Lawrence,</i> depicts the brutal execution style through which many martyrs suffered under the Roman Empire. While viewers would have been familiar with the legends of martyrs such as Saints Stephen and Lawrence, Daddi’s explicit images offer a visual reminder of the ultimate Christian sacrifice.   
+
+Unlike <i>The Martyrdom of Saint Stephen,</i> which contains two scenes depicting events before his death, <i>The Martyrdom of Saint Lawrence</i> depicts only the final moment. According to legend, the Church deacon was condemned to death by being burned alive on a gridiron. Daddi’s fresco presents a nude Saint Lawrence in the center of the fresco, reclining on the gridiron to communicate a posed piety rather than pain. Lawrence gazes up toward the heavens, and his extended arm and pointed finger guide the viewer’s sightline in the same direction. The appearance of relative serenity on the saint’s face contrasts starkly with the movements of the surrounding figures.   
+
+Four men circle the gridiron, each engaging in the execution by carrying coal or stoking the fire beneath his body, while others peer down from above. Two pairs of spectators observe, one on each end of the fresco but remain on the peripheries. On the far left, a Roman official and another man, possibly the men who ordered the execution, point towards the dying Saint Lawrence, mirroring his hand gestures. On the far right, two men speak to each other but adopt a more conservative stance, hidden behind a heap of coal being brought to feed the fires. The majority of the figures surrounding the death participate in the execution by watching, causing, or facilitating it. 
+
+By Sofia Yasin  
+
+Bibliography: 
+Chastel, André. <i>Art of the Italian Renaissance.</i> New York: Arch Cape Press, 1988. 
+White, John, and Nikolaus Pevsner. <i>The Pelican History of Art.</i> Harmondsworth: Penguin Books, 1966. 
+"Saint Lawrence." Encyclopædia Britannica. January 04, 2019. Accessed March 11, 2019. https://www.britannica.com/biography/Saint-Lawrence. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+   
+Location of Annotation: -20.48, 103.65, 0.17 
+Camera Location: -22.390, 94.520, 2.183 
+Camera Looks Towards: -23.369, 136.212, 7.919 
+
+Annotation block name: The Pulci-Berardi Chapel - Patronage 
+
+Annotation Details: <div style="overflow:scroll ; height:175px"> The distinguished Pulci family commissioned sixteen chapels in the Franciscan friary of Santa Croce, including the Pulci Chapel. Entrusting the painter Bernardo Daddi with the frescoes, the family followed the example set by other prominent Florentine families who commissioned a famed Giottesque painter for their burial chapel – like the Bardi di Vernio and the Baroncelli, who paid Maso di Banco and Taddeo Gaddi, respectively, to paint their burial spaces.   
+
+Like many eminent Trecento Florentines, the Pulci family made a fortune in banking. The traditional Guelph family was considered part of ancient nobility by Santa Croce’s construction. By 1308, a member of the Pulci had become a Franciscan friar at S. Croce. Although this link between the church and the family suggests that Fra Ponzardo Pulci was the chapel’s patron, others debate the possibility of the merchant Jacopo di Francesco Pulci’s patronage. Although the chapel was commissioned in 1330, scholars believe the windows and altarpiece date later than the initial fresco decorations. The altarpiece installation occurred as late as 1620, indicating centuries of alterations to the original chapel.   
+
+The family continued their influence in Florentine society for the remainder of the century but fell on hard times in the early Quattrocento. By 1420, the chapel no longer belonged to the Pulci family and was passed on to the Bardi della Libertà. Happily, though, its status rose with the fame of the poet Luigi Pulci, whose Medici-commissioned epic <i>Morgante</i> of 1483 immortalized the Pulci name and re-established the family’s pedigree after a century of decline.   
+
+By Sofia Yasin  
+
+Bibliography: 
+Bondanella, Peter, and Julia Conaway. Bondanella. <i>Cassell Dictionary of Italian Literature.</i> London: Continuum, 1999. 
+Marrone, Gaetana, and Paolo Puppa. <i>Encyclopedia of Italian Literary Studies.</i> Routledge, 2006. 
+Offner, Richard, and Miklós Boskovits. <i>The Fourteenth-century.</i> Florence: Giunti Barbèra Publisher, 1987. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: -24.57, 103.67, 0.70 
+Camera Location: -26.392, 95.258, 1.824 
+Camera Looks Towards: -25.540, 136.627, 9.568 
+
+Annotation block name: The Bardi di Vernio family  
+
+Annotation Details: <div style="overflow:scroll ; height:150px"> The prominence of the Bardi di Vernio family was short-lived. Although a few names and notable acts were recorded for posterity, this branch of the all-powerful Bardi family seems to have enjoyed an era of prestige that lasted less than a decade.  
+
+The Bardi had long been a Florentine commercial and political force as adroit financiers and well-positioned merchants. One of their members, Bartolo, had been elected to the priorate as early as 1282. Recently retrieved documents suggest that another Bardi, Simone, married a teenage girl named Beatrice at just about this time. She was the renowned muse who inspired Dante Alighieri to write his most famous verses and who ultimately resided in the poet’s vision of the Celestial Court in the third book of <i>La Commedia</i>.   
+
+From these thirteenth-century heroes descended Piero di Gualterotto Bardi, who in 1332 acquired key possessions in Tuscany, one of which was a castle called the “Vernio.” The purchase gave Piero valuable property in the countryside, a claim to a feudal title, and, in 1335, the blessings of Emperor Charles IV, who made Piero the vicar of Vernio. Piero took this opportunity to distinguish himself from his cousins by adding the name of his fortress to his surname, thus forming the Bardi di Vernio branch of the family. However, like their kinfolk on the other side of the family tree, the Bardi di Vernio saw their fortunes evaporate in the early 1340s. Piero was exiled from Florence in 1340 due to the very title the Emperor had granted him – such claims of nobility were illegal in the city by that time – and the following year, his castle in Vernio was annexed by the Florentine government. When King Edward of England defaulted on his loans in 1342, a vast portion of the fortune amassed by the family through the Bardi bank evaporated almost overnight. Although their descendants would never be destitute, and their prominently placed burial chapels would remain in the family’s possession for centuries, the collapse of their financial empire ended the Bardi’s short-lived dominance in Florence.   
+
+By George Bent  
+
+Bibliography: 
+Bartalini, Roberto. “Maso, la cronologia della cappella Bardi di Vernio e il giovane Orcagna,” <i>Prospettiva</i> (1995), 16-35. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: -24.57, 103.67, 1.00  
+Camera Location: -26.392, 95.258, 1.824
+Camera Looks Towards:-25.540, 136.627, 9.568 
+
+Annotation block name: The Program of the Bardi di Vernio Chapel 
+
+Annotation Details: <div style="overflow:scroll ; height:150px"> Piero di Gualterotto Bardi was related to the powerful Bardi banking family that commissioned Giotto to create the frescos for a chapel adjacent to the central Cappella Maggiore. Twenty years later, he appears to have initiated an intricate project to decorate one of two burial chapels situated perpendicularly at the northern end of Santa Croce’s transept that members of the Bardi family claimed. Rights to the Bardi di Vernio Chapel appear to have been purchased from the Franciscans in 1335, and the decorations inside it were probably commissioned and completed by Piero di Gualterotto’s exile in 1340.  
+
+The Bardi di Vernio chapel was one of sixteen prestigious burial spaces in Santa Croce owned and maintained by the city’s wealthiest and most privileged lineages. Still, the location of the Bardi di Vernio Chapel, which was well removed from the high altar in the Cappella Maggiore and obscured from the view of most visitors to the church, reduced its prominence in the Franciscan basilica, particularly in the 14th century, when a large <i>tramezzo</i> hindered access to the crossing.  
+
+The images inside the chapel created a thematic program that emphasized the value and wisdom of personal devotion. The program included the creation of two tombs, and one bears images of the <i>Man of Sorrows</i> and standing mourners by an unknown sculptor. These tombs were adorned with painted lunettes of <i>The Last Judgment</i> and the <i>Entombment.</i> The walls above and across from them feature frescoes dedicated to the lives of <i>Constantine and Saint Sylvester.</i> These paintings have been connected to two of Giotto’s most gifted followers: Maso di Banco and Taddeo Gaddi. While poorly documented, scholars attribute all the wall frescos and <i>The Last Judgement</i> above the first tomb on the north wall to Maso di Banco. Taddeo Gaddi is the better-known painter responsible for the <i>Entombment</i> above the second tomb. Both images feature donors – one male and the other female – who rise up above the actual tombs embedded into the chapel’s walls in acts of prayer.  
+
+These tombs and lunettes connect with the frescoes above and before them. Each features images of the first Christian Emperor, Constantine, and recounts his journey of conversion and his determination as a freshly baptized member of the faith. Although Pope Sylvester, his confessor, retains a dominant presence on the three tiers of paintings that decorate the south wall, his presence must be understood as more of a supporting role to the real subject of the cycle: Constantine the Great and the rewards awaiting potentates and other people of means who dedicate themselves to the Christian faith. The Bardi di Vernio family, one of the wealthiest and most powerful of Florence’s oligarchic class, surely placed themselves in this select company for the brief period their star ascended.   
+
+The Bardi di Vernio Chapel was rendered with an eye toward connectivity. Adjacent to the space but oriented perpendicularly to it stands yet another chapel maintained by the Bardi Chapel in the north transept. Both spaces feature a carved tomb encased within a tri-lobed pinnacle supported by twisting colonnettes that face approaching viewers – and both of them flank the Bardi Chapel at the end of the crossing to form a pair of sarcophagal bookends to the area. The appearance of the <i>Man of Sorrows</i> in bas-relief on both of them, coupled with the white marble of the trapezoidal capped tomb, links them formally and iconographically. The tomb at the mouth of the Bardi di Vernio chapel serves a dual role as both a continuation of the neighboring Bardi Chapel in the north end of the transept and as an introduction to the other one, and it, therefore, simultaneously connects the two spaces and, conversely, articulates a division between them. 
+
+By Sofia Yasin 
+
+Bibliography: 
+Turner, Jane, ed. The Dictionary of Art. Vol. 20. New York: Grove, 1996. 
+White, John, and Nikolaus Pevsner. <i>The Pelican History of Art.</i> Harmondsworth: Penguin Books, 1966. 
+Zirpolo, Lilian H. <i>Historical Dictionary of Renaissance Art.</i> Lanham: Rowman & Littlefield, 2016. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: -28.55, 107.47, 1.81 
+Camera Location: -25.065, 107.536, 1.890 
+Camera Looks Towards: -52.938, 108.914, 10.270 
+Annotation block name: <i>The Last Judgment</i> and <i>Entombment of Christ</i> 
+
+Annotation Details: <div style="overflow:scroll ; height:150px"> Occupying the central wall of the northeast Bardi di Vernio Chapel, the frescoes of <i>The Last Judgment</i> and <i>Entombment of Christ</i> set the tone for the entirety of the sacred space, reminding the viewer that it is not only a place of worship but also a place of rest. Perhaps to expedite completion, the two paintings appear to have been produced simultaneously by different painters, Maso di Banco and Taddeo Gaddi, who were both directly descended from the workshop of Giotto di Bondone, author of the frescoes of St. Francis that adorned the Bardi Chapel near the crossing of the church. The Franciscans in Santa Croce and their patrons favored this group of painters throughout the fourteenth century.    
+
+The first of these paintings addresses viewers from the room’s mouth as they approach the space. Playing upon themes of divinity, mortality, and mercy, <i>The Last Judgment</i> illustrates the interaction between Heaven and earth, Christ and a Christian. Emerging physically from the tomb appears a half-length image of a praying figure, perhaps a reference to the Bardi di Vernio interred in the sarcophagus there. The figure, positioned just left of the center, lifts his head toward the image of the Enthroned Christ, who sits in a blue mandorla, or almond-shaped, frame and gestures toward the instruments of his torture and execution, held mournfully by floating angels, with both of his wounded hands. Craggy rocks jut upwards from the earth toward the heavenly realm while two horns, blown together by angels with foreshortened heads to signal the End of Days, descend from the sky toward the ground. These avenues of connectivity suggest passageways between the two zones, accessible to living supplicants only through true piety and sincere prayer, the attitude of which is modeled by the lone devotee who takes flight from his tomb along these paths.   
+
+Importantly, the painter of this fresco, probably Maso di Banco, understood precisely the impact his image would have. The scene can be seen not from inside the chapel, which would have been accessible only to friars and, probably male, Bardi di Vernio family members, but rather from an oblique angle all viewers have from the transept floor. This skewed vantage point, combined with the three-dimensional marble tomb that juts away from the wall, permitted Maso to place his donor in such a way as to make it appear that he was up out of the very center of the sarcophagus below him, even though the figure’s actual position just to Christ’s right corresponds precisely to rigid traditional norms of representation to which all painters in the fourteenth century conformed.   
+
+Taddeo Gaddi borrowed these compositional and thematic motifs when conceiving the <i>Entombment of Christ</i> to the right. However, the emphasis was placed on female spirituality and the promises of salvation women demanded from their faith. The perpendicular cross that bisects the picture underscores the same vertical axis that drove Maso’s <i>The Last Judgment</i> composition. However, now the diagonals created by Nicodemus’ ladder and the inclined torso of Christ, held up by the wealthy tomb-owner Joseph of Arimathea, replicate the upward thrust from earth to Heaven seen in the first fresco. This diagonal confirms the viewer’s suspicion that the pathway to Heaven has been trod once before. Both directional cues appear to the composition’s right, away from the viewer, who understands them from the oblique angle at the chapel’s mouth as extensions that move beyond the picture’s frame.  
+
+Now, the scene takes on a different, gendered slant. The painting’s core features the women in the story, with male characters shunted off to the composition’s edges. Mary Magdalene recoils from the dead body before her while two other “Marys” lean forward to anoint the corpse’s body. The Virgin Mary embraces her son and bends her forehead down so that it touches that of Christ. They mourn his death with an emotional display that never applied to male disciples’ features. As if to underscore the centrality of the female experience, Taddeo places a half-length praying donatrix in the central panel of the fictive polychromed tomb into which Christ is here being lowered and from which he will ascend only a few hours later. Painted directly above the actual marble tomb in the chapel, this seems to signify its occupancy by a Bardi di Vernio family woman. Indeed, both sexes appear to have been interred in this chapel, apparently in adjacent tombs, and thus, both sexes enjoy promises of direct contact with Christ through these representations of Bardi di Vernio supplicants. However, the actual tomb slab below the lunette, although also made of expensive marble, contains no sculptural adornment, perhaps alerting us to the decorative distinctions between sarcophagi made for wealthy men and those made for wealthy women: both were granted access to the burial chapel. Both were promised eternal salvation, but only one enjoyed the distinction of fully formed representational sculpture on the tombs where they awaited their departure to Heaven. 
+
+By Sofia Yasin and George Bent 
+
+Bibliography: 
+Brilliant, Virginia. "Envisaging the Particular Judgment in Late-Medieval Italy." Speculum 84, no. 2, 2009. 
+Turner, Jane, ed. The Dictionary of Art. Vol. 20. New York: Grove, 1996. 
+White, John, and Nikolaus Pevsner. <i>The Pelican History of Art.</i> Harmondsworth: Penguin Books, 1966. 
+Zirpolo, Lilian H. <i>Historical Dictionary of Renaissance Art.</i> Lanham: Rowman & Littlefield, 2016. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: -24.90, 104.96, 5.02 
+Camera Location: -29.069, 107.045, 1.883 
+Camera Looks Towards: -0.983, 106.538, 21.900 
+
+Annotation block name: <i>The Life of Constantine</i>  
+
+Annotation Details: <div style="overflow:scroll ; height:350px"> No archival evidence directly connects Maso di Banco to the frescoes in the Bardi di Vernio Chapel, and no document records the period in which the images inside the burial space were executed. The date of 1335, when the family’s feudal title as vicars of Vernio was bestowed upon them by Emperor Charles IV and, not coincidentally, when Piero di Gualterotto Bardi purchased the rights to the chapel in S. Croce, is often considered the <i>terminus post quem</i> for the decorations inside the space. Piero’s subsequent exile from Florence in November 1340 marks a legitimate <i>terminus ante quem.</i> In 1341, Rodolfo di Bardi, Piero’s cousin, sequestered Maso di Banco’s materials and unfinished paintings for unknown reasons, perhaps as security to leverage repayment of debts. The personal connection between Maso and the Bardi, no matter its hostility, lends credence to the traditional assignment of the frescoes in the Bardi di Vernio chapel to this follower of Giotto.   
+
+The frescoes that descend from the tops of the north and south walls, as well as the image that once decorated the ruined lunette on the west wall surrounding the stained-glass window, focus on the linked hagiographies of Constantine the Great, the first Christian Emperor, and St. Sylvester. He was the Pope credited with converting Constantine during the 320s before the Emperor’s deathbed baptism in Constantinople in 337. The artist and his patrons may have observed the millennial anniversary before turning their attention to this cycle in the chapel. Usually identified by title as <i>Scenes from the Life of St. Sylvester,</i> the narrative sequence focuses more on <i>Scenes from the Life of Emperor Constantine the Great</i> with an emphasis on his spiritual journey and conversion from paganism to Christianity. While not unheard of, the selection of this subject matter was highly uncommon in Florence at this time. Perhaps the Bardi’s status in the 1330s as the bankers to both popes and kings inspired the choice to honor Constantine and Sylvester jointly. At the same time, the privileges granted to Piero di Gualterotto Bardi by the Holy Roman Emperor in 1335 may have driven the decision to feature and identify with an Imperial protagonist. Further research may reveal other motivations behind its selection by the Bardi di Vernio family, as well as the pictorial choices made by the artist responsible for their creation.  
+
+The cycle begins at the top register of the north wall, above the two tombs that face viewers as they approach the chapel. There appears the rarely depicted scene of <i>Constantine Refusing to Bathe in the Blood of Innocents,</i> in which the Emperor eschews the traditional method of curing leprosy by refusing to submerge himself in a barrel of blood collected from prisoners’ veins. Below, the vertically oriented scene of Peter and Paul, patron saints of Rome, appears before Constantine in a dream to inform him that the cure to his leprosy may be found instead of in conversion to Christianity. The images on this wall, placed directly above <i>The Last Judgment</i> and <i>Entombment</i>, speak to the challenges Constantine faced during his misguided youth as a pagan adherent and his gradual realization of an alternative available to him.  
+
+The frescoes on the south wall have weathered the elements quite well, although the surfaces of all three paintings have been heavily repainted over the centuries. Now, the relationship between Church and State comes into high focus. The top scene moves from left to right. It shows Pope Sylvester’s appeal to Constantine and then the Emperor’s historically inaccurate baptism in Rome at the hand of his papal confessor. The middle scene depicts yet another uncommon scene in the history of Florentine art: <i>The Miracle of the Bull</i>, whereby Sylvester revives a bull killed during a contest with a magician, which in turn convinces the enthroned Constantine and Helena, his mother, that they were wise to convert to the magically powerful Christian faith. Moreover, in the most famous fresco of the chapel, and one of the better-known images of the post-Giotto Trecento, the representation of Sylvester quelling the murderously bad breath of a dragon, symbolizing pagan culture that killed two disbelieving Romans in the city’s forum is combined in this continuous narrative with the image of the Pope turning entirely around to revive said victims. A remarkably non-plussed crowd witnesses this miracle: one of them, Emperor Constantine, recognizes the wisdom of his conversion. Although St. Sylvester receives important and favorable consideration on the south wall, the entire cycle was instead a narrative recounting the spiritual journey of the first Christian Emperor, and to him must go the program’s title.  
+
+The now-missing image framing the stained-glass window retains in the lower right two horses’ heads surrounded by a rocky landscape, suggesting that this central wall may have originally contained the narrative of the <i>Dream of Constantine</i> or the <i>Battle at the Milvian Bridge.</i> This legend, one of the most persistent of European Christendom and the seminal moment in the life of the first Christian Emperor, revolved around Constantine’s premonition that his adherence to Christ’s mission would lead him to victory against Maxentius at the battle by the banks of the Tiber in October 312. This vision ultimately led to his legalization of Christianity the following spring, his support of the Church hierarchy and Sylvester, and his official baptism on his deathbed in 337. Omitting the all-important scene of the <i>Dream of Constantine</i> or the <i>Battle at the Milvian Bridge</i> from this cycle would have been an odd choice. While we cannot say with certainty that one or both of these scenes bridged the gap between the north and south walls of the chapel, it stands to reason that Maso would have included at least one of them at this central juncture in his cycle.   
+
+By Sofia Yasin and George Bent 
+
+Bibliography: 
+Bartalini, Roberto. “Maso, la cronologia della cappella Bardi di Vernio e il giovane Orcagna,” Prospettiva (1995), 16-35. 
+De Voragine, Jacobus. <i>The Golden Legend.</i> Translated by William Granger Ryan. Princeton, NJ: Princeton Univ. Pr., 1993. 
+Turner, Jane, ed. The Dictionary of Art. Vol. 20. New York: Grove, 1996. 
+White, John, and Nikolaus Pevsner. <i>The Pelican History of Art.</i> Harmondsworth: Penguin Books, 1966.
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 4.72, -2.60, 1.47  
+Camera Location: 0.381, -12.660, 0.825 
+Camera Looks Towards: 1.066, 37.516, 16.499 
+
+Annotation block name: The Architecture of Santa Croce in its Context  
+
+Annotation Details: <div style="overflow:scroll ; height:300px"> When constructing Santa Croce, the Franciscans echoed the designs of their mother church, San Francesco in Assisi. The general architectural plan of the nave and transept in Santa Croce served the Franciscans as a base for when they preached St. Francis’ mission and aimed to expand their footprint in the city.  
+
+The church outline follows a Tau cross, symbolizing the Egyptian Cross of the Franciscan Order. Unlike the floor plan of other gothic churches of the same period, the Cappella Maggiore of Santa Croce does not extend out very far from the transept wall, creating the T-shape of the church. The scale of Santa Croce far exceeds that of the Santa Maria Novella, which was constructed by the Dominicans just a bit earlier. The nave runs 115 meters long and 38.32 meters wide, and the transept spans 73.73 meters wide. 
+
+Due to the wide nave, the construction of the roof required structural support from intricate Romanesque wooden trusses instead of the typical gothic cross vaults that were only sufficient for narrow structures. The wooden roof also complied with the rules suggesting simple church constructions established by the Narbonne chapter in 1260. The width, on the one hand, fulfilled the Franciscan’s competitive goal of surpassing the Dominican’s Santa Maria Novella, but it also accommodated the growing population that swarmed inside the church to hear the friars preach. 
+
+As the main congregation space, the nave provided structures that assisted preaching and devotional practices. The pulpit on the third pier of the central nave from the south of the church served as a podium for preachers to deliver sermons as they addressed the laity. Separated by octagonal piers and pointed arches, the side aisles and nave formed a paralleled structure, which referred to the parallelism between Jesus and St. Francis that was important to the Franciscan’s preaching. The excavations following the flood of 1966 led Marcia Hall to argue for the existence of an independent <i>tramezzo,</i> that separated the choir space and Cappella Maggiore from the rest of the nave and subsequently divided the clergy and friars from the laity.  
+
+The transept, located behind the <i>tramezzo,</i> provided an exclusive space for the burial chapels of prestigious families, who decorated them with sumptuous frescoes. Five family chapels, including those of the Bardi, Perruzi, Riccardi, and Velluti chapels to the east, and Pulci Beraldi and Bardi di Vernio chapel to the west, flank the Cappella Maggiore in the transept. The Niccolini and Bardi di Magona chapel to the north and the Castellani and Baroncelli chapels at the south end occupy the two extremes of the transept. These families traded funding for the right to be commemorated inside one of the most influential churches in all of Europe. Reciprocally, the church profited from these donations and the artistic commissions they funded, which helped the church develop into an even more prestigious cultural and religious site.  
+
+By Reggie Zhao 
+
+Bibliography: 
+Debby, Nirit Ben-Aryeh. "The Santa Croce Pulpit in Context: Sermons, Art and Space." <i>Artibus Et 	Historiae</i> 29, no. 57 (2008): 75-93. http://www.jstor.org/stable/20067182. 
+Hall, Marcia B. "The Tramezzo in Santa Croce, Florence, Reconstructed." <i>The Art Bulletin 56,</i> no. 3 (1974): 325-41. doi:10.2307/3049260. 
+Tolan, John. "Mendicants and Muslims in Dante's Florence." <i>Dante Studies, with the Annual Report of the Dante Society,</i> no. 125 (2007): 227-48. http://www.jstor.org/stable/40350666. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\  
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 4.80, -2.40, 1.20 
+Camera Location: 0.381, -12.660, 0.825 
+Camera Looks Towards: 1.066, 37.516, 16.499 
+
+Annotation block name: The Origin of Santa Croce 
+
+Annotation Details: <div style="overflow:scroll ; height:250px">Santa Croce’s origins date back to the Franciscan order’s founder St. Francis of Assisi: the most venerated saint in 13th-century Europe. Around 1210, St. Francis sent two friars to Florence to proselytize and preach his message. Together, they established the Franciscan community in the city, creating a small convent in Santa Gallo. St. Francis then came to Florence in 1214 to meet Cardinal Ugolino, the protector of the order and the future Pope Gregory IX, who soon granted them their autocracy from the Bishop of Florence. To enhance their preaching practice and influence, the Franciscans moved to a more central location in the city by the Arno River in 1221 and thus, established what would become the primary site for Santa Croce.  
+
+The early church on this site only served the Friars’ basic needs for sleeping and religious education. Preaching sessions took place on the street corners and <i>piazze</i> of the city, and friars depended on alms from their audiences for their other needs. After Francis’ death in 1226, the Pope helped his followers recover from the loss by loosening the strictness of the rule that mandated a humble life and prohibited Franciscan communities from possessing property. The Pope claimed that the entire Church was his property, and therefore, he had the authority to gift the Franciscans anything and everything he (and they) wanted, which included properties, funding, and devotional objects. Pope Innocent IV continued to support the Franciscans after Gregory’s death in 1241 by giving indulgences to those who donated to institutions like Santa Croce. The Franciscans were able accumulate funds they needed for church development and expansion.  
+
+By 1254, growing in power and authority with the papal assistance, the Franciscans were outperforming the rival Dominicans and occupied key positions as bishops, inquisitors, and legates, both in and out of Florence. As a result, members of the Florentine elite gravitated toward Santa Croce to claim burial spaces inside it, and soon the availability of these tombs and chapels evaporated. The demand for a larger space for preaching, gathering, and private commissions pushed the Franciscans to expand S. Croce. Their competition with the Dominicans on the other side of the city spurred them to make a new church that was more sumptuous than Santa Maria Novella (initiated in 1279).  
+
+Along with additional funds from prominent families and lay donations, the Florentine commune endowed 1200 florins to launch construction. On May 3rd, 1294, the Day of the Holy Cross, Arnolfo di Cambio (generally considered as the architect for S. Croce) laid the first stone in place. Other architects assumed the project after Arnolfo’s death in the early 1300s, and the nave was expanded over the course of that century and reached completion in the 1380s.   
+
+By Reggie Zhao 
+
+Bibliography: 
+Moorman, John R. H. (John Richard Humpidge). <i>A History of the Franciscan Order from Its Origins to the Year 1517.</i> Oxford: Clarendon P., 1968. 
+Thompson, Nancy M. "The Franciscans and the True Cross: The Decoration of the Cappella Maggiore of Santa Croce in Florence." Gesta 43, no. 1 (2004): 61-79.  
+Tolan, John. "Mendicants and Muslims in Dante's Florence."<i> Dante Studies, with the Annual Report of the Dante Society,</i> no. 125 (2007): 227-48. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 23.02, 90.53, 1.20 
+Camera Location: 26.465, 99.946, 1.205 
+Camera Looks Towards: 25.927, 93.015, 3.721 
+Annotation block name: Origin and Patronage – Castellani Chapel   
+
+Annotation Details: <div style="overflow:scroll ; height:150px"> The growing wealth and status of the Castellani family guaranteed them an “exceptional chapel” in Santa Croce alongside the burial spaces of other prominent Florentine families, such as the Bardi, the Baroncelli, and the Peruzzi. Acting as patrons for this chapel was a way to showcase the family’s wealth, social status, and political power. Because of the location of these in the transept – separated from the nave by a large <i>tramezzo</i> that cut the church into two until the middle of the sixteenth century – these chapels were intended to be seen and used for only a select few, among whom were members of the elite families who owned rights to these burial spaces.  
+
+With construction starting in 1383, the Castellani paid for the erection of a double-bayed, fresco-covered structure, dedicated to Saint Anthony Abbot, that was larger and at a higher elevation than the standard chapel in Santa Croce. These two factors helped to distinguish the chapel as a superior worship space in the basilica. The Castellani showcased their privilege and power by including the family crest on interior and exterior keystones of the chapel, along with two additional shields. The fresco program of the chapel showcases scenes from the lives of Saints John the Evangelist, Anthony, John the Baptist, and Nicholas, with a full wall space dedicated to scenes from each figure’s hagiographic biography. Three different artists are thought to have worked on these different evangelist scenes, with two of them being unknown and the other being Agnolo Gaddi.   
+
+The Castellani family could not retain rights to the chapel forever, however, and the falling fortunes of the clan after the death of its head, Francesco di messer Mateo di Michele, forced them to surrender it in 1494 to the Compagnia delle Pinzochere. This group of lay women, tertiaries affiliated with the Franciscan friars in S. Croce, took over the use and maintenance of the space, which they re-dedicated to the celebration of the Holy Sacrament – the celebration for which the chapel is currently named.  
+
+By Audrey Overholt and George Bent 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+  
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+   
+Location of Annotation: 30.38, 77.85, 4.06 
+Camera Location: 21.741, 83.720, 1.856 
+Camera Looks Towards: 27.976, 83.604, 5.826 
+Annotation block name: <i>St. John the Evangelist Fresco Program</i> 
+
+Annotation Details: <div style="overflow:scroll ; height:100px"> The left wall of the Castellani chapel contains a fresco cycle of Saint John the Evangelist’s life. The scenes are taken directly from the thirteenth-century <i>Golden Legend</i> written by Jacobus Voragine. The writing revolves around the John the Evangelist’s work in Ephesus as a missionary. The Castellani chapel is the first time Voragine’s story appear in Italian art, demonstrating the ingenuity and originality of Agnolo Gaddi’s art. Since the chapel was the first to showcase St. John the Evangelist’s own fresco program, his imagery would not have been as recognizable to viewers as other saints in the chapel. 
+
+The top lunette, titled the <i>Vision of the Apocalypse,</i> shows a sleeping Evangelist surrounded by eight symbolic figures in the sky. The saint sleeps on the island of Patmos and the figures above represent his dream about the Apocalypse. Four angels represent the four corners of the earth, who welcome the “angel of the sixth seal,” thought to be Saint Francis. A female figure, regarded as the “Woman of the Apocalypse,” sits with her son and asserts an authoritative presence. The artist seems to have taken cues from Giotto and has composed the Apocalypse scene almost identically to his one in the nearby Peruzzi chapel.  
+
+In the second register of the left wall appears scenes of Crato and his posse giving up worldly possessions and donating their money to the poor due to influence from John the Evangelist, who shows these new Christians that humility is essential to faith. The third register depicts the baptism of Crato as the Evangelist blesses sticks and stones which he will soon turn to gold. A unique composition is presented here, as no architectural or physical barrier divide the scenes. Here, the figures flow directly across the space, but the postures and direction of the people distinguish the two distinct moments. The artist emphasizes figures to the point where the architectural features aren’t even relevant, serving no structural function and only sitting as a backdrop. The distinction suggests that the artist for John the Evangelist scenes must be different from the artist of the Saint Nicholas scenes, as the latter artist relies heavily on architecture to divide space.  
+
+By Audrey Overholt 
+
+Bibliography:  
+Cole, Bruce M. “Agnolo Gaddi.” <i>Bryn Mawr College,</i> ProQuest Dissertations Publishing, 1969, pp. 15–37. <i>ProQuest Ebook Central.</i> 
+Roberts, Perri Lee. “Familial Values and Franciscan Polemics in Late Trecento Florence: The Iconographic Program of the Castellani Chapel in Sta. Croce.” <i>Gesta,</i> vol. 48, no. 1, 2009, pp. 87–115., doi:10.2307/29764897. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+   
+Location of Annotation: 20.83, 86.50, 3.06  
+Camera Location: 27.378, 83.247, 1.477 
+Camera Looks Towards: 21.083, 83.171, 5.351  
+Annotation block name: <i>Saint Nicholas Frescos</i> 
+
+Annotation Details: <div style="overflow:scroll ; height:175px"> The fresco program in the Castellani chapel spans four walls that cover two bays, with one entire section dedicated to the life and works of Saint Nicholas. Known as the “Wonder Worker,” Saint Nicholas miraculously healed the sick, assisted the poor, and helped those in need of advocacy. Painted in the 1380s by an unknown artist, all of these elements are showcased in the fresco program on the right side of the northeast wall of the Castellani chapel. 
+
+The top scene depicts Saint Nicholas throwing gold into a room where an elderly man and his three daughters sit. Nicholas was thought to have been born into a wealthy family but wanted to use his inheritance to help others. In this scene, he anonymously gives gold so the poor man can pay a dowry to marry his daughters off instead of selling them into prostitution. Other chapels have replicated this particular scene, but usually with the old man asleep. The image in the Castellani Chapel depicts the man awake, and thus able to witness Nicholas’ miraculous intervention.  
+
+The frescoes below the top lunette display three different scenes compartmentalized by adjacent buildings. Reading from right to left, the first scene shows a Jewish man lending money to a Christian. The middle image presents the two figures in the presence of a robed judge, who hears the petition of the impoverished Christian man who cannot pay back the Jewish man the money. The final scene displays the Christian being run over by a cart, the Jew praying to Saint Nicholas for the debtor’s revival, and the moneylender stating that if the debtor is revived, he will convert to Christianity. The artist paints the Jewish man in the light to emphasize his morality and selflessness as well as imply that his prayers will be answered.   
+
+The bottom scene tells the story of a man who prays to Saint Nicholas for a son and, in return, promises to make an offering of a gold cup at the saint’s grave. When Nicholas answers his prayers and delivers a son to the man and his wife, the petitioner goes back on his promise and keeps the cup. As a consequence, the son nearly drowns, only to be saved by Saint Nicholas, who then returns the boy to his deceitful father. Like the fresco above, the artist compartmentalizes the different scenes of the story, this time using a boat and a building to separate the different elements of the narrative. 
+
+By Audrey Overholt 
+
+Bibliography:  
+Cole, Bruce M. “Agnolo Gaddi.” <i>Bryn Mawr College,</i> ProQuest Dissertations Publishing, 1969, pp. 15–37. <i>ProQuest Ebook Central.</i> 
+Roberts, Perri Lee. “Familial Values and Franciscan Polemics in Late Trecento Florence: The Iconographic Program of the Castellani Chapel in Sta. Croce.” <i>Gesta,</i> vol. 48, no. 1, 2009, pp. 87–115., doi:10.2307/29764897. 
+“The Life of St. Nicholas, The Wonder Worker.” <i>Greek Orthodox Metropolis of Boston: St. Nicholas Greek Orthodox Church,</i> St. Nicholas Greek Orthodox Church , stnicholas-man-nh.org. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 20.83, 82.35, 3.07 
+Camera Location: 27.378, 83.247, 1.477 
+Camera Looks Towards: 21.083, 83.171, 5.351 
+Annotation block name: <i>Fresco Cycle of Saint John the Baptist</i> 
+
+Annotation Details: <div style="overflow:scroll ; height:175px"> The right wall of the Castellani Chapel contains a fresco program dedicated to Saint John the Baptist. As the patron saint of Florence, John the Baptist was celebrated all across the city and his narrative scenes would be familiar images for Florentines.  
+
+The top lunette of this fresco program, titled the <i>Annunciation to Zacharias,</i> shows an angel appearing to Zacharias while he carries out a religious service. The angel moves forward through the scene as though he’s extending the blessing into the center space. Meanwhile, a host of observers watch the angel from outside the temple.  
+
+The middle register shows John baptizing figures, with a group of young men on his left and Christ on his right. These two baptisms were, according to the Gospels, originally performed on separate occasions, but the artist here chose to group them together for the sake of brevity and clarity. This grouping also shows that an effort was made by the artist to emphasize the humanity of Christ, as he shares the space with normal humans during this sacred ritual.  
+
+In the 17th century, the walls of the Castellani Chapel were whitewashed, but a 1859-1860 partial restoration and a 1921-1922 comprehensive removal of whitewash restored the chapel to its previous late 14th century state. The whitewash, however, left the bottom register damaged, meaning that the subject matter of the scenes cannot be deeply explored. The left side illustrates Christ preaching with his disciples, as well as the finger of John the Baptist presumably preaching from underneath a large, porch-like structure. The right side of the bottom register displays an older John the Baptist going into the wilderness to preach with his back turned, helping emphasize his departure from civilization.  
+
+The scenes of John the Baptist in the Castellani chapel show that a second hand was at work in the space. Even though traces of work by the first artist – the painter of the neighboring Saint Nicholas program – appear throughout the chapel, we can see that he was not in charge of the whole program, for some figures produced by the 2nd painter are much taller and have more delicate features than those of the 1st. The 2nd artist also structures spaces differently from the 1st, constructing emptier scenes with a reduced emphasis on architecture. The figures in these scenes are detached from the space around them and stand alone, much more so than figures in the Saint Nicholas frescos. Thus, the 2nd painter was at play in the fresco cycle of John the Baptist.  
+
+By Audrey Overholt 
+
+Bibliography: 
+Cole , Bruce M. “Agnolo Gaddi.” <i>Bryn Mawr College,</i> ProQuest Dissertations Publishing, 1969, pp. 15–37.  
+Roberts, Perri Lee. “Familial Values and Franciscan Polemics in Late Trecento Florence: The Iconographic Program of the Castellani Chapel in Sta. Croce.” <i>Gesta,</i> vol. 48, no. 1, 2009, pp. 78–115. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 34.97, 99.68, 2.22 
+Camera Location: 33.642, 90.928, 2.587 
+Camera Looks Towards: 36.078, 124.072, 11.824 
+Annotation block name: The Life of the Virgin Mary Frescos 
+
+Annotation Details: <div style="overflow:scroll ; height:200px"> The fresco program of <i>The Life of the Virgin Mary</i> occupies the left wall of the Baroncelli Chapel. Executed by Taddeo Gaddi between 1328 and 1330, the set of narrative paintings is considered the masterpiece of Taddeo's youth.   
+
+The east wall consists of five larger frescos that depict the Virgin Mary's youth and the lives of her parents, Anna and Joachim. In painting this storyline, Taddeo gives an ancestry of the person to which the Baroncelli Chapel is dedicated and, in doing so, summons her presence. Set inside a large lunette, the first scene depicts Joachim being driven away from the temple. This is followed by four successive moments in smaller square spaces: <i>The Meeting of Anna and Joachim, The Birth of the Madonna, The Madonna on the Steps of the Temple,</i> and <i>the Marriage of the Virgin.</i>  Exiled into the wilderness, he sits on a rock and meets the angel Gabriel, who blesses him with the announcement that his wife, Anna, will deliver a daughter in her old age. The story continues below with the image of <i>The Meeting at the Golden Gate</i>, a composition borrowed from Taddeo's master, Giotto di Bondone. Here, the couple embraces at the city gate after Joachim's return, a gesture provoked by Gabriel's news. The two figures sit at the scene's center, golden halos and pastel robes emphasizing their role as main characters. From the left, a shepherd strides towards them and a group of handmaidens watch at the right, with the city of Jerusalem looming behind them.   
+
+To the right of this scene appears <i>The Birth of the Virgin</i>, which introduces Mary into the storyline. Once again, figures are placed at an angle to help give life to the scene, as do the realistically rendered draperies of the handmaidens' robes that fall off their bent knees. Now obscured by the damaged wall, Anna reclines on the bed while her infant daughter, Mary, receives her first bath below her. The story then moves along into the <i>The Presentation of the Virgin</i> scene at the bottom right. Here, Mary's parents take her to the temple and then leave her there to be raised as a maiden; she is to dedicate her life in service to the Lord. Taddeo arranges the architectural framework of this scene to create a pictorial depth: the stairs leading into the middle ground, along with the arcades along the upper registers of the buildings, form a spatial box that suggests a stage. Taddeo's figures interact within this space, sitting on different levels and sizes to underscore the distances between them.   
+
+The final scene of <i>The Betrothal of the Virgin</i> shows the competition among Mary's suitors for her hand and Joseph's surprising victory. Mary stands to the right of the competition before a tapestry hung on the arcade of a loggia. Taddeo depicts a tradition here: that woven fabrics frame the seat in which a bride sits. The aged Joseph, left alone by the death of his first wife and too old to procreate with a young one, leans toward her in the middle of the crowd. The rod held by these elderly widower flowers above his head – the symbol of his selection as Mary's groom – causes his younger rivals to break the branches they hoped would blossom, thus signifying their appointment as her husband. The layering of figures in the crowd creates a vibrant, even chaotic scene as the entire city witnesses this odd occurrence.   
+
+By Audrey Overholt and Julia Brinker  
+
+Bibliography:  
+Gardner, Julian. "The Decoration of the Baroncelli Chapel in Santa Croce." <i>Zeitschrift Für Kunstgeschichte,</i> vol. 34, no. 2, 1971, p. 89.  
+Janson- La Palme, Robert JH. "Taddeo Gaddi's Baroncelli Chapel: Studies in Design and Content. (Volume I: Text. Volume II: Illustrations)." <i>Princeton University,</i> ProQuest Dissertations Publishing, 1976.   
+"Joachim and Anna." <i>Proclus of Constantinople - OrthodoxWiki,</i> OrthodoxWiki, 14 Jan. 2018, orthodoxwiki.org/Joachim_and_Anna.   
+"Taddeo Gaddi (1300-1366)." <i>Century Illustrated Magazine,</i> Mar. 1889, p. 670.   
+"Taddeo Gaddi." <i>The Dictionary of Art,</i> Edited by Jane Turner, vol. 11, Macmillan Publishers, 1996, pp. 888–890.  
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 30.26, 99.73, 2.24 
+Camera Location: 33.642, 90.928, 2.587 
+Camera Looks Towards: 36.078, 124.072, 11.824 
+Annotation block name: Architectural Themes in the Life of the Virgin 
+
+Annotation Details: <div style="overflow:scroll ; height:200px"> These frescoes show Taddeo’s ability to play with space and set up characters in believable scenes. More specifically, each vignette references a specific, recognizable architectural context that resembles the form of the Baroncelli Chapel, which the frescoes occupy.   
+
+This connection to architecture is seen in all five frescoes of the east wall but is most impressive in *The Presentation of the Virgin*. The backdrop for this scene showcases Taddeo’s ability to construct real space. The temple at the top has ribbed vaulting and a sort of clerestory, all in a medieval style termed the Italian Gothic. The slender pillars, stacked platforms, and repeated arches have been intertwined into the ancient storyline of the paintings to connect the account of Mary’s life to contemporary Florence. This motif is consistent throughout the Chapel and helps connect the stories into a cohesive unit.   
+  
+Taddeo continues playing with architecture in his frescoes by using the way he frames his paintings. Spiral pillars run up the middle and the sides, blending with the actual structure of the chapel to help integrate the frescoes with their setting. Corinthian accents at the top help with the illusion, as does Taddeo’s shading of the pillars that show attention to the light source. A set of decorative bands is also sitting at the tops of the frescoes, which are painted as a base between the upper and lower spiral columns. These bands mimic the decoration of the ribbed vaulting, further integrating the frescoes into the chapel.   
+
+By Audrey Overholt  
+
+Bibliography:  
+Ladis, Andrew. <i>Taddeo Gaddi.</i> Columbia, MO: University of Missouri Press, 1981. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 34.15, 95.01, 1.84 
+Camera Location: 30.775, 96.140, 3.323 
+Camera Looks Towards: 64.798, 95.118, -2.256 
+Annotation block name: The Coronation of the Virgin – Background  
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> <i>The Coronation of the Virgin,</i> also known as the <i>Baroncelli Pentaptych,</i> is the central altarpiece of the Baroncelli chapel and forms the backdrop to the ceremonial Eucharistic table. Although Taddeo Gaddi is credited as the main artist of the frescoes in the Baroncelli Chapel, his hand is not present in the Coronation.    
+
+Giotto, or maybe his workshop, painted the altarpiece sometime around 1330 when the chapel's frescoes were completed. It bears close similarities with a double-sided altarpiece commissioned by Cardinal Jacopo Stefaneschi and produced for the Basilica of Old St. Peter's in Rome, thus suggesting that the same painter was responsible for both pictures. The artist signed his name on the inscription with the words, <i>"OPUS MAGISTRI JOCTI."</i> It must be noted, however, that it was not uncommon for a master painter's name to be added deceptively to a work of art. It would be the workshop assistants who did the work, but the master had the name. Thus, the appearance of Giotto's name on the panel may not guarantee his participation in the Coronation.   
+
+The scene of the Coronation can stand independently, but it also fits with the rest of the chapel. Giotto, probably working in collaboration with his former student, Taddeo Gaddi, made an effort to incorporate all five panels into the fresco program in the rest of the chapel and the stained-glass window above. This can be seen in the consistency of the color palette, the scenes' overall brightness, and the figures' unity.    
+
+<i>The Coronation of the Virgin</i> appears on the altarpiece, completing the Life of the Virgin Mary program in the Baroncelli Chapel. Its position here, rather than in a fresco, emphasizes the central role of the Virgin as a celestial advocate who sits on the right hand of Christ and jointly presides over His court. Indeed, viewers would have immediately recognized <i>The Coronation of the Virgin</i> as a reference to Mary's regal role in Paradise, as this subject was featured in the mosaic on the entrance wall of the city's Cathedral of San Maria del Fiore as early as 1310. By adding this scene to Taddeo Gaddi's fresco cycle that features Mary's story on Earth, Giotto's altarpiece extended her legend into the Heavenly sphere to give her a deified quality to match her earthly significance.  
+
+By Audrey Overholt and Julia Brinker 
+
+Bibliography: 
+Echols, Mary Tuck. “The Coronation of the Virgin in Fifteenth-Century Italian Art,” Ph.d dissertation, University of Virginia, ProQuest Dissertations Publishing, 1976.  
+Gardner, Julian. “The Decoration of the Baroncelli Chapel in Santa Croce.” <i>Zeitschrift Für Kunstgeschichte,</i> vol. 34, no. 2, 1971, 89–114.  
+Janson-La Palme, Robert  J.H. “Taddeo Gaddi’s Baroncelli Chapel: Studies in Design and Content,” Ph.d dissertation, Princeton University, ProQuest Dissertations Publishing, 1976.  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 34.18, 98.06, 1.84 
+Camera Location: 30.775, 96.140, 3.323 
+Camera Looks Towards: 64.798, 95.118, -2.256 
+Annotation block name: The Coronation of the Virgin - Description 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> <i>The Coronation of the Virgin</i> is a physical centerpiece of the Baroncelli Chapel. It serves as the liturgical focus of the space and completes the pictorial cycle that celebrates Mary’s presence and brings her holiness into the viewer’s realm through artistic representation. This channeling can be seen on the altarpiece, which features Mary’s transition from human existence to a deified position of Sainthood. Christ and Mary sit in the center of the altarpiece’s main compartment, wearing white garments. If their central location on the altarpiece and glowing attire do not immediately signify the importance of these two figures, their size and height do. Mary and Christ almost double the size of the rest of the figures and sit at a much higher position from their regal perches on the holy throne. This scale hierarchy shows viewers who matters most in this scene and the implications of Mary’s coronation as Queen of Heaven. Now crowned as the Bride of Christ, Mary occupies a religious realm almost equal to Jesus's, a concept underscored by their similar sizing.   
+
+The small crowd of witnesses consider Mary and Jesus from their lower positions. Golden halos frame the heads of saints and angels, while four of the latter sit at the feet of Mary and Christ, reverently holding gifts before the holy couple. These characters stand in a naturalist posture, with those in the front obscuring their partners behind them. The overlapping of the figures in the crowd is an attempt to create a realistic space, even though how the crowd expands vertically is not natural. The angels expand into the two other panels on the left and right, creating a sea of color contrasting with the gold background. At the same time, a group of musicians sit at the lower part of the panels, giving the scene a celebratory nature.    
+
+This altarpiece is the final image in the story being told on the walls of this chapel, which tells of Mary’s ascension to Sainthood. The coronation scene is deliberately left out of the fresco program and commemorated on the altarpiece to emphasize the central role of the chapel as a vessel for Mary’s religious presence. This image is also placed at the center of the Baroncelli Chapel’s artistic program, for it is a common picture. During the 14th century, the Triumph of the Virgin would have been recognizable to many as a scene where Christ reinforces his reverence for his mother. This iconography helps make the entire chapel program readable and brings the different elements together as a whole artistic unit.     
+
+By Audrey Overholt and Julia Brinker 
+
+Bibliography: 
+Echols, Mary Tuck. “The Coronation of the Virgin in Fifteenth-Century Italian Art.” <i>University of Virginia,</i> ProQuest Dissertations Publishing, 1976.  
+Gardner, Julian. “The Decoration of the Baroncelli Chapel in Santa Croce.” <i>Zeitschrift Für Kunstgeschichte,</i> vol. 34, no. 2, 1971, pp. 89–114., doi:10.2307/1481767.  
+Janson-La Palme, Robert  J.H. “Taddeo Gaddi’s Baroncelli Chapel: Studies in Design and Content. (Volume I: Text. Volume II: Illustrations).” PhD diss., <i>Princeton University,</i> ProQuest Dissertations Publishing, 1976.  
+Morin, Georges. “Giotto: The Coronation of the Virgin .” <i>HOLY SPIRIT PROVINCE SAINT-ESPRIT,</i> 12 Aug. 2015, www.franciscanfriars.ca/news/giotto-the-coronation-of-the-virgin/.  
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 10.51, 103.43, 0.60 
+Camera Location: 7.820, 93.303, 3.664 
+Camera Looks Towards: 8.604, 144.120, 7.914 
+Annotation block name: The Bardi Family and the Origins of S. Croce 
+
+Annotation Details: <div style="overflow:scroll ; height:140px"> Construction of the Franciscan basilica of Santa Croce began in 1295, supposedly supervised by the sculptor Arnolfo di Cambio. The current church is at least the third structure at this site, with the earliest edifice probably in place as early as 1211 and a newer one constructed a few decades later (see the floorplans on this website reconstructed by Erik Gustafson). Construction coincided with a period of deep division with the Franciscan Order. Two groups, Spirituals and Conventuals, disagreed with one another regarding the pledge of poverty that their founder had taken. Spirituals (or Observants) embraced the mendicant philosophy championed by Francis during his lifetime. They opposed the proliferation of the magnificent, ornate churches that some began to build in Francis’s name immediately following his death in 1226. Though Spirituals found this practice inconsistent with their founder’s teachings, Conventuals took the opposite stance, seeking to relax their order’s poverty pledge. In their mind, improved living conditions within the order would in turn attract both members and benefactors to their cause. The Conventual faction commissioned S. Croce, thanks in no small part to the financial support of Ridolfo de’ Bardi, a member of the most prominent banking family in Florence.  
+
+Beginning their rise to power as wool merchants, the Bardi family had played a major role in international trade since the rise of the Guelphs in Florence. As early as 1267 they began to import fleece from England to manufacture luxury clothing. Their business grew quickly, and the resulting influx of capital allowed the family to expand into banking. They ingratiated themselves to the Papacy by hiring English monasteries to maintain flocks of sheep, with the proceeds from this fleece then going to fund the Church. Over the next century this relationship blossomed and the Bardi soon became bankers to the Papacy, as well as to the monarchies of England, France, and Sicily. The family lent money to their customers at a healthy interest rate, which earned them both significant profits as well as the wrath of those who accused them of the grievous sin of avarice. This enormous wealth, and the guilt that came with it, drove bankers like the Bardi into the open arms of the Franciscans, who accepted their offers to fund projects like Santa Croce in return for absolution.  
+
+In early <i>Trecento</i> Florence, the Bardi family had connections to both of the city’s predominant rival mendicant orders, the Dominicans and the Franciscans. One of Ridolfo de’Bardi’s brothers endowed a chapel in the Dominican church of S. Maria Novella and another actually joined that convent as a friar. However, records from 1296 indicate that Ridolfo’s mother made a significant financial contribution to one of the friars at S. Croce which included a large bequest to fund the performance of mass. Two other members of the Bardi family, Matteo and Benedetto Bardi, soon joined the Franciscan community there.  
+
+Although Ridolfo actually lived closer to S. Maria Novella, he chose to associate himself more closely with the Franciscans across town. He endowed a number of chapels there, including chapels dedicated to Saints Louis of Toulouse and Lawrence (as well as the Cappella di San Francesco), becoming the most prodigious donor to the church.  
+
+Ridolfo’s motives for such extensive patronage appear to have been mostly entrepreneurial. His close business associates, the Peruzzi, Acciaiuoli, Cherchi and Baroncelli families, had already established themselves as patrons of Santa Croce. This, compounded with the fact that the Acciaiuoli were Ridolfo’s blood relatives, probably spurred him to choose the Franciscan church out of a sense of competition. Throughout much of the early-fourteenth century, these families utilized their banking connections and church patronage to control both the purse-strings and public policies of the Florentine city-state. 
+
+But all good things must come to an end. In 1342 the Bardi firm utterly collapsed when King Edward III of England defaulted on his loan payments during the Hundred Years’ War. The unusual prosperity enjoyed by the family disintegrated during this moment of economic and political crisis, never to return. Other patrons of S. Croce closely associated with the Bardi, such as the Peruzzi family, also suffered. Although the Bardi maintained a reputation as a leading Florentine family (in fact, Cosimo de’ Medici would marry Contessina de’ Bardi in the 1420s), they would never again exercise the same level of influence they had possessed at the time of S. Croce’s initial construction. 
+
+By Alex Fedor and George Bent 
+
+Bibliography:  
+Gardner, Julian. <i>Giotto and His Publics</i> Harvard University Press: Cambridge, MA, 2011.  
+Long, Jane C. “The Program of Giotto’s Saint Francis Cycle at Santa Croce in Florence,” <i>Franciscan Studies</i> 52, (1992), 85–133.  
+Hunt, Edwin S. “A New Look at the Dealings of the Bardi and Peruzzi with Edward III,” <i>The Journal of Economic History </i> 50 (1990), 149–62. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+Location of Annotation: 10.51, 103.45, 1.12 
+Camera Location: 7.820, 93.303, 3.664 
+Camera Looks Towards: 8.604, 144.120, 7.914 
+Annotation block name: Giotto and the Conventuals   
+
+Annotation Details: <div style="overflow:scroll ; height:170px"> Although Ridolfo de’ Bardi paid for burial rights inside the chapel that bears his family’s name, Conventual Franciscans probably retained control of all decisions regarding the Cappella di San Francesco. Because of the Conventuals’ relaxed interpretation of St. Francis’s rule of poverty, their order saw fit to build large, resplendent churches such as Santa Croce and sought out patrons such as Ridolfo de Bardi to finance their endeavors.  
+
+Besides his talents as a painter, Giotto di Bondone possessed detailed knowledge of the prevailing religious and political issues of his day, and his affiliations with the Franciscans can be seen in the frescoes he painted in Santa Croce, a Conventual stronghold. Some of his images in the basilica cater to the Conventual ethos through depicting the communal nature of mendicantism. These scenes show friars living in common dwellings, speaking with finely dressed lay devotees, and interacting with Francis: none show begging friars or individual preachers speaking to an audience of commoners. For example, <i>The Apparition on Arles</i> shows life within a convent, as a group of French friars sit together deep in thought, while <i> The Ordination of the Rule</i> emphasizes the power of the group rather than the individual. <i>The Proof By Fire</i> underscores the international nature of the order and the extent to which Francis’ influence spread across the Mediterranean.  
+
+Additionally, Giotto depicts the types of affluent laity who would have served as their benefactors. Both the <i>St. Francis Renounces His Inheritance</i> and <i>The Death of St. Francis</i> feature upper-middleclass merchants first resisting Francis’s mission, and then eventually accepting it following his death. <i>The Ordination of the Rule</i> explicitly links Francis and his followers to the Papacy, demonstrating the pope’s interest in promoting the new Order as a revenue generating institution. The representation of <i>Louis of Toulouse</i> accentuates the French saint’s royal origins and depicts him as a well-groomed and well-fed Conventual. Francis’ diplomatic qualities appear in his persuasive encounter with the Sultan in <i>The Proof By Fire.</i> Even the image of <i>The Stigmatization of St. Francis</i> aimed to please Santa Croce’s Conventuals, who claimed a special interest in the miraculous Stigmata that marked their founder as <i>Alter Christus.</i> By depicting affluent members of the laity alongside friars, Giotto’s fresco cycle promotes the Conventuals’ loose stance on vows of poverty, demonstrating the many benefits this outlook could bring to their order. 
+
+By Alex Fodor and George Bent 
+
+Bibliography:  
+Gardner, Julian. <i>Giotto and His Publics.</i> Harvard University Press: Cambridge, MA, 2011.  
+Goffen, Rona. <i>Spirituality in Conflict.</i> Pennsylvania State University Press: State College, PA, 1988.  
+Lawrence, C.H. <i>The Friars: The Impact of the Early Mendicant Movement on Western Society</i> London: Longman, 1994. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 9.99, 103.49, 11.20 
+Camera Location: 8.219, 97.714, 12.168 
+Camera Looks Towards: 8.118, 106.902, 12.934 
+Annotation block name: <i>The Stigmatization of St. Francis</i> 
+
+Annotation Details: <div style="overflow:scroll ; height:200px"> Sometime around 1315, Giotto received a commission to paint the fresco cycle of St. Francis in Santa Croce’s Bardi Chapel. One of the seven paintings of the cycle, <i>The Stigmatization of St. Francis,</i> appears over the entry to the chapel just to the right of the Cappella Maggiore. Despite the large <i>tramezzo</i> that stood between them and the high altar, fourteenth-century lay viewers could have seen this image clearly from the nave thanks to its elevated position. The painting’s prominence demonstrates the importance with which both the Franciscans and their lay audiences regarded the miracle of the stigmatization.  
+
+<i>The Stigmatization of St. Francis</i> depicts the moment when the saint received the wounds of Christ from a seraph in the heavens. According to St. Bonaventure’s biography, this miracle occurred in 1224 during a monastic retreat in the desolate wilderness of Mount La Verna. Bonaventure relates that, as Francis paused in prayer and began to contemplate the Passion of Christ, a six-winged seraph with fiery wings descended from the heavens. The angel transferred to Francis’s body the wounds endured by Christ on the cross, marks which he bore for the rest of his life. Francis kept this event to himself and the miracle remained hidden until his death in 1226, two years after its occurrence. Soon thereafter, Pope Gregory validated the miraculous stigmatization after Francis supposedly appeared to him in a dream bleeding from his wounds. Francis was officially canonized in 1228.  
+
+Giotto depicts the kneeling saint in a frontal position, twisting his body away from the seraph while turning his head back to look upon the angelic form. The seraph takes the form of Christ nailed to the cross with hands outstretched, a position Francis mirrors with his own upturned palms. Thus, the bodies of both Jesus and Francis take the form of the crucifix, linking the two and emphasizing the friar’s status as an <i>Alter Christus.</i> Framed by a natural environment consisting of a cliff, several trees, and a small church that could reference S. Croce, Giotto’s fresco places Francis in a somewhat-recognizable earthly setting rather than an otherworldly or heavenly location. Francis’s upturned head directs the viewer’s gaze first to the fresco’s painted seraph, then beyond the picture plane to the light emanating from the stained-glass lancet window directly overhead. Finally, his gaze encourages the viewer to look beyond the opening of the window and towards the heavens. Giotto’s dramatic portrayal of the <i>Alter Christus,</i> compounded with its placement near a natural light source, helped manifest the presence of God to fourteenth-century audiences, as it still does for present-day viewers. 
+
+By Alex Fedor 
+
+Bibliography:  
+Gardner, Julian. <i>Giotto and His Public.s</i> Harvard University Press: Cambridge, MA, 2011. 
+Bonaventure. <i>The Life of St. Francis of Assisi.</i> TAN, 1988.  
+Goffen, Rona. <i>Spirituality in Conflict</i> Pennsylvania State University Press: State College, PA, 1988.  
+D’Arcais, Francesca Flores. <i>Giotto</i> Abbeville Press: New York, 1995. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 5.98, 108.90, 7.97 
+Camera Location: 9.765, 106.686, 6.524 
+Camera Looks Towards: -26.310, 107.053, 28.217 
+Annotation block name: <i>Saint Francis Renounces his Inheritance </i> 
+
+Annotation Details: <div style="overflow:scroll ; height:350px"> The first image of the Bardi Chapel’s fresco cycle, <i>St. Francis Renounces His Inheritance,</i> depicts the young saint’s renunciation of worldly goods and his union with the institutional Church. According to legend, while at prayer in the dilapidated church of Santa Damiano, Francis heard a painted image of a crucifix speak to him, commanding him to ‘rebuild my church.’ In obedience to this directive, Francis literally set about to rebuild the small church on the outskirts of Assisi. Upon completing the project, however, he realized that the commandment had referred not to a single church, but to the entire institution of The Church.  
+
+Before he could act on this epiphany, he first had to reckon with his family. To pay for the repairs to S. Damiano, Francis had sold cloth belonging to his father, a wealthy merchant named Pietro di Bernadone. Pietro, who had not granted his son permission to take his merchandise, became incensed upon discovering Francis’s actions and denounced his son as a thief. Unwilling to prosecute Francis on the grounds that he had acted in the name of God, the civic authorities remanded the case the Bishop of Assisi, Father Guido. In the town square before the Bishop’s palace, Pietro demanded that Francis return the money he had stolen. In response, Francis stripped himself naked, renounced his entire inheritance, and chose to dedicate himself to God alone. Bishop Guido, impressed with Francis’s fervor, threw his mantle around Francis’s body, literally and figuratively embracing the young man’s new life.   
+
+Giotto’s fresco of this event, situated in the Bardi Chapel’s north lunette, divides the scene into two groups, with Francis serving as the lynchpin that holds these compositional elements together. On the left side of the town square stands Pietro and his merchant allies, while Bishop Guido and his clerical associates stand to the right. The draped Francis prays to God in between them, simultaneously separating and uniting the commercial and spiritual realms. Pietro’s arm and balled fist extend to his side, restrained by the grip of his colleagues, echoing the physical embrace of Francis and Bishop Guido. Similarly, groups of unruly boys and their disapproving elders flank both parties, a not-so-subtle reference to the generational conflicts that often divide parents and children. This concept reappears in the palace wall that separates the two groups, which both frames the tense encounter and emphasizes the metaphorical barrier between Francis and his father. Giotto uses architectural elements to heighten Francis’s connection to God, as his praying hands point to the skies (and to the hand of God) in a way that emphasizes the highest vertical point of the palace. Giotto imbues his expressive figures with both a sense of weightiness as well as a piercing psychological intensity, elements characteristic of his style.   
+
+We do not know the intended audience of Giotto’s fresco cycle in the Bardi Chapel. Surely, the friars in S. Croce had the ability to inspect Giotto’s paintings at appropriate moments during the day. Male members of the Bardi family also likely had access to these images, as did other powerful male citizens; however, it remains unclear how often they took advantage of that right. Certainly, lay women did not possess access to a space so near the high altar, making the likeliness that they saw these frescoes slim to none.  
+
+On a superficial level, the images that Giotto produced promote the Bardi family’s commitment to the tenets of Franciscan poverty. However, in reality the family adhered to a mercantile value system completely inconsistent with the saint’s preaching (though perhaps not with the Conventual interpretation of Franciscan mendicantism). Embracing grandeur and materialism, the Bardi embodied the affluence and luxury that Francis had condemned. However, with his patronage, Ridolfo de’ Bardi feigned his family’s devotion to higher ideals. Ironically advertising his family as supporters of an Order whose teachings routinely condemned people like him, Ridolfo secured a resting place for his family on earth while also appealing to a higher authority for the salvation of his soul.  
+
+By Alex Fodor and George Bent 
+
+Bibliography:  
+D’Arcais, Francesca Flores. <i>Giotto.</i> Abbeville Press: New York, 1995. 
+Goffen, Rona. <i>Spirituality in Conflict.</i> Pennsylvania State University Press: 1988.   
+Lawrence, C.H. <i>The Friars: The Impact of the Early Mendicant Movement on Western Society.</i> London: Longman, 1994.  
+Long, Jane C. “The program of Giotto’s Saint Francis Cycle at Santa Croce in Florence,” <i>Franciscan Studies</i> 52 (1992), 85–133. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html   
+
+Location of Annotation: 10.23, 105.38, 7.93 
+Camera Location: 6.069, 107.253, 9.100 
+Camera Looks Towards: 48.165, 107.347, 8.872 
+Annotation block name: <i>The Approval of the Rule</i> 
+
+Annotation Details: <div style="overflow:scroll ; height:240px"> Giotto’s <i>The Approval of the Rule</i> depicts Pope Innocent III granting Francis consent to found the Franciscan Order. In 1209, Francis and a small group of his followers traveled to Rome to seek Papal approval for their mendicant movement. Rather than live consumed by the desire for earthly possessions, Francis and his followers wished to live humbly by following the “Rule of Life” that Francis wrote on the journey to meet the Pope. While Innocent agreed to hear the group’s petition in his palace of St. John Lateran, he declined to offer an immediate verdict. He spent months mulling over his decision but, according to legend, in 1210 he experienced a vivid dream in which he saw Francis physically holding up the entire Church hierarchy on his shoulders. He awoke from this dream and immediately called a meeting with the Franciscans, granting them their wish on the spot.  
+
+Situated in the south lunette on the chapel’s right wall, <i>The Approval of the Rule</i> echoes an earlier version of this scene Giotto painted on the right nave wall of S. Francesco in Assisi. Like that earlier image, Giotto situates the meeting in an enclosed room of the Lateran palace. Francis kneels before the robed and enthroned Pope in a position of obedience, while Innocent hands over a parchment detailing the Rule to Francis. This parchment bears the words “Rule of Life,” implying that Innocent had composed the document. Even though Francis wrote the Rule, by crediting the Pope Giotto ascribes to the papacy the ultimate authority to approve such a request. He also imbues Innocent with moral authority, attributing to the Pope the characteristics of humility and poverty which Francis’s friars were expected to embody. 
+
+Giotto took some artistic license in his representation of these events. Though Tommaso of Celano’s biography of Francis describes only eleven followers, Giotto depicts the saint accompanied by twelve followers, the twelfth obviously added to underscore the popular understanding of Francis as <i>Alter Christus.</i> Yet, puzzlingly, only one of these twelve has the same tonsure that adorns Francis’s head. Additionally, though St. Bonaventure only cites the presence of one cardinal in his 1260 biography of St. Francis, Giotto includes two cardinals flanking the pope as a way to offset the friars on the painting’s right side, balancing the composition. On the gabled roof directly above Francis appears a bust of St. Peter, connecting the mendicant saint to the larger institutional Church and its first leader. At the moment of their acceptance into the ecclesiastical hierarchy of Rome, Giotto depicts the Franciscans’ obedience to the Church and willingness to submit to its higher authority. 
+
+By Alex Fedor and George Bent 
+
+Bibliography: 
+Goffen, Rona. <i>Spirituality in Conflict</i> Pennsylvania State University Press, 1988.  
+Lawrence, C.H. <i>The Friars: The Impact of the Early Mendicant Movement on Western Society</i> London: Longman, 1994.  
+Long, Jane C. “The program of Giotto’s Saint Francis Cycle at Santa Croce in Florence,” <i>Franciscan Studies</i> 52 (1992), 85–133. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html  
+  
+Location of Annotation: -10.66,55.68,-1.31
+Camera Location: -10.289, 56.150, 1.434
+Camera Looks Towards: -10.175, 50.605, -8.718
+ 
+Annotation block name: <i>The Tedaldi Tomb, S. Croce nave</i>  
+
+Annotation Details: <div style="overflow:scroll ; height:150px"> Around the base of the fourth pier that separates the left aisle from the nave of Santa Croce, members of the Tedaldi family installed tombs between ca. 1357 and 1474. While kinsmen installed tombs across the city and beyond in the churches of the Badia Fiorentina, S. Caterina, San Giovannino dei Cavalieri, Santa Maria del Carmine, Santa Maria Novella, S. Niccolò a Calenzano, and Santissima Annunziata, Santa Croce held the largest number of Tedaldi monuments, at least six in all. Two that were installed in the piazza of Santa Croce were replaced by those at the foot of the Tedaldi pier prior to the end of the sixteenth century, sometime between 1439 and 1596.  
+ 
+In the later fifteenth century, the cloth merchant Leonardo di Papi Tedaldi decided that he did not want to join the ancestors in any of the extant family tombs and instead hired Antonio Rossellino to sculpt an extraordinary cover for a new tomb. The work was finished by October 1474, when Rossellini sued the Tedaldi for the forty florins they still owed him for his work. Effigies on Florentine tombs were rare, especially for couples. They were typically reserved for important clerics, government officials, and others honored for their service to the state, shown as if on their funeral biers.  
+ 
+Using white Carrara marble, Antonio carved a relief sculpture showing Leonardo and his wife, Lisa di Francesco degli Alberti, reclining on their marriage bed, suggesting that their wedding vows will extend for eternity. Leonardo’s double-effigy tomb is the only example in the city that uses a bed rather than a bier. Another notable feature of Leonardo Tedaldi’s tomb is that both figures do not wear shoes—a rather rare motif found on tombs belonging to monks, friars, or members of tertiary orders. The Tedaldi may have requested bare feet as a sign of their humility and religious devotion. The absence of an inscription and coat of arms represents another departure from convention.  
+ 
+That this grave belonged to the Tedaldi is made clear by the faded coat of arms on the pier above it, as well as its proximity to the tombs of Leonardo’s great-great grandparents on the south and west faces of the pier. According to a Santa Croce inventory of tombs, known as a <i>sepoltuario,</i> the pier also held a funeral banner and three shields, certainly decorated with Tedaldi heraldry and carried in Tedaldi funeral processions. 
+ 
+By Anne Leader 
+ 
+Bibliography:  
+ 
+Beck, James. “An Effigy Tomb Slab by Antonio Rosselino.” <i>Gazette Des Beaux-Arts,</i> vol. 95 (1980): 213-17.  
+Pines, Doralynn S. “The Tomb Slabs of Santa Croce: A New Sepoltuario.” (1985): 523-29 
+Chiti, Antonella. <i>Le lapidi terragne di Santa Croce: Dalla meta del Trecento al 1471,</i> vol. 1 (2012): 232-35. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html     
+
+Location of Annotation:  2.19, 115.29, 20.17 
+
+Camera Location:  0.455, 108.871, 19.293 
+
+Camera Looks Towards: 2.421, 136.657, 22.646 
+
+Annotation block name: The Original Glazing Campaign  
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The decorative program of the <i>Legend of the True Cross</i> in the chancel of Santa Croce took decades to complete. The original campaign ran from 1320-1340 and included Ugolino’s altarpiece, the four Old Testament kings and prophets in the lower half of the center window, and the three roundels above the lancets that emphasized the theological and devotional significance of the cross and its reference to the stigmata given to Francis by God. The True Cross and the concept of Francis as the second Christ became the central themes of the entire apse.  
+
+The first glazing campaign featured three roundels positioned above the three central double lancets depicting the <i>Ascension of Francis</i> on the left, </>Crucifixion</i> in the center, and <i>Elijah in the Fiery Chariot</i> on the right. Bonaventure’s <i>Legenda Maoir</i> was used as the textual source of the narrative which identifies Saint Francis as both <i>Alter Christus</i> and as the angel of the sixth seal of the Apocalypse.  
+
+The scene of the <i>Ascension of Francis</i> initiates the window cycle with the Saint demonstrating his wounds to his friars as he rises to rest with Christ. Francis’s outstretched arms, elaborate halo, and the surrounding friars echo the <i>Crucifixion</i> roundel and establish the shared suffering between Jesus and Francis, thus identifying the latter as <i>Alter Christus</i>. The <i>Stigmatization</i> fresco to the right of the chancel further emphasizes the scene as a central miracle in Francis’s life and legitimizes his leadership over the Franciscan order.  
+
+The central roundel depicts Christ crucified on the cross with nail wounds visible on his hands and feet. This roundel serves to underscore the translation of Christ’s suffering onto Francis and Francis’s devotion to the Passion.  
+
+<i>Elijah in the Fiery Chariot</i> depicts the moment when a chariot of fire transported the prophet Elijah into the heavens in a whirlwind as recompense for completing his mission on Earth. Bonaventure’s narrative explains that this scene could be connected to Francis’s future resurrection where he fulfilled an apocalyptic prophecy. Bonaventure wrote that Francis resurrected after the Ascension, appeared to his friars in the fiery chariot, and traveled up to heaven with Elijah. Francis then transformed into the angel bearing the sixth seal of God, a scene from the Book of Revelations where the apostle John saw an angel bearing the seal of the living God through a vision.  
+
+By Celeste Silva-Carrillo 
+
+Bibliography 
+
+Thompson, Nancy M. “The Franciscans and the True Cross: The Decoration of the Cappella Maggiore of 
+
+Santa Croce in Florence.” Gesta, vol. 43, no. 1, 2004, pp. 61–79. <i>JSTOR</i>, https://doi.org/10.2307/25067092. Accessed 12 Aug. 2025. 
+
+Thompson, Nancy M. <i>The Fourteenth -Century Stained Glass of Santa Croce in Florence</i>, 
+
+Indiana University, United States -- Indiana, 1999. <i>ProQuest</i>, https://www.proquest.com/dissertations-theses/fourteenth-century-stained-glass-santa-croce/docview/304505117/se-2. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html     
+
+Location of Annotation:  2.19, 115.38, 8.18 
+
+Camera Location:  0.980, 109.871, 8.159 
+
+Camera Looks Towards: 0.877, 124.393, 7.913 
+
+Annotation block name: Second Glazing Campaign 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Agnolo Gaddi and his workshop produced the second decorative program for the chancel at Santa Croce from 1388 to 1393 under the patronage of the Alberti family. His workshop combined narrative frescoes and stained glass windows of standing individuals to visualize the <i>Finding and Exaltation of the True Cross</i>. The stained glass windows contain a choir of saints, apostles, and significant evangelical figures standing under elaborate tabernacles who symbolically worship the discovery of the True Cross and serve as models of sanctity for the friars.  
+
+The high altar windows follow a hierarchical structure that includes church fathers, apostles, early Christian martyrs, Florentine and Franciscan saints, and contemporary <i>beati</i>. The order begins with highly coveted figures at the top of the lancets, followed by saints and prominent Christians, and symbolically trails down to include the Franciscans and the Church as the ends of the hierarchy. Limited access to the apses, caused by the barrier of the rood screen that separated the ecclesiastical community from lay devotees, indicates that the stained glass windows were designed for the eyes of the friars. Images of contemporary <i>beati</i> at the bottom of the arch place them in the closest proximity to the friars in the choir, suggesting that they must have demonstrated exemplary sanctity and devotion as role models to the community. While Gaddi’s frescoes celebrated the potency of the True Cross, the images of standing saints became part of the Christian pantheon and emphasized their place in history, reminding the friars to carry out Francis’s mission and persevere in the contemplation of the True Cross.  
+
+By Celeste Silva-Carrillo 
+
+Bibliography 
+
+Thompson, Nancy M. “The Franciscans and the True Cross: The Decoration of the Cappella 
+
+Maggiore of Santa Croce in Florence.” <i>Gesta</i>, vol. 43, no. 1, 2004, pp. 61–79. <i>JSTOR</i>, https://doi.org/10.2307/25067092. Accessed 12 Aug. 2025. 
+
+Thompson, Nancy M. <i>The Fourteenth -Century Stained Glass of Santa Croce in Florence</i>, 
+
+Indiana University, United States -- Indiana, 1999. <i>ProQuest</i>, https://www.proquest.com/dissertations-theses/fourteenth-century-stained-glass-santa-croce/docview/304505117/se-2. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html     
+
+Location of Annotation:  1.14, 116.16, 4.22 
+
+Camera Location:  0.582, 111.130, 6.182 
+
+Camera Looks Towards: 0.520, 120.347, 6.438 
+
+Annotation block name: Central Window
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The central arch acts as the binding glue between the flanking double lancets by prioritizing the crowned Virgin as bearer of the Son of God and Jesus as the inspiration behind the mendicant order’s entire existence. Prominent prophets join the Virgin and her Son and play crucial roles in preparing the way for Salvation. Read from left to right and top to bottom, the central double lancet contains Mary, Christ, Saints John the Evangelist, John the Baptist, Paul, and Paul with Old Testament heroes Moses, David, Melchizedek, Solomon, and two angels on the bottom panels.  
+
+The crowned Virgin Mary holds a bundle of lilies beside Jesus, whose raised hand blesses those below. He holds an orb in his right hand, representing his sovereignty over the universe. Mary’s lilies reference her purity, the Florentine Cathedral of Santa Maria del Fiore, and the flowers given to her by Gabriel at the moment of the Annunciation. Elaborate halos glow from their heads and their colorful garments convey an elevated air of holiness. This motif repeats in all the other stained glass figures in the chancel. The divine pair commence the hierarchical ecclesiastical order governing the program’s organization.  
+
+Below them stand John the Evangelist and John the Baptist. The disciples whom Jesus loved, John the Evangelist, wears a red robe and holds the Gospel of John in his arms as writer of the book. He was the only apostle to accompany Jesus at the Crucifixion. John the Baptist, to the right, preached as a hermit in the southern desert of Judea, baptizing his disciples with the baptism of repentance. He occupies a privileged position next to Christ and his Mother as the last and greatest of the Old Testament prophets and forerunner of Christ. John wears a camel hair tunic beneath the rich purple robe and walks barefoot, testament to his role as Angel of the Desert. Saint John’s ascetic life highlights core Franciscan ideals of humility and poverty and his martyrdom by King Herod Antipas serves as evidence to his unwavering commitment to truth. The Baptist and the Evangelist were patron saints of Florence, and scenes from their lives were painted on the side walls of the nearby Peruzzi Chapel by the workshop of Giotto at the end of the 1320s.  
+
+Saints Paul and Peter follow as patron saints of Rome and earliest authors of the New Testament. Paul, once named Saul, worked as a Jewish pharisee and persecuted early Christians before becoming a missionary for Christ. He was ultimately beheaded by Roman emperor Nero. Peter, formerly known as Simon, became the first apostle of Christ and earned recognition as the first Pope by the Roman Catholic Church. Both represent complementary dimensions of the Church by symbolizing the Church of the Law and the Church of Grace. Paul carries a sword and book as emblems of his martyrdom and identity as writer of the Thirteen Epistles of the New Testament. Peter holds a cruciform, a symbol of his crucifixion upon an inverted cross and a book to identify him as writer of the Epistles of Peter of the New Testament.  
+
+Below St. Paul and St. Peter follow prominent Old Testament heroes, who, as part of the original glazing campaign, foreshadowed Christ and played crucial roles in building the covenantal relationship between God and His people.  
+
+The bearded Moses carries the Ten Commandments on a slab of stone on the left while David, to the right, holds a harp. Lightning bolts protrude from Moses’ head in accordance with the Bible that described his countenance as supernaturally radiant after being in God’s presence for forty days. King David’s authorship of the Book of psalms is represented by the harp.  
+
+Priest-king Melchizedek and the Wise Solomon follow below. Melchizedek, king of Salem and high priest of God, blessed Abraham and acknowledged God as the source of Abraham’s victories. The priest-king wears a breastplate of precious stones and the robe of the ephod, typical attire for Old Testament priests, and holds vessels of incense for the sanctity of the temple. King Solomon, to the right, holds a scepter in his left hand, indicative of his leadership over Israel, and the Book of Proverbs in his right as the writer of the Song of Songs. Solomon constructed the First Temple of Jerusalem as the third king of Israel and governed a reign marked by prosperity and peace. The genealogy of Jesus traces him back to David and Solomon through his mother’s side.  
+
+Two angels decorate the bottom panels. Angels serve in the lowest angelic hierarchy and function as God’s messengers who guide and protect humanity. The central angels pointedly look down at the friars in the choir to suggest that the hierarchy continues with the order and the responsibilities of keeping God’s will fall into the hands of the Church.  
+
+By Celeste Silva-Carrillo 
+
+Bibliography 
+
+Watkins, Basil, and St. Augustine’s Abbey. <i>The Book of Saints : A Comprehensive Biographical 
+
+Dictionary</i>. 7th ed, Entirely rev. and Reset, Continuum, 2002. 
+
+Tradigo, Alfredo. <i>Icons and Saints of the Eastern Orthodox Church</i>. J.P.Getty Museum, 2006. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html     
+
+Location of Annotation: -3.69, 114.88, 4.03 
+
+Camera Location: 0.582, 111.130, 6.182 
+
+Camera Looks Towards: -18.122, 131.510, 6.199 
+
+Annotation block name: North Window
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The northern apse of the chancel contains images of apostles, saints, and <i>beati</i> who contributed to the spread of the Gospel and helped establish the Church.  
+
+Saints James and Andrew start at the top of the lancet as among the first disciples of Christ. James, brother of John the Apostle and cousin to Jesus through his mother, was the first apostle to be martyred, decapitated by order of king Herod. He holds the Holy Book in his hand and walks barefoot to illustrate his ascetic life. Andrew, the elder brother of Saint Peter and patron of ConstantinopleT, was crucified on an x cross, symbolized by the cruciform in his hands.  
+
+Saint Lawrence and Francis follow below. Lawrence, dressed in the attire of an archdeacon, holds a grid iron, the instrument of his martyrdom, and a palm branch as a symbol of his sacrifice. Francis stands barefoot next to him on the left and wears a Fransican habit with a braided belt that symbolizes vows of poverty, chastity and obedience.  
+
+Saint Louis of Toulouse and Saint Zenobius, both born pagans and later turned bishops, continue this hierarchy. Louis left his royal inheritance as prince of Naples to join the Franciscan order after receiving early tutorage from friars. Although he was known for his modesty, he wears a richly embroidered cape with a jeweled clasp at the neck and carries a crosier, a stylized staff shaped like a shepherd staff that served as an insignia of his ecclesiastical office. Zenobius also holds a crozier and wears the attire of a bishop as the first bishop of Florence. Zenobus served as a counselor to Pope Saint Damasus I and demonstrated extraordinary spiritual gifts.  
+
+The fourth panel depicts the hermits Minias and Blessed Andrew of Anagni. Minias, patron saint of Florence and its first Christian martyr, was persecuted by Emperor Decius and made to endure numerous torments. Minias emerged unharmed each time until he was finally beheaded near the Piazza della Signoria. He then picked up his own head, crossed the Arno River, and returned to his hermitage on Monte di Firenze where the Church of San Miniato now stands. He holds a palm branch as a symbol of his martyrdom and victory over death in the panel. To the right, Andrew wears a Franciscan habit with the braided rope around his waist. He joined the Franciscan order as a hermit after abandoning his royal life and was later venerated for facing spiritual trials with resiliency as he was attacked by demons throughout his life.  
+
+The last two devotees are Saints Clare and Agnes. Clare, depicted in a nun's attire and holding the lilies of virginity, established the Order of Poor Ladies of San Damiano under the guidance of Saint Francis in 1212. She left home around eighteen years old to dedicate her life to God and live as a nun. To the right, Saint Agnes holds a lamb in her arms as reference to her name being close to the Latin word for Lamb of God, or <i>Agnus Dei</i>. She is most famous for her martyrdom at a young age when she was executed after refusing to marry the prefect of Rome. She was condemned to live in a brothel after denying the prefect. but God shielded her by making her hair grow long to envelope her in a bright light so men would turn away.  
+
+Two seraphim appear on the bottom panels. Seraphim are considered the highest order in the angelic hierarchy, being closest to God and in charge of worship. They have six wings that distribute evenly around their body; two covering their heads, two their naked bodies, and the final pair used for flight. Their presence in the panels closest to the friars likely suggests that they stand as reminders of the choir's devotional attitudes.  
+
+By Celeste Silva-Carrillo 
+
+Bibliography 
+
+Watkins, Basil, and St. Augustine’s Abbey. <i>The Book of Saints : A Comprehensive Biographical 
+
+Dictionary</i>. 7th ed, Entirely rev. and Reset, Continuum, 2002. 
+
+Tradigo, Alfredo. <i>Icons and Saints of the Eastern Orthodox Church</i>. J.P.Getty Museum, 2006. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/SCroce/SCroce.html     
+
+Location of Annotation: 4.80, 114.04, 4.05 
+
+Camera Location:  0.582, 111.130, 6.182 
+
+Camera Looks Towards: 58.112, 170.925, 4.945 
+
+Annotation block name: South Window 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The saints, martyrs, and political figures key to the spread of the Christian faith compliment the north apse and strengthen the centrality of the middle panels. This window recognizes the individuals responsible for institutionalizing and contributing to theological thought and religious devotion.  
+
+The identity of the top figures is unclear. Given their lack of shoes, the presence of the Holy Scriptures in their hands, and the simplicity in their apparel, they most likely represent two of Christ’s apostles.  
+
+Below the unidentified figures stand Saints Anthony of Padua and Stephen. Born into a wealthy family, Anthony’s early education took place in monasteries where he studied theology and Latin, prompting him to join the Orders of Friars Minor. The flames in his hand indicate his sainthood, visionary fervor, and miraculous abilities. He wears a lavish robe on top of his Franciscan habit where his braided belt peeks out from underneath the garment. Stephen stands beside him as the first Christian martyr. The circular objects on his head reference the manner of his martyrdom where he was stoned to death after defending his faith before the rabbanic court. He wears a dalmatic to reflect his job as a Christian deacon in Jerusalem and carries a book that represents the scriptures he gave to the Sanhedrin. The palm branch in his hand symbolizes his martyrdom.  
+
+Saints Nicholas of Bari and Bonaventure appear in the windows below. Nicholas, patron saint of children and traditionally associated with Christmas, was an early Christian bishop of Greek descent in the city of Myra during the time of the Roman Empire. He carries a crosier in hand and mitre on his head. The three gold balls in his right hand reference a legend where he saved a father of three daughters from destitution by gifting them a bag of gold each night for three days. On his right, Bonaventure wears a Franciscan habit under the garb of a cardinal-bishop (red hat and red cape). The book in his hand alludes to his substantial contributions to theology and honors his written works that guided the decorative programs in Santa Croce.  
+
+Royal figures Constantine and his mother Helena follow as ideal examples of leadership and service. As first Roman emperor, Constantine integrated Christian practices in his empire, erecting churches, abolishing the penalty of crucifixion, and even composing special prayers for his troops. Constantine’s governance led to the proliferation of Christian art and architecture, including financial support for the construction of St. Peter’s, and laid the groundwork that prepared the way for the growth of the Byzantine and Western medieval culture. The gold ball in his hand potentially signifies God’s favor over the emperor and the eternal life awaiting the ruler. Helena stands to the right in fine clothing and an elaborate crown. She hugs the True Cross close to her, represented as a prime example of the fervent love expected when protecting the Church and building it up.  
+
+The last two saints, Saints Elizabeth of Hungary and Reparata, follow after. Elizabeth, daughter of King Andrew of Hungary, became a member of the Third Order of Saint Francis and founded a hospital for the poor. She dedicated her time and energy towards providing for the sick. The basket of flowers in her hands reference a story where her father caught her delivering a basket of food to Christian prisoners and found only roses when confiscating the goods. Being of royal birth, Elizabeth wears a coif underneath her crown and elaborate robe over her Franciscan habit. Reparata, to the right, was known for her death in Caesarea in Palestine. After refusing to sacrifice to idols before the Roman governor Decius, she endured a series of tortures and was finally beheaded. When her head came off, a dove flew up from her neck and carried her soul to heaven. The crown likely marks her martyrdom and the pot of boiling lead in her hand represents the same pot that was poured over her in an attempt to subject her to the governor’s decrees. The white flag with a red cross in her hand denotes the flag of the city of Florence, which looked to Reparata as one of its patron saints.  
+
+Similar to the left apse, two seraphim feature on the bottom panels as fiery servants of God and representatives of passionate worship.  
+
+By Celeste Silva-Carrillo 
+
+Bibliography 
+
+Watkins, Basil, and St. Augustine’s Abbey. <i>The Book of Saints : A Comprehensive Biographical 
+
+Dictionary</i>. 7th ed, Entirely rev. and Reset, Continuum, 2002. 
+
+Tradigo, Alfredo. <i>Icons and Saints of the Eastern Orthodox Church</i>. J.P.Getty Museum, 2006. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\

@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Santa Trinita</title>
+
+	<link rel="stylesheet" type="text/css" href="../../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<script src="../../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../../libs/spectrum/spectrum.js"></script>
+	<script src="../../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../../libs/other/BinaryHeap.js"></script>
+	<script src="../../libs/tween/tween.min.js"></script>
+	<script src="../../libs/d3/d3.js"></script>
+	<script src="../../libs/proj4/proj4.js"></script>
+	<script src="../../libs/openlayers3/ol.js"></script>
+	<script src="../../libs/i18next/i18next.js"></script>
+	<script src="../../libs/jstree/jstree.js"></script>
+	<script src="../../build/potree/potree.js"></script>
+	<script src="../../libs/plasio/js/laslaz.js"></script>
+	
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+		<span style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); z-index: 10000">
+				<input type="button" value="Show Inside" onclick="setButton1()"/>
+				<input type="button" value="Show Outside" onclick="setButton2()"/>
+				<input type="button" value="Clip None" onclick="setButton3()"/>
+			</span>
+	</div>
+	
+
+	<script>
+	
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+
+		viewer.useHQ = true; 
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(6 * 1000 * 1000);
+        viewer.loadSettingsFromURL();
+        viewer.scene.view.position.set(20.406, 23.754, 4.890);
+        viewer.scene.view.lookAt(2.542, 16.931, 7.449);
+
+		<!-- INCLUDE SETTINGS HERE -->
+		viewer.loadSettingsFromURL();
+		
+		viewer.setDescription("");
+		viewer.scene.camera;
+		viewer.setDescription("Point cloud by <a target='_blank' href='https://florenceasitwas.wlu.edu/'>Florence As It Was</a>");
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_appearance").next().show();
+			$("#menu_tools").next().show();
+			$("#menu_clipping").next().show();
+			viewer.toggleSidebar();
+		});
+		
+		
+
+		Potree.loadPointCloud("../../pointclouds/Trinita/Trinita_20231228/metadata.json", "STrinita", e => {
+			let scene = viewer.scene;
+			let pointcloud = e.pointcloud;
+
+            scene.addPointCloud(pointcloud);
+			let material = pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+			material.shape = Potree.PointShape.SQUARE;
+			material.activeAttributeName = "rgba";
+           
+            
+
+			//viewer.fitToScreen();
+		});
+
+		{ // ANNOTATIONS
+			let scene = viewer.scene;
+
+			
+			//start annotation			
+			scene.annotations.add(new Potree.Annotation({
+				position: [-0.057, 10.097, 9.345],
+				title: "About Annotations",//text between quotes is the annotation title
+				cameraPosition: [37.963, 30.903, 34.777],//this is where the viewer will be directed when annotation is clicked
+				cameraTarget: [2.542, 16.931, 7.449],
+				//Below is the text for the annotation.
+				description: `<ul><li>Click on the annotation label to move a predefined view.</li> 
+				<li>Click on the icon to execute the specified action.</li>
+				In this case, <q>the action will bring you</q> to another scene and point cloud.</ul>`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [-0.510, 29.225, 15.845],
+				title: "test annotation",
+				cameraPosition: [7.691, 32.328, 18.210],
+				cameraTarget: [-4.658, 26.843, 12.402],
+				description: `<ul><li>Click on the annotation label to move a predefined view.</li> 
+				<li>Click on the icon to execute the specified action.</li>
+				In this case, the action will bring you to another scene and point cloud.</ul>`,
+			}));
+			//end annotation
+			
+		}
+
+		
+		{//volumes - Define the cutaway volume here
+			let volume = new Potree.BoxVolume();
+			volume.name = "Test Volume";
+			volume.position.set(-20.912, 28.855, 9.643);
+			volume.rotation.set(0.000, 0.000, 0.000);
+			volume.scale.set(54.595, 41.315, 33.382);
+			volume.clip = true;
+			volume.visible = false;
+			viewer.scene.addVolume(volume);
+			viewer.setClipTask(Potree.ClipTask.NONE)
+		}
+
+		
+	</script>
+	
+	
+	<script type="module">//button actions below
+
+
+		window.setButton1 = function(){
+			//Put actions for button1 below
+			viewer.setClipTask(Potree.ClipTask.SHOW_OUTSIDE)
+			viewer.scene.view.position.set(4.542, 33.889, 12.965);
+        	viewer.scene.view.lookAt(-3.599, 19.687, 10.798);
+			
+		}
+
+		window.setButton2 = function(){
+			viewer.setClipTask(Potree.ClipTask.SHOW_INSIDE)
+			
+		}
+
+		window.setButton3 = function(){
+			viewer.setClipTask(Potree.ClipTask.NONE)
+			
+		}
+
+	</script>
+	
+	
+	
+  </body>
+</html>

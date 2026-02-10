@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Palazzo Davanzati</title>
+	<!-- These style sheets control the look and feel of the potree web interface. 
+	These can be edited to customize the look -->
+	<link rel="stylesheet" type="text/css" href="../../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<!-- INCLUDE DEPENDENCIES HERE. these are all publicly available open-source libraries. 
+	These are all included in the standard Potree install -->
+	<script src="../../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../../libs/spectrum/spectrum.js"></script>
+	<script src="../../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../../libs/other/BinaryHeap.js"></script>
+	<script src="../../libs/tween/tween.min.js"></script>
+	<script src="../../libs/d3/d3.js"></script>
+	<script src="../../libs/proj4/proj4.js"></script>
+	<script src="../../libs/openlayers3/ol.js"></script>
+	<script src="../../libs/i18next/i18next.js"></script>
+	<script src="../../libs/jstree/jstree.js"></script>
+	<script src="../../build/potree/potree.js"></script>
+	<script src="../../libs/plasio/js/laslaz.js"></script>
+	
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+	</div>
+	
+	<script type="module">
+		//these are loaders for mesh object. Usually we will be using .obj files
+		import * as THREE from "../../libs/three.js/build/three.module.js";
+		import {PLYLoader} from "../../libs/three.js/loaders/PLYLoader.js";
+		import {OBJLoader} from "../../libs/three.js/loaders/OBJLoader.js";
+	
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+		
+		//set default quality setting here. these parameters can be adjusted by the user but default values are set here.
+        viewer.useHQ = true;
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(6_000_000);
+		viewer.loadSettingsFromURL();
+		
+		viewer.setDescription(`<p></p>Point cloud by <a target='_blank' href='https://florenceasitwas.wlu.edu/'>Florence As It Was</a><br>
+		`);
+		
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_tools").next().show();
+			$("#menu_scene").next().show();
+			//viewer.toggleSidebar();
+		});
+		
+		// Load the point cloud here: 
+		// The "loadPointCloud" method points to the file created by the Potree Converter application.
+        Potree.loadPointCloud("../../pointclouds/Davanzati/davanzati_06112025/metadata.json", "Davanzati", function(e){
+			let scene = viewer.scene;
+			scene.addPointCloud(e.pointcloud);
+			
+			let material = e.pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+
+            viewer.scene.view.position.set(25.696, 40.282, 9.048);
+			viewer.scene.view.lookAt(1.137, 0.627, -8.356);
+
+            //viewer.scene.view.position.set(-87.007, 60.574, 43.438);
+            //viewer.scene.view.lookAt(-19.346, 32.004, 10.151);
+			
+		});
+		
+
+		{ // LIGHTS. Lights can be added and adjusted to change the appearance of the polygon models.
+			//const directional = new THREE.DirectionalLight( 0xffffff, .5);
+			//directional.position.set( -1.503, 21.122, 6.141 );
+			//directional.lookAt(-1.503, 21.122, -0.141);
+
+            //const directional2 = new THREE.DirectionalLight( 0xffffff, .3);
+			//directional2.position.set( 1.672, 27.008, 6 );
+			//directional2.lookAt(2.818, 25.235, 3.432);
+
+            
+
+			const ambient = new THREE.AmbientLight(0xffffff,1.3);
+
+			//viewer.scene.scene.add(directional);
+            //viewer.scene.scene.add(directional2)
+			viewer.scene.scene.add(ambient);
+		}
+        // ANNOTATION. The code below adds an annotation in the point cloud
+		let PacinoTitle = $(`<span>Saints Cosmas and Damian</span>`);
+        
+        PacinoTitle.toString = () => "Saints Cosmas and Damian";
+
+        let aAbout1 = new Potree.Annotation({
+            // These lines define where the annotation will appear and where the user's view will be 
+			// directed when the annotation is clicked.
+			position: [-17.669, 38.883, 3.016],
+            title: PacinoTitle,
+            cameraPosition: [-14.949, 41.034, 3.719],
+            cameraTarget: [-36.738, 26.467, 5.036],
+            description: `<div style="overflow:scroll ; height:350px">The painting of Sts. Cosmas and Damian, currently in the North Carolina Museum of 
+			Art in Raleigh, NC, features the standing figures of the two Physician saints revered by the Florentine 
+			Arte dei Medici e Speziali (the Guild of Doctors and Apothecaries). Dressed in contemporary garments 
+			worn at the time by its members (accentuated by white elements of Ermine fur at the hem and collar), 
+			Cosmas and Damian hold holy manuscripts as they receive a blessing from Christ above. The two predella
+			scenes at the dossal s base recount their miraculous transplant of a wounded leg (whereby the limb of a 
+			Caucasian patient was replaced with that of a recently deceased African) and the decapitation of both saints. 
+			<br/><br/>
+			The painting has been attributed to Matteo di Pacino, a Florentine painter of note who worked between ca. 
+			1360 and 1375 and participated in important projects in the city: he was named in 1371 as a participant in
+			the production of the Coronation of the Virgin for the nunnery of S. Pier Maggiore (now in London), probably 
+			painted frescoes a few years later in the Rinuccini Chapel of S. Croce s Sacristy, and most likely produced
+			miniatures in at least two choral books used by the Franciscans there. 
+			<br/><br/>
+			No archival references address the dossal painting of Sts. Cosmas and Damian. Based on its stylistic features, 
+			the panel should probably be dated to the early years of the 1370s, while its subject matter, dimensions, and 
+			format suggest that it was originally placed on one of the piers in the guild church of Orsanmichele. There it 
+			would have been seen alongside other similarly shaped representations of guild patron saints, like the St. Matthew 
+			Triptych by Andrea and Jacopo di Cione from 1369 (Florence, Uffizi), St. John the Evangelist by Giovanni del Biondo 
+			(Florence, Accademia), and St. Bartholomew by Jacopo del Casentino (Florence, Accademia). These, in turn, 
+			surrounded Andrea di CIone s massive tabernacle containing Bernardo Daddi s miracle working cult image of 1347 
+			called the Madonna of Orsanmichele. 
+`
+        });
+        viewer.scene.annotations.add(aAbout1);
+		
+		
+		
+				
+		{
+            let pageTitle, location, blockName, annotationDetails, cameraPosition, cameraTarget = '';
+            const annoData = [];
+            const url = 'annotationOrsanmichele.txt?v=1';
+            fetch(url)
+              .then((res) => res.text())
+              .then((text) => {
+                const sections = text.split(/\\\\+/); // Split based on the line of slashes
+
+                sections.forEach(section => {
+                  const lines = section.split('\n');
+
+                  // Reset variables for each section
+                  pageTitle = location = blockName = annotationDetails = cameraPosition = cameraTarget = '';
+
+                  // Parse each line
+                  lines.forEach(line => {
+                    if (line.startsWith('Page:')) {
+                      pageTitle = line.replace('Page:', '').trim();
+                    } else if (line.startsWith('Location of Annotation:')) {
+                      location = line.replace('Location of Annotation:', '').trim();
+                    } else if (line.startsWith('Camera Location:')) {
+                      cameraPosition = line.replace('Camera Location:', '').trim();
+                    } else if (line.startsWith('Camera Looks Towards:')) {
+                      cameraTarget = line.replace('Camera Looks Towards:', '').trim();
+                    } else if (line.startsWith('Annotation block name:')) {
+                      blockName = line.replace('Annotation block name:', '').trim();
+                    } else if (line.startsWith('Annotation Details:')) {
+                      annotationDetails = line.replace('Annotation Details:', '').trim();
+                    } else {
+                      // If it's not a key line, add to annotation details
+                      if (annotationDetails) {
+                        annotationDetails += `<p>${line.trim()}</p>`;
+                      }
+                    }
+                  });
+                  // Check if we have a valid title and location
+                  if (pageTitle && location) {
+
+                    location = location.split(",").map(value => parseFloat(value.trim()));
+                    cameraPosition = cameraPosition.split(",").map(value => parseFloat(value.trim()));
+                    cameraTarget = cameraTarget.split(",").map(value => parseFloat(value.trim()));
+
+                    const currentUrl = window.location.href;
+
+
+                    // Only process if the current URL matches the page title
+                    if (currentUrl === pageTitle) {
+                      processData(pageTitle, location, cameraPosition, cameraTarget, blockName, annotationDetails);
+                    }
+                  }
+                });
+              })
+              .catch((e) => console.error(e));
+
+            function processData(title) {
+                let autoAnnos = new Potree.Annotation({
+                    position: location,
+                    "cameraPosition": cameraPosition,
+                    "cameraTarget": cameraTarget,
+                    "title": blockName,
+                    "description": annotationDetails,
+                });
+                viewer.scene.annotations.add(autoAnnos);
+				autoAnnos.visible = false;
+            }	
+        }
+		
+		//end annnotation
+		
+		var supportsWheel = false;
+		var annotations =  viewer.scene.getAnnotations(); 
+		if (annotations && annotations.children) {
+			annotations.children.forEach(function(annos) {
+						annos.visible = false;
+			});
+		}
+		const MinDistanceFromPainting = 12;
+		
+		/* The function that will run when the events are triggered. */
+		function HideAnnotations (e) {
+			/* Check whether the wheel event is supported. */
+			if (e.type == "wheel") supportsWheel = true;
+			else if (e.key === 'w' || e.key === 'a' || e.key === 's' || e.key === 'd') supportsWheel =  true;
+			else if (e.key === 'ArrowUp' || e.key === 'ArrowDown' || e.key === 'ArrowLeft' || e.key === 'ArrowRight') supportsWheel =  true;
+			else if (supportsWheel) return;
+				
+	
+			if (annotations && annotations.children) {
+				annotations.children.forEach(function(anno) {
+				anno.visible = false;
+				if (anno.position) {
+					if (anno.title) {
+						if (Math.sqrt(((viewer.scene.getActiveCamera().position.x) - (anno.position.x))**2  +
+									  ((viewer.scene.getActiveCamera().position.y) - (anno.position.y))**2 +
+									  ((viewer.scene.getActiveCamera().position.z) - (anno.position.z))**2) < MinDistanceFromPainting) {
+							anno.visible = true;
+							} 
+						}
+					}
+				});
+			}
+				
+				
+		}
+		/* Add the event listeners for each event. */
+		document.addEventListener('wheel', HideAnnotations);
+		document.addEventListener('keydown', HideAnnotations);
+		document.addEventListener('DOMMouseScroll', HideAnnotations);
+		
+		
+	</script>
+	
+	
+  </body>
+</html>

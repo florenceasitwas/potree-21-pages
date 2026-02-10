@@ -1,0 +1,772 @@
+
+
+Keys- A line break should be added as <br><br>
+	  To make a word Italisized <i>What you want Italisized here</i>
+	  To make a word Bold <b>What ever you want bold here</b>
+	  If you want a scroll wheel then add <div style="overflow:scroll ; height:650px"> before the text
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichelemark.html
+
+Location of Annotation: -17.737, 51.302, 2.601
+
+Camera Location: -21.716, 48.690, 4.273
+
+Camera Looks Towards: -12.870, 52.978, 2.105
+
+Annotation block name: Bartholomew
+
+Annotation Details: Bartholomew descriptive text here
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html
+
+Location of Annotation: -17.016, 51.258, 2.746
+
+Camera Location: -19.728, 49.652, 3.697
+
+Camera Looks Towards: -16.139, 51.952, 3.648
+
+Annotation block name: Bartholomew
+
+Annotation Details: Bartholomew descriptive text here
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html
+
+Location of Annotation: -19.516, 39.591, 2.315
+
+Camera Location: -22.595, 44.700, 3.500
+
+Camera Looks Towards: -21.743, 43.370, 3.472
+
+Annotation block name: Andrea di Cione, Matthews Triptych
+
+Annotation Details: <div style="overflow:scroll ; height:300px"> <b>Andrea di Cione</b>  
+
+Born sometime in the 1320s, Andrea appears to have trained in workshop of Bernardo Daddi before striking out on his own as an independent master in the mid-1340s. He partnered with two other painterly brothers, Nardo and the much younger Jacopo, on important projects in important centers, and with them produced frescoes in S. Croce, altarpieces for churches, and perhaps an odd fresco of the <i>Expulsion of the Duke of Athens</i> for the local debtor’s prison called the Stinche. His skills earned him the nickname of “Orcagna” (Archangel) due to the beauty of the figures he produced. When he died in 1368, his artistic legacy shaped the city in vital ways.  
+
+<b>The Commission</b> 
+The so-called <i>St. Matthew Triptych</i>, Orcagna’s last work, was produced for the guild church and former grain distribution center of Orsanmichele. Commissioned by the <i>Arte del Cambio</i> (the Bankers Guild) and dedicated to their patron saint, the picture was left incomplete at Andrea’s death in 1368 and finished the next year by his younger brother, Jacopo di Cione, who used the completed product as an example of his expertise to receive permission to join the <i>Arte dei Medici e Speziali</i>, the guild that included within its membership the city’s painters.  
+
+<b>St. Matthew Triptych</b> 
+The <i>St. Matthew Triptych</i>, now in the Uffizi Gallery, features the standing figure of the Evangelist dressed in a blue robe with a rose cloak wrapped around his body. He holds a quill pen in his right hand and an open book (showing the first phrases of his Gospel) in his left. Four moments from his life’s story move from the lower left to the upper left and then from the upper right down to the lower right. This triptych, a form often employed for altarpiece designs, oddly bends backwards on hinges that originally wrapped around a pier on the south wall of the building, only a few meters away from the enormous tabernacle that Orcagna had finished in 1359 to encase the miracle-working <i>Madonna of Orsanmichele</i> by Bernardo Daddi.  
+
+<b>Narratives</b> 
+Oddly, the story reads from the lower left to the upper left and then moves across the central compartment to the upper right before dropping down to lower right – perhaps to accommodate viewers who might be viewing the picture from below. In the first scene, <i>Christ Calling St. Matthew</i>, we see Jesus, beckoning to Matthew, a tax collector in alliance with the Romans in their control of Palestine, to follow him. A boy guards a safe box behind a bench, illustrating contemporary practices of customer service in 14th-century Florence. Matthew here exchanges the life of wealth and ease for a new life as disciple of Christ. The scene above bears the image of <i>Matthew Quelling Dragons</i>, an allegorical description of the saint’s ability to quiet the fury of sin and the presence of evil. Matthew and John the Evangelist, armed with the truth of their books, calm the threatening beasts, much to the surprise of their sinful witnesses.  
+
+The upper right panel depicts Matthew, joined again by the beardless John, reviving a dead boy, who sits upright on his funeral bier. To the left we see the infidel marvel at the active power of God’s word as the righteous defeat the enemies of Orthodoxy. Below we see the martyrdom of Matthew, as the saint falls victim to an assassin’s blade while kneeling before an altar that has been partnered intentionally with the banker’s bench of his previous life’s work on the opposite side of the triptych. We again see our artists intentionally pairing up themes to emphasize a particular message: in this case, we encounter a protagonist’s spiritual development over a period of time.  
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html
+
+Location of Annotation: -24.404, 47.766, 2.577
+
+Camera Location: -26.309, 50.723, 4.007
+
+Camera Looks Towards: -23.881, 47.230, 3.546
+
+Annotation block name: St Martin
+
+Annotation Details: St Martin descriptive text here
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html
+
+Location of Annotation: -11.685, 44.048, 2.783
+
+Camera Location: -12.736, 45.702, 1.978
+
+Camera Looks Towards: -9.799, 40.969, 6.586
+
+Annotation block name: St John the Evangelist
+
+Annotation Details: <div style="overflow:scroll ; height:350px">Giovanni del Biondo, John the Evangelist, ca. 1380
+Active in Florence from ca. 1360 until his death in 1396, Giovanni del Biondo’s prolific career spanned most of the last half of the fourteenth century. Trained as a fresco painter but also active as a miniaturist, the artist’s most frequent type of commission came in the form of panel pictures for liturgical settings. The facial characteristics of his figures frequently feature large eyes, jutting jawlines, and rosy cheeks. While he understood the potency of light and shadows as signifiers of volume and space, Giovanni’s paintings rarely convey the same brilliance as do the works of his Giottesque predecessors or his Gerinesque contemporaries. Still, the preponderance of images produced by Giovanni del Biondo – whose paintings adorned spaces in the Duomo, S. Maria Novella, S. Croce, and S. Maria degli Angeli, to name but a few – suggests his popularity in Florence irrespective of the limited skill set he retained. 
+
+<b>Circumstances of John the Evangelist</b>
+Commissioned by the Silk Merchants sometime near 1380, Giovanni del Biondo’s vertically oriented painting of John the Evangelist matches the type of picture installed systematically on the piers of Orsanmichele by late Trecento painters working for the different guilds of Florence. Located on the pier adjacent to Orcagna’s Tabernacle and the miracle working Madonna of Orsanmichele inside it, painted by Bernardo Daddi in 1347, the picture of the patron saint of the Por Santa Maria – the name of the Silk Guild, taken from the location of its headquarters near the city gate named for the Virgin Mary – enjoyed a position of prominence inside the church of the guilds. Its arrangement, with a tall compartment for the effigy and a smaller narrative picture below, aligns the image with typical side panels and predellas that normally flanked central compartments of polyptych altarpieces. Its proximity to Daddi’s cult image of the Madonna, installed with neither side panels nor predella scenes, suggests that the Evangelist – as well as the other pier panels inside Orsanmichele – were produced as surrogates that extended the visual presence of a typical altarpiece throughout the entire ground floor of the guild church. 
+
+<b>The Form of John</b>
+The enthroned Evangelist sits with the index finger of his right hand pointed up toward the half-length image of Christ. Both figures hold opened books in their left hands: Christ’s contains the first and last letters of the Greek alphabet – the Alpha and Omega – which symbolize the beginning and the end, or the entirety of purpose that He entails, while John’s book features the opening verses of his Gospel text, “In the beginning was the Word ….” John’s symbolic eagle perches below his right elbow and an inkwell and quill pen remind us of his authoritative authorship. At his feet, as though trampled by the power of Evangelic insight, lie personifications of the three vices of Pride, Avarice, and Vanity. The narrative scene below illustrates the Ascension of John, who rises up from his earthly grave into the waiting arms of Christ, who is flanked in His Celestial Court by Peter, Paul, and (presumably) the other three Gospel writers. Clerics to the left and puzzled bystanders at the right witness the miraculous event, while the symbol of the Silk Guild – a locked gate – appears on either side of this scene in the form of two coats of arms. 
+
+<b>Iconography</b> 
+The frontal position of the figure, combined with his iconographic attribute and emblem of his fame, matches standard representations of figures as they appeared on altarpiece designs. Although a similar approach was taken in the design of the pier panel of St. Zenobius for the nave of the Duomo, the addition of three vices under John’s feet deviates somewhat from the normal representation of saints. Pride, or “Superbia,” has been painted as a bearded soldier, complete with silver gilt wings, helmet, and sword: the metallic materials were used by artists when rendering armed invaders or militant marauders. Vanity has been represented as a royal woman in an emerald gown and gold crown, gazing at her own reflection in a gilt mirror. Between them lies Avarice, who struggles to clutch a bag of coins pregnant with sin. The combination implies a celebration of Republican virtues, for none of the personifications – neither armed marauder, privileged princess, nor female titan – were publicly embraced by Florentines steeped in their own traditions of patriarchal, non-aristocratic, mercantilism.  
+
+<b>Silk Guild (Por S. Maria)</b> 
+The Silk Guild, or the Arte Por S. Maria (the guild at the gate of St. Mary), was one of the six major trade organizations of the city: among their ranks were priors, artists, and international financiers of tremendous influence. Along with the Wool guild, the Arte Por S. Maria specialized in the creation of elegant garments that gradually became the staple of the Florentine wardrobe. The designer fabrics they produced brought with them hefty profits into the guild, and by the fifteenth century Silk merchants accounted for a disproportionate number of the city’s highest earners. Their decision to pay Giovanni del Biondo for the panel to celebrate their patron saint in Orsanmichele was in keeping with the guild’s interest in maintaining a visual presence in the church: indeed, the guild had chosen to serve as caretakers of the building as early as 1336 and its members were keen to maintain it. The symbol of the Silk Guild – a locked gate – appears on either side of the narrative scene in the form of two coats of arms. `
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html
+
+Location of Annotation: -2.160, 49.00, 2.20
+Camera Location: 2.229, 52.132, 3.886 
+Camera Looks Towards: -17.501, 41.835, -0.385 
+
+Annotation block name: Patronage of <i>St. John the Baptist</i>
+
+Annotation Details: <div style="overflow:scroll ; height:350px" The <i>Arte di Calimala</i>, also known as the Cloth Merchants’ guild, functioned as one of the five major guilds in Florence during the fourteenth and fifteenth centuries. The <i>Calimala</i> wielded power in the city because of their senior guild position and their elite Florentine members. Among their most important roles was their management of the decoration of the Baptistery, located directly across from the cathedral of Florence. The guild took this responsibility seriously and in 1401 announced a competition between artists to choose the best design for bronze reliefs to decorate the Baptistery doors. Lorenzo Ghiberti won the competition and was commissioned to execute the project in 1403. However, the guild did not act with the same attention on its commitment to ornament the church of Orsanmichele. 
+
+To remedy this, the Signoria decreed in 1406 that the guilds could construct bronze statues instead of stone statues to fill the exterior niches of Orsanmichele – but also warned them that a failure to complete these projects would result in a forfeiture of the niche that had been allocated to them on the building’s exterior. This law spurred the guilds to begin commissioning the decorations for the niches that they agreed to fill seventy years prior. 
+
+The niche reserved for the Cloth Merchants Guild on exterior pier of Orsanmichele was located in perhaps the most prestigious spot on the building. Positioned on the corner of Via Calzaiuoli and the Via de’ Lamberti, this site was immediately adjacent to Orcagna’s Tabernacle that held the miracle-working Madonna inside the space. It was also situated along the major thoroughfare that connected the governmental center of the Palazzo Vecchio to the spiritual heart of the city at the Piazza del Duomo. Hundreds, if not thousands, of people passed by it daily.  
+
+Abiding by the agreement of 1406, the guild commissioned Ghiberti to fill that niche with a sculpture of their patron saint, John the Baptist, in 1412. They took advantage of the new decree and requested that Ghiberti use bronze as the material for the work.  
+
+This decision was made for a number of reasons. First, bronze withstands weather much better than stone, making it a durable form that can withstand the punishments of rain, snow, and wind. Second, the degree of difficulty in procuring the amount of tin and copper to produce a sufficient amount of molten bronze made it a conspicuously expensive material. And third, the technical challenges involved in the casting process made it a symbol of high-quality workmanship. Its value explains its increasing use in commissions for Florentine civic structures and made it a perfect choice for the material of the sculptures for Orsanmichele’s niches. Surely the <i>Calimala</i> recognized the status of the material and person they chose for the commission. 
+
+Lorenzo Ghiberti, the same artist the guild had selected to produce reliefs for the Baptistery’s doors a decade earlier, began casting the sculpture in December 1414 and chased it the next year before finally installing it in 1416. The guild paid Ghiberti the enormous sum of 530 florins for the sculpture, which covered the costs of materials and supplies, as well as the expense of maintaining his large workshop of apprentices and assistants.  
+
+By Lou Langhorne 
+
+Bibliography: 
+
+Krautheimer, Richard, and Trude Krautheimer-Hess. <i>Lorenzo Ghiberti</i>. Princeton, NJ: Princeton University Press, 2019.		  
+
+Najemy, John M. “Guild Republicanism in Trecento Florence: The Successes and Ultimate 	Failure of Corporate Politics.” <i>The American Historical Review</i> 84, no. 1 (1979): 	53–71.  
+
+Zervas, Diane Finiello. “Ghiberti’s St. Matthew Ensemble at Orsanmichele: Symbolism in Proportion.” <i>The Art Bulletin 58</i>, no. 1 (March 1976): 36.  
+
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html 
+
+Location of Annotation: -1.58, 48.71, 1.89
+Camera Location: 1.584, 51.705, 2.515
+Camera Looks Towards: -14.712, 43.834, 0.703
+
+Annotation block name: The Style of <i>St. John the Baptist</i>   
+Annotation Details: <div style="overflow:scroll ; height:350px" Lorenzo Ghiberti’s <i>St. John the Baptist</i> was one of the first sculptures erected on the exterior piers at Orsanmichele. The Cloth Merchants’ guild, also known as the <i>Arte di Calimala</i>, commissioned Ghiberti to create the statue around 1412 or 1413. The merchants’ patron saint was John the Baptist partly because he had clothed himself in animal skins when he had to spend time in the wild. Those animal skins invoked the idea of rich cloth. The <i>Calimala</i> highlighted John’s clothing in their commissions for his image to advertise their guild, and Ghiberti conformed to this by lowering the neckline of John’s tunic so that his goatskin garment is visible.  
+
+Ghiberti crafted the sculpture in the International Gothic Style which gained momentum in Europe in the early fifteenth century. The style was brought to France by Simone Martini, the Sienese painter, and popularized there by local artists during the 14th century. It incorporated a combination of naturalistic elements and more ornate Gothic elements that idealized characters and stories into a sort of fairy tale. The preponderance of gold, abstracted spatial arrangements, and voluminous, billowing garments mark the objects produced by these artists, and the patrons who could afford to pay the costs of materials and craftsmanship preferred this style of painting and sculpture, which they interpreted as a signifier of their own wealth. Ghiberti’s selection as the artist for the guild’s effigy says as much about the guild’s interest in self-promotion as it does about his skill and popularity. 
+
+Ghiberti’s <i>St. John the Baptist</i> measures 255 cm, around 8 feet tall. Sculpted in expensive bronze, John stands with his right leg slightly bent. He is situated in a niche that contains classicizing columns and pilasters along with a vaulted ceiling reminiscent of contemporary style. Ghiberti’s stylized naturalism, indicative of his interest in the International Gothic, appears in the details of John’s face. The wrinkles on his cheeks make him appear realistic and middle-aged, but the curls in his beard form two identical pieces which look unnaturally elaborate. John’s pose employs the Gothic S-curve and his robes cover the shape of his body, disguising his tilt to the right. He glances down and grasps the folds of his copious robes with his left hand, emphasizing the fabric that the Cloth Merchants valued and wished to highlight here. In fact, the large swoops of his robes form the most eye-catching part of the sculpture.   
+
+
+By Lou Langhorne 
+
+
+Bibliography: 
+
+Chen, Yi-Pei. "The Depiction of St. John the Baptist's Legend in Florence, 1300-1500." Order No. 10167218, University of St. Andrews (United Kingdom), 1999.  
+
+Krautheimer, Richard, and Trude Krautheimer-Hess. <i>Lorenzo Ghiberti</i>. Princeton, NJ: Princeton University Press, 2019.  
+
+Luciano, Eleonora. “A More ‘Modern’ Ghiberti: The Saint Matthew for Orsanmichele.” <i>Studies in the History of Art</i> 76 (2012): 213–42. 	 
+
+Zervas, Diane Finiello. “Ghiberti’s St. Matthew Ensemble at Orsanmichele: Symbolism in Proportion.” <i>The Art Bulletin 58</i>, no. 1 (March 1976): 36. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html 
+
+Location of Annotation: -39.37, 48.71, 2.33 
+Camera Location: -43.891, 45.958, 3.906 
+Camera Looks Towards: -33.754, 51.407, 2.737 
+Annotation block name: The Style of Lorenzo Ghiberti’s <i>St. Matthew</i> 
+
+Annotation Details: <div style="overflow:scroll ; height:325px"> Lorenzo Ghiberti began working on <i>St. Matthew</i>’s sculpture for the exterior north corner on the West side of Orsanmichele in 1419 and finished by 1422. Ghiberti blended the late medieval style with the newer Florentine Quattrocento style that arose during the Renaissance.  
+
+<i>St. Matthew</i> stands in a contrapposto pose, leaning on his left leg while bending his right. His pose appears solid and natural in contrast to Ghiberti’s earlier <i>St. John the Baptist</i> whose pose appears less balanced. <i>St. Matthew</i> holds a book open toward the viewer with his left hand and gestures with his right hand in the book’s direction. His robes cover his figure from the neckline to just above his sandaled feet and cascade in folds to portray the body underneath. Wrinkles line his cheeks and forehead, indicating his mature age. The mustache and beard further emphasize his older age. Curls frame his head, falling naturally on his forehead. Matthew’s gaze looks to his right, where many Florentines would walk on the Via di Orsanmichele and see him.  
+
+<i>St. Matthew</i> was installed in a niche that contains both medieval and Renaissance features. The pointed arches and floral triangular gable of the niche recall features of Gothic architecture. However, the pilasters have been designed to reference the ancient Greek Corinthian order, and the shell behind the figure’s head contributes to the Renaissance aspects of the composition. The guild’s crest with thirteen circles crowns the composition. Ghiberti’s <i>St. Matthew</i> combines the Gothic and the Renaissance to make a public image that would be familiar yet new to the people who would have walked by.  
+
+
+By Lou Langhorne 
+
+ 
+Bibliography: 
+
+Krautheimer, Richard, and Trude Krautheimer-Hess. <i>Lorenzo Ghiberti</i>. Princeton, NJ: Princeton University Press, 2019.  
+
+Luciano, Eleonora. “A More ‘Modern’ Ghiberti: The Saint Matthew for Orsanmichele.” <i>Studies in the History of Art</i> 76 (2012): 213–42. 	 
+
+Taylor-Mitchell, Laurie. “Images of St. Matthew Commissioned by the Arte Del Cambio for Orsanmichele in Florence: Some Observations on Conservatism in Form and Patronage.” <i>Gesta</i> 31, no. 1 (January 1992): 54–72.  
+
+Zervas, Diane Finiello. “Ghiberti’s St. Matthew Ensemble at Orsanmichele: Symbolism in Proportion.” <i>The Art Bulletin 58</i>, no. 1 (March 1976): 36.  
+
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html 
+
+Location of Annotation: -39.37, 48.71, 2.10 
+Camera Location: -43.891, 45.958, 3.906 
+Camera Looks Towards: -33.754, 51.407, 2.737 
+
+Annotation block name: Ghiberti’s Workshop and the Creation of <i>St. Matthew</i>’s Sculpture 
+Annotation Details: <div style="overflow:scroll ; height:290px"> The bronze sculpture of St. Matthew stands four and a half <i>braccia</i> tall, which translates to 2.70 meters. Making a statue out of bronze requires lots of steps, precision, and coordination. Sculptors in fifteenth-century Florence often did not work alone in this endeavor. Although Ghiberti focused on the design and the final touches on the sculpture, he also had a workshop of aspiring sculptors that did much of the manual work. Michelozzo di Bartolomeo Michelozzi was one of those who had a large role in Ghiberti’s workshop. Michelozzo joined the workshop around the middle of the statue’s production and probably worked on its casting and chasing.  
+
+The banker’s guild commissioned Ghiberti to cast the bronze. Florentine sculptors were still experimenting with their method of making bronze statues when this commission was executed. The model for the statue was made of wax; however, Ghiberti also had a working clay model that he crafted with copper tools. Ghiberti made a core for the model around a wooden plank that was 2.90 meters long, covered with animal fat. The core could have served as the model just for the body with the head of the statue completed separately and then added together, using cloth and clay from the Porta San Piero Gattolino to create the forms. Ghiberti then installed the casting pit by his house where he worked on the model.  
+
+The banker’s guild book, documenting the commission, describes how Ghiberti’s first casting failed in the summer of 1421. Yet despite challenges, Ghiberti tried again and managed to finish the sculpture only five months after the July 21, 1422 deadline the banker’s guild originally set.  
+
+By Lou Langhorne 
+
+Bibliography: 
+
+Krautheimer, Richard, and Trude Krautheimer-Hess. <i>Lorenzo Ghiberti</i>. Princeton, NJ: Princeton University Press, 2019.  
+
+Luciano, Eleonora. “A More ‘Modern’ Ghiberti: The Saint Matthew for Orsanmichele.” <i>Studies in the History of Art</i> 76 (2012): 213–42. 	 
+
+Taylor-Mitchell, Laurie. “Images of St. Matthew Commissioned by the Arte Del Cambio for Orsanmichele in Florence: Some Observations on Conservatism in Form and Patronage.” <i>Gesta</i> 31, no. 1 (January 1992): 54–72. 
+
+Zervas, Diane Finiello. “Ghiberti’s St. Matthew Ensemble at Orsanmichele: Symbolism in Proportion.” <i>The Art Bulletin 58</i>, no. 1 (March 1976): 36. 
+ 
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html 
+
+Location of Annotation: -39.37, 48.71, 1.90 
+Camera Location: -43.891, 45.958, 3.906 
+Camera Looks Towards: -33.754, 51.407, 2.737 
+
+Annotation block name: The Patronage of Lorenzo Ghiberti’s <i>St Matthew</i> 
+Annotation Details: <div style="overflow:scroll ; height:265px"> The Florentine bankers’ guild of the <i>Arte del Cambio</i> commissioned Lorenzo Ghiberti in 1419 to sculpt their effigy of Saint Matthew in bronze for the niche allocated to them in the northwest corner of Orsanmichele’s exterior wall. The Arte del Cambio had received the niche on June 22, 1419 from the baker’s guild, who had given up their spot after failing to abide by the decree of 1406 that insisted that the guilds had to decorate their niche as soon as possible or lose their niche. Placing their patron saint on the exterior of this central public building in Florence was an immense source of pride and publicity for the major guilds.	 
+
+The guild kept a book titled the <i>Libro del Pilastro</i>, Book of the Pier, to document Ghiberti’s work on St. Matthew. As a result, we have more documentation on this single sculpture than we do on almost every other statue produced during the Italian Renaissance.  
+
+For example, the book describes when the guild began searching for the artist to sculpt <i>St. Matthew</i> and who they elected to do so. It describes how the guild chose four of its members – the <i>operai</i> - to oversee this endeavor and how they came to secure his services for the project, which was settled officially on July 21, 1419, some two weeks after Ghiberti had actually begun to work on the sculpture (records show that Ghiberti began work as early as July 8). The book notes that the Bankers’ Guild wished for their statue to be larger than the bronze effigy of <i>St. John the Baptist</i> that Ghiberti had made for the rival Cloth Merchants’ guild and finished in 1416. They gave the artist exactly three years to complete the bronze sculpture.  
+
+Choosing Ghiberti was a logical decision: in addition to the bronze sculpture, as he had made the Cloth Merchants’ guild – installed in its niche on the most prestigious position of the building, the southeast corner on the main thoroughfare of the Via Calzaiuoli – the artist was involved in a series of other high-profile projects.  Ghiberti had already produced work in the papal apartments in Santa Maria Novella, on designs for the cupola of the Duomo, and on the bronze doors of the Florentine Baptistery that were nearing completion in 1419. He was the perfect, high-profile candidate for the commission.  
+
+By Lou Langhorne 
+
+Bibliography: 
+
+Luciano. Eleonora. “A More ‘Modern’ Ghiberti: The Saint Matthew for Orsanmichele.” <i> 	Studies in the History of Art <i> 76 (2012): 213–42. 	 
+ 
+Taylor-Mitchell, Laurie. “Images of St. Matthew Commissioned by the Arte Del Cambio for 	Orsanmichele in Florence: Some Observations on Conservatism in Form and Patronage.” 	<i>Gesta <i>31, no. 1 (1992): 54–72.  
+
+Zervas, Diane Finiello. “Ghiberti’s St. Matthew Ensemble at Orsanmichele: Symbolism in 	Proportion.” <i>The Art Bulletin<i> 58, no. 1 (1976): 36–44. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichelemark.html
+
+Location of Annotation: -28.80, 31.41, 6.55
+
+Camera Location: -24.694, 28.312, 5.440
+
+Camera Looks Towards: -27.773, 33.478, 4.782
+
+Annotation block name: Donatello's <i>St. Mark<i>
+
+Annotation Details: <div style="overflow:scroll ; height:265px"> Donatello’s <i>St. Mark</i> from the Orsanmichele sculptural program was commissioned by the <i>Arte dei Linaiuoli e Rigattieri</i>, the Linen Weavers’ and Pedlars’ Guild. The sculpture was installed in 1415, but by 1409 the guild had already ordered the marble for the statue. However, the sculptor, Donatello, was not selected until 1411. The statue is 7’10 high and is placed within a niche on the southwest pier of Orsanmichele’s exterior.  
+
+Donatello subtly referred to the corporate patrons of the sculpture by carving a stone “linen pillow” for the saint to stand on, a witty reminder of the guild’s presence in Florence. The addition of the pillow connected <i>St. Mark to the <i>Arte dei Linaiuoli e Rigattieri</i>, but also allowed Donatello to further emphasize his skill as a sculptor. Although made of stone, the linen pillow looks plush and soft, and it sinks beneath the weight of St. Mark’s body as though a real person were standing on it. Donatello’s ability to depict a pillow in this manner demonstrated his recognition of the ways in which forms interact with each other and how to depict these effects naturalistically.
+
+<i>St. Mark</i> notably stands in a contrapposto stance. By putting his weight on his right leg, <i>St. Mark</i>’s whole body becomes engaged. His pelvis tilts, his right shoulder dips, and his relaxed left leg bends at the knee. Mark’s torso and neck gently twist, while his right arm hangs to his side and his left arm lifts up with the hand holding his gospel text. As with the pillow, the saint’s hands and feet are carved with great naturalism, and his thick eyebrows and deep-set eyes give the saint an unmistakable character. All of these features come together in a highly naturalistic sculpture inspired by the classical tradition. Donatello’s skill as an artist becomes even more profound when the proportions of the statue are studied: the sculptor intentionally distorted the length of the figure’s torso in order to address the optical correction that occurs when the sculpture is viewed from below, the angle from which the statue was (and is) actually seen.
+
+By Gretchen Cadranell
+
+Bibliography 
+
+Bertelà, Giovanna Gaeta. <i>Donatello</i>. The Library of Great Masters. Florence: Istituto Fotografico Editoriale, 1991: 8
+
+Johnson, Geraldine Anne. “In the Eye of the Beholder: Donatello’s Sculpture in the Life of Renaissance Italy.” PhD diss., Harvard University, 1994: 182
+
+Nethersole, Scott. <i>Art of Renaissance Florence: A City and Its Legacy</i>. London: Laurence King, 2019: 80
+
+Partridge, Loren. <i>Art of Renaissance Florence, 1400-1600</i>. Berkeley and Los Angeles: University of California Press, 2009: 22-3
+
+Poeschke, Joachim. <i>Donatello and His World: Sculpture of the Italian Renaissance</i>. Harry N. Abrams, 1990: 21, 377
+
+Pope-Hennessy, John. <i>Donatello: Sculptor</i>. Abbeville Press, 1993: 38, 40
+
+Turner, A. Richard. <i>Renaissance Florence: The Invention of a New Art</i>. Edited by Harvey Jacky Colliss. New York: Harry N. Abrams, 1997: 54-6
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html 
+
+Location of Annotation: -39.20, 51.28, 2.40 
+
+Camera Location: -35.230, 61.069, 3.814 
+
+Camera Looks Towards: -43.408, 49.088, 3.092 
+
+Annotation block name: Donatello’s <i>St. George</i> - Predella    
+
+Annotation Details: <div style="overflow:scroll ; height:300px"> The bas-relief of Donatello’s <i>St. George</i> depicts the legend of St. George slaying a dragon in order to save the Princess of Cappadocia. The bas-relief, done in a low relief style called <i>rilievo schiacciato</i> pioneered by Donatello, is the most influential part of the whole work. <i>Rilievo schiacciato</i> explored three dimensionality through light and shadows and was inspired by the rediscovery of cast shadows by Florentine painters. Donatello’s new style allowed him to depict reality more naturalistically than even the painters could. <i>Rilievo schiacciato</i> uses shallow cuts which allow for great detail and movement on a stone surface, as seen in the flowing fabric of the princess’ dress, St. George’s cape, and the tail of the horse. After Donatello introduced <i>rilievo schiacciato</i> for his scene of <i>St. George and the Dragon</i>, the production of relief sculpture was forever changed.  
+
+Donatello’s scene of <i>St. George and the Dragon</i> was also influential in how he rendered perspective. Although he intended to create a vanishing area rather than a single vanishing point, the sculptor unknowingly succeeded in this initial experiment by incorrectly placing this vanishing area above both the figures and the horizon and misaligning the palace roofline with the vanishing point. The orthogonals of the palace roof recede towards the central figure of St. George and direct the viewer’s eyes towards the landscape in the distance, creating a single vanishing point. The princess aligns with the loggia behind her, and her shoulders properly recede into space. Although too large for the architectural space behind her, Donatello places her in the midst of the panel in a way that suggests she stands in front of the loggia. Although his vision was not perfectly rendered, Donatello made great strides towards the creation of one-point perspective on a two-dimensional surface.  
+
+Bibliography
+
+Bertelà, Giovanna Gaeta. <i>Donatello</i>. The Library of Great Masters. Florence: Istituto Fotografico Editoriale, 1991: 10  
+
+Janson, H.W. <i>The Sculpture of Donatello</i>. Princeton UP, 1963: 30  
+
+Johnson, Geraldine Anne. “In the Eye of the Beholder: Donatello’s Sculpture in the Life of Renaissance Italy.” PhD diss., Harvard University, 1994: 188  
+
+Pope-Hennessy, John. <i>Donatello: Sculptor</i>. Abbeville Press, 1993: 118  
+
+Rosenauer, Artur. “Orsanmichele: The Birthplace of Modern Sculpture.” <i>Studies in the History of Art</i> 76 (2012): 171, 175 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html 
+
+Location of Annotation: -39.13, 51.28, 5.82 
+
+Camera Location: -35.607, 60.570, 3.993 
+
+Camera Looks Towards: -52.440, 30.619, 0.935 
+
+Annotation block name: Donatello’s <i>St. George</i> - General 
+
+Annotation Details: <div style="overflow:scroll ; height:300px"> Completed between 1415 and 1417, <i>St. George</i> by Donatello was commissioned by the <i>Arte dei Spedai e Corazzai</i>, the Swordsmiths and Armorers Guild, whose patron saint was the legendary warrior.  
+
+Donatello portrayed St. George with his feet spread apart, as this was the typical stance for a soldier in armor. In order to support the wide stance of the saint, Donatello included a large shield between his legs.  This shield had the double purpose of supporting the statue and making it clear that the work was commissioned by weapon makers. <i>St. George</i> stands confidently and his muscles can be seen through his breastplate. His cloak is tied on the right side of his chest, but his head turns to the left, adding liveliness to the sculpture. Motion is not the intention of the statue, however.  Donatello intended to produce a rigid and ready <i>St. George</i> who still seems relaxed and unafraid, as these are the characteristics of a good warrior saint.  
+
+<i>St. George</i> has been moved several times. It was carved for and first stood in the niche belonging to the <i>Arte dei Spadai e Corazzai</i> on the north facade of Orsanmichele. A bas-relief at the base of this niche was carved with the scene of George Slaying the Dragon specifically to enhance the statue. Due to weathering concerns, the <i>St. George</i> was moved sometime between 1677 and 1700 to a niche on the south façade (originally containing the Madonna of the Rose), which is deeper and more protective than the one for Donatello’s sculpture. In about 1860, the statue was returned to its original niche, but by 1868 it was moved back again to the one intended for the Madonna of the Rose. In 1887, <i>St. George</i>, along with a plaster copy of its tabernacle, was installed inside the Bargello Museum, where it remains on display today.  
+
+Bibliography   
+
+Johnson, Geraldine Anne. “In the Eye of the Beholder: Donatello’s Sculpture in the Life of Renaissance Italy.” PhD diss., Harvard University, 1994: 186  
+
+Nethersole, Scott. <i>Art of Renaissance Florence: A City and Its Legacy</i>. London: Laurence King, 2019: 81  
+
+Partridge, Loren. <i>Art of Renaissance Florence, 1400-1600</i>. Berkeley and Los Angeles: University of California Press, 2009: 24  
+
+Poeschke, Joachim. <i>Donatello and His World: Sculpture of the Italian Renaissance</i>. Harry N. Abrams, 1990: 21, 380  
+
+Pope-Hennessy, John. <i>Donatello: Sculptor</i>. Abbeville Press, 1993: 47  
+
+Zervas, Diane Finiello. “‘Degno Templo e Tabernacol Santo:’ Remembering and Renewing Orsanmichele.” <i>Studies in the History of Art</i> 76 (2012): 9-11 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html 
+
+Location of Annotation: -26.01, 33.01, 1.90 
+
+Camera Location:  -23.872, 25.955, 2.817 
+
+Camera Looks Towards: -33.408, 58.979, 5.685 
+
+Annotation block name: Donatello’s <i>St. Mark</i> - Changes in Style   
+
+Annotation Details: <div style="overflow:scroll ; height:300px"> A key development in sculptural style during the early 1400s is the rendition of cloth and draperies. When designing his sculpture of <i>St. John the Baptist</i> between 1412 and 1414, Ghiberti employed an approach to textile representation dominated by full and sweeping folds that fall laterally across the body in heavy curves. The body of the saint is almost invisible below its clothes. By contrast, the body of Donatello’s <i>St. Mark</i> shows through its clothes, privileging the anatomically accurate human form underneath. The naturalistic rendering of the saint’s clothes found form through a gentle and convincing approach to the folds of fabric that fall toward his ankles. Moreover, Ghiberti’s <i>St. John the Baptist</i> stands in the traditional S-curve pose, a choice eschewed by Donatello in his <i>St. Mark</i>. The <i>contrapposto</i> position now replaces the S-curve, allowing the statue to stand naturally and comfortably while conserving a commanding air. The <i>contrapposto</i> position refers to classical antecedents, a mainstay of Renaissance art, and announces Donatello’s decisive turn away from the Gothic style of his contemporaries.   
+
+Another way <i>St. Mark</i> breaks from the Gothic tradition is through its placement in the niche. Unlike those sculptures that came before it at Orsanmichele, which use the space of the niche for compositional support, Donatello’s figure does not depend upon its niche for full effect. Instead of being contained by its niche, <i>St. Mark</i> break free from it.    
+
+Neither artists, patrons nor viewers were thinking about distinctions between “Gothic” art and an emerging “Renaissance” alternative when these statues were produced in the early fifteenth century. Neither of these modern terms had been invented yet and would only come into academic parlance by scholars in the 1800s. Instead, contemporary viewers likely recognized distinctions between these two approaches but surely valued each as a different but equally effective rendition of the human form.  
+
+Bibliography  
+
+Lord Balcarres. <i>Donatello</i>. New York: Charles Scribner’s Sons, 1903: 37  
+
+Bertelà, Giovanna Gaeta. <i>Donatello</i>. The Library of Great Masters. Florence: Istituto Fotografico Editoriale, 1991: 8, 10  
+
+Poeschke, Joachim. <i>Donatello and His World: Sculpture of the Italian Renaissance</i>. Harry N. Abrams, 1990: 19  
+
+Rosenauer, Artur. “Orsanmichele: The Birthplace of Modern Sculpture.” <i>Studies in the History of Art</i> 76 (2012): 171  
+
+Turner, A. Richard. <i>Renaissance Florence: The Invention of a New Art</i>. Edited by Harvey Jacky Colliss. New York: Harry N. Abrams, 1997: 56 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html  
+
+Location of Annotation: -25.52, 33.28, 6.54 
+
+Camera Location: -25.133, 23.404, 2.714  
+
+Camera Looks Towards: -21.875, 45.548, 6.256
+
+Annotation block name: Donatello’s <i>St. Mark</i> - General   
+
+Annotation Details: <div style="overflow:scroll ; height:300px"> Donatello’s <i>St. Mark</i> from the Orsanmichele sculptural program was commissioned by the <i>Arte dei Linaiuoli e Rigattieri</i>, the Linen Weavers’ and Pedlars’ Guild. The sculpture was installed in 1415, but by 1409 the guild had already ordered the marble for the statue. However, the sculptor, Donatello, was not selected until 1411. The statue is 7’10 high and is placed within a niche on the southwest pier of Orsanmichele’s exterior.    
+
+Donatello subtly referred to the corporate patrons of the sculpture by carving a stone “linen pillow” for the saint to stand on, a witty reminder of the guild’s presence in Florence. The addition of the pillow connected <i>St. Mark</i> to the <i>Arte dei Linaiuoli e Rigattieri</i> but also allowed Donatello to further emphasize his skill as a sculptor. Although made of stone, the linen pillow looks plush and soft, and it sinks beneath the weight of St. Mark’s body as though a real person were standing on it. Donatello’s ability to depict a pillow in this manner demonstrated his recognition of the ways in which forms interact with each other and how to depict these effects naturalistically.  
+
+<i>St. Mark</i> notably stands in a contrapposto stance. By putting his weight on his right leg, <i>St. Mark</i>’s whole body becomes engaged. His pelvis tilts, his right shoulder dips, and his relaxed left leg bends at the knee. Mark’s torso and neck gently twist, while his right arm hangs to his side and his left arm lifts up with the hand holding his gospel text. As with the pillow, the saint’s hands and feet are carved with great naturalism, and his thick eyebrows and deep-set eyes give the saint an unmistakable character. All of these features come together in a highly naturalistic sculpture inspired by the classical tradition. Donatello’s skill as an artist becomes even more profound when the proportions of the statue are studied: the sculptor intentionally distorted the length of the figure’s torso in order to address the optical correction that occurs when the sculpture is viewed from below, the angle from which the statue was (and is) actually seen.  
+
+Bibliography   
+
+Bertelà, Giovanna Gaeta. <i>Donatello</i>. The Library of Great Masters. Florence: Istituto Fotografico Editoriale, 1991: 8  
+
+Johnson, Geraldine Anne. “In the Eye of the Beholder: Donatello’s Sculpture in the Life of Renaissance Italy.” PhD diss., Harvard University, 1994: 182  
+
+Nethersole, Scott. <i>Art of Renaissance Florence: A City and Its Legacy</i>. London: Laurence King, 2019: 80  
+
+Partridge, Loren. <i>Art of Renaissance Florence, 1400-1600</i>. Berkeley and Los Angeles: University of California Press, 2009: 22-3  
+
+Poeschke, Joachim. <i>Donatello and His World: Sculpture of the Italian Renaissance</i>. Harry N. Abrams, 1990: 21, 377  
+
+Pope-Hennessy, John. <i>Donatello: Sculptor</i>. Abbeville Press, 1993: 38, 40  
+
+Turner, A. Richard. <i>Renaissance Florence: The Invention of a New Art</i>. Edited by Harvey Jacky Colliss. New York: Harry N. Abrams, 1997: 54-6  
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html   
+
+Location of Annotation: -25.15, 33.68, 4.42 
+
+Camera Location:  -26.130, 23.431, 2.929 
+
+Camera Looks Towards:  -24.462, 73.807, 10.702 
+
+Annotation block name: Viewership of Donatello’s  <i>St. Mark</i> and <i>St. George</i>   
+
+Annotation Details: <div style="overflow:scroll ; height:300px"> Florentine public sculpture changed dramatically during the first quarter of the fifteenth century. At this time, sculptures such as Donatello’s <i>St. Mark</i> and <i>St. George</i> begin to intentionally engage with the people who see them through their powerful, direct, and anatomically accurate bodily positions.  
+
+The positioning of Donatello’s <i>St. Mark</i> makes it clear that the saint focuses his attention on the to the east. Lay pedestrians could not ignore the gaze of <i>St. Mark</i>. Along with his face and body, people would notice the softness of the saint’s garments and the cushion on which the statue stands, a direct reminder of the fabrics crafted by the influential <i>Arte dei Linaiuoli e Rigattieri</i>, the Linen Weavers and Pedlars Guild, who commissioned the work.  
+
+Vasari writes that when guild members first saw Donatello’s completed <i>St. Mark</i> at ground level, they were disappointed with its “inaccurate” proportions: and, in fact, the elongated torso does not match the shorter legs below. Donatello told them he would fix it, but instead of altering the statue, he elevated it on a pedestal in a way that replicated the height of the niches in  Orsanmichele. When Donatello revealed his sculpture to his patrons for the second time, the guild members were satisfied. Vasari probably invented this story to demonstrate a point: that <i>St. Mark’s</i> position in relation to the viewer dictated decisions that Donatello made while designing the figure.  
+
+Donatello’s inventive use of perspective in the bas relief at the eye level of viewers encouraged Florentines to imagine a spatial box that receded back into the depths of the landscape he created. At the same time, the spear, sword, or banner that appears to have been clutches in George’s hand jutted out over their heads into the street, effectively ‘breaking the fourth wall’ by penetrating the viewer’s space. Thus a back-and-forth, tug-and-pull effect caused spectators to understand themselves occupying a position within the same area as that depicted by the sculptor.  
+
+Bibliography  
+
+Johnson, Geraldine Anne. “In the Eye of the Beholder: Donatello’s Sculpture in the Life of Renaissance Italy.” PhD diss., Harvard University, 1994: 182-3, 185, 187  
+
+Nethersole, Scott. <i>Art of Renaissance Florence: A City and Its Legacy</i>. London:          Laurence King, 2019: 80-1  
+
+Partridge, Loren. <i>Art of Renaissance Florence, 1400-1600</i>. Berkeley and Los Angeles: University of California Press, 2009: 22-3  
+
+Turner, A. Richard. <i>Renaissance Florence: The Invention of a New Art</i>. Edited by Harvey Jacky Colliss. New York: Harry N. Abrams, 1997: 51 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ 
+
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html     
+
+Location of Annotation: -6.79, 44.65, 6.79 
+
+Camera Location: -8.606, 47.809, 7.917
+Camera Looks Towards: -1.902, 34.926, 8.140
+
+Annotation block name: Left Bay of the Southern Wall: Marian Miracles  
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The left bay on the south side of Orsanmichele displays three narrative panels designed by Giovanni del Biondo and glazed by Niccolò di Piero Tedesco between 1386 and 1400. The panels read from left to right and begin with <i>Renunciation of Wordly Goods</i>, move to <i>Miracle of the Hanged Thief</i>, and end with <i>Miracle of the Ordeal by Fire</i>. Four eye windows display half-length prophet figures carrying scrolls and one rose window contains half-length figures surrounded by vegetal decoration in the triangular elaborate tracery. The lunettes make up part of the original glazing campaign and contribute to the twelve scenes that narrate the Miracles of the Virgin and visualize the Life of the Virgin.  
+
+The narrative panels on the east end of the oratory specifically explore accounts of miraculous devotion and follow the miracles performed by the painting of the Virgin that had once hung on a pilaster inside the grain market. The public image healed the sick, raised the afflicted, and relieved the tormented from their suffering. These miracles transformed the market into a pilgrimage site where devotees brought offerings and wax votive images.  
+
+The left window features a young man kneeling before a street tabernacle displaying the Virgin Mary enthroned with the Christ child in her lap. Surrounding figures either mirror the act of devotion or assist a fallen individual, creating a visual dialogue between personal devotion and public acts of virtue. The right side of the bay presents the same tabernacle with the same Virgin Mary and Christ child, now positioned centrally, and designed with the same iconographic details. Witnesses watch as a man kneels before this Virgin with a horseshoe in his hand. On the left side of the panel, three individuals interact in a closed conversation.  
+
+Few extant resources describe these miracles in detail, though scholars have linked certain iconographic elements to two 14th-century manuscripts preserved in Florence and the Vatican. The two panels connect through the depiction of the recurring tabernacle. The bridge in the left window relates to the survival story of a child who paid tribute to the Virgin’s image after falling into a river in Lombardy and credited his life to the Madonna’s mercy. Another miracle story echoes this motif of divine mercy and recounts the tale of a group of porters who regularly gathered by a street statue and received the Madonna’s protection through constant homage. A small statue standing on the right side of the bridge represents this miracle. The glazier on this panel further emphasized the rewards of piety and faithfulness by symbolically representing two more Marian miracles through the two figures who hold a horseshoe and a bundle of wheat.  
+
+Between the two scenes of personal devotion hangs a condemned criminal in the central window. Guards equipped with weaponry watch the scene unfold as the Virgin Mary descends from heaven to offer consolation and the promise of salvation. This central image reinforces the idea that the Madonna’s mercy transcends legal condemnation. Its location between the two panels of personal devotion reflect the Trecento interest in building direct connection with celestial advocates like the Virgin Mary and reveal the prevailing belief in the healing and fortifying power of images.  
+
+By Celeste Silva-Carrillo 
+
+ 
+Bibliography 
+
+Marchini, Giuseppe. “Miracoli d’Orsanmichele.” <i>Mitteilungen Des Kunsthistorischen Institutes in 
+
+Florenz</i>, vol. 17, no. 2/3, 1973, pp. 301–06. <i>JSTOR</i>, http://www.jstor.org/stable/27652338. Accessed 23 July 2025. 
+
+Fabbri, Nancy Rash, and Nina Rutenburg. “The Tabernacle of Orsanmichele in Context.” <i>The Art 
+
+Bulletin</i>, vol. 63, no. 3, 1981, pp. 385–405. <i>JSTOR</i>, https://doi.org/10.2307/3050142. Accessed 23 July 2025. 
+
+Bent, R. George. <i>Public Painting and Visual Culture in Early Republican Florence</i>, Cambridge 
+
+University Press, 2016, pp. 24-32.  
+
+ \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html     
+
+Location of Annotation: -4.59, 53.19, 6.84 
+
+Camera Location: -7.539, 51.277, 7.853 
+
+Camera Looks Towards:  2.198, 57.095, 8.821 
+
+Annotation block name: Right Bay of the Eastern Wall: Apocryphal Stories 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The right bay on the eastern wall, completed between 1386-1400, contains three chronological, narrative panels that depict apocryphal legends of the Virgin Mary. The panel begins from the left with <i>Miracle of the Dates during the Flight into Egypt</i>, moves to <i>Madonna of the Snows</i> and ends with the <i>Miracle of the Drowned Youth</i>. Designer Niccolò di Pietro Gerini and master glazier Niccolò di Piero Tedesco worked together on this bay.  
+
+Oratory <i>Operaio</i> Franco Sacchetti likely influenced the decision-making process behind <i>Madonna of the Snows</i> panel as part of his angel-themed program. The physical treatment of light through the stained glass windows played an essential role in venerating and illuminating the Virgin’s image. Given his understanding of the spiritual and symbolic component light played in the oratory, Sacchetti must have suggested a panel that used highly concentrated pieces of glass (blue) for visual effect over the Tabernacle and near the singing <i>Laudesi</i> company.  
+
+The twentieth chapter of the so-called Pseudo-Matthew recounts the apocryphal legend where an angel instructed Joseph to flee with Mary and the infant Jesus from King Herod to Egypt. May became fatigued on the third day of the journey and rested in the shade of a date-palm. The sight of the tree’s fruits piqued her hunger and the Christ child responded to her needs by commanding the tree to bend for his mother to pick ripe dates. Then the young child directed a spring to gush forth from the desert to quench their thirst. The profusion of vegetation, Joseph’s distance from Mary, and the open space in the panel highlight Jesus as caretaker of the Virgin during her early trials as mother.  
+
+The central panel exhibits the miracle of the founding of Santa Maria Maggiore where the Virgin created a snowfall to supply outlines for the church ground plans. According to legend, a Roman patrician named John and Pope Liberius experienced a revelation from the Virgin Mary on the 4th of August who ordered them to erect a church in her honour. They discovered snow on the grounds of the Esquiline Hill the following day and broke ground on the site according to the snow-shaped form. Pope Liberius holds a tool for breaking ground on the left side of the composition while John carries another tool on the right. Laypeople and a crowd of clerics stand around them in amazement while witnessing the white-clad angel dispensing snow onto the ground from above. This scene aligns the pictured miracle-working site with a physical one, Orcagna’s marble tabernacle, situated directly ahead.  
+
+<i>Miracle of the Drowned Youth</i> on the right panel conveys a Marian salvation miracle in a continuous narrative. The story begins on the left where a monk prays before the altar of a roadside shrine before visiting a woman of poor reputation. He secretively signals to his red-robed mistress from behind a pair of bushes while she hides behind a door. The man passes a river to reach the mistress and falls in by the cause of the devil. The main crux of the story literally and metaphorically interrupts the man and the woman’s sinful interaction, displaying the man’s drowned body in the river, and his soul, in the innocent of a baby, stuck in a tug of war between the grip of a demon and the gracious hand of the Virgin. Mary’s divine intervention for the salvation of the man’s soul becomes visually notable, separating the man from his sinful behavior and saving his soul from being dragged into the bondages of hell.  
+
+By Celeste Silva-Carrillo 
+
+ 
+Bibliography 
+
+Donkin, Lucy. “Sta. Maria Maggiore and the Depiction of Holy Ground Plans in Late Medieval Italy.” 
+
+Gesta, vol. 57, no. 2, 2018, pp. 225–55. <i>JSTOR</i>, https://www.jstor.org/stable/26556540. Accessed 29 July 2025. 
+
+Mundy, E. James. “Gerard David’s ‘Rest on the Flight into Egypt’: Further Additions to Grape 
+
+Symbolism.” <i>Simiolus: Netherlands Quarterly for the History of Art</i>, vol. 12, no. 4, 1981, pp. 211–22. <i>JSTOR</i>, https://doi.org/10.2307/3780498. Accessed 24 July 2025. 
+
+Shoemaker, Stephen J. Life of the Virgin. Yale University Press, 2012.  
+
+Wilson, Blake. “If Monuments Could Sing: Image, Song, and Civic Devotion inside 
+
+Orsanmichele.” <i>Studies in the History of Art</i>, vol. 76, 2012, pp. 139–68. <i>JSTOR</i>, http://www.jstor.org/stable/42622575. Accessed 24 July 2025. 
+
+Zervas, Diane F, et al. <i>Orsanmichele a Firenze</i>. Cassa di Risparmio di Firenze, 1996. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html     
+
+Location of Annotation: -9.26, 61.07, 6.80 
+
+Camera Location: -12.327, 59.269, 8.300   
+
+Camera Looks Towards: -8.444, 61.361, 8.299  
+
+Annotation block name: Left Bay of the Eastern Wall: Marian Miracles 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The left bay on the eastern facade contains panels from the original glazing campaign and depicts apocryphal stories from the Miracles of the Virgin. The narrative panels read from left to right and begin with <i>Story of the Unchaste Abbess</i>, continue to <i>Miracle of the Drowned Monk</i>, and end with <i>Miracle of the Sick Woman</i>. Designer Niccolò di Pietro Gerini and glazier Niccolò di Piero Tedesco completed these lunettes between 1386 and 1400.  
+
+<i>Story of the Unchaste Abbess</i> (left) describes the story of an unlawfully pregnant abbess awaiting an episcopal reprimand. The left of the panel depicts the nervous abbess laying in bed after breaking her vow of chastity and confiding in a nun who, standing outside the bedroom, reveals the pregnant woman’s sin to the bishop of the convent. The Virgin and attending angels deliver the baby in the room in response to the woman’s prayers for a miraculous removal of the pregnancy. The panel’s location behind St. Anne’s altar connects the labour miracle with the Virgin Mary’s mother who was often invoked during childbirth to ensure safe delivery.  
+
+The central panel features the <i>Miracle of the Drowned Monk</i> where the Virgin Mary revived two drowned monks while the choir recited the Office of the Dead, a medieval post-mortem ritual, to redeem a deceased man. A young individual of marvelous splendour appeared before the choir and commanded St. Bernard and his monks to sing the <i>Misericordia</i> hymn rather than the more common <i>Salve Regina</i>. The youth, dressed in red, drags the drowned monk at the bottom of the panel while his companion lays in the stream just ahead. Monks and surrounding clergy perform the Office of the Death in the church above while the revived monk sits up on his bier and sings the <i>Misericordia</i> hymn. A gold band with letters connects the Virgin Mary’s hand to the revived monk’s forehead, representing the transmitted message of revelation and life.  
+
+A critically ill woman experiences a healing miracle in the last lunette of the bay. A priest dressed in red carried the Holy Communion to the woman with the assumption that she had passed away, but found the Virgin and her assistants attending to her instead. By merit of the woman’s daily recitations of one-hundred prayers, the Virgin extended her mercy towards the dying woman. Both the sickly woman and the Virgin and her attendants exemplify the appropriate posture of reverence before the Altar of St. Anne by bowing before the priest in the panel. 
+
+By Celeste Silva-Carrillo 
+
+
+Bibliography 
+
+Zervas, Diane Finiello. “Lorenzo Monaco, Lorenzo Ghiberti, and Orsanmichele: Part I.” <i>The 
+
+Burlington Magazine</i>, vol. 133, no. 1064, 1991, pp. 748–59. <i>JSTOR</i>, http://www.jstor.org/stable/884819. Accessed 31 July 2025. 
+
+Zervas, Diane F, et al. <i>Orsanmichele a Firenze</i>. Cassa di Risparmio di Firenze, 1996. 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html     
+
+Location of Annotation: -33.42, 54.18, 6.77 
+
+Camera Location: -30.986, 50.890, 8.279 
+
+Camera Looks Towards: -40.385, 66.456, 8.693 
+
+Annotation block name: Left Bay of the Northern Wall: The Presentation of the Virgin in the Temple 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Francesco di Giovanni Lastra glazes the <i>Presentation of the Virgin in the Temple</i> in 1429 on the left bay of the northern facade based on the designs produced by Lorenzo Ghiberti. This single narrative bay depicts a parallel experience between Jesus and Mary’s life. The process of sanctification set before embarking on their divinely ordained journey marks the spiritual connections that transcends their blood ties.  
+
+Mary’s parents dedicated the Virgin’s life to God before her conception and fulfilled their promise by leaving her to dwell in the Temple of Jerusalem at the age of three. Mary would not leave until she reached the age of marriage, which was fourteen years of age. The architectural setting on this lunette and the large, white staircase dominates the scenes, isolating the young Mary and visually separating her fate from the rest of the world. Elaborate golden halos with dotted outlines distinguish her and her parents. They hold eye contact as she ascends the stairs towards the high priest Zacharias. Musicians holding instruments await the Virgin’s arrival, celebrating the commencement of her divine purpose. Attendant virgins and lay citizens bear witness to the procession according to the Law of Moses. One witness bows down before the young Madonna, foreshadowing her future of saintly greatness.  
+
+By Celeste Silva-Carrillo 
+
+ 
+Bibliography 
+
+Shoemaker, Stephen J. <i>Life of the Virgin</i>. Yale University Press, 2012.  
+
+Zervas, Diane F, et al. <i>Orsanmichele a Firenze</i>. Cassa di Risparmio di Firenze, 1996. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html     
+
+Location of Annotation: -32.58, 38.25, 6.71 
+
+Camera Location: -29.286, 39.243, 7.889   
+
+Camera Looks Towards:  -30.631, 38.415, 7.840 
+
+Annotation block name: Western Wall: Music Making Angels 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Scholars credit Francesco di Giovanni for glazing the left bay of the western portal in 1432 which features six angels in two separate bays who carry individual medieval instruments and face eastward towards the picture of the Madonna. The northern panel includes the addition of a psaltery, a trapezoidal resonance box, and a mini representation of an organ among blonde-haired angels. The southern panel features wind instruments including a viol (medieval string instrument with stick), lute (string instrument), and a shawm (flute-like instrument) in the hands of another angelic choir. These panels served to enhance and commemorate the musical devotions led by the <i>Laudesi</i> company throughout the 14th and 15th century.  
+
+Devotional activities of the <i>Laudesi</i> Company of Orsanmichele and guilds began not long after 1367 with the purchase of new organs, professional organists, and the training of singers by a distinguished composer of polyphonic music (secular music made up of harmonizing vocal compositions). Franco Sacchetti accepted the role as the leading polyphonic composer and oversaw the first phase of the stained glass windows. His musical background and mathematically guided approach to music became manifest in the well-ordered and angel-themed integrated interior of the oratory. The western bays directly reflect his personal associations of divine and cosmic harmony with celestial music.  
+
+By Celeste Silva-Carrillo 
+
+ 
+Bibliography 
+
+Bowles, Edmund A. “Musical Instruments at the Medieval Banquet.” <i>Revue Belge de 
+
+Musicologie / Belgisch Tijdschrift Voor Muziekwetenschap</i>, vol. 12, no. 1/4, 1958, pp. 41–51. 
+
+<i>JSTOR</i>, https://doi.org/10.2307/3686453. Accessed 28 July 2025. 
+
+Wilson, Blake. “If Monuments Could Sing: Image, Song, and Civic Devotion inside 
+
+Orsanmichele.” <i>Studies in the History of Art</i>, vol. 76, 2012, pp. 139–68. <i>JSTOR</i>, 
+
+http://www.jstor.org/stable/42622575. Accessed 28 July 2025. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html     
+
+Location of Annotation: -22.48, 35.52, 6.78 
+
+Camera Location: -24.135, 38.391, 7.739 
+
+Camera Looks Towards: -21.923, 34.198, 7.689 
+
+Annotation block name: Right Bay of the Southern Wall: Presentation of Christ 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The right bay on the southern wall, glazed by Bernardo di Francesco and Francesco di Giovanni Lastra in 1432, depicts the <i>Presentation of Christ in the Temple</i> where Joseph and Mary abide by the custom of the Law of Moses. They observe the circumcision and sanctification of the first-born by presenting the infant Christ to a temple in Bethlehem forty days after his birth. The panel portrays Joseph holding Christ whose outstretched hand reaches for Mary. The prophetess Anna holds a scroll behind Joseph that warns of the fate of the child while the figure of Simeon stands behind the stone table. Two unidentified figures flank Mary to the right and carry offerings of two turtledoves. These birds represent purity, solitude, peace, and innocence according to Judaic tradition.  
+
+The compositional choices of the panel highlight a different perspective of this scene than that represented in the biblical canon. The symmetrical composition and architectural framing centralize the climax of the narrative and emphasize the Virgin’s pivotal role as bearer of the prophetic Messiah and intercessor in salvation history. Her open arms welcome the infant and the child blesses her for her submission and willingness to accept God’s plan with faith. The panel also highlights the spiritual link between Son and Mother by their aligned postures, which allude to the prophesied pain shared between Jesus and Mary during the Passion of Christ. Simeon biblically prophesizes this shared pain between the Virgin and Christ through the characterization of a piercing sword. The oratory’s programme architecturally reflects their spiritual bond by setting the <i>Presentation of the Virgin</i> panel from across the <i>Presentation of Christ</i>, marking the signs of their deeply interwoven lives. An approach for narrative clarity through the utilization of white and gold borders further conveys the intimate atmosphere and selective focus of this scene.  
+
+By Celeste Silva-Carrillo 
+
+ 
+Bibliography 
+
+American Bible Society. <i>The Holy Bible : Containing the Old and New Testaments</i>. American 
+
+Bible Society, 1853. 
+
+Shoemaker, Stephen J. <i>Life of the Virgin</i>. Yale University Press, 2012. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html     
+
+Location of Annotation: -14.59, 40.06, 6.71 
+
+Camera Location:   -16.183, 42.606, 7.739 
+
+Camera Looks Towards: -12.819, 36.696, 7.535 
+
+Annotation block name: Central Bay of the Southern Wall: Assumption of the Virgin
+Annotation Details: <div style="overflow:scroll ; height:250px"> <i>The Assumption of the Virgin</i> decorates the central arch of the south facade and replicates Orcagna’s large tabernacle relief in stained glass format. Designer Lorenzo Ghiberti and glaziers Francesco di Giovanni and Bernardo di Francesco created the lunette in 1431.  
+
+A small apocryphal book attributed to John the Evangelist details the scene in which the Virgin’s soul leaves earth and reunites with God. According to the text, an angel appeared before the Virgin as she lay dying and her heart burned with desire to be with her Son. The Virgin’s tears and supplication favored God, and the angel told her that she would join Christ in paradise within three days. Jesus came to earth after three days with companies of angels, prophets, martyrs, confessors, and virgins around the third hour of the night to worship her at her throne through praise and song. Her soul rose to the heavens as her last breath left her body that night, being spared of all earthly pain, and her body was then transported alive to Christ’s side by angels who filled the earth with their sweet voices. The panel concentrates on Mary’s ascending figure, painting her in lush drapery and composing large proportions that suggest the scene’s grandeur and holiness. Iron bars elongate her figure and guide the viewer’s attention to the solemn Mary.  Her white garments contrast starkly against the bright colors of the angels around her, causing her to radiate like a star.  
+
+ 
+Bibliography 
+
+Shoemaker, Stephen J. <i>Life of the Virgin.</i> Yale University Press, 2012.  
+
+Zervas, Diane F, et al. <i>Orsanmichele a Firenze.</i> Cassa di Risparmio di Firenze, 1996. 
+
+ 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html     
+
+Location of Annotation: -17.74, 51.82, 10.94 
+
+Camera Location:  -27.493, 50.308, 5.806 
+
+Camera Looks Towards: -17.748, 55.472, 13.116 
+
+Annotation block name: Franco Sacchetti 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Franco Sacchetti was one of the most influential Italian polyphonic composers and writers of the late Trecento. Born in 1332, Sacchetti was a member of the Banker’s Guild and developed an extensive network with leading literary and musical figures of the day. He excelled in the visual and literary arts, writing prominent works of literature and shaping the polyphonic music scene in Florence. His narrative focus centered on entertaining, clever, and moralistic themes, modeled after the prominent Florentine poet Giovanni Boccaccio. During his final years, Sacchetti turned to a more weary outlook on life, reflecting on his personal experiences with the epidemics of the Bubonic Plague and smallpox, the loss of family members (including his wife and son), personal health problems, and war violence.  
+
+Sacchetti’s greatest source of inspiration came from his active involvement in the confraternity of Orsanmichele and its devotion to the Virgin Mary. He worked for a short time as company treasurer from 1379 and 1380 and as <i>Operaio</i> in 1398. Sacchetti invested all his artistic talent and theological knowledge into his role as leading polyphonic composer of the <i>Laudesi</i> company and overseer of multiple decorative programs at Orsanmichele until his death in 1400. Although none of Sacchetti’s music survived, his literary works like the <i/Oratio autoris pro se ipso</i> and his famous <i>Trecento Novelle</i> document his daily thoughts and provide insight into the heart of his decorative pursuits.  
+
+Sacchetti directed two decorative programs: the first stained glass campaign of the eastern churches and the elaborate bronze and marble railing that surrounds Orcagna’s tabernacle. He integrated his background in music and theological studies to devise thematically-organized visual programs that focused on creating symbolic architecture by merging canonical and apocryphal texts with structural ingenuity. Sacchetti’s long poem <i>Oratio autoris pro se ipso</i> addresses the three epochs of mankind and their significance within the vaulted system, in which important characters from the three major phases of biblical history are aligned to the Virgin’s tabernacle and St. Anne’s altar within the vaulted ceiling. The core of Sacchetti’s was his passionate interest to immerse viewers in intellectually stimulating and spiritually transformative spaces.  
+
+Sacchetti’s literary works stand as the only extant documentary sources for the images in Orsanmichele. He began writing his <i>Trecento Novelle</i> around the same time he began working for the Laudesi, and his prolific journaling revealed unique insights into his decision-making process. <i>Trecento Novelle</i> detailed Sacchetti’s favored compositional approach for the stained glass narratives, which was to depict recurring images of street tabernacles and Florentine architecture. These elements created realistic scenery that converted extraordinary tales into believable teachings. Sacchetti also analyzed the physical and symbolic interactions between the oratory’s system of lighting and the singing <i>Laudesi</i> in his novel. He actualized these concepts by installing large candle holders around Orcagna’s tabernacle to illuminate the Virgin’s image and the choir and by advising the addition of sculpted angels in the tabernacle’s interior and exterior. Sacchetti aimed to create visually harmonious and sensory-rich experiences for devotees, basing his design on individual creativity as there were no similar monumental precedents in Florence to guide his programs.  
+
+Sacchetti left his last poem, the <i>Canzone morale</i>, unfinished and recorded his frustration with unfaithful confraternity members and financial obstacles that impeded the expansion of his decorative programs. Motivated by his fervent love for the Virgin, Sacchetti worked the last thirteen years of his life at Orsanmichele and furnished the oratory into a home worthy of its communal saints.  
+
+By Celeste Silva-Carrillo 
+
+
+Bibliography 
+
+Cassidy, Brendan. “The Assumption of the Virgin on the Tabernacle of Orsanmichele.” <i>Journal of 
+
+the Warburg and Courtauld Institutes</i>, vol. 51, 1988, pp. 174–80. <i>JSTOR</i>, https://doi.org/10.2307/751270. Accessed 7 Aug. 2025. 
+
+Wilson, Blake. “If Monuments Could Sing: Image, Song, and Civic Devotion inside 
+
+Orsanmichele.”	 <i>Studies in the History of Art</i>, vol. 76, 2012, pp. 139–68. <i>JSTOR</i>, http://www.jstor.org/stable/42622575. Accessed 7 Aug. 2025. 
+
+Zaccarello, Michelangelo. “What’s in a Title: The Long-Debated Question on the Title of 
+
+Sacchetti’s Novelle.” <i>Textual Cultures</i>, vol. 13, no. 2, 2020, pp. 70–81.<i> JSTOR</i>, https://www.jstor.org/stable/26966966. Accessed 7 Aug. 2025. 
+
+Zervas, Diane F, et al. <i>Orsanmichele a Firenze</i>. Cassa di Risparmio di Firenze, 1996. 
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html     
+
+Location of Annotation: -37.16, 46.14, 6.56 
+
+Camera Location: -31.344, 48.219, 6.464   
+
+Camera Looks Towards: -62.321, 33.090, 7.599 
+
+Annotation block name: Luminous Works of Art 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> Blown glass vessels first appeared in Italy as early as 40 or 30 BC by Regia, the House of Livia, in Rome and other local glass workshops. Although these sites produced small glass bottles of various shapes, textures, and colors, they had yet to experiment with large glass artistic programs. The most significant innovation in the history of glassmaking was the discovery that glass could be blown, flattened into sheets, and separated into window panels with its durability and coloristic qualities still intact. Stained glass deals with the transmission of light through colored material where the laws governing light subject colored glass to its effects. Glaziers and painters aimed to evoke three-dimensional depth through color and contrast on ordinary sheet glass, where traditional fresco and tempera techniques proved insufficient. The glassworkers of these earlier periods needed to gain understanding of the relative values of tones that could change according to passing light and familiarity with the radiative qualities of certain colors that affected surrounding pieces of glass.  
+
+To produce glass, artists mixed silica sand, soda ash, and limestone among other natural elements in a furnace reaching 2552 degrees Fahrenheit. Using an iron blowpipe called a punty, the glassmaker gathered a ball of molten glass and rotated it constantly to prevent the glass from falling. The glassmaker carried the iron onto a stone slab called a marvel table where the artisan inserted a metal needle through the blowpipe to create an air pathway for the blowing process. Inflation required reheating the rod multiple times and maintaining the blow iron in a vertical position for further elongation. Once the glassmaker achieved the desired length by blowing, the vessel was chilled close to the nose and tapped sharply off the punty. The resulting cylinder was split down its length, reheated and flattened on a surface once ductile.  
+
+To color white glass, glaziers added precise amounts of metallic oxides. They pressed and rolled the molten glass onto the oxides on the marveling table. As a rule, glaziers worked with copper for deep green and red, cobalt for blue, manganese for purple, and iron for yellow. However, the coloring process required more precision than the addition of a handful of metallic oxides. The proportion of multiple coloring oxides and the amount of oxygen available to the elements in the furnace atmosphere produced specific shades, and glaziers needed experience to manipulate the chemical reactions that occurred between the elements.  
+
+Glaziers and painters worked together to create stained glass windows. Glaziers produced and melded the glass panels while painters provided detailed designs called cartoons on large sheets of paper, adding color notations. Glaziers assembled the glass pieces over the cartoon, scored the pieces accordingly, and carefully broke the glass along the desired lines. After cutting, the artisans assembled the pieces by inserting them into double-channeled lead strips called calmes and soldered the joints to compartmentalize the colors and ensure stability. Larger windows required additional support from iron bars which were embedded into the masonry of the building. Before installation, the artisan brushed the window and lead with a waterproofing compound made of linseed oil, whiting (chalk powder) and lampblack (a fine black pigment) for rigidity and protection, and then placed the stained glass panels into the prepared window frame.  
+
+Once a luxury item, glass became increasingly accessible throughout the Mediterranean world. Stained glass windows found their way onto the traceries of churches and monasteries by the 12th century and served as both visual storytelling tools and mediums for divine illumination. The first large-scale narrative stained glass campaign in the Upper church at Assisi was initiated by Pope Innocent around 1245. The colorful patterns and intricately woven narratives of stained glass windows brought to life the stories of the Bible, lives of saints, and moral lessons to worshippers and lay viewers alike, emerging as a transformative art form in medieval religious architecture.  
+
+Glass painters developed their art around the 14th century through new methods such as sticklighting and the painstaking technique. Sticklighting required dipping a piece of glass into black paint and scraping the dried paint off to create a design. The painstaking method used paint made of powdered glass iron oxide and water to add contouring and shading details.  
+
+Beyond the physical process, stained glass functioned as a dynamic art form, interacting with light and space to evoke spiritual meaning. Symbolically, stained glass windows represented the divine, created atmospheres charged with the presence of the sacred, and served as intermediators between earth and heaven.  
+
+By Celeste Silva-Carrillo 
+
+
+Bibliography: 
+
+Cheshire, Jim. “Stained Glass.” <i>Victorian Review</i>, vol. 34, no. 1, 2008, pp. 71–75. 
+
+<i>JSTOR</i>,http://www.jstor.org/stable/41220402. Accessed 18 July 2025. 
+
+Cooper, Donal and Janet Robson. <i>The Making of Assisi</i>. Connecticut: Yale University Press, 2023. Print 
+
+Grose, David F. “Early Blown Glass: The Western Evidence.” <i>Journal of Glass Studies</i>, 
+
+vol. 19, 1977, pp. 9–29. <i>JSTOR</i>, http://www.jstor.org/stable/24190598. Accessed 18 July 2025. 
+
+Hogan, James H. “Stained Glass.” <i>Journal of the Royal Society of Arts</i>, vol. 88, no. 4560, 1940, 
+
+pp. 569–85. <i>JSTOR</i>, http://www.jstor.org/stable/41359591. Accessed 18 July 2025. 
+
+Royce-Roll, Donald. “The Colors of Romanesque Stained Glass.” <i>Journal of Glass  
+
+Studies</i>, vol. 36, 1994, pp. 71–80. <i>JSTOR</i>, http://www.jstor.org/stable/24190054. 
+
+Accessed 18 July 2025. 
+
+Sculer, Frederic. “Ancient Glassmaking Techniques: The Blowing Process.” 
+
+<i>Archaeology</i>, vol. 12, no. 2, 1959, pp. 116–22. <i>JSTOR</i>, 
+
+http://www.jstor.org/stable/41666510. 
+
+Accessed 18 July 2025. 
+
+Sears, Taber. “Stained Glass Windows.” <i>Art and Progress</i>, vol. 3, no. 1, 1911, pp. 392–97. 
+
+<i>JSTOR</i>, http://www.jstor.org/stable/20560516. Accessed 18 July 2025 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Page: https://3d.wlu.edu/v21/pages/Orsanmichele/orsanmichele.html     
+
+Location of Annotation: -15.43, 64.67, 5.32 
+
+Camera Location:  -15.159, 57.723, 6.845 
+
+Camera Looks Towards:  -34.228, 96.840, 9.017 
+
+Annotation block name: The Production of Stained Glass Windows at Orsanmichele 
+
+Annotation Details: <div style="overflow:scroll ; height:250px"> The stained glass windows of Orsanmichele literally and figuratively revolve around the original miracle-working image of the Virgin Mary and Christ child displayed in the public granary in the heart of the city. The <i>Madonna of Orsanmichele</i> became the most accessible devotional image to lay citizens in Florence after 1284 and evolved from a common street tabernacle to a miracle-working cult image in 1292 to a city protector in 1365. Orsanmichele’s beautifully crafted windows celebrate the Madonna’s religious and civic significance to Florence and reflect the relationship between public images and Florentine viewers.  
+
+The glazing campaigns of Orsanmichele can be divided into three phases. The first glazing campaign, financed by the Confraternity of Orsanmichele, began shortly after 1380 and ran until about 1400; the second between 1400 and 1420; and the third lasted from 1429 and 1432. Financial difficulties throughout the process forced the confraternity to extend the execution of the tracery infills over a number of decades and request additional finances from the Signoria to cover the expense of stained glass. Original design was delegated to Simone di Francesco Talenti sometime before 1366 and Niccolò di Piero Tedesco served as master glazier for the first program. Niccolò di Piero Tedesco directed the second program and welcomed Lorenzo Monaco as the designer of the second campaign between 1400 and 1420. A Pisan merchant arranged for the production of two stained-glass windows above the two western portals in 1413. Glazier Francesco di Giovanni Lastra worked on the stained-glass windows with his partner Bernardo di Francesco in the last glazing campaign. Scholars identified artists such as Agnolo Gaddi and Ambrogio di Baldeses among other unknown designers.  
+
+Changes in master glaziers, the artistic idiosyncrasies of assistant glassworkers, as well as design development throughout the campaigns affected the decorative, technical, and compositional choices of each bay. A total of sixteen stained glass narrative panels exploring the miracles of the Virgin decorate Orsanmichele today, with twelve located in the four East bays nearest the Tabernacle and Altar of St. Anne as the earliest program. The first two bays on the north side and the first two bays on the south side each have only one narrative panel. Attention to detail, texture, coloristic display and heavy patterning, often at the expense of narrative clarity, characterize the original panels while the remaining four focus on architectural and spatial accuracy. The panels located closest to the Altar and Tabernacle emphasize the luminous and coloristic qualities of stained glass by displaying an overall multicolored approach where complementary colors juxtapose and create a melding dazzle of tones and textures. Glaziers utilized red-purple and blue-purple in large amounts to experiment with the textural possibilities of the medium and chose to employ elaborate embellishments through border and foliate decoration in the eye and rose windows.  
+
+Orsanmichele’s stained glass program reinforced the Madonna’s central role in Florentine myth and ritual and represented the spiritual fervor that spurred the construction and beautification of the once-former civic grain market turned devotional hub.  
+
+By Celeste Silva-Carrillo 
+
+ 
+Bibliography 
+
+Zervas, Diane Finiello. “Lorenzo Monaco, Lorenzo Ghiberti, and Orsanmichele: Part I.” <i>The 
+
+Burlington Magazine</i>, vol. 133, no. 1064, 1991, pp. 748–59. <i>JSTOR</i>, http://www.jstor.org/stable/884819. Accessed 28 July 2025. 
+
+Zervas, Diane Finiello. “Lorenzo Monaco, Lorenzo Ghiberti and Orsanmichele: Part II.” <i>The 
+
+Burlington Magazine</i>, vol. 133, no. 1065, 1991, pp. 812–19. <i>JSTOR</i>, http://www.jstor.org/stable/885060. Accessed 28 July 2025. 
+
+ 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\

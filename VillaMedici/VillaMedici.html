@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Villa Medici</title>
+
+	<link rel="stylesheet" type="text/css" href="../../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<script src="../../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../../libs/spectrum/spectrum.js"></script>
+	<script src="../../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../../libs/other/BinaryHeap.js"></script>
+	<script src="../../libs/tween/tween.min.js"></script>
+	<script src="../../libs/d3/d3.js"></script>
+	<script src="../../libs/proj4/proj4.js"></script>
+	<script src="../../libs/openlayers3/ol.js"></script>
+	<script src="../../libs/i18next/i18next.js"></script>
+	<script src="../../libs/jstree/jstree.js"></script>
+	<script src="../../build/potree/potree.js"></script>
+	<script src="../../libs/plasio/js/laslaz.js"></script>
+	
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+		<span style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); z-index: 10000">
+				<input type="button" value="Show Inside" onclick="setButton1()"/>
+				<input type="button" value="Show Outside" onclick="setButton2()"/>
+				<input type="button" value="Clip None" onclick="setButton3()"/>
+			</span>
+	</div>
+	
+
+	<script>
+	
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+
+		viewer.useHQ = true; 
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(6 * 1000 * 1000);
+        viewer.loadSettingsFromURL();
+        viewer.scene.view.position.set(74.407, 42.197, 40.842);
+        viewer.scene.view.lookAt(23.306, -1.498, -3.594);
+
+		<!-- INCLUDE SETTINGS HERE -->
+		viewer.loadSettingsFromURL();
+		
+		viewer.setDescription("");
+		viewer.scene.camera;
+		viewer.setDescription("Point cloud by <a target='_blank' href='https://florenceasitwas.wlu.edu/'>Florence As It Was</a>");
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_appearance").next().show();
+			$("#menu_tools").next().show();
+			$("#menu_clipping").next().show();
+			viewer.toggleSidebar();
+		});
+		
+		
+
+		Potree.loadPointCloud("../../pointclouds/VillaMedici/metadata.json", "Villa Medici", e => {
+			let scene = viewer.scene;
+			let pointcloud = e.pointcloud;
+
+            scene.addPointCloud(pointcloud);
+			let material = pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+			material.shape = Potree.PointShape.SQUARE;
+			material.activeAttributeName = "rgba";
+           
+            
+
+			//viewer.fitToScreen();
+		});
+
+		{ // ANNOTATIONS
+			let scene = viewer.scene;
+
+			
+			//start annotation			
+			scene.annotations.add(new Potree.Annotation({
+				position: [-13.313, -3.095, -0.999],
+				title: "Villa Medici Gardens",//text between quotes is the annotation title
+				cameraPosition: [2.486, 39.797, 27.980],//this is where the viewer will be directed when annotation is clicked
+				cameraTarget: [-14.653, 7.174, 6.708],
+				//Below is the text for the annotation.
+				description: `
+The Villa Medici in Fiesole contains three terraced gardens. On the east side of the villa are the long upper and lower gardens (length of 3:1 garden: villa). Each is protected on three sides with a tall back wall to the north and the open side facing south down the hillside, overlooking the city of Florence. Little is known about the original design of these gardens beyond what is written in the 1492 inventory of Lorenzo de’ Medici, which describes the upper garden as “a garden behind said villa with various small walled gardens or with surrounding walls…” and the lower garden as an <i>ortaccio</i> (kitchen garden). From these descriptions, we can conclude that the upper garden was likely geometric and decorative while the lower was more practical. It seems the villa’s original entrance was from the east, meaning Medici guests would have had to walk through the expansive and decorative upper garden before reaching the main house. <br/><br/>
+The “secret garden” is located on the west side of the villa and is the smallest of the three. Bordered by box hedges and divided into four lawns, it has an elliptical pond in the center and can be accessed from the basement of the villa or a gate from the Via Vecchia Fiesolana. Though this design is not original, it was modeled to recreate the garden’s 15th-century appearance. Based on size and location, the “secret garden” was most likely a formal garden meant for private use by the Medici and their guests.<br/><br/>
+The gardens in the Villa Medici represent a shift in the purpose of villas from practical agrarian buildings to summer escapes. While most contemporary villas contained a central courtyard and fortifications, the Villa Medici emphasized leading guests outward into nature, establishing a model for future Renaissance villas. <br/><br/>
+Sources:<br/>
+Bargellini, Clara, and Pierre de la Ruffiniére du Prey. “Sources for a Reconstruction of the Villa Medici, Fiesole.” <i>The Burlington Magazine</i> 111, no. 799 (1969): 597–605. <br/>
+Mazzini, Donata, and Simone Martini. <i>Villa Medici, Fiesole: Leon Battista Alberti and the Prototype of the Renaissance Villa</i>. Florence: Centro Di, 2004. <br/><br/>
+By: William Suttle
+`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [13.873, 3.066, -0.329],
+				title: "Chess Board & Leisure",
+				cameraPosition: [20.047, 5.504, 0.725],
+				cameraTarget: [16.756, 3.795, 0.370],
+				description: `
+Chess, or <i>scacchi</i>, was a popular pastime during the 15th century among elites like the Medici. The political and military context of this strategy game permitted players to flex both their intelligence and power. Elite community members like the Medici family placed ornate chess boards like this one in spaces accessible to guests. Even if guests did not engage in a game, the presentation of the chess board within the home communicated the family’s power. <br/><br/>
+In displaying a chess board, the Medici exhibited a level of intellectual and political superiority over each of their visitors. Chess was so important as a gentleman’s game of power and skill that Fra Sabba da Castiglione warned against the anger the game provoked in losers in his advice book, the <i>Ricordi</i>.
+However, chess was also an acceptable pastime for women in the 15th century. The gender of the player impacted the understood significance of the game. Rather than a game of militaristic power, the game took on a sexual context when women played men. 
+In addition to chess, a 1482 inventory of the Villa Medici lists two unnamed additional board games played with dice. One may have been a dice game similar to Chutes and Ladders, called <i>pela il chiù</i>. Lacking the strategy of chess, this game did not suggest the owner’s social and political power. They may well have been intended for children rather than adults.<br/><br/>
+The presence of these games shows that where games were played directly correlated to their social acceptability. Card games and games of luck encouraged gambling amongst players. One could easily conceal gambling in private rooms like the <i>veglie</i>, or servant spaces. Hence, games were to be played in public spaces.<br/><br/>
+Sources:<br/>
+Ajmar-Wollheim, Marta, and Flora Dennis. <i>At Home in Renaissance Italy</i>. Hardback ed. London: V & A, 2006.<br/>
+McClure, George W. <i>Women and the politics of play in sixteenth-century Italy: Torquato Tasso's theory of games</i>. Cambridge University Press, 2008.<br/>
+McClure, George W. <i>Parlour Games and the Public Life of Women in Renaissance Italy</i>. Toronto: University of Toronto Press, 2013.<br/>
+Simons, Patricia. “(Check) Mating the Grand Masters: The Gendered, Sexualized Politics of Chess in Renaissance Italy.” <i>Oxford Art Journal</i> 16, no. 1 (1993): 59–74.<br/>
+Wood, Kelli. “The Art of Play: Games in Early Modern Italy.” <i>The University of Chicago Press</i>, 2016. <br/><br/>
+By: Kaylin Jury<br/><br/>
+<img src="photos/Chess.jpg" alt="Chess Board and Leisure" width="250" height="300"><br/>
+Image: Ajmar-Wollheim, Marta, and Flora Dennis. <i>At Home in Renaissance Italy</i>
+`,
+			}));
+			//end annotation				
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [15.318, -16.327, -0.337],
+				title: "Madia & Feasting",
+				cameraPosition: [17.351, -14.305, 0.136],
+				cameraTarget: [16.020, -15.422, -0.035],
+				description: `
+Household servants utilized a <i>madia</i>, a sideboard or <i>credenza</i>, for the storage of prepared food. Unlike other decorative storage chests of the time, like <i>cassone</i>, the <i>madia</i> held a functional purpose. In the process of serving, food made its way from the kitchen counter to the <i>madia</i> before being brought to the table. A 1482 inventory of the Villa Medici states that the home’s <i>madia</i> was used as part of the bread-making process. This <i>madia</i> was likely used as a space for bread to prove in addition to serving as a storage cupboard - it was therefore kept in the kitchen rather than in a space frequented by guests.<br/><br/>
+The use of a <i>madia</i> within the Florentine home changed the banqueting structure of the Italian Renaissance. Banqueting within this period reflected the tenuous balance between displaying wealth and displaying humility. In 1473, Florence passed a series of banqueting regulations, limiting the number of courses permitted to be served. By the mid-16th century, Florentines ignored these laws and served up to seventeen courses in one feast! It then became popular for households to own multiple <i>madia</i> able to hold the prepared food for upcoming courses. Most commonly, servers would store sweetmeats (candied fruit or seeds) or <i>insalate</i> (cold meats, fish, and shellfish) in the family’s <i>madia</i>.<br/><br/>
+The 1482 inventory lists only one <i>madia</i> in the kitchen, suggesting that the Villa Medici was not engaging in the great feasting which would later become popular. Instead, they were likely adhering to a daily routine of three or four courses. These meals consisted of <i>antipasto</i>, <i>allesso</i> (boiled), <i>fritto</i> (fried), and <i>frutte</i> (fruit) courses. On religious holidays, vegetables would replace the meat and eggs typically served. Opening the <i>madia</i> in the Villa Medici would reveal the bread, <i>antipasto</i>, and fruit prepared for the table.<br/><br/>
+Sources:<br/>
+Ajmar-Wollheim, Marta, and Flora Dennis. <i>At Home in Renaissance Italy</i>. Hardback ed. London: V & A, 2006.<br/>
+Cohen, Elizabeth Storr, and Thomas V. (Thomas Vance) Cohen. <i>Daily Life in Renaissance Italy</i>. Second edition. Santa Barbara, California: ABC-CLIO, LLC, 2019.<br/>
+Hohti, Paula. “Domestic Space and Identity: Artisans, Shopkeepers and Traders in Sixteenth-Century Siena.” <i>Urban History</i> 37, no. 3 (2010): 372–85.<br/>
+By: Kaylin Jury<br/><br/>
+<img src="photos/Madia.jpg" alt="Madia and Feasting" width="250" height="450">
+`,
+			}));
+			//end annotation	
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [13.340, -0.056, 5.359],
+				title: "Chest with Backrest (Lettuccio)",
+				cameraPosition: [18.724, 3.689, 7.021],
+				cameraTarget: [17.010, 2.724, 6.242],
+				description: `
+The Villa Medici has several bedrooms, translating to <i>camera</i> in Italian, outfitted with handcrafted pieces of wooden furniture that are both utile and decorative. Most bedrooms at this time consisted of the main bed surrounded by chests and storage containers, including the <i>lettuccio</i>. The <i>lettuccio</i>, a daybed, was frequently placed immediately adjacent to the bed (the lettiera) and was outfitted with a small mattress. Lettucci were used for storage of household items such as books, spare linens, and pillows in their lower cabinet areas. Owners could then sit or lay down on the bench section of the <i>lettuccio</i> with easy access to their books and other stored materials just below them.<br/><br/> 
+These pieces were also an indication of wealth at the time. The craftsmanship of the actual <i>lettuccio</i> was also an indication of the piece’s monetary value. Lettucci were frequently created with elaborate inlays and intarsias that represented interests of the owners, including their coats of arms. These inlays were usually placed on the <i>lettuccio</i> in lieu of the actual bed, likely because of a lack of available space on the bed frame’s surface. The attention to detail and personalized styles of the <i>lettuccio</i> amplified its importance within the domestic life of the Medici family and their flaunting of wealth.<br/><br/> 
+The Medici acquired multiple <i>lettucci</i> throughout the Villa to indicate their high status in Florentine society and the extent of their personal wealth. This specific <i>lettuccio</i> was valued at 3,200 lire, which equates to over 2 million dollars today. It is no doubt that this piece is therefore an indication of the Medici’s ability to spend excessive amounts of money on home furnishings.<br/><br/>
+Sources:<br/>
+Stapleford, Richard. Lorenzo de’ Medici at Home: The Inventory of the Palazzo Medici in 1492. <i>The Pennsylvania State University Press</i>, 2013.<br/><br/>
+By: Kelsie Westmoreland<br/><br/>
+<img src="photos/Lettuccio.jpg" alt="Lettuccio" width="250" height="300"><br/>
+Image: Ajmar-Wollheim, Marta, and Flora Dennis. <i>At Home in Renaissance Italy</i>
+`,
+			}));
+			//end annotation			
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [15.450, 2.114, 5.423],
+				title: "16th Century Italian Embroidery",
+				cameraPosition: [18.616, 5.232, 6.975],
+				cameraTarget: [15.279, 2.289, 5.622],
+				description: `
+The upholding of domestic life expectations in Renaissance Florence served as a major component of the women’s role within Florentine society. The woman was expected to uphold the norms of the Florentine household and oversee the domestic activities of their servants and other female members of the household. Throughout the Villa Medici there are many examples of embroidered and hand-sewn blankets and linens. These pieces were used as covers, blankets, tablecloths, and door hangings.<br/><br/>
+At this time, sewing and embroidery were seen as activities that embodied the virtuosity of a moral woman and her ability to stay away from less respectable activities such as dancing and singing.  Embroidered and sewn items were not highly valued monetarily in the market, as they were typically made and used by the women of a specific household. However, a woman’s skill in this area was a highly sought after trait in a homemaker of all social classes.<br/><br/>
+According to the annotated inventory of the Villa from 1482, there were at least three of these pieces in the home. This indicates the presence of a woman who was adept at sewing and embroidery skills. However, this woman could be a part of the upper social classes or serving the household as a maid or servant. It was common for the service members of the household to partake in sewing and embroidery projects while being overseen by the wives and older daughters of the house’s owner.<br/><br/> 
+The inventory record of the Villa Medici states that these blankets were of green and red cloth, with embroidered animals, flowers, and geometric emblems. While it is not uncommon for designs to be chosen due to their personal connection with the creator or user, most of the embroidered designs originally came from printed template books. These template books contained drawings of pre-used designs that could then be transferred and re-rendered by the embroiderer to create personalized items. <br/><br/>
+Sources:<br/>
+Ajmar-Wollheim, Marta, and Flora Dennis. <i>At Home in Renaissance Italy</i>. Hardback ed. London:	V & A, 2006. <br/><br/>
+By: Kelsie Westmoreland<br/><br/>
+<img src="photos/Embroidery.jpg" alt="Embroidery" width="250" height="300"><br/>
+Image: Ajmar-Wollheim, Marta, and Flora Dennis. <i>At Home in Renaissance Italy</i>
+`,
+			}));
+			//end annotation				
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [17.192, -0.279, 4.912],
+				title: "Pair of Andirons",
+				cameraPosition: [16.965, 4.666, 6.546],
+				cameraTarget: [17.280, -2.013, 4.788],
+				description: `
+An inventory record from the late 15th century indicates that multiple fireplaces decorated the interior space of the Villa Medici. Outfitted with various tools, these fireplaces served both a utile and decorative function for the home. Though common in many Florentine homes because of their practical function, the decorative aspects of these spaces helped to facilitate a niche bronze market and increased interest in ornate and symbolic pieces known as andirons.<br/><br/>
+It is stated that the fireplace was frequently seen as the center point of a room, and the level of adornment and attention to detail in these spaces supported the owner’s wealth and social status. Fireplaces and andirons of this time were rarely purchased from a maker in a pre-designed fashion. Rather, they were custom-made to represent the interests of the user. <br/><br/>
+Andirons are metal supports placed directly in front of the fireplace to support kindling. These pieces vary in size and material; however, most Venetian andirons were made of cast bronze. Typically, these pieces were also artistically sought to be considered a single unit alongside the rest of the fireplace’s design. The andirons represented patterns and symbolic images from antiquity – showing gods and goddesses and mythological beings whose names and likenesses had connections to their family history and values. This pair of andirons, made in Florence, is said to represent a Bacchus and a maenad, both dancing and the Medici coat of arms. In this design the connection to antiquity and classical design throughout Renaissance Florence sculpture is evident. Further, the Medici coat of arms near the base of the sculpture affirms the owner’s interest in the Medici name and high social status. <br/><br/>
+Sources:<br/>
+Ajmar-Wollheim, Marta, and Flora Dennis. <i>At Home in Renaissance Italy</i>. Hardback ed. London:	V & A, 2006. <br/><br/>
+By: Kelsie Westmoreland<br/><br/>
+<img src="photos/Andirons.jpg" alt="Andirons" width="250" height="300"><br/>
+`,
+			}));
+			//end annotation
+	
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [14.245, -1.715, 0.323],
+				title: "Wine Cooler",
+				cameraPosition: [17.421, -2.163, 0.501],
+				cameraTarget: [16.938, -2.110, 0.461],
+				description: `
+Multiple pieces of majolica ceramics are listed in various rooms in the Villa Medici that range from sets of dining plates to two wine coolers. The accumulation of objects in these rooms indicates that they were used as place settings for special occasions and as storage containers for food. The two coolers were listed in the barn, an interesting place for a highly esteemed luxury item of the Renaissance. <br/><br/>
+Majolica is a ceramic style derived from Middle eastern mezza-majolica pottery but differs in glaze type and methods of decoration. The glaze was formed by a tin enamel that originated from ancient Egypt, Babylonia, and Assyria that was eventually brought over to the Western world. <br/><br/>
+The exact method of how Italian artists were exposed to this ceramic is unknown; it is said to have been imported by Islamic merchants from northern African territories to Spain, which were then exported to Italy. From Italy, majolica vessels made their way to Antwerp (along with other Flemish areas) and became staple pieces within the homes of people from all socioeconomic classes. The influx of these ceramics into the lower classes was most likely from the creation of lower quality versions of majolica that was cheaper.<br/><br/>
+The luxury status of majolica ceramics was due to the respect for its artistry and the craftmanship necessary for its creation. In fact, the base clay medium is quite cheap, but the decoration and design of these pieces were crucial to the formation of urban manners and customs during the Renaissance.<br/><br/>
+Sources:<br/>
+Fisher, Caroline Field. “A Historical Survey of Italian Majolica of the Renaissance.” PhD diss. <i>The Ohio State University</i>, 1947. <br/>
+Richardson, Catherine, Hamling, Tara, and Gaimster, David, eds. <i>The Routledge Handbook of Material Culture in Early Modern Europe</i>. Oxford: Taylor & Francis Group, 2016. <br/><br/>
+By: Kylie Therrien<br/><br/>
+<img src="photos/Majolica.jpg" alt="Majolica" width="350" height="300"><br/>
+Wine cooler with A Pageant Battle with Elephants, c. 1562-75, Metropolitan Museum of Art. 
+`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [15.977, -1.131, -0.397],
+				title: "Barrels of Vermillion",
+				cameraPosition: [17.298, -2.390, 0.404],
+				cameraTarget: [16.954, -2.162, 0.301],
+				description: `
+Multiple barrels and half barrels of vermilion were itemized in the vaults of the Villa Medici. Vermilion is a red pigment that comes from the mineral cinnabar and is found in many Italian paintings. Recipes and letters indicate that the pigment was used in Europe as early as the 8th century, but an Alexandrian description of the mixing of a mercury-sulfur compound in the 3rd or 4th century tells us that vermilion might have been in Europe before the medieval period. Its popularity increased dramatically during the Renaissance and fostered the refining of its manufacture. <br/><br/>
+Pigments were a large part of international trade during this time as they were used not only in paint but also in ceramics, cosmetics, jewelry, clothing, and furniture. The making of vermilion during this period is hard to discern due to a lack of a written, uniform process. There are multiple manuscripts out there discussing the creation of vermilion, often using sulfur and mercury, but older recipes discuss a 2:1 ratio of mercury to sulfur while younger recipes discuss a 1:2 ratio. This was often mixed with lead white by painters to craft the European skin tone or with iron oxide to create red ochre. <br/><br/>
+The pigment was popular in the domestic sphere as well. In cosmetics, the red pigment from vermilion was used as a tincture or stain for lips and cheeks of women who sought to mimic a natural blush. It is quite likely that the pigment listed in the inventory of the Villa Medici was intended for use by women.<br/><br/>
+Sources:<br/>
+Hutchinson, Elizabeth. <i>Early American Literature </i>50, no. 2 (2015): 567–71. <br/>
+Klisińska-Kopacz, Anna. "An Investigation of a Unique Group of Painted Silk Banners from a Polish Collection." <i>Journal of Raman Spectroscopy</i> 48, no. 12 (2017): 1725-1731.  <br/>
+Kroustallis, Stefanos, and Rocio Bruquetas. "Paint in red: vermilion manufacture in the Middle Ages." <i>Making and Transforming Art: Technology and Interpretation</i>. Archetype, London (2014): 23-30. <br/><br/>
+By: Kylie Therrien
+`,
+			}));
+			//end annotation			
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [12.862, -15.647, -0.236],
+				title: "Knives with Ivory Handles",
+				cameraPosition: [11.148, -13.538, 0.340],
+				cameraTarget: [13.253, -15.824, -0.177],
+				description: `
+In a room within the entrance hall, the Villa Medici Inventory lists two large knives with ivory handles alongside multiple types of cutlery. Dining utensils may seem unimportant, but they were another way people would display their wealth during the Renaissance. Various materials were used to craft the handles of these knives, affecting their usage. Ivory-handled knives were often used in accordance with Easter due to symbolism of purity within the color of white, while ebony knives were used during Lent, the month leading up to Easter. <br/><br/>
+Inscriptions on the handle of a knife can signify that it was given as a gift to celebrate important milestones. It is unknown if any of these knives within this room had inscriptions, though the variety of knives being accounted for in the inventory demonstrates an importance to these belongings, possibly due to some of them being gifted. <br/><br/>
+This may be a possibility, but decorative knives were popular dining utensils, especially with guests. Ceremonial moments within banquets, such as the carving of the meat, would be completed by a professional server who would use a decorative knife. The performative act of carving publicly would ensure the knife was seen by all of those attending that feast, indicating the sophistication and civility of the family hosting the meal. The use of knives grew with the evolution of societal standards regarding eating with one’s hands and sharing dishes communally, a clear indication of the development of dining sanitization in the early modern period.<br/><br/>
+Sources:<br/>
+Albala, Ken. <i>The Banquet: Dining in the Great Courts of Late Renaissance Europe</i>. Chicago: University of Illinois Press, 2007. <br/>
+Dennis, Flora. "Scattered Knives and Dismembered Song: Cutlery, Music and the Rituals of Dining." <i>Renaissance Studies</i> 24, no. 1 (2010): 156-184. <br/>
+Thomson, Ellen Mazur. "The graphics of carving." <i>Visual Communication</i>, no. 20 (2021): 552-576. <br/><br/>
+By: Kylie Therrien<br/><br/>
+<img src="photos/Knife.jpg" alt="Knife" width="350" height="200"><br/>
+`,
+			}));
+			//end annotation			
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [11.025, -9.273, -1.001],
+				title: "Lorenzo at the Villa Medici",
+				cameraPosition: [-9.029, -9.727, 5.277],
+				cameraTarget: [17.919, -9.596, -1.127],
+				description: `
+Giovanni de’ Medici, second son of Cosimo, has lurked in the shadows of his more prominent older brother, Piero, who inherited his father’s reign in 1464. Although active as a diplomat and well-connected in the courts of Northern Italy, Giovanni’s primary interest appears to have centered on the arts and letters. Giovanni composed poetry himself, sought out other poets, and commissioned tapestries and sculptures for the villa. But Giovanni’s untimely death in 1463 at the age of 42 – without a male heir – triggered a domino effect that caused his rural residence to change hands in rapid succession. Cosimo il Vecchio died the next year in 1464, and the villa passed to his brother Piero. But when Piero died in 1469 the Villa Medici was passed on to Piero’s son and Giovanni’s nephew, Lorenzo il Magnifico, who changed the environment of the residence in important ways.<br/><br/>
+Under Lorenzo’s patronage, the Villa Medici hosted the Accademia Neoplatonica, a humanist intellectual discussion group that based its philosophies on the translated works of Plato. The Academy was led by the scholar Marsilio Ficino, who had been initially hired by Cosimo de Medici to tutor his grandson Lorenzo. The importance of the Accademia Neoplatonica has been debated, as it was only an informal intellectual space that mirrored the more official Platonic Academy formed in the early 1440s by Ficino inside the city (and which was modeled on Plato’s Academy outside the city of Athens). The rural location served as a tranquil and inspiring space, but not necessarily as an early modern thinktank. <br/><br/>
+Other prominent intellectuals were hosted in the Villa. The poet Angelo Poliziano wrote of his time there, emphasizing how important it was to retreat from the city in order to compose his verses. Other writers including Benedetto Varchi and Ugolino Verino visited the Villa in Fiesole. This use of the property continued Giovanni’s intellectual legacy long after his death, even though its function was largely expanded by his more famous nephew. <br/><br/>
+Sources:<br/>
+Fabiani Giannetto, Raffaella. <i>Medici Gardens : From Making to Design</i>. Philadelphia, PA: University of Pennsylvania Press, 2017.  <br/>
+Mazzini, Donata. <i>Villa Medici a Fiesole: Leon Battista Alberti and the prototype of the Renaissance villa</i>. Florence, Italy: Centro Di Publishing, 2004. <br/><br/>
+By: Nora Kuhn
+`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [28.186, -9.069, 2.937],
+				title: "Giovanni de Medici",
+				cameraPosition: [15.970, -9.478, 1.691],
+				cameraTarget: [21.519, -9.620, 0.083],
+				description: `
+Giovanni de Medici was the second son of Cosimo il Vecchio de’ Medici. Giovanni was historically undervalued as a power-player in the family, though his patronage of the Villa Medici was critical to the development of the Renaissance Villa. Though Giovanni maintained strong relationships with prominent political figures, his role is generally overlooked compared to his father Cosimo and brother Piero. <br/><br/>
+Giovanni served as the general director of the Medici bank, which he led for five years before its decline at the hands at the hands of the disinterested Lorenzo il Magnifico: The decline of the Medici Bank can in part be attributed to Giovanni’s early death and the lack of an adequately trained successor. Giovanni also contributed to the Medici family’s political power. He took on a diplomatic role, connecting Florence to other urban strongholds in a period of political unrest. Under the Peace of Lodi in 1454, Giovanni acted as the foreign face of the Medici family. He formed strong diplomatic relationships with Pope Callisto and the Milanese Duke Francesco Sforza, which has been described as a strong personal friendship. <br/><br/>
+Mirroring other diplomatic relationships, Giovanni married Ginevra Alessandri in 1452. This marriage recognized Ginevra’s father, Niccolò Alessandri, for his support during Cosimo de Medici’s exile in 1433. The Villa Medici was commissioned in the wake of this marriage. In addition to supporting the architectural venture in Fiesole, Giovanni also commissioned other artists (including Donatello and Bernardo Rossellino) to decorate his home. Beyond this direct patronage, Giovanni also supplied the Villa Medici with a large collection of books and ancient Greco-Roman art works. His commitment to maintaining an artistically and intellectually rich environment signals his critical role as a patron. <br/><br/>
+Sources:<br/>
+Fabiani Giannetto, Raffaella. <i>Medici Gardens : From Making to Design</i>. Philadelphia, PA: University of Pennsylvania Press, 2017. <br/>
+De Roover, Raymond. <i>The Medici Bank : Its Organization, Management, Operations and Decline</i>. New York University Press, 2018.<br/>
+Mazzini, Donata. <i>Villa Medici a Fiesole: Leon Battista Alberti and the prototype of the Renaissance villa</i>. Florence, Italy: Centro Di Publishing, 2004. <br/><br/>
+By: Nora Kuhn
+`,
+			}));
+			//end annotation	
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [13.281, -4.369, 2.767],
+				title: "Family Life at the Villa Medici",
+				cameraPosition: [-2.961, -5.226, 0.067],
+				cameraTarget: [14.596, -5.318, 4.094],
+				description: `
+Giovanni de Medici was the second son of Cosimo il Vecchio de Medici and his wife Contessina de Bardi. Giovanni’s birth in 1421 was preceded by Piero’s birth in 1416 and followed by Carlo’s illegitimate birth in 1430. Unlike his ambitious older brother, Giovanni’s role as the second son allowed him some degree of freedom in his pursuits. Though Giovanni was engaged in Florence as the general director of the Medici bank, his own interests veered  towards the arts. <br/><br/>
+Giovanni’s role in politics was centered on his relationships with political figures within and beyond Florence. One such figure was Niccolò Alessandri, who supported Giovanni’s father Cosimo during his exile in 1433. To reward Niccolò for his service, Cosimo negotiated to have Giovanni marry Alessandri’s daughter, Ginevra. The two were wed on the January 20th, 1453. In attendance was their one and only child, Cosimo di Giovanni, who had been born the previous year. The boy died in 1461 at the age of nine, leaving his father without an heir. <br/><br/>
+The Villa Medici was commissioned in the wake of this marriage, and Giovanni left his family’s multigenerational home at the Palazzo Medici to relocate his wife and son in Fiesole as soon as it was completed. His father, Cosimo, critiqued its construction, citing the lack of agricultural productivity and the inconvenient location that limited its accessibility from Florence. While Cosimo and Giovanni were conflicted about the villa, the two remained close, as evidenced by Cosimo’s grief after Giovanni’s early death in 1463 at the age of 42.<br/><br/>
+Sources:<br/>
+Mazzini, Donata. <i>Villa Medici a Fiesole: Leon Battista Alberti and the prototype of the Renaissance villa</i>. Florence, Italy: Centro Di Publishing, 2004. <br/>
+Strocchia, Sharon T. “Abbess Piera de’ Medici and Her Kin: Gender, Gifts, and Patronage in Renaissance Florence.” Renaissance Studies 28, no. 5 (2014): 695–713. <br/><br/>
+By: Nora Kuhn
+`,
+			}));
+			//end annotation			
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [8.107, -4.489, 5.501],
+				title: "Attributions to Alberti",
+				cameraPosition: [-18.337, -6.958, 19.437],
+				cameraTarget: [15.641, -5.559, 7.277],
+				description: `
+The attribution of the Villa Medici at Fiesole to a single fifteenth-century architect has been heavily debated. Because of significant alterations in the nineteenth century, it is difficult to determine the original layout of the space. The original attribution of Michelozzo to the Villa Medici is derived from Giorgio Vasari’s book <i>The Lives of Artists</i>, written in the sixteenth century. This attribution is based largely on Michelozzo’s known affiliation with the Medici family at the time of the villa’s construction, and not on any architectural evidence. His full engagement in the construction of the Palazzo Medici at the time of the villa’s completion argues against this participation. <br/><br/>
+Other potential attributions include the identification of Leon Battista Alberti as the villa’s architect. Like Michelozzo, Alberti was closely linked to the Medici family. The two households had been allied in their opposition to the Albizzi faction at the turn of the fifteenth century, and Cosimo made sure to lift the decades’ old exile of Leonbattista’s family when he came to power in 1434. Furthermore, the relationship that Leonbattista maintained with Giovanni de Medici is made clear in a correspondence with the villa’s patron in which Alberti refers to his “ancient friendship” with Giovanni. Other evidence of the attribution includes a sketch by Alberti of the foundation of a domestic space that matches that of the Villa Medici. Alberti’s dedication to symmetry and balance appears throughout the villa. <br/><br/>
+While art historians have attempted to attribute the construction of the Villa Medici to Michelozzo or Alberti, the alteration of the interior proves to be a challenge. The addition of a larger living space, equaling a third of the original property, has obscured the original proportions of the structure. There is no definitive evidence to confirm either attribution. Though both architects would have been capable of constructing the Villa Medici at Fiesole, it is impossible to conclude which attribution is correct. <br/><br/>
+Sources:<br/>
+Bargellini, Clara, and Pierre de la Ruffiniére du Prey. “Sources for a Reconstruction of the Villa Medici, Fiesole.” <i>The Burlington Magazine</i> 111, no. 799 (1969): 597–605. <br/>
+Mazzini, Donata. <i>Villa Medici a Fiesole: Leon Battista Alberti and the prototype of the Renaissance villa</i>. Florence, Italy: Centro Di Publishing, 2004. <br/><br/>
+By: Nora Kuhn
+`,
+			}));
+			//end annotation			
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [29.084, -9.108, -1.019],
+				title: "The Villa Prototype",
+				cameraPosition: [68.263, 24.432, 14.211],
+				cameraTarget: [35.485, -4.304, 4.911],
+				description: `
+While agricultural residences had been constructed outside of Florence for centuries, the Villa Medici signaled a shift in rural architecture. The design of the Villa Medici abandoned previously defensive architecture, instead embracing the openness of the home. Its design of the Villa Medici emphasizes the intermediary space between the heart of the home and the outdoor space. Unlike the loggia that frames an internal courtyard in the Palazzo Medici, the outward-facing loggia connects the home with the outside garden spaces. <br/><br/>
+While the Palazzo Medici and other urban residences did possess gardens, the expanded space of the gardens at the Villa Medici is a primary appeal of rural life. The gardens at the Villa Medici were not agriculturally productive, with the manicured space serving instead as a symbol of leisure. This leisure space diverges from previous conceptions of rural residences like the Roman <i>villa urbana</i>. The <i>villa urbana</i>, like the Palazzo, possessed an internal courtyard shielded from the rest of the property by the living space. The Villa Medici inverts this structure, forgoing the internal courtyard for access to the exterior gardens. Residences like the Villa Medici evolved in the fifteenth century, applying the Renaissance principles of symmetry and harmony with the natural world of the Tuscan landscape. <br/><br/>
+The concept of the villa is reflected in another Medici property, the Villa at Poggio a Caiano. The Villa Medici at Poggio a Caiano was constructed thirty years after the Villa Medici at Fiesole and drew on its design. The villas are constructed with similar proportions and possess an internal living space with loggia that connect to the gardens. Into the sixteenth century, villas with similarly terraced gardens were constructed in Tuscany. These manicured gardens continued to provide access to the landscape, furthering the concept of the intermediary space. The home was connected to large gardens while the gardens expanded upon the surrounding landscape.<br/><br/>
+Sources:<br/>
+Mazzini, Donata. <i>Villa Medici a Fiesole: Leon Battista Alberti and the prototype of the Renaissance villa</i>. Florence, Italy: Centro Di Publishing, 2004. <br/>
+Rossiter, J J. “The Roman Villa Rustica in Italy.” ProQuest Dissertations Publishing, 1977. <br/><br/>
+By: Nora Kuhn
+`,
+			}));
+			//end annotation			
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [-41.780, -3.307, -0.748],
+				title: "Community at Fiesole and the Rural Escape",
+				cameraPosition: [-13.105, 24.808, 15.367],
+				cameraTarget: [-13.129, 24.785, 15.351],
+				description: `
+The Villa Medici at Fiesole served as an escape from urban life for the Medici family. The town of Fiesole is located six miles northeast of the city of Florence in the foothills of the Appenine Mountains. Fiesole was initially founded by the Etruscans but was later conquered by the Romans in the third century BCE, and then by the Florentines in the eleventh century. While exercising power over the city of Florence, the Medici family also exercised power over nearby Fiesole.<br/><br/>
+Despite the isolated nature of the Villa Medici at Fiesole, the family maintained an active intellectual and cultural life on the property. The Medici family supported cultural development in Fiesole through the Convent of San Domenico and the Benedictine abbey at the Cathedral of Saint Romulus of Fiesole. Fra Angelico, a prominent painter, served as a friar in the Convent of San Domenico and would receive the commission from Cosimo to decorate the Convent of San Marco during the 1440s. Cosimo came into contact with Fra Angelico’s student, Benozzo Gozzoli, during this project and then hired him to paint the fresco sequence of the <i>Procession of Magi</i> in the Palazzo Medici’s private chapel. <br/><br/>
+Cosimo also donated the core of a collection of Greek codices to the Benedictine abbey in Fiesole. Cosimo’s sons Piero and Giovanni expanded this collection by seeking out and purchasing rare manuscripts, and hired bookmakers and painters to illuminate new copies of them. After Lorenzo il Magnifico took ownership of the Fiesole property, he also continued to locate and donate codices and texts to the Medici collection. This collection resulted in the formation of the Biblioteca Medicea Laurenziana, located in a cloister in the Medici family’s church San Lorenzo. Medici support of the academic and ecclesiastical communities in Fiesole reflected a commitment to the maintenance of Fiesole as a whole. The placement of the villa at Fiesole allowed the Medici family to continue to engage in intellectual and cultural life outside of the chaotic realm of Florence. <br/><br/>
+Sources:<br/>
+Gerbron, Cyril. “The Story of Fra Angelico: Reflections in Mirrors.” <i>Mitteilungen Des Kunsthistorischen Institutes in Florenz</i> 57, no. 3 (2015): 292–319.<br/>
+“Dictionary of Greek and Roman Geography (1854), FAESULAE,” n.d. <br/>
+“Main Collections”. Biblioteca Medicea Laurenziana. https://www.bmlonline.it/en/la-biblioteca/fondi-principali/. <br/><br/>
+By: Nora Kuhn
+`,
+			}));
+			//end annotation			
+			
+		}
+		{
+            let pageTitle, location, blockName, annotationDetails, cameraPosition, cameraTarget = '';
+            const annoData = [];
+            const url = 'annotationVillaMedici.txt?v=1';
+            fetch(url)
+              .then((res) => res.text())
+              .then((text) => {
+                const sections = text.split(/\\\\+/); // Split based on the line of slashes
+
+                sections.forEach(section => {
+                  const lines = section.split('\n');
+
+                  // Reset variables for each section
+                  pageTitle = location = blockName = annotationDetails = cameraPosition = cameraTarget = '';
+
+                  // Parse each line
+                  lines.forEach(line => {
+                    if (line.startsWith('Page:')) {
+                      pageTitle = line.replace('Page:', '').trim();
+                    } else if (line.startsWith('Location of Annotation:')) {
+                      location = line.replace('Location of Annotation:', '').trim();
+                    } else if (line.startsWith('Camera Location:')) {
+                      cameraPosition = line.replace('Camera Location:', '').trim();
+                    } else if (line.startsWith('Camera Looks Towards:')) {
+                      cameraTarget = line.replace('Camera Looks Towards:', '').trim();
+                    } else if (line.startsWith('Annotation block name:')) {
+                      blockName = line.replace('Annotation block name:', '').trim();
+                    } else if (line.startsWith('Annotation Details:')) {
+                      annotationDetails = line.replace('Annotation Details:', '').trim();
+                    } else {
+                      // If it's not a key line, add to annotation details
+                      if (annotationDetails) {
+                        annotationDetails += `<p>${line.trim()}</p>`;
+                      }
+                    }
+                  });
+                  // Check if we have a valid title and location
+                  if (pageTitle && location) {
+
+                    location = location.split(",").map(value => parseFloat(value.trim()));
+                    cameraPosition = cameraPosition.split(",").map(value => parseFloat(value.trim()));
+                    cameraTarget = cameraTarget.split(",").map(value => parseFloat(value.trim()));
+
+                    const currentUrl = window.location.href;
+
+
+                    // Only process if the current URL matches the page title
+                    if (currentUrl === pageTitle) {
+                      processData(pageTitle, location, cameraPosition, cameraTarget, blockName, annotationDetails);
+                    }
+                  }
+                });
+              })
+              .catch((e) => console.error(e));
+
+            function processData(title) {
+                let autoAnnos = new Potree.Annotation({
+                    position: location,
+                    "cameraPosition": cameraPosition,
+                    "cameraTarget": cameraTarget,
+                    "title": blockName,
+                    "description": annotationDetails,
+                });
+                viewer.scene.annotations.add(autoAnnos);
+				autoAnnos.visible = false;
+            }	
+        }
+		
+		//end annnotation
+		
+		var supportsWheel = false;
+		var annotations =  viewer.scene.getAnnotations(); 
+		if (annotations && annotations.children) {
+			annotations.children.forEach(function(annos) {
+						annos.visible = false;
+			});
+		}
+		const MinDistanceFromPainting = 12;
+		
+		/* The function that will run when the events are triggered. */
+		function HideAnnotations (e) {
+			/* Check whether the wheel event is supported. */
+			if (e.type == "wheel") supportsWheel = true;
+			else if (e.key === 'w' || e.key === 'a' || e.key === 's' || e.key === 'd') supportsWheel =  true;
+			else if (e.key === 'ArrowUp' || e.key === 'ArrowDown' || e.key === 'ArrowLeft' || e.key === 'ArrowRight') supportsWheel =  true;
+			else if (supportsWheel) return;
+				
+	
+			if (annotations && annotations.children) {
+				annotations.children.forEach(function(anno) {
+				anno.visible = false;
+				if (anno.position) {
+					if (anno.title) {
+						if (Math.sqrt(((viewer.scene.getActiveCamera().position.x) - (anno.position.x))**2  +
+									  ((viewer.scene.getActiveCamera().position.y) - (anno.position.y))**2 +
+									  ((viewer.scene.getActiveCamera().position.z) - (anno.position.z))**2) < MinDistanceFromPainting) {
+							anno.visible = true;
+							} 
+						}
+					}
+				});
+			}
+				
+				
+		}
+		/* Add the event listeners for each event. */
+		document.addEventListener('wheel', HideAnnotations);
+		document.addEventListener('keydown', HideAnnotations);
+		document.addEventListener('DOMMouseScroll', HideAnnotations);
+		
+		
+		{//volumes - Define the cutaway volume here
+			let volume = new Potree.BoxVolume();
+			volume.name = "Test Volume";
+			volume.position.set(19.080, 9.195, 2.427);
+			volume.rotation.set(0.039, 0.000, 0.110);
+			volume.scale.set(47.813, 23.092, 32.479);
+			volume.clip = true;
+			volume.visible = false;
+			viewer.scene.addVolume(volume);
+			viewer.setClipTask(Potree.ClipTask.NONE)
+		}
+
+		
+	</script>
+	
+	
+	<script type="module">//button actions below
+
+
+		window.setButton1 = function(){
+			//Put actions for button1 below
+			viewer.setClipTask(Potree.ClipTask.SHOW_OUTSIDE)
+			viewer.scene.view.position.set(4.542, 33.889, 12.965);
+        	viewer.scene.view.lookAt(-3.599, 19.687, 10.798);
+			
+		}
+
+		window.setButton2 = function(){
+			viewer.setClipTask(Potree.ClipTask.SHOW_INSIDE)
+			
+		}
+
+		window.setButton3 = function(){
+			viewer.setClipTask(Potree.ClipTask.NONE)
+			
+		}
+
+	</script>
+	
+	
+	
+  </body>
+</html>

@@ -1,0 +1,809 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+	<title>Palazzo Medici</title>
+
+	<link rel="stylesheet" type="text/css" href="../../build/potree/potree.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jquery-ui/jquery-ui.min.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/openlayers3/ol.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/spectrum/spectrum.css">
+	<link rel="stylesheet" type="text/css" href="../../libs/jstree/themes/mixed/style.css">
+</head>
+
+<body>
+	<script src="../../libs/jquery/jquery-3.1.1.min.js"></script>
+	<script src="../../libs/spectrum/spectrum.js"></script>
+	<script src="../../libs/jquery-ui/jquery-ui.min.js"></script>
+	<script src="../../libs/other/BinaryHeap.js"></script>
+	<script src="../../libs/tween/tween.min.js"></script>
+	<script src="../../libs/d3/d3.js"></script>
+	<script src="../../libs/proj4/proj4.js"></script>
+	<script src="../../libs/openlayers3/ol.js"></script>
+	<script src="../../libs/i18next/i18next.js"></script>
+	<script src="../../libs/jstree/jstree.js"></script>
+	<script src="../../build/potree/potree.js"></script>
+	<script src="../../libs/plasio/js/laslaz.js"></script>
+	
+	<!-- INCLUDE ADDITIONAL DEPENDENCIES HERE -->
+	<!-- INCLUDE SETTINGS HERE -->
+	
+	<div class="potree_container" style="position: absolute; width: 100%; height: 100%; left: 0px; top: 0px; ">
+		<div id="potree_render_area" style="background-image: url('../../build/potree/resources/images/background.jpg');"></div>
+		<div id="potree_sidebar_container"> </div>
+		<span style="position: absolute; bottom: 10px; left: 50%; transform: translateX(-50%); z-index: 10000">
+				<input type="button" value="Show Inside" onclick="setButton1()"/>
+				<input type="button" value="Show Outside" onclick="setButton2()"/>
+				<input type="button" value="Clip None" onclick="setButton3()"/>
+			</span>
+	</div>
+	
+
+	<script>
+	
+		window.viewer = new Potree.Viewer(document.getElementById("potree_render_area"));
+
+		viewer.useHQ = true; 
+		viewer.setEDLEnabled(false);
+		viewer.setFOV(60);
+		viewer.setPointBudget(6 * 1000 * 1000);
+        viewer.loadSettingsFromURL();
+        viewer.scene.view.position.set(-29.011, 10.126, 0.111);
+        viewer.scene.view.lookAt(3.386, 9.287, 5.373);
+
+		<!-- INCLUDE SETTINGS HERE -->
+		viewer.loadSettingsFromURL();
+		
+		viewer.setDescription("");
+		viewer.scene.camera;
+		viewer.setDescription("Point cloud by <a target='_blank' href='https://florenceasitwas.wlu.edu/'>Florence As It Was</a>");
+		viewer.loadGUI(() => {
+			viewer.setLanguage('en');
+			$("#menu_appearance").next().show();
+			$("#menu_tools").next().show();
+			$("#menu_clipping").next().show();
+			viewer.toggleSidebar();
+		});
+		
+		
+
+		Potree.loadPointCloud("../../pointclouds/PalazzoMedici/Palazzo_Medici_converted/metadata.json", "Palazzo Pointcloud", e => {
+			let scene = viewer.scene;
+			let pointcloud = e.pointcloud;
+
+            scene.addPointCloud(pointcloud);
+			let material = pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+			material.shape = Potree.PointShape.SQUARE;
+			material.activeAttributeName = "rgba";
+           
+        
+			//viewer.fitToScreen();
+		});
+
+		Potree.loadPointCloud("../../pointclouds/PalazzoMediciChapel/metadata.json", "Palazzo Chapel", e => {
+			let scene = viewer.scene;
+			let pointcloud = e.pointcloud;
+
+            scene.addPointCloud(pointcloud);
+			let material = pointcloud.material;
+			material.size = 1;
+			material.pointSizeType = Potree.PointSizeType.ADAPTIVE;
+			material.shape = Potree.PointShape.SQUARE;
+			material.activeAttributeName = "rgba";
+           
+        
+			//viewer.fitToScreen();
+		});
+		
+		
+		{ // ANNOTATIONS
+			let scene = viewer.scene;
+
+			
+			//start annotation			
+			scene.annotations.add(new Potree.Annotation({
+				position: [1.508, 7.057, 2.609],
+				title: "Iconographic Elements of the Palazzo Medici Courtyard",//text between quotes is the annotation title
+				cameraPosition: [-4.002, 8.072, 0.053],//this is where the viewer will be directed when annotation is clicked
+				cameraTarget: [0.776, 7.262, -0.072],
+				//Below is the text for the annotation.
+				description: `The courtyard of the Palazzo Medici has been described as “ceremonial in function and
+symbolic in form,” because of its attention to aesthetics and symmetry, as well as the statues and
+antiquities that were visible both in the space and from the street outside.
+<p> Unlike older <i>palazzi</i>, the Palazzo Medici’s pillars in the center of the courtyard stand
+equidistant in width and share the same height. Various antiquities surround the four-by-four
+square along the interior courtyard wall. Because of the placement of the pillars, one must circle
+the antiquities and the interior of the courtyard by walking in the squared corridor that encloses
+it. The architectural organization of the room adds to the prestige of the antiquities that Lorenzo
+il Magnifico de’ Medici often “used to impress the visitors [of] Florence,” by employing the
+intentional layout of the performative space. </p>
+<p>Additionally, the pillars frame the space in a way that allowed the original centerpiece,
+Donatello’s <i>David</i>, to be seen from the street through the open loggias of the ground floor by
+anyone passing by the palace on the Via Larga. The feminine, pre-pubescent rendition of David
+suggested that the Medici family were the underdog conquerors of the domestic and
+international tyrants. Looking beyond the centerpiece and the pillar square, the structure
+naturally leads onlookers to view the garden which hosted the symbolic <i>Judith and Holofernes</i>
+statue in which the Jewish heroine saves her people by decapitating a Philistine general. The
+intentionality of having <i>David</i> and <i>Judith and Holofernes </i>in succession from the courtyard to the
+garden clearly symbolized the political power and prestige of the Medici family, decorated both
+neatly and intentionally. </p>
+<p>In all, the use of symmetry in the courtyard allowed for these sculptures to be seen by the
+public in a way that stood out as symbolic and public statements.</p>
+Bibliography: <br>
+Ames-Lewis, Francis. “Donatello’s Bronze David and the Palazzo Medici Courtyard.”
+<i>Renaissance Studies</i>, vol. 3, no. 3, 1989, pp. 235–51. <br>
+Stapleford, Richard. “Lorenzo de’Medici at Home: The Inventory of the Palazzo Medici in
+1492.” <i>Pennsylvania State University Press</i>, 2013 pp. 6-58. <br> <br>Mads Kwasnik`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [7.685, 6.782, 3.344],
+				title: "Donatello's Bronze David",
+				cameraPosition: [4.969, 7.072, 1.733],
+				cameraTarget: [42.460, 1.427, 6.061],
+				description: `David was a symbol of Florentine liberty and a civic hero in Florence. David’s
+story in the Old Testament was relatable because he, as one young man, was able to
+win against tyranny which parallels Florence’s history as a solitary republic fighting
+against tyrants. David, as an adolescent shepherd, killed the giant Goliath with a
+slingshot at the beginning of a battle which resulted in his Jewish army winning victory
+over their Philistines rival. He was elevated to hero status in the Old Testament and
+statues of him have been created to memorialize him. One such statue is the 159 cm
+bronze free-standing nude statue of David. It was produced by Donatello during the
+lifetime of Cosimo de’ Medici, a banker and later a de factor ruler of Florence.
+<p>
+The exact completion date of the bronze statue of David is still unknown but it is
+estimated that it was created between the years of 1420 and 1460, probably sometime
+after Cosimo’s returned from exile in 1434. A 1469 inventory of Palazzo Medici
+mentions the bronze statue of David being located in the center of its courtyard where,
+in June 1469, Lorenzo de' Medici’s (Cosimo’s brother) wedding to Clarice Orsini
+occurred. Since at least 1469, the bronze statue of David has remained in that courtyard
+until 1495 when it was transferred to the courtyard of the Palazzo Vecchio. It is thought
+that Cosimo de' Medici was the one who commissioned for the statue’s construction but
+it is still unknown who actually commissioned for the statue's construction.</p>
+<p>Bronze was a feature of civic spaces in Florence despite bronze being an
+expensive material at the time. So, Cosimo, as a businessman, chose bronze for his
+statue of David to encourage new customers and debtors into his palace to conduct
+business and politics. He did this by strategically placing the bronze statue of David in
+such a way that it was visible when the main entry to his palace was open to visitors,
+making David a Medici emblem instead of just a Florentine emblem.</p>
+Bibliography:<br>
+Schneider, Laurie. “Donatello’s Bronze David.” <i>The Art Bulletin</i>, vol. 55, no. 2, 1973, pp.
+213–16.<br>
+Sperling, Christine M. “Donatello’s Bronze ‘David’ and the Demands of Medici Politics.”
+<i>The Burlington Magazine</i>, vol. 134, no. 1069, 1992, pp. 218–24.
+<br>
+<br>
+Lynda Moran`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [-12.3, -6.093, 8],
+				title: "The Medici Chapel",
+				cameraPosition: [-11.948, -3.757, 6.819],
+				cameraTarget: [-12.289, -6.711, 7.678],
+				description: `The most magnificent room in the Palazzo, the family’s private devotional chapel 
+on the <i>piano nobile</i> stood as a testament to Medicean piety and power. Unique in its placement 
+inside a residence, the chapel was used daily for private devotions that centered around the performance 
+of the Mass that could be accessed by family members, guests of the household, tutors, secretaries, and 
+other assistants of the home. But it also doubled as a spectacular space in which the family could receive 
+important visitors.
+<p>Tucked into the very core of the structure, the square chapel could be accessed through 
+one of two entrances: One was through the main doors that connected the courtyard to the space, while the 
+other cut through a wall leading to a private <i>camera</i> used only by the family. Upon entrance visitors 
+were struck by both the simplicity of the squared area and the opulence of its decorations. The floor of the 
+chapel shares the theme of colorful geometric shapes through the mosaic pattern made from the expensive 
+materials of marble, porphyry, and granite. The expansive walls of the chapel were frescoed during the 
+second half of 1459 by Benozzo Gozzoli, whose continuous painting of the <i>Procession of the Magi</i> wraps 
+all the way around the room. This image, in turn, connects to the painting of the <i>Adoration of Christ</i> 
+that Fra Filippo Lippi completed in 1458 for the altar in the rectangular chamber of the chapel.</p>
+<p>As the focal point of the chapel and the center of all worship, the altarpiece was likely the first artwork produced for or in the chapel. 
+The altarpiece depicts the Virgin kneeling in prayer before the Child in the midst of a Tuscan landscape, with a 
+young John the Baptist standing to the side and the medieval writer St. Bernard praying in the upper left. 
+The frame features fluted pilasters on each side topped with elaborate golden composite capitals that meet an 
+entablature adorned with geometric shapes made out of inlaid wood and painted with a multitude of bright 
+reds, blues, greens, and whites. Gold accents are found at the edges of the floral and shell depictions within these 
+geometric shapes.</p>
+<p>Gozzoli’s frescoes of the Magi create a logical connection to the imagery of the altarpiece, as royal devotees make their 
+way across the chapel’s walls toward the Virgin and Child in Lippi’s painting. Art historians agree that the entourage of 
+the youngest Magus includes the Medicean heads of the family at that time, including Cosimo riding a mule and Piero and 
+Lorenzo on horseback. The colorful palette and elaborate procession in the midst of a bucolic mountainous landscape gives 
+the frescoes a jovial quality.</p> 
+<p>Special visitors of the Medici appreciated the magnificent decoration and recognizes the family’s power, thus making it the 
+ideal room to receive guests and conduct discussions. Most of the information on the uses of the chapel outside of religious 
+devotion comes from letters written by the Count of Pavia, Galeazzo Maria Sforza, on the occasion of his visit in the 
+Spring of 1459. Sforza recounts that, towards the end of his life, Cosimo was so ridden with gout that he seldom left 
+the <i>piano nobile</i> and, as a result, spent most of his time in the chapel. Sforza then notes that he was not the 
+only one received by Cosimo that day, as the patrician met with more visitors who came to seek his favor and earn his love. 
+But even mundane events, like the signing of contracts and legal agreements, were performed in front of the altar to invoke 
+the approval of the Virgin Mary.</p> 
+<p>Thus, the chapel served two purposes: one for private devotion and the second as a venue in which to conduct private 
+business and engage in diplomatic affairs. In both senses, the chapel’s opulence suited the needs of the family, 
+which sought to impress visitors with its magnificence and demonstrate to God the degree to which they were willing 
+to illustrate their piety. The palazzo served to intimidate visitors with its magnificence, but it was the chapel 
+that reminded them of the piety behind the power.</p>
+Bibliography:<br>
+Beatrice Strozzi, “The Adoration of the Child by the Workshop of Filippo Lippi,” in <i>The Chapel of the Magi</i>, 29-38.<br>
+Hyman, Isabelle. "Notes and Speculations on S. Lorenzo, Palazzo Medici, and an Urban Project by Brunelleschi." <i>Journal of 
+the Society of Architectural Historians</i> 34, no. 2 (1975): 98-120. doi:10.2307/988997.<br>
+Kent, <i>Cosimo de’Medici and the Florentine Renaissance</i>, 305-28.<br>
+Rab Hatfield, “Cosimo de’Medici and the Chapel of his Palace,” in Ames-Lewis, <i>Cosimo ‘il Vecchio’ de’Medici 1389-1464</i>, 221-44.<br><br>
+William Roff 	  `,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [-26.062, -28.408, 19.665],
+				title: "The Extension of the Palazzo Medici",
+				cameraPosition: [-41.588, -28.216, 22.114],
+				cameraTarget: [-12.813, -28.766, 6.310],
+				description: `The Riccardi family purchased the Palazzo Medici in 1659 and added an extension to the facade.
+This extension emulated the style of the original palace, which was built two hundred years
+prior. The extension changed the structure of the building from a square to a rectangle, adding
+two extra portals to the original three along one side of the building. The extension also wraps
+around the previously unobstructed sculpture garden which was attached to the courtyard
+opposite the androne, the grand entrance to the building.
+<p>The addition both added and detracted from the original design of the palazzo. It physically
+enlarged the palace, extending it by about a third and adding significantly more rooms to the
+structure. However, the extra space weakens the focus of the once-centered androne by throwing
+off the symmetry. This creates a new unoriginal feel for observers along the street. The sculpture
+garden also became much more enclosed due to this change, transforming the space from an
+open-air garden to a seemingly enclosed courtyard.</p>
+<p>Stylistically, the facade of the extension mostly echoes the style of the original fifteenth- century
+construction. The rustication of the stone along the ground floor and <i>piano nobile</i> was continued.
+Additionally, the arches and windows appear very similar to the designs of the original features
+of the facade. There are still clues that show the extension to be distinct from the rest of the
+palace. The Medici coat of arms, carved into the facade of the original palace, does not appear in
+the extension. In fact, the new facade bears no unoriginal features. Two hundred extra years of
+wear and weathering further separate the original building and the facade.</p>
+Bibliography:<br>
+Elam, Caroline, “Lorenzo de' Medici's Sculpture Garden,” <i>Mitteilungen des Kunsthistorischen
+Institutes in Florenz</i>, 36 (1992), pp. 41-84.<br>
+Millen, Ronald and Wolf, Robert “Palazzo Medici into Palazzo Riccardi: The Extension of the
+Façade along via Larga,” <i>Mitteilungen des Kunsthistorischen Institutes in Florenz</i>, 31 (1987),
+pp. 81-120.<br><br>
+Nathan Stortz`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [-9.939, -7.017, 11],
+				title: "The Procession of the Magi",
+				cameraPosition: [-12.969, -6.622, 9.740],
+				cameraTarget: [0.203, -8.340, 10.506],
+				description: `Piero de’ Medici, the son of Cosimo, commissioned Benozzo Gozzoli in 1458 to paint
+frescoes in the family chapel of the Palazzo Medici. Gozzoli’s fresco depicts the <i> Procession of
+the Magi</i>, the biblical event in which three wise men journeyed to the lavish gifts on the Christ
+child.
+<p>The fresco is vast, covering three out of four of the walls of the chapel. The fresco begins
+along the east wall with the most famous of the three frescos, and then on to the south and west
+walls.</p>
+<p>Gozzoli’s style was largely Byzantine: the oldest Magi, atop a mule along the west wall,
+bears resemblance to the Byzantine Emperors of the day. Additionally, Gozzoli’s emphasis was
+often secular in nature, as he appeared to stress the worldly and consumerist trends of the
+wealthy in Florence. This is the case with the <i>Procession</i>, as it gives a materialistic look to a
+traditional story, glorifying the Medici in a way entirely separate from the original religious
+material by representing them in the procession as Kings and atop horses adorned with jewels
+and fine clothing. Gozzoli’s painting drastically alters the traditional biblical representation of
+the story, adding riches and grandeur of a contemporary autocrat to the ancient legend. This
+should come as no surprise, for Piero, unlike his paranoid father, often displayed the immense
+family wealth at least semi-publicly.</p>
+<p><i>The Procession of the Magi</i> appears to showcase more than the established biblical
+information, including numerous portraits of contemporary figures. Almost thirty of the
+numerous portraits in the fresco have been identified. Gozzoli included the majority of the
+Medici family along the east wall They were depicted in the image as a part of the procession, on
+their way to visit the hypothetical Christ in the manger. Cosimo, Piero, and even Giovanni has all
+been identified, as well as Carlo, Cosimo’s illegitimate son.</p>
+<p><i>The Procession of the Magi</i> is an incredibly complex and intricate fresco, incorporating
+elements of Medici wealth and influence into a conventional and established biblical story of the
+three wise men.</p>
+Bibliography:<br>
+Francis, Henry S. “A Fifteenth-Century Drawing Close to the Style of Benozzo Gozzoli.” <i>The
+Bulletin of the Cleveland Museum of Art</i>, vol. 24, no. 8, 1937, pp. 123–25. <br>
+Testa, Judith. An Art Lover’s Guide to Florence. Cornell University Press, 2012. <br>
+Cristina Acidini Luchinat, et al. <i>The Chapel of the Magi : Benozzo Gozzoli’s Frescoes in the
+Palazzo Medici-Riccardi Florence</i>. Thames And Hudson, Cop, 1994.<br><br>
+Kallie Tompkins`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [-15.091, -7, 11],
+				title: "The Medici Procession of the Magi and the Strozzi Adoration",
+				cameraPosition: [-11.711, -5.913, 10.114],
+				cameraTarget: [-40.719, -2.194, 9.079],
+				description: `When Palla Strozzi commissioned Gentile da Fabriano to paint the <i>Adoration of the Magi</i>
+in 1423, di Bicci, the family patriarch, was retiring, leaving his sons to run the family banking
+business. Cosimo de’ Medici, a man of great political ambition, would soon become engulfed in
+a searing rivalry for Florentine power with his nemesis, Rinaldo Albizzi, and his partner, Palla
+Strozzi, the richest man in Florence.
+<p>When Onofrio Strozzi, father of Palla Strozzi, died in 1418, he was laid to rest in the
+sacristy of Santa Trinita, the parish church in the Strozzi neighborhood. When Giovanni di Bicci,
+died in 1429, he was buried in the sacristy of San Lorenzo, the Medici family church. Onofrio’s
+burial place appears to have inspire Giovanni, as sacristies were becoming a popular location for
+burial among the elite.</p>
+<p>The Strozzi family rivaled the Medici family in both wealth and power, until 1434, when
+Cosimo returned from exile and expelled them and their allies. Their feud brewed during the
+decades leading up to the exile, with both families trying to outperform the other, especially in
+the realm of cultural importance and political power.</p>
+<p>Located in their respective family burial chapels, Gozzoli’s <i>Procession</i> appears to bear a
+significant debt to Gentile’s <i>Adoration</i>, painted twenty years prior. This connection is not
+without cause, due to the competitiveness of Cosimo, and the fact that he often attempted to
+emulate the Strozzi family. The <i>Adoration</i> matches the scene on the west wall of the Gozzoli’s
+fresco, and the background of the two paintings depict both a castle and a continuation of the
+procession itself. Additionally, the exotic animals that fill the space of <i>The Procession</i> are
+remnant of Fabriano’s earlier rendition, specifically the leopards, cheetahs, and monkeys.</p>
+<p><i>The Procession of the Magi</i> and <i>Adoration of the Magi</i>, while clearly not carbon copies of
+one another, depict the same scene in similar styles, <i>The Adoration</i> appearing to inspire the
+commission and production of <i>The Procession</i>.</p>
+Bibliography:<br>
+Cristina Acidini Luchinat, et al. <i>The Chapel of the Magi : Benozzo Gozzoli’s Frescoes in the
+Palazzo Medici-Riccardi Florence</i>. Thames And Hudson, Cop, 1994.<br>
+Ahl, Diane Cole. <i>Benozzo Gozzoli</i> (Yale University Press, 1996).<br><br>
+Kallie Tompkins`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [-12.960, -11.326, 9.070],
+				title: "The Dual Function of the Magi Chapel",
+				cameraPosition: [-12.569, -8.423, 8.452],
+				cameraTarget: [-13.362, -13.101, 8.592],
+				description: `The Magi Chapel, completed in 1459, is a domestic chapel tucked away on the <i>piano
+nobile</i> (main floor) of the Palazzo Medici, the principal residence of the Medici family. The
+Magi Chapel had a unique singular function: a dedicated worship space. This is in contradiction
+to other Palazzos where the private worship spaces primarily doubled as workshops or other
+functional spaces. In some Florentine palaces, a sacral painting or religious icon would be placed
+somewhere in the home to be utilized as a “chapel.”
+<p>An altar sat on the north wall of the Magi Chapel, ready for a mass to be held. The
+Medici owned portable altars for worship, insinuating the duality of the space. The Papal
+authority found issue with the concept of a “portable altar” because its mobility allowed the
+possibility of an unsupervised sacral space.</p>
+<p>Regarding the art within the chapel Gozzoli’s <i>Procession</i> and Lippi’s altarpiece both
+serve as overt examples of wealth and influence, given the status of the two artists in
+contemporary Florence. From this, it can be inferred that the space was semi-private, guests of
+the Medici were permitted into the Magi Chapel during their visits.</p>
+<p>While the chapel was used for individual and familial religious use, it can also be explained in
+the secular sphere. Cosimo de’ Medici is rumored to have met with Galeazzo Maria Sforza, the
+Duke of Milan, in the family chapel in 1459. While the chapel was a place of reflection and
+introspection, the Medici also received special official guests in the space, demonstrating that the
+Magi Chapel’s function was multifaceted; it entertained both religious and political means.</p>
+<p>Domestic chapels served as more than private and sacred religious spaces. They were
+also most likely locations for small meetings or gatherings between the Medici and their
+respected guests. Very little scholarship has been written regarding the duality of domestic
+chapels in the fifteenth century, but it can be inferred that they were not used for a single
+purpose, especially in the world of Medici Florence.</p>
+Bibliography:<br>
+Mattox, Philip. “Domestic Sacral Space in the Florentine Renaissance Palace.” <i>Renaissance
+Studies</i>, vol. 20, no. 5, 2006, pp. 658–73. <br>
+Beltramo, Silvia, et al. <i>A Renaissance Architecture of Power : Princely Palaces in the Italian
+Quattrocento</i>. Brill, Cop, 2015.<br>
+Davisson, Darrell. “MAGIAN ‘ARS MEDICA’, LITURGICAL DEVICES, AND EASTERN
+INFLUENCES IN THE MEDICI PALACE CHAPEL.” <i>Studies in Iconography</i>, vol. 22, 2001,
+pp. 111–62. <br><br>
+Kallie Tompkins`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [-12.065, -3.751, 10.843],
+				title: "Biography of Benozzo Gozzoli: From Florence to Fresco",
+				cameraPosition: [-12.491, -9.120, 7.976],
+				cameraTarget: [-12.016, -5.475, 8.556],
+				description: `In the fifteenth century, Benozzo Gozzoli emerged as a prominent narrative artist, earning
+commissions from important patrons. A native Florentine, Gozzoli’s date of birth remains
+disputed, ranging from 1420 to 1424. Little has been revealed concerning Gozzoli’s early life,
+and his education and professional training remaining unknown to modern scholars. Growing up
+in Florence in the 1430s, Gozzoli found himself in close proximity to the forces of innovation in
+the early Renaissance, with artists like Brunelleschi and Lippi in the pinnacles of their careers.
+It’s no wonder that Gozzoli, surrounded by incredible cultural advancement, became the
+apprentice of Fra Angelico, an early Renaissance painter and close constituent of Cosimo de’
+Medici.
+<p>For almost ten years, Gozzoli and Angelico worked closely on commissions to create
+frescos, manuscripts, and panel paintings throughout Florence. One major project revolved
+around mural paintings that the two artists executed in the Dominican convent of S. Marco at the
+behest of Cosimo de’ Medici, who seems to have come into contact with Gozzoli at this time.
+The two painters forged a successful partnership. But in the 1450s, after Angelico’s departure for
+Rome, they parted ways. Benozzo moved on to the city-states Umbria and Lazio, where he
+established his reputation as an individual fresco painter. But in 1459, Gozzoli returned to his
+homeland of Florence, where Piero di Cosimo quickly engaged his services to decorate the new
+palace.</p>
+<p>Upon his arrival, Gozzoli immediately became swept up in the world of Medici
+patronage, and by July 1459, he had already begun his fresco cycle in the Palazzo’s Chapel. The
+full process took three years, reaching its completion in 1461. Gozzoli’s work with the Medici
+led him to incredible success, both monetarily and with his future commissions.</p>
+<p>Benozzo Gozzoli wound up incredibly lucky in one key regard: he resided in Florence at
+the height of Medici power. Gozzoli first enjoyed the patronage of Cosimo de’ Medici in S.
+Marco during the decade of the 1440s. Then later, when Gozzoli returned to his homeland, he
+came into the circle of Piero Medici. Gozzoli remained close with the Medici family, and played
+a key part in depicting their sphere of influence through his work on <i>The Procession of the
+Magi</i>.</p>
+Bibliography:<br>
+Ahl, Diane Cole. <i>Benozzo Gozzoli</i> (Yale University Press, 1996).<br>
+Christiansen, Keith. “Early Renaissance Narrative Painting in Italy.” <i>The Metropolitan Museum
+of Art Bulletin</i>, vol. 41, no. 2, 1983, pp. 1–48.<br><br>
+Kallie Tompkins`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [25.093, 5.361, 0.220],
+				title: "Judith and Holofernes as a Symbol of Medici Power",
+				cameraPosition: [25.324, 7.078, -0.214],
+				cameraTarget: [24.986, 4.362, -0.332],
+				description: `By 1469, both Donatello’s <i>David</i> and his <i>Judith and Holofernes</i> were situated in the
+public courtyard of the Palazzo Medici, in close proximity to one another. Donatello’s <i>David</i>,
+more widely discussed as a metaphor for Florentine military victory, faces an equally important
+artwork. <i>Judith and Holofernes</i>, also commissioned by the Medici family in the 1450s, expressed
+the Medici hope to impart Judith’s moral high ground to the people of Florence and align
+themselves with her virtue and humility.
+<p>Donatello’s <i>Judith</i> features an inscription on the base of the sculpture noting threats both
+foreign and domestic, insinuating the idea that Florence will always defeat their enemies. This
+likely relates to the Medici feud with the Albizzi, another prominent Florentine family. In 1434,
+Cosimo exiled Rinaldo Albizzi. The Albizzi turned to the Visconti family and their Milanese
+troops, betraying the Florentine people, becoming a symbol of pride and hubris, detested among
+the Florentine.</p>
+<p>Cosimo Medici commissioned <i>Judith</i> twenty years later, inserting himself as the hero in
+this classical story. He is <i>Judith</i>, the humble heroine who loved her people. In contrast, Albizzi is
+<i>Holofernes</i>, the prideful and self-important general defeated by Judith.</p>
+<p>Secondly, Donatello did not depict Judith holding the head of Holofernes, as she often
+appears. Instead, he opted to show her mid-strike, as she delivers her second or third lash to his
+neck. The choice to depict Judith in the midst of violence seems reminiscent of classical
+sculptures of Roman tyrannicides. In ancient Rome, tyrannicides were celebrated and were often
+subjects of contemporary sculpture. Here, the Medici seem to be replicating this classical subject
+matter to align themselves with the Roman emperors or other powerful people within classical
+antiquity. Placed in the courtyard, <i>Judith and Holofernes</i> was designed to promote the Medici by
+reminding the public sphere that the family were “protectors of liberty.”</p>
+<p>The Medici commissioned <i>Judith and Holofernes</i> to serve as a somewhat subtle
+representation of their nuanced generosity and control within Florence. The sculpture represents
+a reminder of their victory over the Albizzi, as well as a historical symbol of their likeness to the
+ancient Romans. The highly visible sculpture of the righteous <i>Judith</i> would have been viewed by
+many, and would have eventually become synonymous with Medici virtue.</p>
+Bibliography:<br>
+Crum, Roger J. “Severing the Neck of Pride: Donatello’s ‘Judith and Holofernes’ and the
+Recollection of Albizzi Shame in Medicean Florence.” <i>Artibus et Historiae</i>, vol. 22, no. 44,
+2001, pp. 23–29. <br>
+McHam, Sarah Blake. “Donatello’s Bronze ‘David’ and ‘Judith’ as Metaphors of Medici Rule in
+Florence.” <i>The Art Bulletin</i> 83, no. 1 (2001) pp. 32–47.<br><br>
+Kallie Tompkins`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [25.093, 3, 0.220],
+				title: "Judith and Holofernes: The Inscription",
+				cameraPosition: [25.145, 5.019, -0.300],
+				cameraTarget: [19.963, -52.900, -1.462],
+				description: `<p style="text-align: center;"><i>Kingdoms fall through luxury [sin], cities rise through virtues. Behold the neck of pride severed
+by the hand of humility.</i></p>
+<p>With this overt inscription etched into the base of Donatello’s <i>Judith and Holofernes</i>,
+Donatello provides a clear reminder of the virtue of Judith and its alignment to Florence as a city.
+Florence, never a stranger to both internal and external conflict, was often perceived as an
+underdog due to its limited military and flourishing art scene. Like in the way of Judith,
+Donatello reminds the city to “rise through [it’s] virtues.”</p>
+<p>While referencing “luxury” as a vice may seem superficial coming from inside the
+Medici courtyard, it could be seen as a valiant attempt by Cosimo to rid the family of their
+stereotype of grandeur and affluence. The Medici wanted to be perceived as patrons of Florence,
+supportive and benevolent figures who utilized their surplus wealth for good in the community.
+Donatello and the Medici wished to make it clear to the Florentine people that the Medici were
+not the enemy. They were not synonymous with luxury: instead, they were akin to Judith’s
+virtue. The Medici commission of the <i>Judith</i> aligned Florence with the “<i>cities that rise through
+virtues</i>.”</p>
+<p>The second sentence remarks “<i>Behold the neck of pride</i>.” If the viewer looks at the
+sculpture from the side, an open view of Holofernes’ neck is visible, completely at the mercy of
+Judith’s next blow. The “<i>neck of pride</i>,” Holofernes, is being presented to not only
+Judith, but to the people of Florence as well. The hand of humility unmistakably references
+Judith, with her hand grasping the sickle above Holofernes’ head, shamelessly in the midst of the
+killing.</p>
+<p>The story of Judith and Holofernes remains a simple one. The humble defeat the prideful.
+Judith defeats Holofernes. The Medici defeat their enemies. Florence prevails.</p>
+Bibliography:<br>
+Crum, Roger J. “Severing the Neck of Pride: Donatello’s ‘Judith and Holofernes’ and the
+Recollection of Albizzi Shame in Medicean Florence.” <i>Artibus et Historiae</i>, vol. 22, no. 44,
+2001, pp. 23–29.<br>
+McHam, Sarah Blake. “Donatello’s Bronze ‘David’ and ‘Judith’ as Metaphors of Medici Rule in
+Florence.” <i>The Art Bulletin</i> 83, no. 1 (2001) pp. 32–47.<br><br>
+Kallie Tompkins`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [-18.694, -23.839, 8.113],
+				title: "Archive Item 1",
+				cameraPosition: [-19.152, -27.311, 7.236],
+				cameraTarget: [-18.571, -22.987, 7.028],
+				description: `<p style="text-align: center;"><b>Purple and Crimson Satin Lucco, Bedchamber of Lorenzo ‘il Magnifico’</b></p>
+<p>Of the items in the Palazzo Medici, clothes and dressmaking materials accounted for roughly 5%
+of the total value of the inventory. Florence was known for its elaborate textiles, and clothes were a
+central facet of Florentine life. Three of the six major guilds in Florence were centered on textiles (wool,
+silk, and garment production) and held significant connections with prominent international trading
+partners such as Constantinople and England.</p>
+<p>The materiality and color of clothes often reflected the status of the wearer. For example, more
+lavish materials such as satin and silk suggested the extent of one’s wealth and power, whereas linen and
+simple wool garments might tell a different tale.</p>
+<p>As evident from the inventories of the Palazzo Medici, the Medici family had an extensive
+wardrobe. Their clothes were made of expensive materials and elaborate colors consistent with their
+wealth and power.</p>
+<p>However, the Medici would often wear more humble clothes when they were in the public eye
+and in many of their portraits. These ideas were combined in Giorgio Vasari’s portrait of Lorenzo ‘il
+Magnifico, which displays Lorenzo in unassuming outer garments but with extravagant fur lining on the
+sleeves. By selectively choosing what types of clothes the Medici family wore, they were able to promote
+their status when it would benefit them most while also maintaining their humility.</p>
+<p>This was true even in death. Cosimo de’ Medici was buried in extravagant outer garments of
+crimson satin and velvet, but with modest undergarments of linen cloth. Dress was viewed as an
+appendage of one's civic role and responsibilities, so the choice to bury Cosimo in these garments
+emphasized his political and social power, but also his inherent role as a citizen of Florence.</p>
+Bibliography:<br>
+Ackerman, James S. “On Early Renaissance Color Theory and Practice.” <i>Memoirs of the American
+Academy in Rome</i>, vol. 35, 1980, pp. 11–44.<br>
+Currie, Elizabeth. “Clothing and a Florentine Style, 1550–1620.” <i>Renaissance Studies</i>, vol. 23, no. 1,
+2009, pp. 33–52. <br>
+Epstein, S. R. “Town and Country: Economy and Institutions in Late Medieval Italy.” <i>The Economic
+History Review</i>, vol. 46, no. 3, 1993, pp. 453–77.<br><br>
+Marcella Mercer`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [-12.995, -23.305, 8.282],
+				title: "Archive Item 2",
+				cameraPosition: [-13.361, -27.324, 7.200],
+				cameraTarget: [-11.618, -14.352, 6.576],
+				description: `<div style="overflow:scroll ; height:650px">
+<p style="text-align: center;"><b>Jasper wine cooler worth 2,000 florins and located in Lorenzo’s study</b></p>
+<div style="text-align: center;">
+<img src="Archive Items/jasperwinecooler.png" width="231" height="328" style="text-align: center;"></div>
+<p>Lorenzo ‘il Magnifico’ de’ Medici had an extensive
+collection of precious hardstone vessels made from expensive
+materials such as agate, jasper, and sardonyx. The vastness and
+grandeur of Lorenzo’s collection is evident from analyzing the
+Palazzo Medici inventory and from the reactions of guests who
+were privileged to see the vessels. Frederico da Montefeltro
+called it a “truly royal collection” and Bernardo Rucellai
+commented on its “royal splendor.”</p>
+<p>Vessels like these were not just used as dishware but also as status symbols. Wealthy Florentines
+could have afforded elegant silver dishware, but bejeweled cups and precious hardstone vessels would
+have been reserved for the royal class. To demonstrate his possession of these objects, Lorenzo had more
+than a third of these vessels engraved with his initials suggesting his pride in the vessels.</p>
+<p>The Medici collection was so expansive that it accounted for 27% of the total value of the
+Palazzo’s inventory, which was estimated to have been worth 79,618 florins (the modern equivalent of
+roughly $200,000,000). The specific jasper wine cooler itemized in the inventory of 1492 was valued at
+2,000 florins.</p>
+<p>Interestingly, Lorenzo kept this jasper wine cooler with the rest of his collection in his study
+which few people would have visited compared to the rest of the house. Generally only prominent visitors
+of Florence would have been shown these pieces: the Medici were often concerned that the opulence of
+their surroundings might instill envy and outrage in the city, and they were careful about who got to see
+their collections. Indeed, for public events, the Medici would use silver and silver gilt dishware instead of
+hardstone vessels to downplay their elevated status in the Republic.</p>
+<p>The selective use of their possessions reflects the balancing act the Medici played between being
+a part of the citizen class and their unofficial title as <i>signori</i> of Florence. They flaunted their princely
+power and wealth to foreign potentates and political rivals when they felt their collections might earn
+them the respect they craved, but they also emphasized their humility when engaging with fellow
+Florentines, whose envy they feared.</p>
+Bibliography:<br>
+Helfenstein, Eva. “Lorenzo de’ Medici’s Magnificent Cups: Precious Vessels as Status Symbols in
+Fifteenth-Century Europe” <i>I Tatti Studies in the Italian Renaissance</i>, vol. 16, no. 1/2, 2013, pp. 415–44.<br>
+Stapleford, Richard. <i>Lorenzo de’ Medici at Home: The Inventory of the Palazzo Medici in 1492</i>. The
+Pennsylvania State University Press, 2013<br><br>
+Marcella Mercer
+</div>`,
+			}));
+			//end annotation
+			
+			//start annotation
+			scene.annotations.add(new Potree.Annotation({
+				position: [-9.68, -23.305, 8.282],
+				title: "Archive Item 3",
+				cameraPosition: [-10.040, -27.771, 7.200],
+				cameraTarget: [-8.297, -14.799, 6.576],
+				description: `<p style="text-align: center;"><b><i>The Ark</i> Cameo valued at 2,000 florins and located in Lorenzo’s study</b></p>
+<p>Ancient Roman cameos (carved stones that feature raised relief image) were among the most
+sought after works of collectable art in 15th-century Italy. This Renaissance period was marked by the
+renewed interest in antiquities, and wealthy nobles with a love for the classical past and the financial
+means to acquire these rare pieces had extensive collections of them. Due to their exquisite craftsmanship
+and historical significance, cameos were given as diplomatic gifts to those with power. The Medici cameo
+collection was generational, but Lorenzo the Magnificent was the most devoted to growing the collection.
+Executed at the time of his death, the 1492 inventory of the Palazzo Medici indicates that the family’s
+collection of cameos and carved stones accounts for 19% of the total value of the items in the palace.</p>
+<p>Cameos were crafted from semi-precious stones like agate, onyx, and sardonyx. The most
+valuable cameo in Lorenzo’s collection was called <i>The Ark</i> and depicted women, men, and animals
+leaving Noah’s Ark. The cameo was so prized by Lorenzo that he had his initials engraved on the doors of
+the ark. The concept of marking Lorenzo’s art as his own with his initials is common in many of the
+pieces he owned.</p>
+<p>Cameos were unique from larger art works in the Medici collection in that to be truly admired
+they had to be examined from a close proximity. Since Lorenzo’s collection was concentrated in his
+study, only select individuals would have been able to view his cherished pieces. Having the power to
+choose who saw the precious cameos allowed Lorenzo to exploit his wealth only when advantageous to
+him to leverage political or business decisions.</p>
+Bibliography:<br>
+Helfenstein, Eva. “Lorenzo de’ Medici’s Magnificent Cups: Precious Vessels as Status Symbols in
+Fifteenth-Century Europe.” <i>I Tatti Studies in the Italian Renaissance</i>, vol. 16, no. 1/2, 2013, pp. 415–44.<br>
+McCrory, Martha. “The Symbolism of Stones: Engraved Gems at the Medici Grand-Ducal Court (1537-
+1609).” <i>Studies in the History of Art</i>, vol. 54, 1997, pp. 158–79.<br>
+Spier, Jeffery. “A Cameo From the Medici Collection.” <i>Antike Kunst</i>, vol. 57, 2014, pp. 67–77.<br>
+Stapleford, Richard. <i>Lorenzo de’ Medici at Home: The Inventory of the Palazzo Medici in 1492</i>. The
+Pennsylvania State University Press, 2013.<br><br>
+Marcella Mercer
+`,
+			}));
+			//end annotation
+		}
+		
+		
+		{
+            let pageTitle, location, blockName, annotationDetails, cameraPosition, cameraTarget = '';
+            const annoData = [];
+            const url = 'annotationPalazzoMedici.txt?v=1';
+            fetch(url)
+              .then((res) => res.text())
+              .then((text) => {
+                const sections = text.split(/\\\\+/); // Split based on the line of slashes
+
+                sections.forEach(section => {
+                  const lines = section.split('\n');
+
+                  // Reset variables for each section
+                  pageTitle = location = blockName = annotationDetails = cameraPosition = cameraTarget = '';
+
+                  // Parse each line
+                  lines.forEach(line => {
+                    if (line.startsWith('Page:')) {
+                      pageTitle = line.replace('Page:', '').trim();
+                    } else if (line.startsWith('Location of Annotation:')) {
+                      location = line.replace('Location of Annotation:', '').trim();
+                    } else if (line.startsWith('Camera Location:')) {
+                      cameraPosition = line.replace('Camera Location:', '').trim();
+                    } else if (line.startsWith('Camera Looks Towards:')) {
+                      cameraTarget = line.replace('Camera Looks Towards:', '').trim();
+                    } else if (line.startsWith('Annotation block name:')) {
+                      blockName = line.replace('Annotation block name:', '').trim();
+                    } else if (line.startsWith('Annotation Details:')) {
+                      annotationDetails = line.replace('Annotation Details:', '').trim();
+                    } else {
+                      // If it's not a key line, add to annotation details
+                      if (annotationDetails) {
+                        annotationDetails += `<p>${line.trim()}</p>`;
+                      }
+                    }
+                  });
+                  // Check if we have a valid title and location
+                  if (pageTitle && location) {
+
+                    location = location.split(",").map(value => parseFloat(value.trim()));
+                    cameraPosition = cameraPosition.split(",").map(value => parseFloat(value.trim()));
+                    cameraTarget = cameraTarget.split(",").map(value => parseFloat(value.trim()));
+
+                    const currentUrl = window.location.href;
+
+
+                    // Only process if the current URL matches the page title
+                    if (currentUrl === pageTitle) {
+                      processData(pageTitle, location, cameraPosition, cameraTarget, blockName, annotationDetails);
+                    }
+                  }
+                });
+              })
+              .catch((e) => console.error(e));
+
+            function processData(title) {
+                let autoAnnos = new Potree.Annotation({
+                    position: location,
+                    "cameraPosition": cameraPosition,
+                    "cameraTarget": cameraTarget,
+                    "title": blockName,
+                    "description": annotationDetails,
+                });
+                viewer.scene.annotations.add(autoAnnos);
+				autoAnnos.visible = false;
+            }	
+        }
+		
+		//end annnotation
+		
+		var supportsWheel = false;
+		var annotations =  viewer.scene.getAnnotations(); 
+		if (annotations && annotations.children) {
+			annotations.children.forEach(function(annos) {
+						annos.visible = false;
+			});
+		}
+		const MinDistanceFromPainting = 12;
+		
+		/* The function that will run when the events are triggered. */
+		function HideAnnotations (e) {
+			/* Check whether the wheel event is supported. */
+			if (e.type == "wheel") supportsWheel = true;
+			else if (e.key === 'w' || e.key === 'a' || e.key === 's' || e.key === 'd') supportsWheel =  true;
+			else if (e.key === 'ArrowUp' || e.key === 'ArrowDown' || e.key === 'ArrowLeft' || e.key === 'ArrowRight') supportsWheel =  true;
+			else if (supportsWheel) return;
+				
+	
+			if (annotations && annotations.children) {
+				annotations.children.forEach(function(anno) {
+				anno.visible = false;
+				if (anno.position) {
+					if (anno.title) {
+						if (Math.sqrt(((viewer.scene.getActiveCamera().position.x) - (anno.position.x))**2  +
+									  ((viewer.scene.getActiveCamera().position.y) - (anno.position.y))**2 +
+									  ((viewer.scene.getActiveCamera().position.z) - (anno.position.z))**2) < MinDistanceFromPainting) {
+							anno.visible = true;
+							} 
+						}
+					}
+				});
+			}
+				
+				
+		}
+		/* Add the event listeners for each event. */
+		document.addEventListener('wheel', HideAnnotations);
+		document.addEventListener('keydown', HideAnnotations);
+		document.addEventListener('DOMMouseScroll', HideAnnotations);
+		
+		
+		
+		
+		
+		{//volumes - Define the cutaway volume here
+			let volume = new Potree.BoxVolume();
+			volume.name = "Test Volume";
+			volume.position.set(-20.912, 28.855, 9.643);
+			volume.rotation.set(0.000, 0.000, 0.000);
+			volume.scale.set(54.595, 41.315, 33.382);
+			volume.clip = true;
+			volume.visible = false;
+			viewer.scene.addVolume(volume);
+			viewer.setClipTask(Potree.ClipTask.NONE)
+		}
+		
+		viewer.scene.annotations.add(aAbout1);
+		//end annnotation
+		
+		
+	</script>
+	
+	
+	<script type="module">//button actions below
+
+
+		window.setButton1 = function(){
+			//Put actions for button1 below
+			viewer.setClipTask(Potree.ClipTask.SHOW_OUTSIDE)
+			viewer.scene.view.position.set(4.542, 33.889, 12.965);
+        	viewer.scene.view.lookAt(-3.599, 19.687, 10.798);
+			
+		}
+
+		window.setButton2 = function(){
+			viewer.setClipTask(Potree.ClipTask.SHOW_INSIDE)
+			
+		}
+
+		window.setButton3 = function(){
+			viewer.setClipTask(Potree.ClipTask.NONE)
+			
+		}
+
+	</script>
+	
+	
+	
+  </body>
+</html>
