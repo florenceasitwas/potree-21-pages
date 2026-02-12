@@ -1,4 +1,5 @@
 @echo off
+setlocal enabledelayedexpansion
 echo ================================================
 echo Deploying to live web server...
 echo ================================================
@@ -55,26 +56,77 @@ if %ERRORLEVEL% NEQ 0 (
 echo ✓ Synced with GitHub
 echo.
 
-echo Source: %SOURCE%
-echo Destination: %DEST%
-echo.
-echo Deploying files...
-echo.
+REM Get current commit hash
+for /f %%i in ('git rev-parse HEAD') do set CURRENT_COMMIT=%%i
 
-REM Use robocopy to mirror files, excluding .git and other dev files
-robocopy "%SOURCE%" "%DEST%" /MIR /XD .git .vs node_modules .vscode /XF .gitignore deploy.bat deploy-preview.bat deploy.ps1 *.md /NFL /NDL /NJH /NJS
-
-if %ERRORLEVEL% LEQ 3 (
+REM Check for last deployed commit marker
+set MARKER_FILE=%DEST%\.last-deploy
+set LAST_COMMIT=
+if exist "%MARKER_FILE%" (
+    for /f %%i in ('type "%MARKER_FILE%"') do set LAST_COMMIT=%%i
+    echo Last deployment: !LAST_COMMIT!
+    echo Current commit:  %CURRENT_COMMIT%
     echo.
-    echo ================================================
-    echo Deployment completed successfully!
-    echo Deployed files that are synced with GitHub
-    echo ================================================
-) else (
-    echo.
-    echo ================================================
-    echo Deployment failed with error code: %ERRORLEVEL%
-    echo ================================================
 )
+
+if "!LAST_COMMIT!"=="" (
+    echo WARNING: No deployment marker found.
+    echo This appears to be the first deployment with this system.
+    echo.
+    echo Choose deployment mode:
+    echo 1. Smart deploy - Only copy files changed in last commit
+    echo 2. Full sync - Mirror all files (slower, updates all timestamps)
+    echo.
+    choice /C 12 /N /M "Enter choice (1 or 2): "
+    if !ERRORLEVEL!==2 (
+        echo.
+        echo Performing FULL SYNC...
+        echo.
+        robocopy "%SOURCE%" "%DEST%" /MIR /XD .git .vs node_modules .vscode /XF .gitignore deploy.bat deploy-preview.bat deploy.ps1 *.md
+        goto :mark_deployed
+    )
+    REM For smart deploy on first run, use last commit only
+    set LAST_COMMIT=HEAD~1
+)
+
+echo Analyzing changed files since last deployment...
+echo.
+
+REM Get list of changed files
+set CHANGED_COUNT=0
+for /f "delims=" %%f in ('git diff --name-only !LAST_COMMIT! %CURRENT_COMMIT%') do (
+    set "FILE=%%f"
+    REM Skip excluded files
+    echo !FILE! | findstr /i "\.gitignore deploy.bat deploy-preview.bat deploy.ps1 \.md$" >nul
+    if !ERRORLEVEL! NEQ 0 (
+        echo Copying: !FILE!
+        REM Create directory structure if needed
+        for %%d in ("!FILE!") do set "DIR=%%~dpd"
+        if not "!DIR!"=="." (
+            if not exist "%DEST%\!DIR!" mkdir "%DEST%\!DIR!"
+        )
+        REM Copy the file
+        copy /Y "%SOURCE%\!FILE!" "%DEST%\!FILE!" >nul
+        set /a CHANGED_COUNT+=1
+    )
+)
+
+:mark_deployed
+echo.
+if %CHANGED_COUNT% GTR 0 (
+    echo ✓ Deployed %CHANGED_COUNT% changed file(s)
+) else (
+    echo ✓ No files needed to be updated
+)
+
+REM Update deployment marker
+echo %CURRENT_COMMIT%> "%MARKER_FILE%"
+echo ✓ Updated deployment marker
+
+echo.
+echo ================================================
+echo Deployment completed successfully!
+echo Deployed commit: %CURRENT_COMMIT%
+echo ================================================
 
 pause
