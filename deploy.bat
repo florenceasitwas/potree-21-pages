@@ -20,7 +20,7 @@ echo.
 REM Check for uncommitted changes
 git diff --quiet
 if %ERRORLEVEL% NEQ 0 (
-    echo ERROR: You have uncommitted changes!
+    echo ERROR: You have uncommitted changes
     echo Please commit your changes before deploying.
     echo.
     git status --short
@@ -32,7 +32,7 @@ if %ERRORLEVEL% NEQ 0 (
 REM Check for unpushed commits
 for /f %%i in ('git rev-list @{u}..HEAD 2^>nul ^| C:\Windows\System32\find.exe /c /v ""') do set UNPUSHED=%%i
 if %UNPUSHED% GTR 0 (
-    echo ERROR: You have %UNPUSHED% unpushed commit(s)!
+    echo ERROR: You have %UNPUSHED% unpushed commit(s^)
     echo Please push to GitHub before deploying.
     echo.
     git log @{u}..HEAD --oneline
@@ -115,9 +115,9 @@ for /f "delims=" %%f in ('git diff --name-only !LAST_COMMIT! %CURRENT_COMMIT%') 
 :mark_deployed
 echo.
 if %CHANGED_COUNT% GTR 0 (
-    echo ✓ Deployed %CHANGED_COUNT% changed file(s)
+    echo Deployed %CHANGED_COUNT% changed file(s^)
 ) else (
-    echo ✓ No files needed to be updated
+    echo No files needed to be updated
 )
 
 REM Update deployment marker
