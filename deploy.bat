@@ -78,7 +78,8 @@ if "!LAST_COMMIT!"=="" (
     echo 2. Full sync - Mirror all files (slower, updates all timestamps)
     echo.
     choice /C 12 /N /M "Enter choice (1 or 2): "
-    if !ERRORLEVEL!==2 (
+    set CHOICE_RESULT=!ERRORLEVEL!
+    if !CHOICE_RESULT!==2 (
         echo.
         echo Performing FULL SYNC...
         echo.
