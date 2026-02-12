@@ -30,7 +30,7 @@ if %ERRORLEVEL% NEQ 0 (
 )
 
 REM Check for unpushed commits
-for /f %%i in ('git rev-list @{u}..HEAD 2^>nul ^| find /c /v ""') do set UNPUSHED=%%i
+for /f %%i in ('git rev-list @{u}..HEAD 2^>nul ^| C:\Windows\System32\find.exe /c /v ""') do set UNPUSHED=%%i
 if %UNPUSHED% GTR 0 (
     echo ERROR: You have %UNPUSHED% unpushed commit(s)!
     echo Please push to GitHub before deploying.
