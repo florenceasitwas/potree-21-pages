@@ -97,6 +97,8 @@ REM Get list of changed files
 set CHANGED_COUNT=0
 for /f "delims=" %%f in ('git diff --name-only !LAST_COMMIT! %CURRENT_COMMIT%') do (
     set "FILE=%%f"
+    REM Convert forward slashes to backslashes for Windows
+    set "FILE=!FILE:/=\!"
     REM Skip excluded files
     echo !FILE! | findstr /i "\.gitignore deploy.bat deploy-preview.bat deploy.ps1 \.md$" >nul
     if !ERRORLEVEL! NEQ 0 (
@@ -107,8 +109,12 @@ for /f "delims=" %%f in ('git diff --name-only !LAST_COMMIT! %CURRENT_COMMIT%') 
             if not exist "%DEST%\!DIR!" mkdir "%DEST%\!DIR!"
         )
         REM Copy the file
-        copy /Y "%SOURCE%\!FILE!" "%DEST%\!FILE!" >nul
-        set /a CHANGED_COUNT+=1
+        copy /Y "%SOURCE%\!FILE!" "%DEST%\!FILE!"
+        if !ERRORLEVEL! EQU 0 (
+            set /a CHANGED_COUNT+=1
+        ) else (
+            echo ERROR: Failed to copy !FILE!
+        )
     )
 )
 
